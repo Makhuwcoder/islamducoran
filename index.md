@@ -5,7 +5,6 @@ description: "Le Coran lu par lui-même, en arabe classique — Sans tafsīr · 
 permalink: /
 ---
 
-<!-- ── HERO ── -->
 <header class="site-header">
   <div class="site-header__bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</div>
   <h1 class="site-header__title">L'Islam du Coran</h1>
@@ -21,7 +20,6 @@ permalink: /
 
 <main class="site-main">
 
-  <!-- ── VERSET D'ACCUEIL ── -->
   <div class="home-verset">
     <span class="home-verset__ref">Sourate Al-Furqān · 25:30</span>
     <div class="home-verset__arabe" dir="rtl">
@@ -33,7 +31,6 @@ permalink: /
     </div>
   </div>
 
-  <!-- ── PRÉSENTATION ── -->
   <section style="margin: 3rem 0;">
     <div class="declaration">
       <span class="declaration__label">Ce qu'est islamducoran.fr</span>
@@ -42,9 +39,8 @@ permalink: /
     </div>
   </section>
 
-  <!-- ── LES 4 PILIERS ── -->
   <section>
-    <div style="font-family:var(--font-titre);font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);opacity:.65;margin-bottom:1rem">Les quatre piliers de la méthode</div>
+    <span class="section-label">Les quatre piliers de la méthode</span>
     <div class="pilliers-grid">
       <div class="pillier-card">
         <span class="pillier-card__num">١</span>
@@ -54,7 +50,7 @@ permalink: /
       <div class="pillier-card">
         <span class="pillier-card__num">٢</span>
         <div class="pillier-card__titre">La racine arabe</div>
-        <p class="pillier-card__texte">Chaque mot est analysé à partir de sa racine triconsonantique et de son champ sémantique.</p>
+        <p class="pillier-card__texte">Chaque mot est analysé à partir de sa racine triconsonantique et de son champ sémantique classique.</p>
       </div>
       <div class="pillier-card">
         <span class="pillier-card__num">٣</span>
@@ -69,9 +65,8 @@ permalink: /
     </div>
   </section>
 
-  <!-- ── ACCÈS RAPIDE ── -->
   <section style="margin-top:3.5rem">
-    <div style="font-family:var(--font-titre);font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);opacity:.65;margin-bottom:1.2rem">Accès direct</div>
+    <span class="section-label">Accès direct</span>
     <div class="etudes-grid">
 
       <a class="etude-card" href="{{ '/etudes/' | relative_url }}">
@@ -108,11 +103,10 @@ permalink: /
     </div>
   </section>
 
-  <!-- ── ÉTUDES RÉCENTES ── -->
   {% assign recent = site.etudes | sort: 'date' | reverse | limit: 6 %}
   {% if recent.size > 0 %}
   <section style="margin-top:3.5rem">
-    <div style="font-family:var(--font-titre);font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);opacity:.65;margin-bottom:1.2rem">Études récentes</div>
+    <span class="section-label">Études récentes</span>
     <div class="etudes-grid">
       {% for etude in recent %}
       <a class="etude-card" href="{{ etude.url | relative_url }}">
