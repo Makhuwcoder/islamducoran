@@ -10,7 +10,6 @@ highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
-  syntax_highlighter: rouge
 
 # Plugins
 plugins:
@@ -22,7 +21,7 @@ plugins:
 collections:
   etudes:
     output: true
-    permalink: /etudes/:categories/:name/
+    permalink: /etudes/:name/
 
 # Defaults
 defaults:
@@ -31,11 +30,6 @@ defaults:
       type: "etudes"
     values:
       layout: "etude"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
 
 # Exclude
 exclude:
@@ -47,9 +41,6 @@ exclude:
 
 # SEO
 author: "islamducoran.fr"
-twitter:
-  username: islamducoran
-logo: /assets/img/logo.png
 
 # Navigation principale
 nav_items:
@@ -65,3 +56,4 @@ nav_items:
     url: "/recherche/"
   - title: "Barāʾa"
     url: "/baraaa/"
+
