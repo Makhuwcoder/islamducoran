@@ -1,125 +1,151 @@
 ---
 layout: etude
-title: "La shafāʿa dans le Coran — الشَّفَاعَة"
-subtitle: "Étude lexicale et corpus exhaustif — Ce que le texte dit, et ce qu'il ne dit pas"
+title: "La shafāʿa dans le Coran الشَّفَاعَة"
+subtitle: "Étude lexicale et corpus exhaustif — ce que le texte dit, et ce qu'il ne dit pas"
 categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ش-ف-ع"
 racine_ar: "الشَّفَاعَة"
-date: 2024-04-12
-description: "Corpus exhaustif des 22 occurrences de la racine sh-f-ʿ. Trois catégories : shafāʿa niée absolument (Cat. I), conditionnée par idhn et riḍā (Cat. II), revendiquée sans autorisation et réfutée (Cat. III). Verset-clé S39:44 : la shafāʿa appartient entièrement à Allaah."
+date: 2024-06-15
+description: "Corpus exhaustif des occurrences de shafāʿa dans le Coran. Trois catégories : niée absolument, conditionnée par idhn et riḍā, revendiquée sans autorisation. Verset-clé : qul li-llāhi sh-shafāʿatu jamīʿā (39:44)."
 ---
 
-## I · Lexicologie — Racine ش-ف-ع
+## I · Lexicologie — la racine ش–ف–ع
+
+La traduction quasi-universelle par « intercession » charge le terme d'une sémantique théologique latine et chrétienne étrangère à la racine arabe. L'examen des trois sources révèle un sens primitif radicalement différent.
 
 {% include nl.html racine="ش · ف · ع" contenu="
-**Al-Khalīl (*Kitāb al-ʿAyn*)** :
+**Al-Khalīl · *Kitāb al-ʿAyn*** : *Al-shafʿ* : le pair, l'égal, ce qui va avec un autre pour former un couple. Antonyme de *al-witr* — l'impair, le seul, le sans-pair. *Shafaʿa* : joindre une chose à une autre pour la rendre paire, se joindre à quelqu'un pour être avec lui. **La *shafāʿa* est l'acte de se rendre pair avec, de se joindre à, d'être auprès de.**
 
-*Al-shafʿ* : le pair, l'égal, ce qui va avec un autre pour former un couple. Antonyme de *al-witr* — l'impair, le seul, le sans-pair. *Shafaʿa* : joindre une chose à une autre pour la rendre paire, se joindre à quelqu'un pour être avec lui. **La *shafāʿa* est l'acte de se rendre pair avec, de se joindre à, d'être auprès de.**
+**Ibn Fāris · *Maqāyīs al-Lugha*** : *Al-izdiwāj wa-l-muqārana* — l'appariement, le fait d'aller par paire, la mise en couple. La racine ne contient pas d'idée de plaidoirie, de défense, d'argumentation ou de libération. **Al-shāfiʿ est celui qui se joint — non celui qui plaide.**
 
-**Ibn Fāris (*Maqāyīs*)** :
-
-*Al-izdiwāj wa-l-muqārana* — l'appariement, le fait d'aller par paire, la mise en couple. La racine ne contient pas d'idée de plaidoirie, de défense, d'argumentation ou de libération. Elle dit une structure relationnelle : deux qui deviennent pair. ***Al-shāfiʿ* est celui qui se joint — non celui qui plaide.**
-
-**Ibn Manẓūr (*Lisān al-ʿArab*)** :
-
-*Shafaʿa lahu* : se joindre à lui, être avec lui, soutenir sa cause par sa présence. La dimension normative ou juridique est absente du sens premier — elle est une extension sémantique tardive. Ibn Manẓūr note que le Coran emploie *shafāʿa* dans un registre de souveraineté exclusive — *li-llāhi sh-shafāʿatu jamīʿā* (39:44) — et que toute *shafāʿa* sans *idhn* est nulle.
+**Ibn Manẓūr · *Lisān al-ʿArab*** : *Shafaʿa lahu* : se joindre à lui, être avec lui, soutenir sa cause par sa présence. Ibn Manẓūr note que le Coran emploie *shafāʿa* dans un registre de souveraineté exclusive — *li-llāhi sh-shafāʿatu jamīʿā* (39:44). **La dimension normative ou juridique est absente du sens premier — elle est une extension sémantique tardive.**
 " %}
 
-{% include callout.html type="dit" label="Ce que le sens primitif impose à la lecture" content="La *shafāʿa* dit une jonction, une présence auprès de — **non un plaidoyer, non une extraction, non une libération.** La traduction quasi-universelle par « intercession » charge le terme d'une sémantique théologique latine et chrétienne étrangère à la racine arabe." %}
+**Formes coraniques :** *shafāʿa* (nom verbal) · *shāfiʿ / shāfiʿīn* (celui/ceux qui se joignent) · *shufaʿāʾ* (pluriel : ceux qu'on prend comme partenaires de jonction) · *yashfaʿu / yashfaʿūna* (verbe : se joint / se joignent).
 
 ---
 
 ## II · Corpus exhaustif — Trois catégories
 
-| Réf. | Extrait | Catégorie |
-|---|---|---|
-| 2:48, 2:123 | *wa-lā yuqbalu minhā shafāʿatun* | **Cat. I — niée absolument** |
-| 2:254 | *lā bayʿun fīhi wa-lā khullatun wa-lā shafāʿatun* | Cat. I |
-| 6:51, 6:70 | *laysa lahum min dūnihi waliyyun wa-lā shafīʿun* | Cat. I |
-| 26:100 | *fa-mā lanā min shāfiʿīn* | Cat. I |
-| 32:4 | *mā lakum min dūnihi min waliyyin wa-lā shafīʿin* | Cat. I |
-| 36:23 | *lā tughnī ʿannī shafāʿatuhum shayʾan* | Cat. I |
-| 40:18 | *mā li-ẓ-ẓālimīna min ḥamīmin wa-lā shafīʿin yuṭāʿ* | Cat. I |
-| 74:48 | *fa-mā tanfaʿuhum shafāʿatu sh-shāfiʿīn* | Cat. I |
-| 2:255 | *man dhā lladhī yashfaʿu ʿindahu illā bi-idhnihi* | **Cat. II — conditionnée** |
-| 10:3 | *mā min shafīʿin illā min baʿdi idhnih* | Cat. II |
-| 20:109 | *illā man adhina lahu r-raḥmānu wa-raḍiya lahu qawlā* | Cat. II |
-| 21:28 | *wa-lā yashfaʿūna illā li-mani rtaḍā* | Cat. II |
-| 34:23 | *wa-lā tanfaʿu sh-shafāʿatu ʿindahu illā li-man adhina lah* | Cat. II |
-| 53:26 | *illā min baʿdi an yadhana llāhu li-man yashāʾu wa-yarḍā* | Cat. II |
-| 6:94 | *wa-mā narā maʿakum shufaʿāʾakumu lladhīna zaʿamtum* | **Cat. III — revendiquée et réfutée** |
-| 7:53 | *fa-hal lanā min shufaʿāʾa fa-yashfaʿū lanā* | Cat. III |
-| 10:18 | *wa-yaqūlūna hāʾulāʾi shufaʿāʾunā ʿinda llāhi* | Cat. III |
-| 39:43–44 | *am ittakhadhū min dūni llāhi shufaʿāʾa … qul li-llāhi sh-shafāʿatu jamīʿā* | Cat. III → **Verset-clé** |
+Trois catégories se dégagent de l'examen du corpus :
+
+| Catégorie | Définition |
+|---|---|
+| **Cat. I** | La *shafāʿa* niée absolument, sans condition |
+| **Cat. II** | La *shafāʿa* conditionnée par l'*idhn* et/ou le *riḍā* |
+| **Cat. III** | La *shafāʿa* revendiquée sans autorisation et réfutée |
+
+**Cat. I :** 2:48 · 2:123 · 2:254 · 6:51 · 6:70 · 26:100 · 32:4 · 36:23 · 40:18 · 74:48
+
+**Cat. II :** 2:255 · 10:3 · 20:109 · 21:28 · 34:23 · 43:86 · 53:26
+
+**Cat. III :** 6:94 · 7:53 · 10:18 · 39:43–44
+
+{% include callout.html type="pivot" label="La clé de lecture — S.39:44" content="*Qul li-llāhi sh-shafāʿatu jamīʿā* — **Dis : la shafāʿa appartient entièrement à Allaah.** Ce verset est la clé qui articule les trois catégories. Il ne dit pas que la *shafāʿa* n'existe pas. Il ne dit pas qu'elle est libre. **Il dit qu'elle appartient entièrement à Allaah** — sans remainder, sans partie qui échapperait à Sa souveraineté." %}
 
 ---
 
 ## III · La shafāʿa niée absolument — Catégorie I
 
-{% include verset.html ref="Sourate 2 · Al-Baqara · v. 48" ar="وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ" trl="*Wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan — **wa-lā yuqbalu minhā shafāʿatun** — wa-lā yuʾkhadhu minhā ʿadlun*" trad="Prémunissez-vous d'un jour où nulle âme ne suppléera une autre en rien — **et nulle *shafāʿa* ne sera acceptée d'elle** — et aucune compensation ne sera prise d'elle." %}
+{% include verset.html ref="Sourate 2 · Al-Baqara · v. 48" ar="وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ" trl="*Wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan — **wa-lā yuqbalu minhā shafāʿatun** — wa-lā yuʾkhadhu minhā ʿadlun — wa-lā hum yunṣarūn*" trad="Prémunissez-vous d'un jour où nulle âme ne suppléera une autre en rien — **et nulle *shafāʿa* ne sera acceptée d'elle** — et aucune compensation ne sera prise d'elle — et ils ne seront pas secourus." %}
 
-{% include verset.html ref="Sourate 74 · Al-Muddaththir · v. 48" ar="فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ" trl="*Fa-mā tanfaʿuhum **shafāʿatu sh-shāfiʿīn***" trad="La ***shafāʿa* de ceux qui se joignent** (*shāfiʿīn*) ne leur profitera pas." %}
+{% include verset.html ref="Sourate 40 · Ghāfir · v. 18" ar="مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ" trl="*Mā li-ẓ-ẓālimīna min ḥamīmin wa-lā **shafīʿin yuṭāʿ***" trad="Les ẓālimūn n'auront ni proche ni ***shāfiʿ*** dont la jonction soit suivie d'effet." %}
 
-{% include callout.html type="dit" label="Note sur S74:48 — La nuance" content="Ce verset admet l'existence de *shāfiʿīn* (ceux qui se joignent) — il ne nie pas qu'ils existent — mais affirme que leur *shafāʿa* ne profitera pas à *ces gens-là*. **La question n'est donc pas l'existence de la *shafāʿa* ni l'existence de ceux qui la font — la question est : à qui profite-t-elle ?**" %}
+{% include nl.html contenu="***Shafīʿin yuṭāʿ*** (40:18) : Ce verset ne dit pas qu'il n'y a pas de *shāfiʿ* — il dit qu'il n'y a pas de *shāfiʿ yuṭāʿ* — de joncteur à qui il serait obéi. Le texte laisse ouverte la possibilité qu'un *shāfiʿ* existe, mais sa *shafāʿa* ne sera pas suivie d'effet pour les ẓālimūn." %}
 
-{% include verset.html ref="Sourate 40 · Ghāfir · v. 18" ar="مَا لِلظَّالِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ" trl="*Mā li-ẓ-ẓālimīna min ḥamīmin wa-lā **shafīʿin yuṭāʿ***" trad="Les *ẓālimūn* n'auront ni proche ni ***shāfiʿ* dont la jonction soit suivie d'effet** (*yuṭāʿ*)." %}
+{% include verset.html ref="Sourate 74 · Al-Muddaththir · v. 48" ar="فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ" trl="*Fa-mā tanfaʿuhum **shafāʿatu sh-shāfiʿīn***" trad="**La *shafāʿa* de ceux qui se joignent** ne leur profitera pas." %}
 
----
-
-## IV · Le verset-clé — S39:44
-
-{% include verset.html ref="Sourate 39 · Al-Zumar · v. 43–44" ar="أَمِ اتَّخَذُوا مِن دُونِ اللَّهِ شُفَعَاءَ ۚ قُلْ أَوَلَوْ كَانُوا لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ ۝ قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا" trl="*Am ittakhadhū min dūni llāhi **shufaʿāʾa** — qul a-wa-law kānū lā yamlikūna shayʾan wa-lā yaʿqilūn — **qul li-llāhi sh-shafāʿatu jamīʿā***" trad="Ont-ils pris en dehors d'Allaah des ***shufaʿāʾ*** ? — Dis : « Et même s'ils ne possèdent rien et ne raisonnent pas ? » — **Dis : « La *shafāʿa* appartient entièrement à Allaah. »**" %}
-
-{% include callout.html type="pivot" label="La clé de lecture de l'ensemble du corpus" content="Ce verset ne dit pas que la *shafāʿa* n'existe pas. Il ne dit pas qu'elle est libre. **Il dit : elle appartient entièrement à Allaah — *jamīʿā* : dans sa totalité, sans remainder, sans partie qui échapperait à Sa souveraineté.** Ce verset explique pourquoi les trois catégories coexistent sans contradiction : la *shafāʿa* niée (Cat. I) — c'est qu'Allaah ne la dispense pas pour ces cas. La *shafāʿa* conditionnée (Cat. II) — c'est qu'Allaah l'accorde à qui Il veut, sous des conditions qu'Il fixe seul. La *shafāʿa* revendiquée sans autorisation (Cat. III) — c'est prétendre disposer de ce qui appartient à Allaah." %}
+Ce verset admet l'existence de *shāfiʿīn* — il ne nie pas qu'ils existent — mais affirme que leur *shafāʿa* ne profitera pas à ces gens-là. La question n'est pas l'existence de la *shafāʿa* : **la question est à qui profite-t-elle ?**
 
 ---
 
-## V · La shafāʿa conditionnée — Idhn et riḍā
+## IV · La shafāʿa conditionnée — Catégorie II
 
-{% include verset.html ref="Sourate 2 · Al-Baqara · v. 255 (extrait)" ar="مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ" trl="*Man dhā lladhī **yashfaʿu ʿindahu illā bi-idhnihi***" trad="Qui donc **se joint auprès de Lui sinon par Sa *permission*** (*idhn*) ?" %}
+{% include verset.html ref="Sourate 2 · Al-Baqara · v. 255 (extrait)" ar="مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ" trl="*Man dhā lladhī yashfaʿu ʿindahu **illā bi-idhnihi***" trad="Qui donc se joint auprès de Lui sinon par Sa **permission** (*idhn*) ?" %}
 
-{% include verset.html ref="Sourate 20 · Ṭā-Hā · v. 109" ar="يَوْمَئِذٍ لَّا تَنفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا" trl="*Yawmaʾidhin lā tanfaʿu sh-shafāʿatu — **illā man adhina lahu r-raḥmānu** — **wa-raḍiya lahu qawlā***" trad="Ce jour-là, la *shafāʿa* ne profitera pas — sinon à celui à qui le Raḥmān aura accordé Sa **permission** (*idhn*) — et dont Il n'aura pas **repoussé la parole** (*raḍiya*)." %}
+{% include verset.html ref="Sourate 20 · Ṭā-Hā · v. 109" ar="يَوْمَئِذٍ لَّا تَنفَعُ الشَّفَاعَةُ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَرَضِيَ لَهُ قَوْلًا" trl="*Yawmaʾidhin lā tanfaʿu sh-shafāʿatu — **illā man adhina lahu r-raḥmānu wa-raḍiya lahu qawlā***" trad="Ce jour-là, la *shafāʿa* ne profitera pas — sinon à celui à qui le Raḥmān aura accordé Sa **permission** et dont Il **n'aura pas repoussé la parole**." %}
 
-{% include verset.html ref="Sourate 53 · Al-Najm · v. 26 — Même les malāʾika" ar="وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاءُ وَيَرْضَىٰ" trl="*Wa-kam min malakin fī s-samāwāti **lā tughnī shafāʿatuhum shayʾan** — illā min baʿdi an yadhana llāhu li-man yashāʾu **wa-yarḍā***" trad="Combien de *malakin* dans les cieux dont **la *shafāʿa* ne vaut rien** — sinon après qu'Allaah ait accordé Sa permission à qui Il veut **et ne repousse pas** (*wa-yarḍā*)." %}
+{% include verset.html ref="Sourate 21 · Al-Anbiyāʾ · v. 28" ar="وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ارْتَضَىٰ" trl="*Wa-lā yashfaʿūna **illā li-mani rtaḍā***" trad="Et ils ne se joignent qu'à celui que **Lui-même ne repousse pas** (*irtaḍā*)." %}
+
+{% include verset.html ref="Sourate 53 · Al-Najm · v. 26" ar="وَكَم مِّن مَّلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِن بَعْدِ أَن يَأْذَنَ اللَّهُ لِمَن يَشَاءُ وَيَرْضَىٰ" trl="*Wa-kam min **malakin** fī s-samāwāti lā tughnī shafāʿatuhum shayʾan — illā min baʿdi an yadhana llāhu li-man yashāʾu wa-yarḍā*" trad="Combien de ***malakin*** dans les cieux dont la *shafāʿa* **ne vaut rien** — sinon après qu'Allaah ait accordé Sa permission à qui Il veut et ne repousse pas." %}
 
 {% include nl.html contenu="
-***Idhn*** (إِذْن) — Ibn Fāris : *al-ʿilm wa-l-ibāḥa* — le savoir et l'autorisation. L'*idhn* est une autorisation active et consciente. La *shafāʿa* sans *idhn* est une impossibilité structurelle.
+***Idhn*** · racine أ–ذ–ن · Ibn Fāris : sens primitif = *al-ʿilm wa-l-ibāḥa* — le savoir et l'autorisation. L'*idhn* est une autorisation active et consciente, non une tolérance passive. **Nul ne peut se joindre à quiconque auprès d'Allaah si Allaah ne l'y a pas expressément autorisé.**
 
-***Raḍiya / Irtaḍā*** (رَضِيَ / اِرْتَضَى) — Ibn Fāris : *al-layn* — la souplesse, l'absence de résistance. *Raḍiya ʿan fulān* : ne plus avoir d'objection à l'égard de quelqu'un. Traduction rigoureuse : « dont Il n'a pas repoussé la parole ». **La forme VIII (*irtaḍā*) dit une disposition propre, spontanée, sans contrainte extérieure — personne ne peut susciter ce *irtaḍā* par une démarche extérieure.**
+***Raḍiya / irtaḍā*** · racine ر–ض–ي · Ibn Fāris : sens primitif = *al-layn* — la souplesse, l'absence de résistance. *Raḍiya ʿan fulān* : ne plus avoir d'objection à l'égard de quelqu'un. La forme VIII (*irtaḍā*) dit une disposition propre, spontanée : **l'absence d'opposition comme état intrinsèque d'Allaah. Personne ne peut susciter ce *irtaḍā* par une démarche extérieure.**
 " %}
 
-{% include callout.html type="dit" label="Les deux clés cumulatives" content="La *shafāʿa* est structurellement dépendante — non autonome. Elle n'est pas une prérogative que des entités détiendraient par nature. **Elle est une possibilité strictement conditionnée, dont Allaah détient seul les deux clés** : l'*idhn* (permission accordée à celui qui se joint) et le *raḍiya* (absence d'opposition envers celui à qui on se joint). Même la *shafāʿa* des *malakin* ne vaut rien sans ces deux conditions (53:26)." %}
+{% include callout.html type="dit" label="Les deux conditions cumulatives" content="Sans *idhn* **et** *raḍiya* simultanément réunis, la *shafāʿa* ne vaut rien — même celle des *malakin* (53:26). **Elle est une possibilité strictement conditionnée, dont Allaah détient seul les deux clés.**" %}
 
 ---
 
-## VI · La shafāʿa revendiquée sans autorisation — Catégorie III
+## V · La shafāʿa revendiquée sans autorisation — Catégorie III
 
-{% include verset.html ref="Sourate 6 · Al-Anʿām · v. 94 (extrait)" ar="وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ" trl="*Wa-mā narā maʿakum **shufaʿāʾakumu** lladhīna zaʿamtum annahum fīkum **shurakāʾ***" trad="Nous ne voyons pas avec vous vos ***shufaʿāʾ*** que vous prétendiez être parmi vous des **associés** (*shurakāʾ*)." %}
+{% include verset.html ref="Sourate 10 · Yūnus · v. 18" ar="وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِندَ اللَّهِ ۚ قُلْ أَتُنَبِّئُونَ اللَّهَ بِمَا لَا يَعْلَمُ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ" trl="*Wa-yaqūlūna hāʾulāʾi **shufaʿāʾunā ʿinda llāh** — qul a-tunabbi'ūna llāha bi-mā lā yaʿlamu fī s-samāwāti wa-lā fī l-arḍ*" trad="Et ils disent : « Ceux-ci sont nos ***shufaʿāʾ*** auprès d'Allaah » — Dis : « Informez-vous Allaah de ce qu'Il ne sait pas dans les cieux ni sur la terre ? »" %}
 
-{% include callout.html type="contra" label="Le lien textuel entre shafāʿa non autorisée et shirk" content="Ce verset est décisif : le texte **équivalent les *shufaʿāʾ* revendiqués sans *idhn* aux *shurakāʾ*** — les associés. **Le lien lexical entre prétendre à une *shafāʿa* non autorisée et le *shirk* est ici textuel, non déduit.**" %}
+{% include verset.html ref="Sourate 39 · Al-Zumar · v. 43–44" ar="أَمِ اتَّخَذُوا مِن دُونِ اللَّهِ شُفَعَاءَ ۚ قُلْ أَوَلَوْ كَانُوا لَا يَمْلِكُونَ شَيْئًا وَلَا يَعْقِلُونَ ۝ قُل لِّلَّهِ الشَّفَاعَةُ جَمِيعًا" trl="*Am ittakhadhū min dūni llāhi **shufaʿāʾa** — qul a-wa-law kānū lā yamlikūna shayʾan wa-lā yaʿqilūn — **qul li-llāhi sh-shafāʿatu jamīʿā***" trad="Ont-ils pris en dehors d'Allaah des ***shufaʿāʾ*** ? Dis : « Et même s'ils ne possèdent rien et ne raisonnent pas ? » **Dis : « La *shafāʿa* appartient entièrement à Allaah. »**" %}
+
+{% include verset.html ref="Sourate 6 · Al-Anʿām · v. 94" ar="وَمَا نَرَىٰ مَعَكُمْ شُفَعَاءَكُمُ الَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَاءُ" trl="*Wa-mā narā maʿakum **shufaʿāʾakumu** lladhīna zaʿamtum annahum fīkum **shurakāʾ***" trad="Nous ne voyons pas avec vous vos ***shufaʿāʾ*** que vous prétendiez être parmi vous des ***shurakāʾ*** (associés)." %}
+
+{% include callout.html type="contra" label="Lien textuel direct avec le shirk" content="Le texte **équivalent** les *shufaʿāʾ* revendiqués sans *idhn* aux *shurakāʾ* (6:94). **Le lien entre prétendre à une *shafāʿa* non autorisée et le shirk est ici textuel, non déduit.**" %}
 
 ---
 
-## VII · Analyse de S43:86 — La nuance honnêtement nommée
+## VI · Analyse approfondie — 43:86
 
-{% include verset.html ref="Sourate 43 · Al-Zukhruf · v. 86" ar="وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَاعَةَ إِلَّا مَن شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ" trl="*Wa-lā yamliku lladhīna yadʿūna min dūnihi sh-shafāʿata — **illā man shahida bi-l-ḥaqqi wa-hum yaʿlamūn***" trad="Et ceux qu'ils invoquent en dehors de Lui **ne détiennent pas la *shafāʿa*** — sinon celui qui a **témoigné du *ḥaqq*** et **sait ce qu'il dit** (*wa-hum yaʿlamūn*)." %}
+{% include verset.html ref="Sourate 43 · Al-Zukhruf · v. 86" ar="وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِن دُونِهِ الشَّفَاعَةَ إِلَّا مَن شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ" trl="*Wa-lā **yamliku** lladhīna yadʿūna min dūnihi sh-shafāʿata — **illā man shahida bi-l-ḥaqqi wa-hum yaʿlamūn***" trad="Et ceux qu'ils invoquent en dehors de Lui **ne détiennent pas** la *shafāʿa* — sinon celui qui a **témoigné du *ḥaqq*** et **sait** ce qu'il dit." %}
 
-{% include callout.html type="pivot" label="Ce que S43:86 dit — et ce qu'il ne dit pas" content="Ce verset établit une différence de nature entre les idoles sans consistance et ceux qui ont attesté le *ḥaqq*. **Mais cette distinction ne leur confère pas une *shafāʿa* autonome** — elle s'inscrit dans la souveraineté d'Allaah posée en 39:44 et conditionnée par l'*idhn* établi en 53:26. Le verset ne dit pas que ces entités peuvent intercéder pour qui elles veulent, ni extraire quelqu'un du feu, ni exercer leur *shafāʿa* indépendamment de l'*idhn* d'Allaah. **Le texte est cohérent : la *shafāʿa* appartient entièrement à Allaah (39:44) — y compris pour ceux qui ont témoigné du *ḥaqq*.**" %}
+{% include nl.html contenu="
+***Yamliku*** · racine م–ل–ك : avoir la puissance sur quelque chose, en disposer souverainement. *Lā yamliku sh-shafāʿata* : **ne pas détenir la *shafāʿa*, ne pas en disposer**. Ce n'est pas qu'elles ne l'exercent pas — c'est qu'elles ne la possèdent pas.
+
+***Shahida bi-l-ḥaqqi*** · *shahida* (racine ش–ه–د) : être présent à quelque chose, l'attester par sa présence. *Ḥaqq* (racine ح–ق–ق) : ce qui est établi, réel par sa nature propre. **Témoignage ancré dans la réalité, non dans l'opinion.**
+
+***Wa-hum yaʿlamūn*** : leur témoignage n'est pas une répétition de ce qu'on leur a dit — c'est une **connaissance propre**.
+" %}
+
+{% include callout.html type="inf" label="Ce que ce verset dit — et ne dit pas" content="43:86 établit une différence de nature entre les idoles sans consistance et ceux qui ont attesté le *ḥaqq*. **Mais cette distinction ne leur confère pas une *shafāʿa* autonome.** Elle s'inscrit dans la souveraineté d'Allaah posée en 39:44 et conditionnée par l'*idhn* de 53:26. Cette lecture serait sinon en contradiction directe avec l'ensemble de la Catégorie II." %}
+
+---
+
+## VII · Cohérence des trois catégories autour de 39:44
+
+{% include callout.html type="dit" label="Articulation des trois catégories" content="
+**Catégorie I niée absolument** : la *shafāʿa* appartenant à Allaah, Il ne la dispense pas pour certains — les ẓālimūn (40:18), ceux pour qui aucun *shāfiʿ* n'est obéi.
+
+**Catégorie II conditionnée** : la *shafāʿa* appartenant à Allaah, Il l'accorde à qui Il veut, sous des conditions qu'Il fixe seul — l'*idhn* et le *raḍiya*.
+
+**Catégorie III revendiquée sans autorisation** : prétendre désigner des *shufaʿāʾ* sans *idhn*, c'est prétendre disposer de ce qui appartient à Allaah — et le texte appelle cela *shirk* (6:94)." %}
 
 ---
 
 ## VIII · Ce que le texte ne dit pas
 
-{% include callout.html type="nondit" label="Silences textuels" content="
-- **La *shafāʿa* comme extraction du feu** : cette formulation n'apparaît dans aucun verset du Coran. Jamais le vocabulaire de la *shafāʿa* n'est associé au vocabulaire de la sortie (*kharaja, khurūj*).
-- **La *shafāʿa* pour des gens qui se trouvent dans le feu** : les gens du feu eux-mêmes constatent qu'ils n'ont pas de *shāfiʿīn* (26:100) — et leur demande (7:53) reste sans réponse dans le texte.
-- **La *shafāʿa* comme garantie de salut liée à un statut** : le texte ne dit jamais que mourir croyant garantit l'accès à une *shafāʿa*.
-- **Le nabī comme *shāfiʿ* autonome** : le texte ne décrit jamais le nabī comme détenant une *shafāʿa* autonome et universelle. S9:113 lui interdit statutairement de demander pardon pour les mushrikūn même proches.
-- **Qui bénéficiera concrètement de la *shafāʿa*** : le texte ne dit jamais à qui l'*idhn* sera accordé — **ce silence est le texte lui-même** : 6:38 — *mā farraṭnā fī l-kitābi min shayʾ* — « Nous n'avons rien omis dans le Livre. »
+{% include callout.html type="nondit" label="Quatre silences fondamentaux du corpus" content="
+1. **La *shafāʿa* comme extraction du feu** : cette formulation n'apparaît dans aucun verset du Coran. Les deux champs lexicaux (*shafāʿa* / *kharaja*) sont entièrement distincts dans le corpus.
+
+2. **La *shafāʿa* pour des gens qui se trouvent dans le feu** : le texte ne la décrit jamais comme opérant depuis l'intérieur du feu. Les gens du feu constatent qu'ils n'ont pas de *shāfiʿīn* (26:100) — leur demande (7:53) reste sans réponse dans le texte.
+
+3. **La révélation des bénéficiaires** : le texte ne dit jamais qui bénéficiera de l'*idhn* au Jour du Jugement. Ce silence est le texte lui-même.
+
+4. **La *shafāʿa* autonome du nabī** : S.9:113 lui interdit statutairement de demander pardon pour les mushrikūn même proches. Ce qui lui est attribué dans la tradition comme *shafāʿa* universelle est absent du corpus coranique.
+" %}
+
+---
+
+## Synthèse
+
+{% include callout.html type="dit" label="Cartographie finale" content="
+1. Le sens primitif dit une jonction (*al-izdiwāj*), non une plaidoirie. La traduction par « intercession » est une extension sémantique tardive.
+2. La *shafāʿa* appartient entièrement à Allaah (39:44) — personne ne la détient en propre.
+3. Elle est niée absolument pour certains (dix occurrences ou plus).
+4. Elle est conditionnée par deux clés cumulatives : l'*idhn* et le *riḍā/irtaḍā* — sans ces deux conditions, elle ne vaut rien, même pour les *malakin* (53:26).
+5. La revendiquer sans autorisation est équivalent au shirk (6:94) et à *taqūlūna ʿalā llāhi mā lā taʿlamūn* (10:18).
+6. S.43:86 introduit une nuance réelle mais s'inscrit dans la souveraineté d'Allaah posée en 39:44.
 " %}
 
 <div class="declaration">
   <span class="declaration__label">Position de clôture</span>
-  <p>La *shafāʿa* appartient entièrement à Allaah (39:44). Elle est niée absolument pour certains. Elle est possible pour d'autres, sous des conditions strictes que seul Allaah contrôle. Prétendre en désigner les bénéficiaires ou les agents sans *idhn* est équivalent au *shirk* (6:94) et à *taqūlūna ʿalā llāhi mā lā taʿlamūn* (10:18).</p>
+  <p>Ce que la tradition a construit dans les espaces de silence du corpus coranique sur la *shafāʿa* l'a été de sa propre initiative — au titre de ce que le Coran appelle, avec la même formule qu'il emploie pour le shirk : *iftirāʾ ʿalā llāh*.</p>
+  <p style="margin-top:.7rem"><em>مَا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ</em> — « Nous n'avons rien omis dans le Livre. » (6:38)</p>
 </div>
