@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<article class="site-main" itemscope itemtype="https://schema.org/Article">
+
+  <!-- ── BREADCRUMB ── -->
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <span class="breadcrumb__sep">·</span>
+    <a href="{{ '/etudes/' | relative_url }}">Études</a>
+    {% if page.categorie %}
+    <span class="breadcrumb__sep">·</span>
+    <a href="{{ '/etudes/' | append: page.categorie_slug | append: '/' | relative_url }}">{{ page.categorie }}</a>
+    {% endif %}
+    <span class="breadcrumb__sep">·</span>
+    <span>{{ page.title | truncate: 40 }}</span>
+  </nav>
+
+  <!-- ── EN-TÊTE DE L'ÉTUDE ── -->
+  <header class="page-header">
+    {% if page.categorie %}
+    <div class="page-header__categorie">{{ page.categorie }}</div>
+    {% endif %}
+    {% if page.racine_ar %}
+    <div class="page-header__racine">{{ page.racine_ar }}</div>
+    {% endif %}
+    <h1 class="page-header__title" itemprop="headline">{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="page-header__subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+    <div class="page-header__meta">
+      {% if page.racine %}
+      <span class="tag">Racine : {{ page.racine }}</span>
+      {% endif %}
+      {% if page.methode %}
+      <span class="tag">{{ page.methode }}</span>
+      {% endif %}
+      <span class="tag">Dit / Non-dit / Inférence</span>
+      <span class="tag">Sans tafsīr · Sans ḥadīth</span>
+    </div>
+  </header>
+
+  <!-- ── TABLE DES MATIÈRES (auto si définie) ── -->
+  {% if page.toc %}
+  <nav class="toc" aria-label="Table des matières">
+    <div class="toc__title">Table des matières</div>
+    {{ page.toc }}
+  </nav>
+  {% endif %}
+
+  <!-- ── CONTENU DE L'ÉTUDE ── -->
+  <div class="etude-corps" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <!-- ── NAVIGATION PREV/NEXT ── -->
+  {% assign all_etudes = site.etudes | sort: 'title' %}
+  {% assign current_index = nil %}
+  {% for etude in all_etudes %}
+    {% if etude.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if current_index != nil %}
+  {% assign prev_index = current_index | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+  <nav class="etude-nav" aria-label="Navigation entre études">
+    {% if prev_index >= 0 %}
+    {% assign prev_etude = all_etudes[prev_index] %}
+    <a class="etude-nav__item" href="{{ prev_etude.url | relative_url }}">
+      <span class="etude-nav__label">← Étude précédente</span>
+      <span class="etude-nav__titre">{{ prev_etude.title }}</span>
+    </a>
+    {% else %}
+    <div></div>
+    {% endif %}
+
+    {% if next_index < all_etudes.size %}
+    {% assign next_etude = all_etudes[next_index] %}
+    <a class="etude-nav__item" href="{{ next_etude.url | relative_url }}" style="text-align:right">
+      <span class="etude-nav__label">Étude suivante →</span>
+      <span class="etude-nav__titre">{{ next_etude.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+</article>

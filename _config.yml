@@ -1,0 +1,67 @@
+title: "islamducoran.fr"
+description: "Le Coran lu par lui-même, en arabe classique — Sans tafsīr · Sans ḥadīth · Sans école"
+baseurl: ""
+url: "https://islamducoran.fr"
+lang: "fr"
+
+# Build
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  etudes:
+    output: true
+    permalink: /etudes/:categories/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "etudes"
+    values:
+      layout: "etude"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# SEO
+author: "islamducoran.fr"
+twitter:
+  username: islamducoran
+logo: /assets/img/logo.png
+
+# Navigation principale
+nav_items:
+  - title: "Accueil"
+    url: "/"
+  - title: "Méthode"
+    url: "/methode/"
+  - title: "Études"
+    url: "/etudes/"
+  - title: "Traduction"
+    url: "/traduction/"
+  - title: "Recherche"
+    url: "/recherche/"
+  - title: "Barāʾa"
+    url: "/baraaa/"

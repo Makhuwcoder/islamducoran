@@ -1,0 +1,8 @@
+{% comment %}
+Usage:
+{% include nl.html racine="ح · ج · ج" contenu="Al-Farāhīdī..." %}
+{% endcomment %}
+<div class="nl">
+  <span class="nl__label">Note lexicale{% if include.racine %} — {{ include.racine }}{% endif %}</span>
+  {{ include.contenu | markdownify }}
+</div>

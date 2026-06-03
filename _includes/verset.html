@@ -1,0 +1,30 @@
+{% comment %}
+Usage:
+{% include verset.html
+   ref="Sourate 2 · Al-Ijāba · v. 197"
+   ar="الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ"
+   trl="*Al-ḥajju ashhrun maʿlūmāt*"
+   trad="Le ḥajj se tient sur **des mois connus**."
+%}
+{% endcomment %}
+<div class="verset">
+  {% if include.ref %}
+  <span class="verset__ref">{{ include.ref }}</span>
+  {% endif %}
+  {% if include.ar %}
+  <div class="verset__arabe" dir="rtl">{{ include.ar }}</div>
+  {% endif %}
+  {% if include.trl or include.trad %}
+  <div class="verset__corps">
+    {% if include.trl %}
+    <span class="verset__trl">{{ include.trl | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+    {% endif %}
+    {% if include.trad %}
+    <span class="verset__trad">{{ include.trad | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% if include.suite %}
+  {{ include.suite }}
+  {% endif %}
+</div>

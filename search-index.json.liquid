@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /search-index.json
+---
+[
+  {% assign all_etudes = site.etudes %}
+  {% for etude in all_etudes %}
+  {
+    "id": {{ forloop.index }},
+    "title": {{ etude.title | jsonify }},
+    "subtitle": {{ etude.subtitle | default: "" | jsonify }},
+    "url": {{ etude.url | relative_url | jsonify }},
+    "categorie": {{ etude.categorie | default: "" | jsonify }},
+    "racine": {{ etude.racine | default: "" | jsonify }},
+    "racine_ar": {{ etude.racine_ar | default: "" | jsonify }},
+    "excerpt": {{ etude.content | strip_html | strip_newlines | truncate: 300 | jsonify }},
+    "content": {{ etude.content | strip_html | strip_newlines | truncate: 2000 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

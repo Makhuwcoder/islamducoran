@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+  <!-- SEO -->
+  {% seo %}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
+</head>
+<body>
+
+  <!-- ── NAVIGATION ── -->
+  {% include nav.html %}
+
+  <!-- ── CONTENU ── -->
+  {{ content }}
+
+  <!-- ── FOOTER ── -->
+  {% include footer.html %}
+
+  <!-- ── SCRIPTS ── -->
+  <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
+  {% if page.search %}
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+  {% endif %}
+
+</body>
+</html>

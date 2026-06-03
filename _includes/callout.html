@@ -1,0 +1,9 @@
+{% comment %}
+Usage:
+{% include callout.html type="dit" label="Dit" content="Le texte dit explicitement..." %}
+Types: dit | nondit | inf | pivot | warn | silence | contra
+{% endcomment %}
+<div class="callout callout--{{ include.type }}">
+  <span class="callout__label">{{ include.label }}</span>
+  {{ include.content | markdownify }}
+</div>
