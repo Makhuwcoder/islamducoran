@@ -6,7 +6,6 @@
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
-  <!-- SEO -->
   {% seo %}
 
   <!-- Fonts -->
@@ -17,21 +16,20 @@
   <!-- Styles -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
 </head>
 <body>
 
-  <!-- ── NAVIGATION ── -->
   {% include nav.html %}
 
-  <!-- ── CONTENU ── -->
   {{ content }}
 
-  <!-- ── FOOTER ── -->
   {% include footer.html %}
 
-  <!-- ── SCRIPTS ── -->
   <script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
   {% if page.search %}
   <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
