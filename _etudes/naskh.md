@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ن-س-خ"
 racine_ar: "النَّسْخ"
-date: 2024-06-01
+date: 2026-04-03
 description: "La doctrine du naskh à l'épreuve du texte coranique. Qui est l'abrogateur ? Sept cas classiques examinés. Deux seulement ont une base intra-coranique — dans les deux cas, l'agent est Allaah nommé dans le texte."
 ---
 
