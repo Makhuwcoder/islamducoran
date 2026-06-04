@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ف-ت-و"
 racine_ar: "فَتْوَى"
-date: 2024-05-10
+date: 2026-05-10
 description: "Étude lexicale complète du terme fatwā dans le Coran — racine f-t-w, pattern yastaftūnaka / qul Allāhu yuftīkum, S.18:22 et 18:26, confrontation avec Bukhārī 7352."
 ---
 
