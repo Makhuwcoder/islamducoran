@@ -2,8 +2,9 @@
 layout: etude
 title: "La minorité des croyants"
 subtitle: "أَكْثَرُهُمْ لَا يَعْلَمُونَ · قَلِيلٌ مِّنْ عِبَادِيَ · وَهُمْ مُّشْرِكُونَ"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Communauté religieuse & Identité"
+categorie_slug: "communaute"
+order: 630
 racine: "ك-ث-ر / ق-ل-ل"
 racine_ar: "أَكْثَرُهُمْ · قَلِيلٌ"
 date: 2026-05-12
