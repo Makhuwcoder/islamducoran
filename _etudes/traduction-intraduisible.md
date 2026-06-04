@@ -2,8 +2,9 @@
 layout: etude
 title: "Le Coran est-il intraduisible ?"
 subtitle: "Al-Tarjama — ٱلتَّرْجَمَةُ — Une manipulation, une seule finalité : éloigner du Livre"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Autorité légifératrice & Sources"
+categorie_slug: "sources"
+order: 370
 racine: "ت-ر-ج-م"
 racine_ar: "التَّرْجَمَة"
 date: 2026-04-08
