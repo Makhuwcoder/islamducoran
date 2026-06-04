@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ق-ر-أ"
 racine_ar: "الْقِرَاءَاتُ"
-date: 2024-04-18
+date: 2026-04-08
 description: "Les *qirāʾāt* sont-elles plusieurs versions du Coran ou des réalisations phonétiques d'un rasm unique ? Distinction fondamentale entre rasm consonantique (invariable) et traditions de vocalisation. Réfutation de la confusion avec les versions bibliques. Ancrage dans S.15:9, S.41:41–42, S.14:4."
 ---
 
