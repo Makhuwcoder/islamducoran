@@ -50,10 +50,9 @@ nav_items:
     url: "/methode/"
   - title: "Études"
     url: "/etudes/"
-  - title: "Traduction"
+  - title: "Traduction du Coran"
     url: "/traduction/"
   - title: "Recherche"
     url: "/recherche/"
   - title: "Barāʾa"
     url: "/baraaa/"
-
