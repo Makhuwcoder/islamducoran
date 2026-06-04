@@ -2,8 +2,9 @@
 layout: etude
 title: "Le Nabī n'est pas législateur"
 subtitle: "Fermeture définitive du débat — إِنِ الْحُكْمُ إِلَّا لِلَّهِ"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Nabuwwa & Risāla"
+categorie_slug: "nabuwwa"
+order: 20
 racine: "ح-ك-م"
 racine_ar: "الحُكْم"
 date: 2026-04-10
