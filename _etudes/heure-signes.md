@@ -2,8 +2,9 @@
 layout: etude
 title: "L'Heure et ses signes — ٱلسَّاعَةُ وَأَشْرَاطُهَا"
 subtitle: "Ce que dit le texte, ce que dit la tradition, ce que révèle l'écart"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Eschatologie & Métaphysique"
+categorie_slug: "eschatologie"
+order: 730
 racine: "س-و-ع"
 racine_ar: "ٱلسَّاعَةُ"
 date: 2026-04-08
