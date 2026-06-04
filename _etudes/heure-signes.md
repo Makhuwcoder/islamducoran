@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "س-و-ع"
 racine_ar: "ٱلسَّاعَةُ"
-date: 2024-04-15
+date: 2026-04-08
 description: "La structure traditionnelle des signes de la fin des temps confrontée au texte coranique. Analyse de 47:18 (passé accompli — les signes sont venus), 7:187 (baghtatan — surprise exclusive), 72:25–26 (ignorance du nabī), la mort de ʿĪsā (quatre voies), Yaʾjūj et Maʾjūj, et l'absence totale du terme al-Dajjāl dans le Coran."
 ---
 
