@@ -5,7 +5,7 @@ subtitle: "Après le nabī Muhammad, pas de nouveau rasūl, pas de nouveau nabī
 categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine_ar: "خَاتَمَ النَّبِيِّينَ"
-date: 2024-04-16
+date: 2026-04-16
 description: "S.33:40 — khātam al-nabiyyīn. La distinction rasūl / nabī est textuelle (S.22:52). Relation d'inclusion : tout rasūl est un nabī, donc sceller les nabiyyīn scelle les rusul. Confirmation par S.5:3 et S.34:28."
 ---
 
