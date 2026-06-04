@@ -6,7 +6,7 @@ categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
 racine: "ر-ق-ق / ر-ق-ب"
 racine_ar: "فَكُّ رَقَبَةٍ"
-date: 2024-05-03
+date: 2026-05-03
 description: "Le Coran ne prescrit pas l'esclavage — il le régule et oriente vers la libération. S90:13 (fakku raqaba). Trois contextes d'expiation par affranchissement. S9:60 (fī r-riqāb). S24:33 (mukātaba). S24:33 (interdiction de la prostitution forcée). Argument arithmétique de S4:25 contre la lapidation."
 ---
 
