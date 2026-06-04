@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "خ-ل-د"
 racine_ar: "خَالِدُونَ"
-date: 2024-04-20
+date: 2026-04-04
 description: "Le discours coranique est structurellement binaire : entrer dans le feu et ne jamais en sortir, ou ne jamais y entrer. Analyse exhaustive de la racine kh-l-d, du renforcement par abadā, des énoncés explicites de non-sortie (S.2:167, S.5:37, S.32:20), du cas 19:71–72 (wārid), de la shafāʿa, et de la clause illā mā shāʾa rabbuka (S.11:106–108)."
 ---
 
