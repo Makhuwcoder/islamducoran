@@ -6,7 +6,7 @@ categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "ك-س-و / ب-ر-ك"
 racine_ar: "الكِسْوَة"
-date: 2024-05-20
+date: 2026-05-20
 description: "La Kiswa est absente du Coran. Étude croisée : racine k-s-w dans le texte, silence sur la couverture, histoire de son institutionnalisation abbasside, structure coranique de la baraka, trois invalidités du tabarruk bi-l-kiswa."
 ---
 
