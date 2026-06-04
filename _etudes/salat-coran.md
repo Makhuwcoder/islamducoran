@@ -6,7 +6,7 @@ categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "ص-ل-و"
 racine_ar: "صَلَاة"
-date: 2024-01-06
+date: 2026-04-12
 description: "Étude complète de la ṣalāt dans le Coran — racine, prescriptions explicites, horaires, direction, silences sur la forme rituelle. Méthode dit/non-dit/inférence."
 ---
 
