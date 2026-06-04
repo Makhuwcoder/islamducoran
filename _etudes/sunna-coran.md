@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "س-ن-ن"
 racine_ar: "سُنَّة"
-date: 2024-05-11
+date: 2026-05-11
 description: "Inventaire complet des dix occurrences coraniques de sunna/sunan. Le possessif est Allāh — jamais le nabī. Sunnat al-nabī et sunnat al-rasūl sont absents du Coran. Analyse documentée du déplacement opéré par al-Shāfiʿī dans al-Risāla."
 ---
 
