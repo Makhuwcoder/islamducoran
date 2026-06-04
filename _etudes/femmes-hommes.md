@@ -5,7 +5,7 @@ subtitle: "Rapport social · Responsabilités mutuelles · Analyse lexicale exha
 categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
 racine_ar: "الرِّجَالُ قَوَّامُونَ"
-date: 2024-04-30
+date: 2026-04-19
 description: "Étude exhaustive. Nafs wāḥida (S4:1, S7:189, S6:98, S39:6) — aucun sexe assigné. S33:35 : dix paires. S2:228 : darajah positionnelle dans le cadre du ṭalāq. S4:34 : qiwāma conditionnelle, analyse lexicale complète de ḍ-r-b, wa-ḍribūhunna. S4:35 : médiation bilatérale."
 ---
 
