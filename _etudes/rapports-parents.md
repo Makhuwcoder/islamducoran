@@ -6,7 +6,7 @@ categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
 racine: "ب-ر-ر"
 racine_ar: "بِرُّ الْوَالِدَيْنِ"
-date: 2024-05-02
+date: 2026-04-26
 description: "Lecture intra-coranique en quatre registres : covenantal (2:83, 4:36, 6:151, 17:23–24), charge directe (waṣṣaynā l-insāna — 29:8, 31:14–15, 46:15–18), figures narratives (Ibrāhīm/Āzar, Yaḥyā, ʿĪsā), et duʿāʾ coraniques pour les parents (17:24, 14:41, 27:19, 71:28). Cartographie dit/non-dit exhaustive."
 ---
 
