@@ -5,7 +5,7 @@ subtitle: "Réfutation de l'objection à la méthode coranique sur la ṣalāt e
 categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine_ar: "هَاتُوا بُرْهَانَكُمْ"
-date: 2024-04-21
+date: 2026-04-21
 description: "Réfutation en trois niveaux de l'objection : « sans Bukhārī votre ṣalāt n'est pas valide ». Arguments coraniques, contradictions internes aux ḥadīth, contradictions ḥadīth/Coran, démonstrations par l'absurde, manipulations sémantiques. Toutes les références sont vérifiables."
 ---
 
