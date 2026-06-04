@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Traduction du Coran"
 subtitle: "Traduction française conduite selon la méthode islamducoran.fr — Arabe classique · Sans tafsīr · Sans ḥadīth"
 date: 2024-01-01
@@ -7,46 +7,44 @@ description: "Traduction du Coran en français selon la méthode islamducoran.fr
 permalink: /traduction/
 ---
 
-## En cours de publication
+<div class="site-main">
 
-Cette traduction est conduite selon la méthode islamducoran.fr : lecture intra-coranique exclusive, lexicographie arabe classique, discipline du dit / non-dit.
+  <header class="page-header">
+    <div class="page-header__categorie">islamducoran.fr</div>
+    <h1 class="page-header__title">Traduction du Coran</h1>
+    <p class="page-header__subtitle">Traduction française conduite selon la méthode islamducoran.fr — Arabe classique · Sans tafsīr · Sans ḥadīth</p>
+  </header>
 
-**Principes de traduction :**
+  <div class="page-body">
 
-Identifier les sens possibles en arabe classique à partir des racines triconsonantiques (al-Farāhīdī, Ibn Fāris, Ibn Manẓūr). Rechercher la cohérence intra-coranique. Si plusieurs lectures sont cohérentes, les reconnaître et les nommer explicitement. Porter le sens dans la structure linguistique du **français** — jamais calquer la structure arabe.
+<h2>En cours de publication</h2>
 
-**Format imbriqué :** chaque verset est présenté en arabe avec tashkīl, suivi de la translittération et de la traduction française, phrase par phrase.
+<p>Cette traduction est conduite selon la méthode islamducoran.fr : lecture intra-coranique exclusive, lexicographie arabe classique, discipline du dit / non-dit.</p>
 
-**Les termes sans équivalent fidèle** restent en translittération avec note lexicale (*ṣalāt*, *zakāt*, *dīn*, *malāʾika*…).
+<h2>Principes de traduction</h2>
 
-**Ce qui est dit va dans la traduction. Ce que la lexicologie révèle va dans la note.** Les silences textuels sont nommés comme silences — jamais comblés.
+<p>Identifier les sens possibles en arabe classique à partir des racines triconsonantiques (al-Farāhīdī, Ibn Fāris, Ibn Manẓūr). Rechercher la cohérence intra-coranique. Si plusieurs lectures sont cohérentes, les reconnaître et les nommer explicitement. Porter le sens dans la structure linguistique du <strong>français</strong> — jamais calquer la structure arabe.</p>
 
----
+<p><strong>Format imbriqué :</strong> chaque verset est présenté en arabe avec tashkīl, suivi de la translittération et de la traduction française, phrase par phrase.</p>
 
-## Sourates disponibles
+<p><strong>Les termes sans équivalent fidèle</strong> restent en translittération avec note lexicale (<em>ṣalāt</em>, <em>zakāt</em>, <em>dīn</em>, <em>malāʾika</em>…).</p>
 
-<div class="etudes-grid">
-  <a class="etude-card" href="{{ '/etudes/salat-coran/' | relative_url }}">
-    <div class="etude-card__racine" dir="rtl">ص-ل-و</div>
-    <div class="etude-card__titre">Sourate 1 · Al-Ṭalab / La Requête</div>
-    <p class="etude-card__resume">Titre textuel : Al-Ṭalab (La Requête). Titre conventionnel : Al-Fātiḥa.</p>
-    <div class="etude-card__tag">S1 — complète</div>
-  </a>
-</div>
+<p><strong>Ce qui est dit va dans la traduction. Ce que la lexicologie révèle va dans la note.</strong> Les silences textuels sont nommés comme silences — jamais comblés.</p>
 
-*La traduction de Sourate 2 · Al-Ijāba (Al-Baqara) est en cours. Les blocs S2:1–180 seront publiés progressivement.*
+<h2>Note sur les titres des sourates</h2>
 
----
+<p>Les titres conventionnels sont conservés entre parenthèses. Le titre textuel est argumenté depuis le texte lui-même.</p>
 
-## Note sur les titres des sourates
+<p><em>Sourate 1 · Al-Ṭalab / La Requête</em> (titre conventionnel : Al-Fātiḥa — L'Ouvrante)</p>
 
-Les titres conventionnels sont conservés entre parenthèses. Le titre textuel est argumenté depuis le texte lui-même.
+<p><em>Sourate 2 · Al-Ijāba / La Réponse</em> (titre conventionnel : Al-Baqara — La Vache)</p>
 
-*Sourate 1 · Al-Ṭalab / La Requête* (titre conventionnel : Al-Fātiḥa — L'Ouvrante)
+<p>La traduction de Sourate 2 · Al-Ijāba (Al-Baqara) est en cours. Les blocs seront publiés progressivement.</p>
 
-*Sourate 2 · Al-Ijāba / La Réponse* (titre conventionnel : Al-Baqara — La Vache)
-
-<div class="declaration">
+<div class="declaration" style="margin-top:2.5rem">
   <span class="declaration__label">Barāʾa</span>
   <p>Cette traduction est conduite selon la méthode islamducoran.fr. Elle n'est pas prescriptive. Elle est révisable à la lumière du texte. L'unique garant de la compréhension est Allaah.</p>
 </div>
+
+  </div><!-- .page-body -->
+</div><!-- .site-main -->
