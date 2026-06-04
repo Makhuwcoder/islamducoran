@@ -2,8 +2,9 @@
 layout: etude
 title: "Le calendrier lunaire pur face au Coran"
 subtitle: "Analyse des objections — argumentation exclusivement coranique · Dit / Non-dit"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Calendrier & Temps cosmique"
+categorie_slug: "calendrier"
+order: 110
 racine: "هـ-ل-ل"
 racine_ar: "الأَهِلَّة"
 date: 2026-04-16
