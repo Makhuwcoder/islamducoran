@@ -5,7 +5,7 @@ subtitle: "Analyse exhaustive et approfondie — Dit, Non-dit, Inférence — Pr
 categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
 racine_ar: "النِّكَاح"
-date: 2024-05-05
+date: 2026-05-05
 description: "S4:3 dans son contexte (S4:2→S4:127). Analyse des distributifs mathnā wa-thulātha wa-rubāʿ et parallèle S35:1. Distinction qisṭ/ʿadl. S4:128–129 : muʿallaqa. Trois lectures grammaticales honnêtes. Déconstruction des inférences prohibitives et permissives."
 ---
 
