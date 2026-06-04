@@ -2,8 +2,9 @@
 layout: etude
 title: "Le fasād et les mufsidūn dans le Coran"
 subtitle: "الفَسَاد — De la fraude au terrorisme : ce que le texte désigne, condamne et anticipe"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Droit pénal & Économie islamique"
+categorie_slug: "droit"
+order: 520
 racine: "ف-س-د"
 racine_ar: "الفَسَاد"
 date: 2026-04-05
