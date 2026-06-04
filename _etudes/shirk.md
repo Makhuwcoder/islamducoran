@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ش-ر-ك"
 racine_ar: "شِرْك"
-date: 2024-01-01
+date: 2026-03-19
 description: "Étude lexicale et intra-coranique exhaustive du shirk — trois dimensions : dévotionnelle, législative, factionnelle. Ce que le Coran dit explicitement."
 ---
 
