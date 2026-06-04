@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ب-ر-ك"
 racine_ar: "بَرَكَة · تَبَارَكَ"
-date: 2024-04-14
+date: 2026-04-14
 description: "Tabāraka (Allaah — source intrinsèque, Forme VI) vs mubārak (créature — récepteur, participe passif). Al-tabarruk absent du Coran. Analyse morphologique complète avec confrontation S.39:3 et S.4:48."
 ---
 
