@@ -2,8 +2,9 @@
 layout: etude
 title: "Le Kāfir dans le Coran — Ce que le texte dit et ce qu'il ne dit pas"
 subtitle: "La racine k-f-r dans toute sa complexité sémantique — recouvrement, ingratitude, refus délibéré"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Communauté religieuse & Identité"
+categorie_slug: "communaute"
+order: 620
 racine: "ك-ف-ر"
 racine_ar: "كَافِر"
 date: 2026-03-26
