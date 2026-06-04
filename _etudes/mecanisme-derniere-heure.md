@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ت-و-ب"
 racine_ar: "التَّوبة"
-date: 2024-04-28
+date: 2026-04-04
 description: "Suite de l'étude 'Sortir du feu'. Analyse de S.2:80/3:24 (revendication d'une sortie sans ʿahd), S.4:17–18 (règle coranique sur la tawba), S.10:90–92 (Firʿawn — illustration narrative), S.9:113 (le nabī ne peut pas se porter garant), S.99:7–8 (le ʿamal versus la foi détenue). Tableau d'inversion systématique tradition vs texte."
 ---
 
