@@ -4,7 +4,7 @@ title: "هَاتُوا بُرْهَانَكُمْ — Hātu Burhānakum"
 subtitle: "Réfutation de l'objection à la méthode coranique sur la ṣalāt et la ṭahāra — Trois niveaux · Références complètes et vérifiables"
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
-order: 268
+order: 290
 racine_ar: "هَاتُوا بُرْهَانَكُمْ"
 date: 2026-04-21
 description: "Réfutation en trois niveaux de l'objection : « sans Bukhārī votre ṣalāt n'est pas valide ». Arguments coraniques, contradictions internes aux ḥadīth, contradictions ḥadīth/Coran, démonstrations par l'absurde, manipulations sémantiques. Toutes les références sont vérifiables."
