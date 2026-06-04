@@ -30,10 +30,10 @@ permalink: /etudes/
     <div id="search-results"></div>
   </div>
 
-  <!-- ── INDEX PAR CATÉGORIE ── -->
+  <!-- ── INDEX PAR CATÉGORIE — trié par date décroissante dans chaque catégorie ── -->
   {% assign categories = site.etudes | map: 'categorie' | uniq | sort %}
   {% for categorie in categories %}
-  {% assign etudes_cat = site.etudes | where: 'categorie', categorie | sort: 'title' %}
+  {% assign etudes_cat = site.etudes | where: 'categorie', categorie | sort: 'date' | reverse %}
 
   <div class="categorie-header" id="{{ categorie | slugify }}">
     <span class="categorie-header__fr">{{ categorie }}</span>
@@ -42,6 +42,7 @@ permalink: /etudes/
         {% when "Concepts fondamentaux" %}مَفَاهِيمُ أَسَاسِيَّة
         {% when "Pratiques rituelles" %}عِبَادَات
         {% when "Calendrier et temps cosmique" %}التَّقْوِيمُ وَالزَّمَن
+        {% when "Corps, Famille & Société" %}الْجَسَدُ وَالأُسْرَةُ وَالْمُجْتَمَع
         {% when "Corps, famille et société" %}الْجَسَدُ وَالأُسْرَةُ وَالْمُجْتَمَع
         {% when "Législation et économie" %}التَّشْرِيعُ وَالاقْتِصَاد
         {% when "Nabuwwa et risāla" %}النُّبُوَّةُ وَالرِّسَالَة
