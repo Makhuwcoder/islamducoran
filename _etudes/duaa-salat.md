@@ -5,7 +5,7 @@ subtitle: "Ce que le Coran ne ferme pas — Prescription, empêchement et espace
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine_ar: "الدُّعَاء"
-date: 2024-05-01
+date: 2026-04-20
 description: "Distinction fondamentale : absence de prescription ≠ interdiction. Analyse des quatre formules courantes (takbīr, tasbīḥāt, taḥmīd). Le duʿāʾ coranique et personnel. S.17:110 comme verset pivot. L'espace libre de la ṣalāt."
 ---
 
