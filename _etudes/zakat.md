@@ -6,7 +6,7 @@ categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "ز-ك-و / ز-ك-ي"
 racine_ar: "الزَّكَاة"
-date: 2024-06-02
+date: 2026-06-02
 description: "Étude coranique exhaustive de la zakāt. Racine z-k-w/y. Les huit bénéficiaires de S.9:60 (innamā). Moment : yawma ḥaṣādihi (S.6:141). Montant : al-ʿafw (S.2:219). Niṣāb, ḥawl et 2,5 % sont absents du Coran — additions ḥadīthiques."
 ---
 
