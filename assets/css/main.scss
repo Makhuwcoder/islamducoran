@@ -709,3 +709,22 @@ tr:nth-child(even) td { background: var(--bg2); }
   border-top: 1px solid var(--bg5);
   margin: 2rem 0;
 }
+
+/* ── Étude à paraître ── */
+.etude-card--soon {
+  opacity: .62;
+  pointer-events: none;
+  cursor: default;
+  border-style: dashed;
+}
+.etude-card__tag--soon {
+  font-family: var(--font-titre);
+  font-size: .5rem; letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--texte3);
+  border: 1px dashed var(--texte3);
+  padding: .15rem .45rem;
+  border-radius: 2px;
+  display: inline-block;
+  margin-top: .5rem;
+}
