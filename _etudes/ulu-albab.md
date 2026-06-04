@@ -2,8 +2,9 @@
 layout: etude
 title: "Ulū l-albāb — Le noyau d'intelligence أُولُوا الْأَلْبَابِ"
 subtitle: "Une faculté universelle, non élitiste — Analyse lexicale et coranique de la racine ل-ب-ب et de ses occurrences dans le Coran"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Autorité légifératrice & Sources"
+categorie_slug: "sources"
+order: 350
 racine: "ل-ب-ب"
 racine_ar: "أُولُوا الْأَلْبَابِ"
 date: 2026-04-18
