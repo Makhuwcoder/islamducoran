@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ك-ت-م"
 racine_ar: "الكِتْمَان"
-date: 2024-04-10
+date: 2026-04-02
 description: "Analyse de S.2:159–163 : la faute du kitmān (dissimuler les bayyināt après leur clarification), les trois conditions du pardon (tāba · aṣlaḥa · bayyinū), la permanence du kufr jusqu'à la mort (2:161–162), et la déclaration de l'unicité (2:163). Inversion lexicale fondamentale k-t-m ↔ b-y-n."
 ---
 
