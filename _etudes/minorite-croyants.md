@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ك-ث-ر / ق-ل-ل"
 racine_ar: "أَكْثَرُهُمْ · قَلِيلٌ"
-date: 2024-04-13
+date: 2026-05-12
 description: "Corpus exhaustif des occurrences de akthar (la majorité) et qalīl (le petit nombre) dans le Coran. Structure emboîtée des minorités. S.12:106 : la plupart des croyants sont mushrikūn. S.6:116 : suivre la majorité cause l'égarement."
 ---
 
