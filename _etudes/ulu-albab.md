@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ل-ب-ب"
 racine_ar: "أُولُوا الْأَلْبَابِ"
-date: 2024-04-18
+date: 2026-04-18
 description: "Ulū l-albāb désigne le plancher de l'intelligence constitutive de tout humain, non une élite. Cinq arguments coraniques convergents. La barrière n'est pas cognitive — elle est éthique."
 ---
 
