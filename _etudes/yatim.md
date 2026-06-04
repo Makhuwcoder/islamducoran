@@ -6,7 +6,7 @@ categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
 racine: "ي-ت-م"
 racine_ar: "اليَتِيم"
-date: 2024-04-15
+date: 2026-04-19
 description: "Le yatīm est l'enfant dont le père est mort — consensus des trois lexicographes, confirmé par S18:82 (kāna abūhumā). 23 occurrences coraniques. Fin du statut : bulūgh + rushd (S4:6). Lien avec S4:3 via S4:127."
 ---
 
