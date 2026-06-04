@@ -2,8 +2,9 @@
 layout: etude
 title: "Sortir du feu : Garantie ou invention ?"
 subtitle: "خَالِدُونَ — Les catégories eschatologiques dans le Coran. Deux destins, non trois"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Eschatologie & Métaphysique"
+categorie_slug: "eschatologie"
+order: 740
 racine: "خ-ل-د"
 racine_ar: "خَالِدُونَ"
 date: 2026-04-04
