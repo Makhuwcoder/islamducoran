@@ -2,8 +2,9 @@
 layout: etude
 title: "الرِّبَا — Ar-Ribā · L'incrément usuraire"
 subtitle: "Le surplus que l'on prélève sur ce que l'on a prêté — ce que le texte dit, ce que le texte ne dit pas, à qui s'adresse l'interdiction et ce que certains prétendent en avoir fait"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Droit pénal & Économie islamique"
+categorie_slug: "droit"
+order: 510
 racine: "ر-ب-و"
 racine_ar: "الرِّبَا"
 date: 2026-04-16
