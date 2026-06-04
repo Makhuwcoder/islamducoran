@@ -668,3 +668,44 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 .anchor-target { scroll-margin-top: calc(var(--nav-h) + 1rem); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }
+
+/* ── PAGE BODY (pages simples: methode, traduction, baraa…) ── */
+.page-body {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+.page-body h2 {
+  font-family: var(--font-titre);
+  font-size: 1.1rem; font-weight: 700;
+  letter-spacing: .05em;
+  color: #1a0e00;
+  margin: 2.2rem 0 .8rem;
+  padding-bottom: .4rem;
+  border-bottom: 1px solid var(--bg5);
+}
+.page-body h3 {
+  font-family: var(--font-titre);
+  font-size: .9rem; font-weight: 700;
+  color: #1a0e00;
+  margin: 1.5rem 0 .6rem;
+}
+.page-body p {
+  font-size: 1.05rem; font-weight: 500;
+  color: #221808; line-height: 1.85;
+  margin-bottom: 1rem;
+}
+.page-body ul, .page-body ol {
+  padding-left: 1.8rem;
+  margin-bottom: 1.2rem;
+}
+.page-body li {
+  font-size: 1rem; font-weight: 500;
+  color: #221808; line-height: 1.75;
+  margin-bottom: .3rem;
+}
+.page-body hr {
+  border: none;
+  border-top: 1px solid var(--bg5);
+  margin: 2rem 0;
+}
