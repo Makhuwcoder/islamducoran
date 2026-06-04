@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ش-ف-ع"
 racine_ar: "الشَّفَاعَة"
-date: 2024-06-15
+date: 2026-04-04
 description: "Corpus exhaustif des occurrences de shafāʿa dans le Coran. Trois catégories : niée absolument, conditionnée par idhn et riḍā, revendiquée sans autorisation. Verset-clé : qul li-llāhi sh-shafāʿatu jamīʿā (39:44)."
 ---
 
