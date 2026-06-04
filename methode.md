@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "La méthode"
 subtitle: "Protocole d'investigation, sources lexicographiques, discipline du dit / non-dit / inférence"
 date: 2024-01-01
@@ -7,73 +7,85 @@ description: "La méthode islamducoran.fr : lecture intra-coranique exclusive, l
 permalink: /methode/
 ---
 
-## Une méthode, non une école
+<div class="site-main">
 
-islamducoran.fr n'est pas une école de pensée. Ce n'est pas une *fatwa*, ni une *madhhab*, ni un mouvement. C'est une **méthode** — un protocole rigoureux appliqué à un corpus unique : le texte coranique lui-même.
+  <header class="page-header">
+    <div class="page-header__categorie">islamducoran.fr</div>
+    <h1 class="page-header__title">La méthode</h1>
+    <p class="page-header__subtitle">Protocole d'investigation · Sources lexicographiques · Discipline du dit / non-dit / inférence</p>
+  </header>
 
-Cette méthode repose sur quatre règles absolues.
+  <div class="page-body">
 
----
+<h2>Une méthode, non une école</h2>
 
-## I · Le Coran se lit par lui-même
+<p>islamducoran.fr n'est pas une école de pensée. Ce n'est pas une <em>fatwa</em>, ni une <em>madhhab</em>, ni un mouvement. C'est une <strong>méthode</strong> — un protocole rigoureux appliqué à un corpus unique : le texte coranique lui-même.</p>
 
-Les versets s'éclairent mutuellement. Aucune source extérieure — *ḥadīth*, *tafsīr*, école juridique — n'est invoquée pour prescrire ce que le texte ne prescrit pas.
+<p>Cette méthode repose sur quatre règles absolues.</p>
 
-Cela ne signifie pas que les traditions sont ignorées. Elles sont mentionnées quand elles sont pertinentes — pour situer une divergence, nommer une position historique, ou identifier un écart entre ce que le texte dit et ce qu'une tradition lui fait dire. Elles ne sont jamais utilisées comme *fondement normatif*.
+<hr>
 
----
+<h2>I · Le Coran se lit par lui-même</h2>
 
-## II · La lexicographie classique comme outil de langue
+<p>Les versets s'éclairent mutuellement. Aucune source extérieure — <em>ḥadīth</em>, <em>tafsīr</em>, école juridique — n'est invoquée pour prescrire ce que le texte ne prescrit pas.</p>
 
-Le Coran a été révélé en arabe classique. Pour tout lecteur dont l'arabe n'est ni la langue maternelle ni la langue d'époque du texte, comprendre le sens premier des racines est une nécessité linguistique — non une démarche herméneutique.
+<p>Cela ne signifie pas que les traditions sont ignorées. Elles sont mentionnées quand elles sont pertinentes — pour situer une divergence, nommer une position historique, ou identifier un écart entre ce que le texte dit et ce qu'une tradition lui fait dire. Elles ne sont jamais utilisées comme <em>fondement normatif</em>.</p>
 
-**Trois sources lexicographiques exclusives :**
+<hr>
 
-***Al-Khalīl ibn Aḥmad al-Farāhīdī*** · *Kitāb al-ʿAyn* (IIe siècle H) — le premier dictionnaire de la langue arabe.
+<h2>II · La lexicographie classique comme outil de langue</h2>
 
-***Ibn Fāris*** · *Maqāyīs al-Lugha* (IVe siècle H) — chaque entrée identifie le **sens primitif unique** (*al-aṣl*) d'une racine, duquel procèdent toutes ses applications.
+<p>Le Coran a été révélé en arabe classique. Pour tout lecteur dont l'arabe n'est ni la langue maternelle ni la langue d'époque du texte, comprendre le sens premier des racines est une nécessité linguistique — non une démarche herméneutique.</p>
 
-***Ibn Manẓūr*** · *Lisān al-ʿArab* (VIIe siècle H) — encyclopédie du lexique arabe classique.
+<p><strong>Trois sources lexicographiques exclusives :</strong></p>
 
-Ces sources sont des **références de langue uniquement** — elles n'ont aucune autorité sur le sens du texte coranique, aucune autorité normative sur le *dīn*.
+<p><strong><em>Al-Khalīl ibn Aḥmad al-Farāhīdī</em></strong> · <em>Kitāb al-ʿAyn</em> (IIe siècle H) — le premier dictionnaire de la langue arabe.</p>
 
----
+<p><strong><em>Ibn Fāris</em></strong> · <em>Maqāyīs al-Lugha</em> (IVe siècle H) — chaque entrée identifie le <strong>sens primitif unique</strong> (<em>al-aṣl</em>) d'une racine, duquel procèdent toutes ses applications.</p>
 
-## III · La discipline du dit / non-dit / inférence
+<p><strong><em>Ibn Manẓūr</em></strong> · <em>Lisān al-ʿArab</em> (VIIe siècle H) — encyclopédie du lexique arabe classique.</p>
 
-C'est le cœur de la méthode. Trois catégories distinctes, non substituables :
+<p>Ces sources sont des <strong>références de langue uniquement</strong> — elles n'ont aucune autorité sur le sens du texte coranique, aucune autorité normative sur le <em>dīn</em>.</p>
 
-**Dit** — ce que le texte énonce explicitement. Documenté avec le verset et sa référence. Aucun ajout.
+<hr>
 
-**Non-dit** — ce que le texte ne dit pas. Désigné comme tel. **Jamais comblé normativement.** Les silences du texte sont des silences — non des lacunes à remplir par la tradition humaine.
+<h2>III · La discipline du dit / non-dit / inférence</h2>
 
-**Inférence** — ce qui peut être déduit du texte, en suivant sa logique interne. **Toujours nommée comme inférence.** Jamais élevée au rang de fait textuel.
+<p>C'est le cœur de la méthode. Trois catégories distinctes, non substituables :</p>
 
----
+<p><strong>Dit</strong> — ce que le texte énonce explicitement. Documenté avec le verset et sa référence. Aucun ajout.</p>
 
-## IV · Les conclusions sont des cartographies, non des dogmes
+<p><strong>Non-dit</strong> — ce que le texte ne dit pas. Désigné comme tel. <strong>Jamais comblé normativement.</strong> Les silences du texte sont des silences — non des lacunes à remplir par la tradition humaine.</p>
 
-Ce travail produit une **compréhension**, non une doctrine. Il est ouvert à la correction par le texte lui-même.
+<p><strong>Inférence</strong> — ce qui peut être déduit du texte, en suivant sa logique interne. <strong>Toujours nommée comme inférence.</strong> Jamais élevée au rang de fait textuel.</p>
 
-Chaque étude est révisable. Aucune conclusion ne prétend à l'infaillibilité. L'unique garant de la compréhension est Allaah.
+<hr>
 
----
+<h2>IV · Les conclusions sont des cartographies, non des dogmes</h2>
 
-## Ce que la méthode exclut
+<p>Ce travail produit une <strong>compréhension</strong>, non une doctrine. Il est ouvert à la correction par le texte lui-même.</p>
 
-La méthode exclut formellement :
+<p>Chaque étude est révisable. Aucune conclusion ne prétend à l'infaillibilité. L'unique garant de la compréhension est Allaah.</p>
 
-- Tout *ḥadīth* comme source normative sur le *dīn*
-- Tout *tafsīr* comme autorité interprétative
-- Tout *ijmāʿ*, *qiyās*, *fatwa* comme fondement
-- Toute école juridique (*madhab*) comme cadre de lecture
-- Toute inférence présentée comme fait textuel
-- Tout silence du texte comblé par une prescription humaine
+<hr>
 
----
+<h2>Ce que la méthode exclut</h2>
 
-<div class="declaration">
+<p>La méthode exclut formellement :</p>
+<ul>
+<li>Tout <em>ḥadīth</em> comme source normative sur le <em>dīn</em></li>
+<li>Tout <em>tafsīr</em> comme autorité interprétative</li>
+<li>Tout <em>ijmāʿ</em>, <em>qiyās</em>, <em>fatwa</em> comme fondement</li>
+<li>Toute école juridique (<em>madhab</em>) comme cadre de lecture</li>
+<li>Toute inférence présentée comme fait textuel</li>
+<li>Tout silence du texte comblé par une prescription humaine</li>
+</ul>
+
+<div class="declaration" style="margin-top:2.5rem">
   <span class="declaration__label">Principe cardinal</span>
   <p>Ne jamais ajouter au texte ce qu'il ne dit pas. Ne jamais effacer un dit textuel au profit d'une position préétablie. Le texte dit ce qu'il dit — rien de plus, rien de moins.</p>
   <p style="margin-top:.7rem; font-style:italic; text-align:center">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ (S.54:17)</p>
 </div>
+
+  </div><!-- .page-body -->
+</div><!-- .site-main -->
