@@ -2,8 +2,9 @@
 layout: etude
 title: "Kitmān, retour et bayān — S.2:159–163"
 subtitle: "Dissimulation de la révélation, conditions du pardon, et déclaration publique"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Nabuwwa & Risāla"
+categorie_slug: "nabuwwa"
+order: 30
 racine: "ك-ت-م"
 racine_ar: "الكِتْمَان"
 date: 2026-04-02
