@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ر-ب-و"
 racine_ar: "الرِّبَا"
-date: 2024-04-16
+date: 2026-04-16
 description: "Les quatre occurrences coraniques du ribā (30:39, 4:161, 3:130, 2:275–280). Analyse lexicale de aḍʿāfan muḍāʿafatan (seuil ≥+300%). À qui s'adresse la prohibition — le créancier. Confrontation avec les banques dites islamiques."
 ---
 
