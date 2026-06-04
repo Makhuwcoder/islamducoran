@@ -13,7 +13,7 @@ permalink: /etudes/
     <p class="page-header__subtitle">مَفَاهِيمُ أَسَاسِيَّة — Le Coran lu par lui-même · Dit / Non-dit / Inférence</p>
     <div class="page-header__meta">
       <span class="tag">{{ site.etudes | size }} études</span>
-      <span class="tag">Sans tafsīr · Sans hadīth</span>
+      <span class="tag">Sans tafsīr · Sans ḥadīth</span>
     </div>
   </header>
 
@@ -35,21 +35,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_nabuwwa %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -63,21 +63,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_calendrier %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -91,21 +91,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_ibadaat %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -119,21 +119,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_sources %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -147,21 +147,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_societe %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -175,21 +175,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_droit %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -203,21 +203,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_communaute %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
@@ -231,21 +231,21 @@ permalink: /etudes/
 </div>
 <div class="etudes-grid">
   {% for etude in g_eschatologie %}
-  {{% if etude.coming_soon %}}
+  {% if etude.coming_soon %}
   <div class="etude-card etude-card--soon">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
     <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
   </div>
-  {{% else %}}
-  <a class="etude-card" href="{{{{ etude.url | relative_url }}}}">
-    {{% if etude.racine_ar %}}<div class="etude-card__racine" dir="rtl">{{{{ etude.racine_ar }}}}</div>{{% endif %}}
-    <div class="etude-card__titre">{{{{ etude.title }}}}</div>
-    {{% if etude.subtitle %}}<p class="etude-card__resume">{{{{ etude.subtitle }}}}</p>{{% endif %}}
-    {{% if etude.racine %}}<div class="etude-card__tag">{{{{ etude.racine }}}}</div>{{% endif %}}
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
   </a>
-  {{% endif %}}
+  {% endif %}
   {% endfor %}
 </div>
 {% endif %}
