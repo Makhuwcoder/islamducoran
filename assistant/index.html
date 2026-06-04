@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assistant islamducoran.fr</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#e8dcc8;--bg2:#ddd0b8;--bg3:#f0e8d8;--bg4:#c8bc9c;
+  --texte:#221808;--texte2:#4a3418;--texte3:#7a6040;
+  --or:#8a6810;--or2:#a07820;--or3:#c09030;--or4:#d4a830;
+  --border:#b8a888;
+  --font-titre:'Cinzel',Georgia,serif;
+  --font-corps:'Cormorant Garamond',Georgia,serif;
+  --font-arabe:'Amiri',Georgia,serif;
+}
+html,body{height:100%;background:var(--bg);color:var(--texte);font-family:var(--font-corps);font-size:16px;line-height:1.7;overflow:hidden}
+.hdr{background:linear-gradient(180deg,#d4c8a0 0%,var(--bg) 100%);border-bottom:1px solid var(--border);padding:.7rem 1.2rem;display:flex;align-items:center;gap:.8rem}
+.hdr__ar{font-family:var(--font-arabe);font-size:1.2rem;color:var(--or3);direction:rtl;line-height:1}
+.hdr__title{font-family:var(--font-titre);font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--texte);font-weight:700}
+.hdr__sub{font-size:.7rem;color:var(--texte3);font-style:italic}
+.hdr__badge{margin-left:auto;font-family:var(--font-titre);font-size:.48rem;letter-spacing:.12em;text-transform:uppercase;color:var(--or3);border:1px solid var(--or3);padding:.14rem .45rem;border-radius:2px;opacity:.8}
+.chat-wrap{display:flex;flex-direction:column;height:calc(100vh - 100px)}
+.messages{flex:1;overflow-y:auto;padding:1rem 1rem .5rem;display:flex;flex-direction:column;gap:.9rem;scroll-behavior:smooth}
+.messages::-webkit-scrollbar{width:4px}
+.messages::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+.msg{max-width:88%;animation:fi .2s ease}
+@keyframes fi{from{opacity:0;transform:translateY(3px)}to{opacity:1;transform:none}}
+.msg--user{align-self:flex-end}
+.msg--assistant{align-self:flex-start}
+.msg__bubble{padding:.6rem .95rem;border-radius:4px;font-size:.92rem;line-height:1.78}
+.msg--user .msg__bubble{background:var(--or2);color:#f8f0d8;border-radius:4px 4px 0 4px;font-style:italic}
+.msg--assistant .msg__bubble{background:var(--bg3);border:1px solid var(--border);color:var(--texte);border-radius:4px 4px 4px 0;white-space:pre-wrap}
+.msg--assistant .msg__bubble strong{color:var(--or2);font-weight:600}
+.msg--assistant .msg__bubble a{color:var(--or2);text-decoration:underline dotted}
+.msg--assistant .msg__bubble code{font-family:monospace;font-size:.82rem;background:var(--bg2);padding:.1rem .3rem;border-radius:2px;color:var(--or)}
+.thinking{display:flex;gap:4px;align-items:center;padding:.6rem .95rem}
+.dot{width:5px;height:5px;background:var(--or3);border-radius:50%;animation:b 1.2s infinite}
+.dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}
+@keyframes b{0%,80%,100%{transform:translateY(0)}40%{transform:translateY(-5px)}}
+.sugs{padding:.4rem 1rem;display:flex;flex-wrap:wrap;gap:.4rem}
+.sug{font-family:var(--font-titre);font-size:.53rem;letter-spacing:.08em;text-transform:uppercase;color:var(--or2);border:1px solid var(--border);background:var(--bg3);padding:.22rem .55rem;border-radius:2px;cursor:pointer;transition:background .15s}
+.sug:hover{background:var(--bg2);border-color:var(--or3)}
+.input-area{border-top:1px solid var(--border);background:var(--bg2);padding:.65rem 1rem;display:flex;gap:.55rem;align-items:flex-end}
+textarea{flex:1;background:var(--bg3);border:1px solid var(--border);border-radius:3px;padding:.52rem .75rem;font-family:var(--font-corps);font-size:.91rem;color:var(--texte);resize:none;outline:none;line-height:1.6;min-height:38px;max-height:110px;overflow-y:auto;transition:border-color .15s}
+textarea:focus{border-color:var(--or3)}
+textarea::placeholder{color:var(--texte3);font-style:italic}
+.send{background:var(--or3);color:#f8f0d8;border:none;border-radius:3px;padding:.48rem .8rem;cursor:pointer;font-family:var(--font-titre);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;transition:background .15s;height:38px;white-space:nowrap}
+.send:hover{background:var(--or4)}
+.send:disabled{opacity:.5;cursor:not-allowed}
+.disc{font-family:var(--font-titre);font-size:.48rem;letter-spacing:.1em;text-transform:uppercase;color:var(--texte3);text-align:center;padding:.3rem;border-top:1px solid var(--border);background:var(--bg2)}
+.welcome{text-align:center;padding:1.8rem 1.2rem;display:flex;flex-direction:column;align-items:center;gap:.8rem}
+.welcome__ar{font-family:var(--font-arabe);font-size:1.5rem;color:var(--or3);direction:rtl}
+.welcome__sep{width:50px;height:1px;background:linear-gradient(90deg,transparent,var(--or3),transparent)}
+.welcome__t{font-family:var(--font-titre);font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;color:var(--texte);font-weight:700}
+.welcome__p{font-size:.86rem;color:var(--texte2);max-width:460px;line-height:1.75;font-style:italic}
+</style>
+</head>
+<body>
+<div class="hdr">
+  <div class="hdr__ar">بِسْمِ اللَّهِ</div>
+  <div>
+    <div class="hdr__title">islamducoran.fr</div>
+    <div class="hdr__sub">Le Coran lu par lui-même</div>
+  </div>
+  <div class="hdr__badge">Assistant · Bêta</div>
+</div>
+<div class="chat-wrap">
+  <div class="messages" id="msgs">
+    <div class="welcome">
+      <div class="welcome__ar">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ</div>
+      <div class="welcome__sep"></div>
+      <div class="welcome__t">Assistant islamducoran.fr</div>
+      <div class="welcome__p">Posez vos questions sur le Coran, les études publiées, les racines arabes, la méthode dit&nbsp;/&nbsp;non-dit&nbsp;/&nbsp;inférence. Toute réponse s'appuie exclusivement sur le texte coranique et la lexicographie classique. Aucun ḥadīth · Aucun tafsīr · Aucune école.</div>
+    </div>
+  </div>
+  <div class="sugs" id="sugs">
+    <button class="sug" onclick="us(this)">Qu'est-ce que le shirk selon le Coran ?</button>
+    <button class="sug" onclick="us(this)">Le Nabī est-il législateur ?</button>
+    <button class="sug" onclick="us(this)">Définition coranique de *dīn*</button>
+    <button class="sug" onclick="us(this)">Ce que dit le Coran sur la ṣalāt</button>
+    <button class="sug" onclick="us(this)">Méthode dit / non-dit / inférence</button>
+    <button class="sug" onclick="us(this)">Études disponibles</button>
+  </div>
+  <div class="input-area">
+    <textarea id="inp" placeholder="Votre question sur le Coran…" rows="1"></textarea>
+    <button class="send" id="btn" onclick="send()">Envoyer</button>
+  </div>
+</div>
+<div class="disc">Aucune autorité humaine sur le dīn · al-Farāhīdī · Ibn Fāris · Ibn Manẓūr</div>
+
+<script>
+const SYS=`Tu es l'assistant d'islamducoran.fr — lecture rigoureuse du Coran fondée exclusivement sur le texte coranique en arabe classique.
+
+MÉTHODE OBLIGATOIRE — toute réponse distingue :
+• DIT = ce que le texte énonce explicitement (citer le verset avec référence)
+• NON-DIT = silence du texte — jamais comblé normativement
+• INFÉRENCE = déduit du texte, toujours nommée comme telle
+
+SOURCES LEXICOGRAPHIQUES EXCLUSIVES :
+• Al-Farāhīdī — Kitāb al-ʿAyn (IIe H)
+• Ibn Fāris — Maqāyīs al-Lugha (IVe H)
+• Ibn Manẓūr — Lisān al-ʿArab (VIIe H)
+Ces sources sont références de langue uniquement — aucune autorité normative sur le dīn.
+
+SOURCES EXCLUES : ḥadīth, tafsīr, ijmāʿ, qiyās, fatwa, école juridique.
+
+TERMINOLOGIE ABSOLUE — RÈGLES INVIOLABLES :
+• JAMAIS "divin/divine/divinité" pour Allaah → "d'Allaah", "propre à Allaah"
+• JAMAIS "Dieu" → toujours "Allaah"
+• JAMAIS "religion" pour dīn → translittération + note lexicale
+• JAMAIS "ange" pour malak/malāʾika → translittération
+• JAMAIS "al-Khaḍir" (absent du Coran — 18:65 dit "un serviteur")
+• JAMAIS "Celui qui" pour Allaah → "Ce qui" (neutre absolu)
+• JAMAIS "Le très haut" pour al-Aʿlā → arabe + note
+• JAMAIS "attribut" pour les ṣifāt → "ce que l'on peut dire lorsqu'on parle d'Allaah"
+• Al-muslimīn : jamais identité confessionnelle
+
+TRADUCTION : identifier sens possibles → cohérence intra-coranique → plusieurs lectures ? les nommer toutes → porter le sens en français, jamais calquer l'arabe.
+
+ÉTUDES PUBLIÉES (mentionner l'URL quand pertinent) :
+
+NABUWWA & RISĀLA :
+• Khātam al-nabiyyīn : islamducoran.fr/etudes/khatam-nabiyyin/
+• L'abandon du Coran (S.25:30) : islamducoran.fr/etudes/khatam-nabiyyin/ [voir étude]
+• Le Nabī n'est pas législateur : islamducoran.fr/etudes/nabi-legislateur/
+• Kitmān et bayān (S.2:159–163) : islamducoran.fr/etudes/kitman-bayyan/
+
+CALENDRIER : islamducoran.fr/etudes/calendrier-lunaire/
+
+PRATIQUES RITUELLES :
+• Ṣalāt : islamducoran.fr/etudes/salat-coran/
+• Duʿāʾ dans la ṣalāt : islamducoran.fr/etudes/duaa-salat/
+• Al-Ḥajar al-Aswad : islamducoran.fr/etudes/hajar-aswad/
+• Al-Baraka wa-l-Tabarruk : islamducoran.fr/etudes/baraka-tabarruk/
+• Al-Kiswa : islamducoran.fr/etudes/kiswa/
+• ʿĪd al-Aḍḥā : islamducoran.fr/etudes/eid-adha/
+• Ḥajj et ʿUmra : islamducoran.fr/etudes/hajj-oumra/
+• Zakāt : islamducoran.fr/etudes/zakat/
+• Hātu Burhānakum : islamducoran.fr/etudes/hatu-burhanakum/
+
+AUTORITÉ & SOURCES :
+• Ḥadīth : islamducoran.fr/etudes/hadith-coran/
+• Sunna : islamducoran.fr/etudes/sunna-coran/
+• Fatwā : islamducoran.fr/etudes/fatwa/
+• Ḥalāl/Ḥarām : islamducoran.fr/etudes/halal-haram/
+• Ulū l-albāb : islamducoran.fr/etudes/ulu-albab/
+• Naskh : islamducoran.fr/etudes/naskh/
+• Intraduisible ? : islamducoran.fr/etudes/traduction-intraduisible/
+• Qirāʾāt : islamducoran.fr/etudes/qiraaat-recitations/
+
+CORPS, FAMILLE & SOCIÉTÉ :
+• Yatīm : islamducoran.fr/etudes/yatim/
+• Parents : islamducoran.fr/etudes/rapports-parents/
+• Femmes/hommes : islamducoran.fr/etudes/femmes-hommes/
+• Seuls hommes ? : islamducoran.fr/etudes/coran-seuls-hommes/
+• Polygamie : islamducoran.fr/etudes/polygamie/
+• Esclavage : islamducoran.fr/etudes/esclavage/
+
+DROIT & ÉCONOMIE :
+• Ribā : islamducoran.fr/etudes/riba/
+• Zakāt : islamducoran.fr/etudes/zakat/
+• Fasād/mufsidūn : islamducoran.fr/etudes/fasad-mufsidun/
+
+COMMUNAUTÉ & IDENTITÉ :
+• Shirk : islamducoran.fr/etudes/shirk/
+• Kāfir : islamducoran.fr/etudes/kafir-coran/
+• Minorité des croyants : islamducoran.fr/etudes/minorite-croyants/
+
+ESCHATOLOGIE :
+• Dernière heure : islamducoran.fr/etudes/mecanisme-derniere-heure/
+• Barzakh : islamducoran.fr/etudes/amwat-ahyaa-barzakh/
+• Signes : islamducoran.fr/etudes/heure-signes/
+• Sortir du feu : islamducoran.fr/etudes/sortir-du-feu/
+• Shafāʿa : islamducoran.fr/etudes/shafaa/
+
+BARĀA : islamducoran.fr n'est affilié à aucune école, mouvement, courant. Source unique : le Coran. Autorité unique : Allaah.
+
+FORMAT : réponses claires et structurées. Arabe en translittération précise avec racine. Citer versets (S.x:y). Nommer explicitement les silences. Mentionner URLs études pertinentes.`;
+
+const CONV=[];
+function fmt(t){return t.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<em>$1</em>').replace(/`([^`]+)`/g,'<code>$1</code>').replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank">$1</a>')}
+function addMsg(role,text){
+  const m=document.getElementById('msgs');
+  const w=m.querySelector('.welcome');if(w)w.remove();
+  const d=document.createElement('div');d.className='msg msg--'+role;
+  const b=document.createElement('div');b.className='msg__bubble';
+  if(role==='assistant')b.innerHTML=fmt(text);else b.textContent=text;
+  d.appendChild(b);m.appendChild(d);m.scrollTop=m.scrollHeight;return d;
+}
+function showDots(){
+  const m=document.getElementById('msgs');
+  const d=document.createElement('div');d.className='msg msg--assistant';d.id='dots';
+  d.innerHTML='<div class="msg__bubble thinking"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>';
+  m.appendChild(d);m.scrollTop=m.scrollHeight;
+}
+function rmDots(){const d=document.getElementById('dots');if(d)d.remove();}
+function us(b){document.getElementById('inp').value=b.textContent;send();}
+function hideSugs(){document.getElementById('sugs').style.display='none';}
+async function send(){
+  const inp=document.getElementById('inp'),btn=document.getElementById('btn');
+  const t=inp.value.trim();if(!t||btn.disabled)return;
+  hideSugs();inp.value='';inp.style.height='auto';btn.disabled=true;
+  addMsg('user',t);CONV.push({role:'user',content:t});
+  showDots();
+  try{
+    const r=await fetch('https://api.anthropic.com/v1/messages',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({model:'claude-sonnet-4-20250514',max_tokens:1024,system:SYS,messages:CONV.slice(-12)})
+    });
+    const data=await r.json();rmDots();
+    if(data.content&&data.content[0]){
+      const rep=data.content[0].text;
+      CONV.push({role:'assistant',content:rep});addMsg('assistant',rep);
+    }else{addMsg('assistant','Erreur de réponse. Veuillez réessayer.');}
+  }catch(e){rmDots();addMsg('assistant','Erreur de connexion. Veuillez réessayer.');}
+  btn.disabled=false;inp.focus();
+}
+const ta=document.getElementById('inp');
+ta.addEventListener('input',function(){this.style.height='auto';this.style.height=Math.min(this.scrollHeight,110)+'px';});
+ta.addEventListener('keydown',function(e){if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send();}});
+</script>
+</body>
+</html>
