@@ -2,8 +2,9 @@
 layout: etude
 title: "Ḥadīth حَدِيث"
 subtitle: "Définition coranique et étendue réelle d'un terme décisif — ce que le texte désigne par ce mot dans toute la portée que lui donne le Coran lui-même"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Autorité légifératrice & Sources"
+categorie_slug: "sources"
+order: 310
 racine: "ح-د-ث"
 racine_ar: "حَدِيث"
 date: 2026-04-18
