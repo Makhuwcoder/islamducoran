@@ -2,8 +2,9 @@
 layout: etude
 title: "Ḥalāl et Ḥarām dans le Coran"
 subtitle: "Qui a le droit de déclarer ḥalāl ou ḥarām ? — Ce que le texte dit, et l'étendue réelle des interdictions coraniques"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Autorité légifératrice & Sources"
+categorie_slug: "sources"
+order: 340
 racine: "ح-ل-ل / ح-ر-م"
 racine_ar: "حَلَال · حَرَام"
 date: 2026-03-20
