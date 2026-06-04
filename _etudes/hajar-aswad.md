@@ -5,7 +5,7 @@ subtitle: "Origine islamique ou héritage de la Jāhiliyya ? Ce que l'histoire a
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine_ar: "الْحَجَرُ الأَسْوَد"
-date: 2024-04-15
+date: 2026-04-15
 description: "Al-Ḥajar al-Aswad est absent du Coran. Antériorité pré-islamique documentée. Épisode qarmate. Déclaration de ʿUmar ibn al-Khaṭṭāb. Confrontation avec S.39:3 et S.4:48."
 ---
 
