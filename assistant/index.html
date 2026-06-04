@@ -17,97 +17,149 @@
 html,body{height:100%;background:var(--bg);color:var(--tx);font-family:var(--f-c);font-size:16px}
 
 /* ── HEADER ── */
-.hdr{background:linear-gradient(180deg,#d4c8a0,var(--bg));border-bottom:1px solid var(--bd);
-  padding:.65rem 1.2rem;display:flex;align-items:center;gap:.75rem}
-.hdr-ar{font-family:var(--f-a);font-size:1.15rem;color:var(--or3);direction:rtl;line-height:1}
-.hdr-ti{font-family:var(--f-t);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
-.hdr-su{font-size:.68rem;color:var(--tx3);font-style:italic}
-.hdr-bx{margin-left:auto;font-family:var(--f-t);font-size:.45rem;letter-spacing:.12em;
-  text-transform:uppercase;color:var(--or3);border:1px solid var(--or3);padding:.13rem .42rem;border-radius:2px}
+.hdr{
+  background:linear-gradient(180deg,#d4c8a0,var(--bg));
+  border-bottom:1px solid var(--bd);
+  padding:.6rem 1.2rem;
+  display:flex;align-items:center;gap:.75rem;
+  position:relative;z-index:10;
+}
+.hdr-ar{font-family:var(--f-a);font-size:1.1rem;color:var(--or3);direction:rtl;line-height:1}
+.hdr-ti{font-family:var(--f-t);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
+.hdr-su{font-size:.65rem;color:var(--tx3);font-style:italic}
+.hdr-bx{margin-left:auto;font-family:var(--f-t);font-size:.44rem;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--or3);border:1px solid var(--or3);
+  padding:.12rem .4rem;border-radius:2px}
 
-/* ── MODE ACCUEIL (saisie centrée) ── */
+/* ── FLOATING INPUT (top-right) ── */
+.float-input{
+  position:fixed;
+  top:56px;
+  right:1.2rem;
+  z-index:100;
+  width:320px;
+  background:var(--bg3);
+  border:1px solid var(--or3);
+  border-radius:6px;
+  box-shadow:0 4px 20px rgba(120,80,0,.18);
+  padding:.65rem .8rem;
+  display:flex;flex-direction:column;gap:.5rem;
+  transition:opacity .2s,transform .2s;
+}
+.float-input.hidden{opacity:0;pointer-events:none;transform:translateY(-6px)}
+.float-label{
+  font-family:var(--f-t);font-size:.5rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--or3);font-weight:700;
+}
+.float-row{display:flex;gap:.4rem;align-items:flex-end}
+.float-input textarea{
+  flex:1;background:var(--bg);border:1px solid var(--bd);border-radius:3px;
+  padding:.45rem .65rem;font-family:var(--f-c);font-size:.88rem;color:var(--tx);
+  resize:none;outline:none;line-height:1.55;min-height:36px;max-height:90px;
+  overflow-y:auto;transition:border-color .15s;
+}
+.float-input textarea:focus{border-color:var(--or3)}
+.float-input textarea::placeholder{color:var(--tx3);font-style:italic}
+.float-btn{
+  background:var(--or3);color:#f8f0d8;border:none;border-radius:3px;
+  padding:.44rem .7rem;cursor:pointer;font-family:var(--f-t);font-size:.56rem;
+  letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+  transition:background .15s;height:36px;white-space:nowrap;
+}
+.float-btn:hover{background:var(--or4)}
+.float-btn:disabled{opacity:.45;cursor:not-allowed}
+.float-sugs{display:flex;flex-wrap:wrap;gap:.3rem}
+.sug{
+  font-family:var(--f-t);font-size:.44rem;letter-spacing:.07em;text-transform:uppercase;
+  color:var(--or2);border:1px solid var(--bd);background:var(--bg2);
+  padding:.18rem .45rem;border-radius:2px;cursor:pointer;transition:background .15s;
+}
+.sug:hover{background:var(--bg2);border-color:var(--or3)}
+/* toggle button to show/hide float input */
+.float-toggle{
+  position:fixed;top:58px;right:1.2rem;z-index:101;
+  background:var(--or3);color:#f8f0d8;border:none;border-radius:4px;
+  padding:.38rem .7rem;cursor:pointer;font-family:var(--f-t);
+  font-size:.52rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;
+  box-shadow:0 2px 8px rgba(120,80,0,.25);
+  transition:background .15s;
+  display:none;
+}
+.float-toggle:hover{background:var(--or4)}
+.float-toggle.visible{display:block}
+
+/* ── MODE ACCUEIL ── */
 .accueil{
   display:flex;flex-direction:column;align-items:center;justify-content:center;
-  min-height:calc(100vh - 58px);
-  padding:2rem 1.5rem;
-  gap:1.2rem;
+  min-height:calc(100vh - 56px);padding:2rem 1.5rem;gap:1.2rem;
 }
 .accueil.hidden{display:none}
 .wlc-ar{font-family:var(--f-a);font-size:2rem;color:var(--or3);direction:rtl;line-height:1.2}
 .wlc-sp{width:56px;height:1px;background:linear-gradient(90deg,transparent,var(--or3),transparent)}
-.wlc-ti{font-family:var(--f-t);font-size:.88rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:var(--tx)}
-.wlc-tx{font-size:.88rem;color:var(--tx2);max-width:520px;line-height:1.8;font-style:italic;text-align:center}
-
-/* saisie centrale */
-.inp-central{width:100%;max-width:640px;display:flex;flex-direction:column;gap:.6rem}
-.inp-row{display:flex;gap:.5rem;align-items:flex-end}
-textarea{
+.wlc-ti{font-family:var(--f-t);font-size:.88rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}
+.wlc-tx{font-size:.88rem;color:var(--tx2);max-width:500px;line-height:1.8;font-style:italic;text-align:center}
+.accueil-inp{width:100%;max-width:600px;display:flex;flex-direction:column;gap:.6rem}
+.accueil-row{display:flex;gap:.5rem;align-items:flex-end}
+.accueil-inp textarea{
   flex:1;background:var(--bg3);border:1px solid var(--bd);border-radius:3px;
   padding:.55rem .8rem;font-family:var(--f-c);font-size:.95rem;color:var(--tx);
   resize:none;outline:none;line-height:1.6;min-height:48px;max-height:120px;
   overflow-y:auto;transition:border-color .15s;
 }
-textarea:focus{border-color:var(--or3)}
-textarea::placeholder{color:var(--tx3);font-style:italic}
-.btn{
+.accueil-inp textarea:focus{border-color:var(--or3)}
+.accueil-inp textarea::placeholder{color:var(--tx3);font-style:italic}
+.accueil-btn{
   background:var(--or3);color:#f8f0d8;border:none;border-radius:3px;
   padding:.5rem .9rem;cursor:pointer;font-family:var(--f-t);font-size:.62rem;
   letter-spacing:.1em;text-transform:uppercase;font-weight:700;
-  transition:background .15s;white-space:nowrap;align-self:flex-end;height:48px;
+  transition:background .15s;height:48px;white-space:nowrap;
 }
-.btn:hover{background:var(--or4)}.btn:disabled{opacity:.45;cursor:not-allowed}
-
-/* suggestions rapides */
-.sugs{display:flex;flex-wrap:wrap;gap:.35rem;justify-content:center}
-.sug{
-  font-family:var(--f-t);font-size:.5rem;letter-spacing:.07em;text-transform:uppercase;
-  color:var(--or2);border:1px solid var(--bd);background:var(--bg3);
-  padding:.2rem .52rem;border-radius:2px;cursor:pointer;transition:background .15s;
-}
-.sug:hover{background:var(--bg2);border-color:var(--or3)}
+.accueil-btn:hover{background:var(--or4)}.accueil-btn:disabled{opacity:.45;cursor:not-allowed}
+.accueil-sugs{display:flex;flex-wrap:wrap;gap:.35rem;justify-content:center}
 
 /* ── MODE CHAT ── */
-.chat-mode{display:none;flex-direction:column;height:calc(100vh - 58px)}
+.chat-mode{display:none;flex-direction:column;height:calc(100vh - 56px);padding-top:.5rem}
 .chat-mode.active{display:flex}
 .msgs{
-  flex:1;overflow-y:auto;padding:.9rem 1rem .5rem;
+  flex:1;overflow-y:auto;padding:.8rem 1.2rem 1rem;
   display:flex;flex-direction:column;gap:.8rem;scroll-behavior:smooth;
 }
 .msgs::-webkit-scrollbar{width:3px}
 .msgs::-webkit-scrollbar-thumb{background:var(--bd)}
+
+/* bouton nouvelle question (en bas) */
+.new-btn-bar{
+  border-top:1px solid var(--bd);background:var(--bg2);
+  padding:.5rem 1.2rem;display:flex;gap:.7rem;align-items:center;flex-shrink:0;
+}
+.new-btn{
+  background:transparent;color:var(--or2);border:1px solid var(--or2);border-radius:3px;
+  padding:.38rem .8rem;cursor:pointer;font-family:var(--f-t);font-size:.54rem;
+  letter-spacing:.1em;text-transform:uppercase;font-weight:700;transition:all .15s;
+}
+.new-btn:hover{background:var(--or2);color:#f8f0d8}
+.disc{font-family:var(--f-t);font-size:.44rem;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);margin-left:auto}
+
+/* messages */
 .msg{max-width:88%;animation:fi .2s ease}
 @keyframes fi{from{opacity:0;transform:translateY(3px)}to{opacity:1}}
 .msg-u{align-self:flex-end}
 .msg-a{align-self:flex-start}
-.bbl{padding:.58rem .9rem;border-radius:4px;font-size:.9rem;line-height:1.78}
+.bbl{padding:.58rem .95rem;border-radius:4px;font-size:.9rem;line-height:1.82}
 .msg-u .bbl{background:var(--or2);color:#f8f0d8;border-radius:4px 4px 0 4px;font-style:italic}
 .msg-a .bbl{background:var(--bg3);border:1px solid var(--bd);border-radius:4px 4px 4px 0;white-space:pre-wrap}
 .msg-a .bbl strong{color:var(--or2)}
 .msg-a .bbl a{color:var(--or2);text-decoration:underline dotted}
+.msg-a .bbl em{color:var(--tx2)}
 .msg-a .bbl code{font-family:monospace;font-size:.82rem;background:var(--bg2);padding:.1rem .28rem;border-radius:2px;color:#8a6810}
-.dots-w{display:flex;gap:4px;align-items:center;padding:.58rem .9rem}
+.dots-w{display:flex;gap:4px;align-items:center;padding:.58rem .95rem}
 .dot{width:5px;height:5px;background:var(--or3);border-radius:50%;animation:bo 1.2s infinite}
 .dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}
 @keyframes bo{0%,80%,100%{transform:translateY(0)}40%{transform:translateY(-5px)}}
-
-/* saisie bas de page (chat actif) */
-.inp-bottom{
-  border-top:1px solid var(--bd);background:var(--bg2);
-  padding:.6rem 1rem;display:flex;gap:.5rem;align-items:flex-end;flex-shrink:0;
-}
-.inp-bottom textarea{min-height:38px;max-height:100px;font-size:.9rem}
-.inp-bottom .btn{height:38px}
-
-.disc{
-  font-family:var(--f-t);font-size:.44rem;letter-spacing:.1em;text-transform:uppercase;
-  color:var(--tx3);text-align:center;padding:.28rem;
-  border-top:1px solid var(--bd);background:var(--bg2);flex-shrink:0;
-}
 </style>
 </head>
 <body>
 
-<!-- HEADER fixe -->
 <div class="hdr">
   <div class="hdr-ar">بِسْمِ اللَّهِ</div>
   <div>
@@ -117,43 +169,63 @@ textarea::placeholder{color:var(--tx3);font-style:italic}
   <div class="hdr-bx">Bêta</div>
 </div>
 
-<!-- MODE ACCUEIL — saisie centrée -->
+<!-- Bouton pour afficher/masquer la saisie flottante (visible seulement en mode chat) -->
+<button class="float-toggle" id="float-toggle" onclick="toggleFloat()">+ Question</button>
+
+<!-- Fenêtre flottante haut-droite -->
+<div class="float-input" id="float-input">
+  <div class="float-label">Nouvelle question</div>
+  <div class="float-row">
+    <textarea id="inp-float" placeholder="Votre question…" rows="1"></textarea>
+    <button class="float-btn" id="btn-float" onclick="sendFrom('float')">Envoyer</button>
+  </div>
+  <div class="float-sugs">
+    <button class="sug" onclick="qs(this,'float')">Shirk</button>
+    <button class="sug" onclick="qs(this,'float')">Ṣalāt</button>
+    <button class="sug" onclick="qs(this,'float')">Ribā</button>
+    <button class="sug" onclick="qs(this,'float')">Dīn</button>
+    <button class="sug" onclick="qs(this,'float')">Nabī législateur ?</button>
+    <button class="sug" onclick="qs(this,'float')">Études publiées</button>
+  </div>
+</div>
+
+<!-- MODE ACCUEIL -->
 <div class="accueil" id="accueil">
   <div class="wlc-ar">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ</div>
   <div class="wlc-sp"></div>
   <div class="wlc-ti">Posez votre question sur le Coran</div>
-  <div class="wlc-tx">Cet assistant répond exclusivement à partir du texte coranique et de la lexicographie arabe classique.<br>Aucun ḥadīth · Aucun tafsīr · Aucune école · Sources : al-Farāhīdī · Ibn Fāris · Ibn Manẓūr</div>
-
-  <div class="inp-central">
-    <div class="inp-row">
-      <textarea id="inp1" placeholder="Votre question sur le Coran…" rows="1"></textarea>
-      <button class="btn" id="btn1" onclick="sendFrom('inp1')">Envoyer</button>
+  <div class="wlc-tx">Cet assistant répond exclusivement à partir du texte coranique et de la lexicographie arabe classique.<br>Aucun ḥadīth · Aucun tafsīr · Aucune école</div>
+  <div class="accueil-inp">
+    <div class="accueil-row">
+      <textarea id="inp-accueil" placeholder="Votre question sur le Coran…" rows="1"></textarea>
+      <button class="accueil-btn" id="btn-accueil" onclick="sendFrom('accueil')">Envoyer</button>
     </div>
-    <div class="sugs">
-      <button class="sug" onclick="qs(this)">Qu'est-ce que le shirk selon le Coran ?</button>
-      <button class="sug" onclick="qs(this)">Le Nabī est-il législateur ?</button>
-      <button class="sug" onclick="qs(this)">Définition coranique de *dīn*</button>
-      <button class="sug" onclick="qs(this)">Ce que dit le Coran sur la ṣalāt</button>
-      <button class="sug" onclick="qs(this)">Le *nasīʾ* (S.9:37)</button>
-      <button class="sug" onclick="qs(this)">Liste des études publiées</button>
+    <div class="accueil-sugs">
+      <button class="sug" onclick="qs(this,'accueil')">Qu'est-ce que le shirk selon le Coran ?</button>
+      <button class="sug" onclick="qs(this,'accueil')">Le Nabī est-il législateur ?</button>
+      <button class="sug" onclick="qs(this,'accueil')">Définition coranique de *dīn*</button>
+      <button class="sug" onclick="qs(this,'accueil')">Ce que dit le Coran sur la ṣalāt</button>
+      <button class="sug" onclick="qs(this,'accueil')">Le *nasīʾ* (S.9:37)</button>
+      <button class="sug" onclick="qs(this,'accueil')">Liste des études publiées</button>
     </div>
   </div>
 </div>
 
-<!-- MODE CHAT — après 1er message -->
+<!-- MODE CHAT -->
 <div class="chat-mode" id="chat-mode">
   <div class="msgs" id="msgs"></div>
-  <div class="inp-bottom">
-    <textarea id="inp2" placeholder="Votre question…" rows="1"></textarea>
-    <button class="btn" id="btn2" onclick="sendFrom('inp2')">Envoyer</button>
+  <div class="new-btn-bar">
+    <button class="new-btn" onclick="newConversation()">↩ Nouvelle conversation</button>
+    <span class="disc">Aucune autorité humaine sur le dīn · islamducoran.fr</span>
   </div>
-  <div class="disc">Aucune autorité humaine sur le dīn · Barāʾa totale · islamducoran.fr</div>
 </div>
 
 <script>
+const PROXY = "https://islamducoran-api.netlify.app/.netlify/functions/chat";
+
 const SYS=`Tu es l'assistant islamducoran.fr. Tu réponds exclusivement à partir du texte coranique en arabe classique et de la lexicographie classique (al-Farāhīdī, Ibn Fāris, Ibn Manẓūr). Tu appliques strictement la méthode du site.
 
-MÉTHODE OBLIGATOIRE — chaque réponse distingue :
+MÉTHODE — chaque réponse distingue :
 - DIT : ce que le verset dit mot à mot (citer ref exacte)
 - NON-DIT : silence du texte — jamais comblé normativement
 - INFÉRENCE : déduit du texte, toujours nommé comme tel
@@ -166,26 +238,25 @@ TERMINOLOGIE INVIOLABLE :
 - JAMAIS "Celui qui" pour Allaah → "Ce qui" (neutre absolu)
 - JAMAIS "attribut" pour ṣifāt → "ce que l'on peut dire lorsqu'on parle d'Allaah"
 - JAMAIS "al-Khaḍir" (18:65 dit "un serviteur")
-- JAMAIS "Le très haut" pour al-Aʿlā → arabe + note
 - Al-muslimīn : jamais identité confessionnelle
 
 SOURCES EXCLUES : ḥadīth, tafsīr, ijmāʿ, qiyās, fatwa, école juridique.
 
 ÉTUDES PUBLIÉES (mentionner l'URL quand pertinent — https://islamducoran.fr/etudes/[slug]/) :
-
-NABUWWA & RISĀLA : abandon-coran / khatam-nabiyyin / nabi-legislateur / kitman-bayyan
+NABUWWA : abandon-coran / khatam-nabiyyin / nabi-legislateur / kitman-bayyan
 CALENDRIER : etat-lieux-calendaire / calendrier-lunaire
 PRATIQUES : salat-coran / duaa-salat / hajar-aswad / baraka-tabarruk / kiswa / hajj-oumra / eid-adha / hatu-burhanakum
-AUTORITÉ & SOURCES : hadith-coran / sunna-coran / fatwa / halal-haram / ulu-albab / naskh / traduction-intraduisible / qiraaat-recitations
+AUTORITÉ : hadith-coran / sunna-coran / fatwa / halal-haram / ulu-albab / naskh / traduction-intraduisible / qiraaat-recitations
 CORPS & FAMILLE : yatim / rapports-parents / femmes-hommes / coran-seuls-hommes / polygamie / esclavage
-DROIT & ÉCONOMIE : zakat / riba / fasad-mufsidun
-COMMUNAUTÉ & IDENTITÉ : shirk / kafir-coran / minorite-croyants
+DROIT : zakat / riba / fasad-mufsidun
+COMMUNAUTÉ : shirk / kafir-coran / minorite-croyants
 ESCHATOLOGIE : mecanisme-derniere-heure / amwat-ahyaa-barzakh / heure-signes / sortir-du-feu / shafaa
 
 FORMAT : structurer dit/non-dit/inférence, citer versets (arabe + trl + trad), mentionner URLs études pertinentes.`;
 
-const H=[];
+let H=[];
 let chatActive=false;
+let floatOpen=true;
 
 function fmt(t){
   return t
@@ -200,6 +271,35 @@ function switchToChat(){
   chatActive=true;
   document.getElementById('accueil').classList.add('hidden');
   document.getElementById('chat-mode').classList.add('active');
+  document.getElementById('float-toggle').classList.add('visible');
+  // float input starts visible in chat mode
+  document.getElementById('float-input').classList.remove('hidden');
+  floatOpen=true;
+}
+
+function toggleFloat(){
+  floatOpen=!floatOpen;
+  const fi=document.getElementById('float-input');
+  const btn=document.getElementById('float-toggle');
+  if(floatOpen){
+    fi.classList.remove('hidden');
+    btn.textContent='✕ Fermer';
+  } else {
+    fi.classList.add('hidden');
+    btn.textContent='+ Question';
+  }
+}
+
+function newConversation(){
+  H=[];
+  chatActive=false;
+  document.getElementById('msgs').innerHTML='';
+  document.getElementById('chat-mode').classList.remove('active');
+  document.getElementById('accueil').classList.remove('hidden');
+  document.getElementById('float-toggle').classList.remove('visible');
+  document.getElementById('float-input').classList.add('hidden');
+  document.getElementById('inp-accueil').value='';
+  floatOpen=false;
 }
 
 function addMsg(role,text){
@@ -220,36 +320,43 @@ function dots(show){
   } else if(!show&&ex) ex.remove();
 }
 
-function qs(b){
-  document.getElementById('inp1').value=b.textContent;
-  sendFrom('inp1');
+function qs(b, mode){
+  const inp=document.getElementById('inp-'+mode);
+  inp.value=b.textContent;
+  sendFrom(mode);
 }
 
-async function sendFrom(id){
-  const inp=document.getElementById(id);
-  const btn=document.getElementById(id==='inp1'?'btn1':'btn2');
+async function sendFrom(mode){
+  const inp=document.getElementById('inp-'+mode);
+  const btn=document.getElementById('btn-'+mode);
   const t=inp.value.trim();
-  if(!t||btn.disabled) return;
+  if(!t||(btn&&btn.disabled)) return;
 
-  inp.value='';inp.style.height='auto';btn.disabled=true;
-  if(id==='inp1') document.getElementById('btn2').disabled=true;
-  else document.getElementById('btn1').disabled=true;
+  // disable all send buttons
+  ['accueil','float'].forEach(m=>{
+    const b=document.getElementById('btn-'+m);
+    if(b) b.disabled=true;
+  });
 
+  inp.value='';inp.style.height='auto';
   switchToChat();
+
+  // Hide float window while waiting
+  if(mode==='float'){
+    document.getElementById('float-input').classList.add('hidden');
+    floatOpen=false;
+    document.getElementById('float-toggle').textContent='+ Question';
+  }
+
   addMsg('u',t);
   H.push({role:'user',content:t});
   dots(true);
 
   try{
-    const res=await fetch('https://islamducoran-api.netlify.app/.netlify/functions/chat',{
+    const res=await fetch(PROXY,{
       method:'POST',
       headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({
-        model:'claude-sonnet-4-6',
-        max_tokens:1024,
-        system:SYS,
-        messages:H.slice(-14)
-      })
+      body:JSON.stringify({system:SYS, messages:H.slice(-14)})
     });
     const data=await res.json();
     dots(false);
@@ -258,25 +365,27 @@ async function sendFrom(id){
       H.push({role:'assistant',content:rep});
       addMsg('a',rep);
     } else {
-      addMsg('a','⚠ '+(data?.error?.message||'Erreur de réponse'));
+      addMsg('a','⚠ '+(data?.error?.message||JSON.stringify(data?.error)||'Erreur'));
     }
-  } catch(e){
+  } catch(err){
     dots(false);
-    addMsg('a','⚠ Erreur de connexion : '+e.message);
+    addMsg('a','⚠ Erreur de connexion : '+err.message);
   }
-  btn.disabled=false;
-  document.getElementById('btn1').disabled=false;
-  document.getElementById('btn2').disabled=false;
-  // Focus la bonne textarea
-  document.getElementById(chatActive?'inp2':'inp1').focus();
+
+  ['accueil','float'].forEach(m=>{
+    const b=document.getElementById('btn-'+m);
+    if(b) b.disabled=false;
+  });
+  document.getElementById('float-toggle').classList.add('visible');
 }
 
-// Auto-resize both textareas
-['inp1','inp2'].forEach(id=>{
+// Auto-resize
+['inp-accueil','inp-float'].forEach(id=>{
   const ta=document.getElementById(id);
+  if(!ta) return;
   ta.addEventListener('input',function(){this.style.height='auto';this.style.height=Math.min(this.scrollHeight,120)+'px';});
   ta.addEventListener('keydown',function(e){
-    if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendFrom(id);}
+    if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendFrom(id.replace('inp-',''));}
   });
 });
 </script>
