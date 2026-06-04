@@ -4,6 +4,7 @@ title: "Le Yatīm اليَتِيم — L'Orphelin"
 subtitle: "Vulnérabilité individuelle, protection collective — Définition lexicale exacte · Corpus exhaustif · Ce que le texte prescrit · Lien avec S4:3"
 categorie: "Corps, Famille & Société"
 categorie_slug: "societe"
+order: 410
 racine: "ي-ت-م"
 racine_ar: "اليَتِيم"
 date: 2026-04-19
