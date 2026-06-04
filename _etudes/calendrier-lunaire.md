@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "هـ-ل-ل"
 racine_ar: "الأَهِلَّة"
-date: 2024-04-16
+date: 2026-04-16
 description: "Examen coranique des trois objections au calendrier luni-solaire : S.9:36 (douze mois), S.9:37 (le nasīʾ), S.2:189 (les ahilla). Confrontation avec S.10:5 et S.55:5 (soleil et lune dans un ḥusbān unique). Analogie méthodologique avec le débat du ribā (S.3:130)."
 ---
 
