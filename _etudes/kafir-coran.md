@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ك-ف-ر"
 racine_ar: "كَافِر"
-date: 2024-01-05
+date: 2026-03-26
 description: "Étude lexicale du kufr dans le Coran — la racine k-f-r, ses axes sémantiques, ses occurrences. Ce que le texte dit, ce qu'il ne dit pas sur le statut de kāfir."
 ---
 
