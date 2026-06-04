@@ -4,6 +4,7 @@ title: "Al-Ḥajar al-Aswad الْحَجَرُ الأَسْوَد — La Pierre 
 subtitle: "Origine islamique ou héritage de la Jāhiliyya ? Ce que l'histoire atteste · Ce que le Coran dit · Ce que le Coran ne dit pas"
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
+order: 240
 racine_ar: "الْحَجَرُ الأَسْوَد"
 date: 2026-04-15
 description: "Al-Ḥajar al-Aswad est absent du Coran. Antériorité pré-islamique documentée. Épisode qarmate. Déclaration de ʿUmar ibn al-Khaṭṭāb. Confrontation avec S.39:3 et S.4:48."
