@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ح-ك-م"
 racine_ar: "الحُكْم"
-date: 2024-04-10
+date: 2026-04-10
 description: "Le ḥukm n'appartient qu'à Allaah. Démonstration bi-l-ʿilm par le texte coranique exclusivement : S6:57, S12:40, S5:42–50, S9:31, S6:121, S6:50, S5:67, S5:3. La mission du nabī est la transmission de la waḥy — accomplie et close."
 ---
 
