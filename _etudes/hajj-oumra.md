@@ -6,7 +6,7 @@ categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "ح-ج-ج / ع-م-ر"
 racine_ar: "حَجّ · عُمْرَة"
-date: 2026-06-03
+date: 2026-03-26
 description: "Étude exhaustive du ḥajj et de la ʿumra dans le Coran — lexicologie comparée, prescriptions explicites, silences du texte, Bakka/Makka, sacrifice, récompenses fallacieuses. Méthode dit/non-dit/inférence."
 ---
 
