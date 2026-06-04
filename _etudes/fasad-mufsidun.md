@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ف-س-د"
 racine_ar: "الفَسَاد"
-date: 2024-05-05
+date: 2026-04-05
 description: "Analyse exhaustive de la racine f-s-d dans le Coran : fasād économique (7:85, 26:183), politique (27:34, 28:4 — Firʿawn paradigme du dirigeant terroriste), S.5:32 (tuer un innocent = tuer l'humanité entière), S.5:33 (muḥāraba + fasād fī l-arḍ = définition textuelle du terrorisme), S.8:60 (irhāb comme dissuasion défensive), et l'auto-aveuglement du mufsid (2:11–12)."
 ---
 
