@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ح-ل-ل / ح-ر-م"
 racine_ar: "حَلَال · حَرَام"
-date: 2024-01-04
+date: 2026-03-20
 description: "Étude complète des racines ḥ-l-l et ḥ-r-m dans le Coran. Inventaire exhaustif des interdictions explicites. Principe : seul Allaah légifère."
 ---
 
