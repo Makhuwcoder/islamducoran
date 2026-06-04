@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ت-ر-ج-م"
 racine_ar: "التَّرْجَمَة"
-date: 2024-04-18
+date: 2026-04-08
 description: "Réfutation de la thèse de l'intraduisibilité du Coran. Le dilemme logique de S.54:17 (*yassarnā l-Qurʾāna*). Le choix de l'arabe comme accommodation, non monopole (S.41:44). La transmission en acte : les djinns (S.46:29–31) et S.9:122. Distinction *inimitable* vs *intraduisible*. Réfutation de la restriction de *dhikr* à la mémorisation."
 ---
 
