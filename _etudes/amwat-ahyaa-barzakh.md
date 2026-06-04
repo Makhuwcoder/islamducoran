@@ -2,8 +2,9 @@
 layout: etude
 title: "Amwāt, Aḥyāʾ, Barzakh — أَمْوَات · أَحْيَاء · بَرْزَخ"
 subtitle: "Ce que le Coran dit entre le décès et le Jour dernier"
-categorie: "Concepts fondamentaux"
-categorie_slug: "concepts"
+categorie: "Eschatologie & Métaphysique"
+categorie_slug: "eschatologie"
+order: 720
 racine: "م-و-ت / ح-ي-ي"
 racine_ar: "الأَمْوَات · البَرْزَخ"
 date: 2026-04-24
