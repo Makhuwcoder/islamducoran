@@ -241,7 +241,7 @@ async function sendFrom(id){
   dots(true);
 
   try{
-    const res=await fetch('https://islamducoran-api.netlify.app/api/chat',{
+    const res=await fetch('https://islamducoran-api.netlify.app/.netlify/functions/chat',{
       method:'POST',
       headers:{'Content-Type':'application/json'},
       body:JSON.stringify({
