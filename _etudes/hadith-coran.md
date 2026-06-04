@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "ح-د-ث"
 racine_ar: "حَدِيث"
-date: 2024-04-18
+date: 2026-04-18
 description: "Étude lexicale complète du terme ḥadīth dans le Coran — la racine, le Coran comme aḥsan al-ḥadīth, la question rhétorique de clôture, les usages narratifs."
 ---
 
