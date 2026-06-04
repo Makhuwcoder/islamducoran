@@ -4,6 +4,7 @@ title: "La simplicité de la Zakāt — Az-Zakāt الزَّكَاة"
 subtitle: "La purification par le versement — ce que le texte dit, et rien de plus — Bénéficiaires · Moment · Montant · Non-muslim · Mécanisme coranique"
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
+order: 280
 racine: "ز-ك-و / ز-ك-ي"
 racine_ar: "الزَّكَاة"
 date: 2026-06-02
