@@ -6,7 +6,7 @@ categorie: "Concepts fondamentaux"
 categorie_slug: "concepts"
 racine: "م-و-ت / ح-ي-ي"
 racine_ar: "الأَمْوَات · البَرْزَخ"
-date: 2024-04-24
+date: 2026-04-24
 description: "État intermédiaire entre décès et résurrection selon le Coran seul. Le marqad (S.36:52). La non-perception temporelle (S.2:259, S.23:112). Le barzakh (S.23:100). L'exception des aḥyāʾ (S.2:154, S.3:169). Réfutation textuelle de la tradition de la vie de la tombe."
 ---
 
