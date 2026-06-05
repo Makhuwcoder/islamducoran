@@ -1,20 +1,11 @@
 ---
-layout: none
+layout: default
 title: "Islam du Coran — Le Coran lu par lui-même"
 permalink: /
 ---
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Islam du Coran — Le Coran lu par lui-même</title>
-<meta name="description" content="Le Coran lu par lui-même, en arabe classique — Sans tafsīr · Sans ḥadīth · Sans école">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/main.css">
+
 <style>
+
 /* ── Sable palette overrides for page-specific elements ── */
 :root {
   --nav-h: 56px;
@@ -950,32 +941,8 @@ tr:nth-child(even) td { background: var(--bg2); }
 .baraa-line { color: var(--texte2); }
 .baraa-or { color: var(--or3); }
 .baraa-final { color: var(--or3); }
-</style>
-</head>
-<body>
 
-<nav class="site-nav" role="navigation">
-  <a class="site-nav__logo" href="/">islamducoran.fr</a>
-  <ul class="site-nav__links" id="nav-links" role="list">
-    <li><a href="/" class="active">Accueil</a></li>
-    <li><a href="/methode/">Méthode</a></li>
-    <li><a href="/etudes/">Études</a></li>
-    <li><a href="/traduction/">Traduction du Coran</a></li>
-    <li><a href="/recherche/">Recherche</a></li>
-    <li><a href="/assistant/">Assistant</a></li>
-    <li><a href="/baraaa/">Barāʾa</a></li>
-  </ul>
-  <a href="/recherche/" class="site-nav__search-btn" aria-label="Rechercher">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-    </svg>
-  </a>
-  <button class="site-nav__burger" id="nav-burger" aria-label="Menu" aria-expanded="false">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="20" height="20">
-      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
-    </svg>
-  </button>
-</nav>
+</style>
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero" id="accueil">
@@ -1935,8 +1902,8 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
-
 <script>
+
   // Tab system
   const tabBtns = document.querySelectorAll('.tab-btn');
   const tabContents = document.querySelectorAll('.tab-content');
@@ -1966,23 +1933,8 @@ tr:nth-child(even) td { background: var(--bg2); }
       if (btn) btn.click();
     });
   });
-</script>
 
-<footer class="site-footer" role="contentinfo">
-  <div class="site-footer__baraaa">
-    Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah
-    ◆ Ni sunnite · ni chiite · ni salafite · ni wahhabite · ni habachite · ni coraniste · ni soufiste d'aucune tariqa
-    · ni d'aucune école de fiqh · ni d'aucun mouvement constitué
-    ◆ Aucun ḥizb · aucun tafsīr · aucun ḥadīth comme source normative · aucune autorité humaine sur le dīn
-    ◆ Le texte dit ce qu'il dit — rien de plus, rien de moins.
-  </div>
-  <div class="site-footer__copy">
-    islamducoran.fr · Le Coran lu par lui-même, en arabe classique · Sans tafsīr · Sans ḥadīth · Sans école
-    · Sources lexicographiques : al-Farāhīdī · Ibn Fāris · Ibn Manẓūr
-  </div>
-</footer>
 
-<script>
   // Tab system
   const tabBtns = document.querySelectorAll('.tab-btn');
   const tabContents = document.querySelectorAll('.tab-content');
@@ -2007,6 +1959,5 @@ tr:nth-child(even) td { background: var(--bg2); }
       navLinks.style.flexDirection = open ? '' : 'column';
     });
   }
+
 </script>
-</body>
-</html>
