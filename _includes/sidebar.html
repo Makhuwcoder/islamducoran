@@ -1,0 +1,26 @@
+<aside class="site-sidebar" id="site-sidebar" aria-label="Navigation secondaire">
+
+  <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Ouvrir le menu">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18">
+      <line x1="3" y1="6" x2="21" y2="6"/>
+      <line x1="3" y1="12" x2="21" y2="12"/>
+      <line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+
+  <nav class="sidebar-nav" id="sidebar-nav">
+    {% for group in site.nav_sidebar %}
+    <div class="sidebar-group">
+      <div class="sidebar-group__title">{{ group.group }}</div>
+      {% for item in group.items %}
+      <a class="sidebar-link{% if page.url == item.url %} active{% endif %}"
+         href="{{ item.url | relative_url }}">
+        {% if item.ar %}<span class="sidebar-ar" dir="rtl">{{ item.ar }}</span>{% endif %}
+        <span class="sidebar-label">{{ item.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </nav>
+
+</aside>
