@@ -138,28 +138,47 @@ permalink: /
       <h3>Les cinq étapes de l'investigation</h3>
       <p>Chaque étude thématique suit un protocole rigoureux en cinq étapes. Cette méthodologie garantit l'exhaustivité du recueil, la précision de l'analyse et l'honnêteté de la synthèse.</p>
 
-      <ol class="steps-list">
-        <li>
-          <strong>Choisir un thème</strong>
-          <p>Parmi les thèmes disponibles ou en proposer un nouveau. L'étude commence toujours par une question précise, jamais par une réponse préformée. La curiosité authentique est le seul prérequis.</p>
-        </li>
-        <li>
-          <strong>Recueil des occurrences</strong>
-          <p>Toutes les occurrences du terme et de ses dérivés dans le Coran sont recensées de manière exhaustive. Aucune sélection préalable : le corpus est complet, sans omission ni hiérarchisation arbitraire.</p>
-        </li>
-        <li>
-          <strong>Analyse morphologique</strong>
-          <p>La racine triconsonantique, la forme verbale, la nature grammaticale — chaque occurrence est disséquée pour révéler la structure profonde du sens. Les schèmes dérivationnels sont identifiés et comparés.</p>
-        </li>
-        <li>
-          <strong>Contextualisation interne</strong>
-          <p>Chaque verset est replacé dans son environnement immédiat : les versets qui le précèdent, ceux qui le suivent, et les passages parallèles ailleurs dans le corpus. Aucun verset n'est jamais isolé de son contexte.</p>
-        </li>
-        <li>
-          <strong>Synthèse sémantique</strong>
-          <p>Une synthèse rigoureuse émerge de l'ensemble des données — sans jamais la projeter sur le texte, mais en la laissant en surgir. Le sens se construit, il ne s'impose pas.</p>
-        </li>
-      </ol>
+      <div class="steps-protocol">
+        <div class="step-item">
+          <div class="step-number">١</div>
+          <div class="step-body">
+            <div class="step-title">Choisir un thème</div>
+            <div class="step-text">Parmi les thèmes disponibles ou en proposer un nouveau. L'étude commence toujours par une question précise, jamais par une réponse préformée. La curiosité authentique est le seul prérequis.</div>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-item">
+          <div class="step-number">٢</div>
+          <div class="step-body">
+            <div class="step-title">Recueil des occurrences</div>
+            <div class="step-text">Toutes les occurrences du terme et de ses dérivés dans le Coran sont recensées de manière exhaustive. Aucune sélection préalable : le corpus est complet, sans omission ni hiérarchisation arbitraire.</div>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-item">
+          <div class="step-number">٣</div>
+          <div class="step-body">
+            <div class="step-title">Analyse morphologique</div>
+            <div class="step-text">La racine triconsonantique, la forme verbale, la nature grammaticale — chaque occurrence est disséquée pour révéler la structure profonde du sens. Les schèmes dérivationnels sont identifiés et comparés.</div>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-item">
+          <div class="step-number">٤</div>
+          <div class="step-body">
+            <div class="step-title">Contextualisation interne</div>
+            <div class="step-text">Chaque verset est replacé dans son environnement immédiat : les versets qui le précèdent, ceux qui le suivent, et les passages parallèles ailleurs dans le corpus. Aucun verset n'est jamais isolé de son contexte.</div>
+          </div>
+        </div>
+        <div class="step-connector"></div>
+        <div class="step-item">
+          <div class="step-number">٥</div>
+          <div class="step-body">
+            <div class="step-title">Synthèse sémantique</div>
+            <div class="step-text">Une synthèse rigoureuse émerge de l'ensemble des données — sans jamais la projeter sur le texte, mais en la laissant en surgir. Le sens se construit, il ne s'impose pas.</div>
+          </div>
+        </div>
+      </div>
 
       <h3>Approche pédagogique</h3>
       <p>Pas besoin de maîtriser l'arabe pour commencer : la translittération et les explications détaillées accompagnent chaque analyse. La rigueur ne suppose pas l'élitisme : elle exige seulement la patience et l'honnêteté intellectuelle.</p>
