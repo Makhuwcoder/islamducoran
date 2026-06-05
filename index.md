@@ -210,19 +210,61 @@ permalink: /
   /* ─── BARAA BANNER ─── */
   .baraa {
     background: var(--bg2);
-    border-top: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
-    padding: 1rem 1.5rem;
+    border-top: 2px solid var(--or3);
+    border-bottom: 2px solid var(--or3);
+    padding: 2.5rem 2rem;
     text-align: center;
+  }
+  .baraa-title {
+    font-family: 'Amiri', serif;
+    font-size: 2.8rem;
+    color: var(--or3);
+    direction: rtl;
+    margin-bottom: 0.3rem;
+    line-height: 1.2;
+  }
+  .baraa-subtitle {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--texte3);
+    margin-bottom: 1.2rem;
+  }
+  .baraa-sep {
+    width: 60px;
+    height: 1px;
+    background: var(--or3);
+    margin: 1rem auto;
+    opacity: 0.6;
+  }
+  .baraa-sep-thin {
+    width: 120px;
+    height: 1px;
+    background: var(--bg5);
+    margin: 0.8rem auto;
+  }
+  .baraa-line {
     font-family: 'Cinzel', serif;
     font-size: 0.6rem;
-    letter-spacing: 0.1em;
-    color: var(--texte2);
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    line-height: 1.9;
+    color: var(--texte2);
+    line-height: 2;
+    max-width: 900px;
+    margin: 0 auto;
   }
-
-  .baraa strong { color: var(--or); }
+  .baraa-or { color: var(--or3); font-weight: 700; }
+  .baraa-ni { opacity: 0.85; }
+  .baraa-final {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--or3);
+    font-weight: 700;
+    margin-top: 0.5rem;
+  }
 
   /* ─── TABS SYSTEM ─── */
   .tabs-section {
@@ -238,7 +280,8 @@ permalink: /
     text-transform: uppercase;
     color: var(--texte2);
     background: transparent;
-    border: none;
+    border: none !important;
+    outline: none;
     border-bottom: 2px solid transparent;
     padding: 0.8rem 1rem;
     cursor: pointer;
@@ -248,7 +291,15 @@ permalink: /
   }
 
   .tab-btn:hover { color: var(--texte); }
-  .tab-btn.active { color: var(--or); border-bottom-color: var(--or); }
+  .tab-btn:focus { outline: none; box-shadow: none; }
+  /* Override any browser or main.css button defaults */
+  .tabs-nav .tab-btn,
+  .tabs-nav button {
+    -webkit-appearance: none;
+    appearance: none;
+    box-shadow: none;
+  }
+  .tab-btn.active { color: var(--or3) !important; border-bottom: 2px solid var(--or3) !important; }
 
   .tab-content { display: none; }
   .tab-content.active { display: block; }
@@ -814,6 +865,14 @@ permalink: /
 /* Fix tab button colors for sable bg */
 .tab-btn { color: var(--texte3); }
 .tab-btn:hover { color: var(--texte); }
+  .tab-btn:focus { outline: none; box-shadow: none; }
+  /* Override any browser or main.css button defaults */
+  .tabs-nav .tab-btn,
+  .tabs-nav button {
+    -webkit-appearance: none;
+    appearance: none;
+    box-shadow: none;
+  }
 .tab-btn.active { color: var(--or3); border-bottom-color: var(--or3); }
 /* Complaint centered */
 .complaint { text-align: center; background: var(--bg4); border-color: var(--bg5); border-left-color: var(--or3); }
