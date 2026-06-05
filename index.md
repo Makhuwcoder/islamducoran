@@ -1,32 +1,27 @@
 ---
-layout: none
+layout: default
 title: "Islam du Coran — Le Coran lu par lui-même"
 permalink: /
 ---
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Islam du Coran — Le Coran lu par lui-même</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 <style>
+/* ── Accueil overrides — palette sable ── */
+
   :root {
-    --bg: #16130e;
-    --bg2: #1e1a13;
-    --bg3: #241f17;
-    --or: #c9a84c;
-    --or-dim: #9a7d38;
-    --or-light: #e8c97a;
-    --creme: #f0e2c0;
-    --creme-dim: #c8b898;
-    --text: #d4c4a0;
-    --border: rgba(201,168,76,0.25);
-    --border-strong: rgba(201,168,76,0.5);
-    --shadow: rgba(0,0,0,0.5);
+    --bg: #e8dcc8;
+    --bg2: #ddd0b8;
+    --bg3: #f0e8d8;
+    --or: #c09030;
+    --or-dim: #a07820;
+    --or-light: #d4a830;
+    --creme: #221808;
+    --creme-dim: #4a3418;
+    --text: #221808;
+    --border: rgba(160,120,32,0.3);
+    --border-strong: rgba(160,120,32,0.55);
+    --shadow: rgba(100,70,20,0.2);
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -47,7 +42,7 @@ permalink: /
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(22,19,14,0.97);
+    background: rgba(232,220,200,0.97);
     border-bottom: 1px solid var(--border);
     backdrop-filter: blur(8px);
   }
@@ -98,7 +93,7 @@ permalink: /
 
   /* ─── HERO ─── */
   .hero {
-    background: linear-gradient(180deg, #100e0a 0%, var(--bg) 100%);
+    background: linear-gradient(180deg, #d4c8a0 0%, var(--bg) 100%);
     padding: 4rem 1.5rem 3rem;
     text-align: center;
     border-bottom: 1px solid var(--border);
@@ -110,7 +105,7 @@ permalink: /
     content: '';
     position: absolute;
     inset: 0;
-    background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(201,168,76,0.07) 0%, transparent 70%);
+    background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(192,144,48,0.1) 0%, transparent 70%);
     pointer-events: none;
   }
 
@@ -867,27 +862,8 @@ permalink: /
     letter-spacing: 0.1em;
     margin-bottom: 0.3rem;
   }
-</style>
-</head>
-<body>
 
-<!-- ═══════════════ HEADER ═══════════════ -->
-<header>
-  <div class="nav-container">
-    <a class="nav-brand" href="#accueil">ISLAM DU CORAN</a>
-    <nav>
-      <a href="#tabs-main" class="tab-link" data-tab="methode">Méthode</a>
-      <a href="#decouvrir" class="tab-link" data-tab="decouvrir">Découvrir soi-même</a>
-      <a href="#pourquoi" class="tab-link" data-tab="pourquoi">Pourquoi ce site</a>
-      <a href="#sources-lex" class="tab-link" data-tab="sources-lex">Sources lex.</a>
-      <a href="#themes" class="tab-link" data-tab="themes">Thèmes</a>
-      <a href="#traduction" class="tab-link" data-tab="traduction">Traduction du Coran</a>
-      <a href="#comprendre" class="tab-link" data-tab="comprendre">Comprendre avant mémoriser</a>
-      <a href="#mediter" class="tab-link" data-tab="mediter">Méditer le Coran</a>
-      <a href="#concepts" class="tab-link" data-tab="concepts">Concepts</a>
-    </nav>
-  </div>
-</header>
+</style>
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero" id="accueil">
@@ -1889,6 +1865,3 @@ permalink: /
     });
   });
 </script>
-
-</body>
-</html>
