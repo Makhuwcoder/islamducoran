@@ -136,7 +136,11 @@ permalink: /
     border: 1px solid var(--border);
     border-left: 3px solid var(--or);
     padding: 2rem 2.5rem;
+    text-align: center;
   }
+  .complaint .arabic-verse { text-align: center; }
+  .complaint .transliteration { text-align: center; }
+  .complaint .translation { text-align: center; }
 
   .complaint-ref {
     font-family: 'Cinzel', serif;
@@ -255,19 +259,67 @@ permalink: /
   /* ─── BARAA BANNER ─── */
   .baraa {
     background: var(--bg2);
-    border-top: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
-    padding: 1rem 1.5rem;
+    border-top: 2px solid var(--or);
+    border-bottom: 2px solid var(--or);
+    padding: 2.5rem 2rem;
     text-align: center;
+  }
+  .baraa-title {
+    font-family: 'Amiri', serif;
+    font-size: 2.8rem;
+    color: var(--or);
+    direction: rtl;
+    margin-bottom: 0.3rem;
+    line-height: 1.2;
+  }
+  .baraa-subtitle {
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--creme-dim);
+    margin-bottom: 1.2rem;
+  }
+  .baraa-sep {
+    width: 60px;
+    height: 1px;
+    background: var(--or);
+    margin: 1rem auto;
+    opacity: 0.6;
+  }
+  .baraa-sep-thin {
+    width: 120px;
+    height: 1px;
+    background: var(--border);
+    margin: 0.8rem auto;
+  }
+  .baraa-line {
     font-family: 'Cinzel', serif;
     font-size: 0.6rem;
-    letter-spacing: 0.1em;
-    color: var(--creme-dim);
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    line-height: 1.9;
+    color: var(--creme-dim);
+    line-height: 2;
+    max-width: 900px;
+    margin: 0 auto;
   }
-
-  .baraa strong { color: var(--or); }
+  .baraa-or {
+    color: var(--or);
+    font-weight: 700;
+  }
+  .baraa-ni {
+    color: var(--creme-dim);
+    opacity: 0.85;
+  }
+  .baraa-final {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--or);
+    font-weight: 700;
+    margin-top: 0.5rem;
+  }
 
   /* ─── TABS SYSTEM ─── */
   .tabs-section {
@@ -867,9 +919,6 @@ permalink: /
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero" id="accueil">
-  <div class="hero-title">L'Islam du Coran</div>
-  <div class="hero-sub">L'Islam du Coran n'est ni un courant spirituel, ni une école doctrinale, ni une tradition ésotérique.</div>
-
   <!-- Plainte du Nabi -->
   <div class="complaint">
     <div class="complaint-ref">Sourate Al-Furqān · 25:30</div>
@@ -944,10 +993,25 @@ permalink: /
 
 <!-- ═══════════════ BARAA ═══════════════ -->
 <div class="baraa">
-  <strong>Muslim — uniquement et seulement</strong> · Source normative unique : le Coran · Autorité unique : Allaah ◆
-  Ni sunnite · ni chiite · ni salafite · ni wahhabite · <strong>ni habachite ·</strong> ni coraniste · ni soufiste d'aucune tariqa · ni d'aucune école de fiqh (malikite, hanafite, chafi'ite, hanbalite…) · ni d'aucune école de kalām (ash'arite, maturidite, mu'tazilite…) · ni d'aucun mouvement constitué ◆
-  Aucun hizb · aucun tafsir · aucun hadith comme source normative · aucune autorité humaine sur le dīn ◆
-  Le texte dit ce qu'il dit — rien de plus, rien de moins.
+  <div class="baraa-title">بَرَاءَة</div>
+  <div class="baraa-subtitle">Déclaration officielle de positionnement et de non-appartenance</div>
+  <div class="baraa-sep"></div>
+  <div class="baraa-line"><span class="baraa-or">Muslim — uniquement et seulement</span></div>
+  <div class="baraa-line">Source normative unique : le Coran &nbsp;·&nbsp; Autorité unique : Allaah</div>
+  <div class="baraa-sep-thin"></div>
+  <div class="baraa-line baraa-ni">
+    Ni sunnite &nbsp;·&nbsp; ni chiite &nbsp;·&nbsp; ni salafite &nbsp;·&nbsp; ni wahhabite &nbsp;·&nbsp; ni habachite &nbsp;·&nbsp; ni coraniste &nbsp;·&nbsp; ni soufiste d'aucune ṭarīqa
+  </div>
+  <div class="baraa-line baraa-ni">
+    Ni d'aucune école de fiqh (mālikite, ḥanafite, shāfiʿite, ḥanbalite…) &nbsp;·&nbsp; ni d'aucune école de kalām (ashʿarite, māturīdite, muʿtazilite…)
+  </div>
+  <div class="baraa-line baraa-ni">
+    Ni d'aucun mouvement constitué
+  </div>
+  <div class="baraa-sep-thin"></div>
+  <div class="baraa-line">Aucun ḥizb &nbsp;·&nbsp; aucun tafsīr &nbsp;·&nbsp; aucun ḥadīth comme source normative &nbsp;·&nbsp; aucune autorité humaine sur le <em>dīn</em></div>
+  <div class="baraa-sep"></div>
+  <div class="baraa-final">Le texte dit ce qu'il dit — rien de plus, rien de moins.</div>
 </div>
 
 <!-- ═══════════════ TABS ═══════════════ -->
