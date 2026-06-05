@@ -97,17 +97,7 @@ permalink: /
 
 <!-- ═══════════════ TABS ═══════════════ -->
 <div class="tabs-section" id="tabs-main">
-  <div class="tabs-nav">
-    <button class="tab-btn active" data-tab="methode">Méthode</button>
-    <button class="tab-btn" data-tab="decouvrir">Découvrir soi-même</button>
-    <button class="tab-btn" data-tab="pourquoi">Pourquoi ce site</button>
-    <button class="tab-btn" data-tab="sources-lex">Sources lexicographiques</button>
-    <button class="tab-btn" data-tab="themes">Thèmes</button>
-    <button class="tab-btn" data-tab="traduction">Traduction du Coran</button>
-    <button class="tab-btn" data-tab="comprendre">Comprendre avant mémoriser</button>
-    <button class="tab-btn" data-tab="mediter">Méditer le Coran</button>
-    <button class="tab-btn" data-tab="concepts">Concepts fondamentaux</button>
-  </div>
+  <div class="tabs-nav" id="tabs-nav-container"></div>
 
   <!-- ══ TAB: MÉTHODE ══ -->
   <div class="tab-content active" id="tab-methode">
@@ -964,6 +954,27 @@ permalink: /
 
 <script>
 
+  // Build tabs nav dynamically (avoid kramdown rendering button text)
+  const tabs = [
+    {id: 'methode',     label: 'Méthode'},
+    {id: 'decouvrir',   label: 'Découvrir soi-même'},
+    {id: 'pourquoi',    label: 'Pourquoi ce site'},
+    {id: 'sources-lex', label: 'Sources lexicographiques'},
+    {id: 'themes',      label: 'Thèmes'},
+    {id: 'traduction',  label: 'Traduction du Coran'},
+    {id: 'comprendre',  label: 'Comprendre avant mémoriser'},
+    {id: 'mediter',     label: 'Méditer le Coran'},
+    {id: 'concepts',    label: 'Concepts fondamentaux'},
+  ];
+  const navContainer = document.getElementById('tabs-nav-container');
+  tabs.forEach((t, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'tab-btn' + (i === 0 ? ' active' : '');
+    btn.dataset.tab = t.id;
+    btn.textContent = t.label;
+    navContainer.appendChild(btn);
+  });
+
   // Tab system
   const tabBtns = document.querySelectorAll('.tab-btn');
   const tabContents = document.querySelectorAll('.tab-content');
@@ -994,6 +1005,27 @@ permalink: /
     });
   });
 
+
+  // Build tabs nav dynamically (avoid kramdown rendering button text)
+  const tabs = [
+    {id: 'methode',     label: 'Méthode'},
+    {id: 'decouvrir',   label: 'Découvrir soi-même'},
+    {id: 'pourquoi',    label: 'Pourquoi ce site'},
+    {id: 'sources-lex', label: 'Sources lexicographiques'},
+    {id: 'themes',      label: 'Thèmes'},
+    {id: 'traduction',  label: 'Traduction du Coran'},
+    {id: 'comprendre',  label: 'Comprendre avant mémoriser'},
+    {id: 'mediter',     label: 'Méditer le Coran'},
+    {id: 'concepts',    label: 'Concepts fondamentaux'},
+  ];
+  const navContainer = document.getElementById('tabs-nav-container');
+  tabs.forEach((t, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'tab-btn' + (i === 0 ? ' active' : '');
+    btn.dataset.tab = t.id;
+    btn.textContent = t.label;
+    navContainer.appendChild(btn);
+  });
 
   // Tab system
   const tabBtns = document.querySelectorAll('.tab-btn');
