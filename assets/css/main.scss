@@ -672,9 +672,9 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 /* ── PAGE BODY (pages simples: methode, traduction, baraa…) ── */
 .page-body {
-  max-width: 760px;
+  max-width: 720px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 2rem 2.5rem;
 }
 .page-body h2 {
   font-family: var(--font-titre);
@@ -1133,8 +1133,9 @@ tr:nth-child(even) td { background: var(--bg2); }
   background: var(--bg4);
   border: 1px solid var(--bg5);
   border-left: 3px solid var(--or3);
-  padding: 1.2rem 1.5rem;
-  margin: 1rem 0;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+  overflow: hidden;
 }
 .verse-ref {
   font-family: var(--font-titre);
@@ -1523,3 +1524,80 @@ tr:nth-child(even) td { background: var(--bg2); }
   .site-sidebar.open .sidebar-toggle { border-bottom: 1px solid var(--bg5); }
 }
 @media (min-width: 961px) { .sidebar-nav { display: block !important; } }
+
+/* ── Verse-block inner elements ── */
+.verse-block .verse-arabic {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  font-size: 1.6rem;
+  max-width: 100%;
+}
+.verse-block .verse-translit {
+  font-size: .88rem;
+  line-height: 1.8;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
+}
+.verse-block .verse-trans {
+  font-size: .95rem;
+  line-height: 1.75;
+  max-width: 100%;
+}
+/* ── Note block padding ── */
+.note-block {
+  background: var(--bg3);
+  border-left: 3px solid var(--or3);
+  padding: 1rem 1.5rem;
+  margin: 1.2rem 0;
+  font-size: .95rem;
+  color: var(--texte2);
+  line-height: 1.8;
+}
+/* ── Conditions grid 3-col capped ── */
+.conditions-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+@media (max-width: 800px) {
+  .conditions-grid { grid-template-columns: 1fr; }
+}
+.condition-card {
+  background: var(--bg4);
+  border: 1px solid var(--bg5);
+  border-top: 2px solid var(--or3);
+  padding: 1.2rem;
+}
+.condition-ar {
+  font-family: var(--font-arabe);
+  font-size: 1.6rem;
+  color: var(--or3);
+  direction: rtl;
+  display: block;
+  margin-bottom: .3rem;
+}
+.condition-num {
+  font-family: var(--font-titre);
+  font-size: .52rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--texte3);
+  display: block;
+  margin-bottom: .2rem;
+}
+.condition-label {
+  font-family: var(--font-titre);
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--texte);
+  margin-bottom: .4rem;
+}
+.condition-desc {
+  font-size: .9rem;
+  color: var(--texte2);
+  line-height: 1.7;
+}
