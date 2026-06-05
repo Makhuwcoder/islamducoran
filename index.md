@@ -46,60 +46,6 @@ permalink: /
     min-height: 100vh;
   }
 
-  /* ─── HEADER / NAV ─── */
-  header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(232,220,200,0.97);
-    border-bottom: 1px solid var(--border);
-    backdrop-filter: blur(8px);
-  }
-
-  .nav-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1.5rem;
-    display: flex;
-    align-items: center;
-    gap: 0;
-    flex-wrap: wrap;
-  }
-
-  .nav-brand {
-    font-family: 'Cinzel', serif;
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--or);
-    text-decoration: none;
-    letter-spacing: 0.1em;
-    padding: 1rem 1rem 1rem 0;
-    white-space: nowrap;
-    margin-right: 1.5rem;
-  }
-
-  nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0;
-  }
-
-  nav a {
-    font-family: 'Cinzel', serif;
-    font-size: 0.62rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
-    color: var(--texte2);
-    text-decoration: none;
-    padding: 1rem 0.7rem;
-    text-transform: uppercase;
-    transition: color 0.2s;
-    white-space: nowrap;
-  }
-
-  nav a:hover, nav a.active { color: var(--or); }
-  nav a.active { border-bottom: 2px solid var(--or); }
-
   /* ─── HERO ─── */
   .hero {
     background: linear-gradient(180deg, #d4c8a0 0%, var(--bg) 100%);
@@ -285,15 +231,7 @@ permalink: /
     padding: 0 1.5rem 3rem;
   }
 
-  .tabs-nav {
-    display: flex;
-    flex-wrap: wrap;
-    border-bottom: 2px solid var(--border);
-    gap: 0;
-    margin-bottom: 2.5rem;
-  }
-
-  .tab-btn {
+  .tabs-.tab-btn {
     font-family: 'Cinzel', serif;
     font-size: 0.65rem;
     letter-spacing: 0.12em;
