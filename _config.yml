@@ -68,7 +68,7 @@ nav_sidebar:
         url: "/decouvrir/"
         ar: "اكْتَشِفْ"
       - title: "Pourquoi ce site"
-        url: "/pourquoi-site/"
+        url: "/pourquoi/"
         ar: "لِمَاذَا"
       - title: "Sources lexicographiques"
         url: "/sources-lexicographiques/"
