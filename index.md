@@ -5,24 +5,24 @@ permalink: /
 ---
 
 <!-- ═══════════════ HERO ═══════════════ -->
-<section class="hero" id="accueil">
+<section class="hero" id="accueil"><div class="accueil-wrap">
   <!-- Plainte du Nabi -->
   <div class="complaint">
     <div class="complaint-ref">Sourate Al-Furqān · 25:30</div>
     <div class="arabic-verse">وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَٰذَا الْقُرْآنَ مَهْجُورًا</div>
     <div class="transliteration">Wa-qāla r-rasūlu yā rabbi inna qawmī ttakhadhū hādhā l-qurʾāna mahjūrā</div>
-    <div class="translation">Et le Messager dira : « Mon Seigneur, en vérité mon peuple a pris ce Coran comme quelque chose de délaissé. »</div>
+    <div class="translation">Et le Messager dira :<br>« Mon Seigneur, en vérité mon peuple a pris ce Coran comme quelque chose de délaissé. »</div>
     <p style="margin-top:0.8rem; font-size:0.88rem; color:var(--or); font-family:'Cinzel',serif; font-size:0.7rem; letter-spacing:0.08em;">Le Messager comme témoin à charge de son propre peuple.</p>
   </div>
 
   <div class="intro-text">Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah</div>
-</section>
+</div></section>
 
 <!-- ═══════════════ 9 ATTRIBUTS ═══════════════ -->
-<section class="section" style="border-bottom:1px solid var(--border);">
-  <div class="section-title">Le Coran selon le Coran</div>
-  <div class="section-heading">Neuf éléments de ce que l'on peut dire du Coran</div>
-  <div class="section-desc">Le Coran est un livre qui se décrit lui-même avec une précision remarquable. Cette auto-description n'est pas un artifice rhétorique : c'est un dispositif argumentatif interne qui permet au lecteur honnête d'évaluer la légitimité de tout autre texte prétendant compléter ou interpréter le message de Allaah.</div>
+<section class="attrs-section"><div class="accueil-wrap">
+  <div class="attrs-section-title">Le Coran selon le Coran</div>
+  <div class="attrs-section-subtitle">Neuf éléments de ce que l'on peut dire du Coran</div>
+  <div class="attrs-section-desc">Le Coran est un livre qui se décrit lui-même avec une précision remarquable. Cette auto-description n'est pas un artifice rhétorique : c'est un dispositif argumentatif interne qui permet au lecteur honnête d'évaluer la légitimité de tout autre texte prétendant compléter ou interpréter le message de Allaah.</div>
 
   <div class="attrs-grid">
     <div class="attr-card">
@@ -76,7 +76,7 @@ permalink: /
     Méthode : linguistique arabe classique · Référence : Lisān al-ʿArab · Maqāyīs · Kitāb al-ʿAyn<br>
     Aucun hadith · Aucun fiqh · Aucun tafsir traditionnel — Le Coran témoigne de lui-même
   </p>
-</section>
+</div></section>
 
 <!-- ═══════════════ BARAA ═══════════════ -->
 <div class="baraa">
@@ -335,17 +335,17 @@ permalink: /
         <div class="verse-trans">Sauf ceux qui retournent, rectifient et déclarent — ceux-là, Je reçois leur retour. Et c'est Moi al-tawwāb al-raḥīm.</div>
 
         <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; margin-top:1.2rem;">
-          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--border);">
+          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--bg5);">
             <div style="font-family:'Amiri',serif; font-size:1.5rem; color:var(--or); direction:rtl;">تَابُوا</div>
             <div style="font-family:'Cinzel',serif; font-size:0.65rem; letter-spacing:0.1em; color:var(--or-dim); margin:0.3rem 0;">1ʳᵉ condition · tābū</div>
             <p style="font-size:0.85rem;">Retourner — mouvement intérieur de réorientation. Se détourner de la direction précédente.</p>
           </div>
-          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--border);">
+          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--bg5);">
             <div style="font-family:'Amiri',serif; font-size:1.5rem; color:var(--or); direction:rtl;">أَصْلَحُوا</div>
             <div style="font-family:'Cinzel',serif; font-size:0.65rem; letter-spacing:0.1em; color:var(--or-dim); margin:0.3rem 0;">2ᵉ condition · aṣlaḥū</div>
             <p style="font-size:0.85rem;">Rectifier — corriger activement ce qui était déréglé. Non pas regretter, mais défaire le désordre.</p>
           </div>
-          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--border);">
+          <div style="text-align:center; padding:1rem; background:var(--bg3); border:1px solid var(--bg5);">
             <div style="font-family:'Amiri',serif; font-size:1.5rem; color:var(--or); direction:rtl;">بَيَّنُوا</div>
             <div style="font-family:'Cinzel',serif; font-size:0.65rem; letter-spacing:0.1em; color:var(--or-dim); margin:0.3rem 0;">3ᵉ condition · bayyinū</div>
             <p style="font-size:0.85rem;">Déclarer — rendre manifeste ce qui était voilé. Acte public, externe, irréductible au seul regret privé.</p>
@@ -365,20 +365,20 @@ permalink: /
         <div>
           <h3 class="or">Ce site est</h3>
           <ul style="list-style:none; padding:0;">
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✦ Un acte de bayān — de déclaration de ce que le texte dit</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✦ Une lecture du Coran par lui-même, en arabe classique</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✦ Une cartographie honnête du dit, du non-dit et du silence</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✦ Un outil de compréhension, non de législation</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✦ Un acte de bayān — de déclaration de ce que le texte dit</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✦ Une lecture du Coran par lui-même, en arabe classique</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✦ Une cartographie honnête du dit, du non-dit et du silence</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✦ Un outil de compréhension, non de législation</li>
             <li style="padding:0.3rem 0; font-size:0.9rem;">✦ Un travail ouvert, en cours, corrigible</li>
           </ul>
         </div>
         <div>
           <h3 style="color:#a05040;">Ce site n'est pas</h3>
           <ul style="list-style:none; padding:0;">
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✗ Une nouvelle école de pensée ou un mouvement</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✗ Un jugement sur les croyants ou les traditions</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✗ Une source de fatwas ou de prescriptions</li>
-            <li style="padding:0.3rem 0; border-bottom:1px solid var(--border); font-size:0.9rem;">✗ Une prétention à l'autorité religieuse</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✗ Une nouvelle école de pensée ou un mouvement</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✗ Un jugement sur les croyants ou les traditions</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✗ Une source de fatwas ou de prescriptions</li>
+            <li style="padding:0.3rem 0;  font-size:0.9rem;">✗ Une prétention à l'autorité religieuse</li>
             <li style="padding:0.3rem 0; font-size:0.9rem;">✗ Un substitut à la recherche personnelle</li>
           </ul>
         </div>
