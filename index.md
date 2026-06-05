@@ -1,12 +1,30 @@
 ---
-layout: default
+layout: none
 title: "Islam du Coran — Le Coran lu par lui-même"
 permalink: /
 ---
-
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Islam du Coran — Le Coran lu par lui-même</title>
+<meta name="description" content="Le Coran lu par lui-même, en arabe classique — Sans tafsīr · Sans ḥadīth · Sans école">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-
+<link rel="stylesheet" href="/assets/css/main.css">
 <style>
+/* ── Sable palette overrides for page-specific elements ── */
+:root {
+  --nav-h: 56px;
+  --t: 0.2s;
+  --font-titre: 'Cinzel', serif;
+  --font-corps: 'Cormorant Garamond', serif;
+  --font-arabe: 'Amiri', serif;
+
+}
+
 /* ── Accueil overrides — palette sable ── */
 
   :root {
@@ -30,7 +48,7 @@ permalink: /
 
   body {
     background: var(--bg);
-    color: var(--text);
+    color: var(--texte);
     font-family: 'Cormorant Garamond', Georgia, serif;
     font-size: 17px;
     line-height: 1.75;
@@ -80,7 +98,7 @@ permalink: /
     font-size: 0.62rem;
     font-weight: 600;
     letter-spacing: 0.08em;
-    color: var(--creme-dim);
+    color: var(--texte2);
     text-decoration: none;
     padding: 1rem 0.7rem;
     text-transform: uppercase;
@@ -122,7 +140,7 @@ permalink: /
   .hero-sub {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1rem;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-style: italic;
     letter-spacing: 0.05em;
     margin-bottom: 2.5rem;
@@ -136,11 +154,7 @@ permalink: /
     border: 1px solid var(--border);
     border-left: 3px solid var(--or);
     padding: 2rem 2.5rem;
-    text-align: center;
   }
-  .complaint .arabic-verse { text-align: center; }
-  .complaint .transliteration { text-align: center; }
-  .complaint .translation { text-align: center; }
 
   .complaint-ref {
     font-family: 'Cinzel', serif;
@@ -154,7 +168,7 @@ permalink: /
   .arabic-verse {
     font-family: 'Amiri', serif;
     font-size: 1.6rem;
-    color: var(--creme);
+    color: var(--texte);
     direction: rtl;
     text-align: right;
     line-height: 2;
@@ -163,13 +177,13 @@ permalink: /
 
   .transliteration {
     font-style: italic;
-    color: var(--creme-dim);
+    color: var(--texte2);
     margin-bottom: 0.8rem;
     font-size: 0.95rem;
   }
 
   .translation {
-    color: var(--creme);
+    color: var(--texte);
     font-size: 1.05rem;
   }
 
@@ -193,7 +207,7 @@ permalink: /
   .section-heading {
     font-family: 'Cormorant Garamond', serif;
     font-size: clamp(1.3rem, 3vw, 1.8rem);
-    color: var(--creme);
+    color: var(--texte);
     text-align: center;
     font-weight: 400;
     margin-bottom: 0.5rem;
@@ -202,7 +216,7 @@ permalink: /
 
   .section-desc {
     text-align: center;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-style: italic;
     max-width: 680px;
     margin: 0 auto 2.5rem;
@@ -245,7 +259,7 @@ permalink: /
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.12em;
-    color: var(--creme);
+    color: var(--texte);
     text-transform: uppercase;
     margin-bottom: 0.4rem;
   }
@@ -259,67 +273,19 @@ permalink: /
   /* ─── BARAA BANNER ─── */
   .baraa {
     background: var(--bg2);
-    border-top: 2px solid var(--or);
-    border-bottom: 2px solid var(--or);
-    padding: 2.5rem 2rem;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 1.5rem;
     text-align: center;
-  }
-  .baraa-title {
-    font-family: 'Amiri', serif;
-    font-size: 2.8rem;
-    color: var(--or);
-    direction: rtl;
-    margin-bottom: 0.3rem;
-    line-height: 1.2;
-  }
-  .baraa-subtitle {
-    font-family: 'Cinzel', serif;
-    font-size: 0.62rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--creme-dim);
-    margin-bottom: 1.2rem;
-  }
-  .baraa-sep {
-    width: 60px;
-    height: 1px;
-    background: var(--or);
-    margin: 1rem auto;
-    opacity: 0.6;
-  }
-  .baraa-sep-thin {
-    width: 120px;
-    height: 1px;
-    background: var(--border);
-    margin: 0.8rem auto;
-  }
-  .baraa-line {
     font-family: 'Cinzel', serif;
     font-size: 0.6rem;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.1em;
+    color: var(--texte2);
     text-transform: uppercase;
-    color: var(--creme-dim);
-    line-height: 2;
-    max-width: 900px;
-    margin: 0 auto;
+    line-height: 1.9;
   }
-  .baraa-or {
-    color: var(--or);
-    font-weight: 700;
-  }
-  .baraa-ni {
-    color: var(--creme-dim);
-    opacity: 0.85;
-  }
-  .baraa-final {
-    font-family: 'Cinzel', serif;
-    font-size: 0.75rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--or);
-    font-weight: 700;
-    margin-top: 0.5rem;
-  }
+
+  .baraa strong { color: var(--or); }
 
   /* ─── TABS SYSTEM ─── */
   .tabs-section {
@@ -341,7 +307,7 @@ permalink: /
     font-size: 0.65rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--creme-dim);
+    color: var(--texte2);
     background: transparent;
     border: none;
     border-bottom: 2px solid transparent;
@@ -352,7 +318,7 @@ permalink: /
     white-space: nowrap;
   }
 
-  .tab-btn:hover { color: var(--creme); }
+  .tab-btn:hover { color: var(--texte); }
   .tab-btn.active { color: var(--or); border-bottom-color: var(--or); }
 
   .tab-content { display: none; }
@@ -386,7 +352,7 @@ permalink: /
 
   .content-block p {
     margin-bottom: 1rem;
-    color: var(--text);
+    color: var(--texte);
   }
 
   /* ─── VERSE DISPLAY ─── */
@@ -410,7 +376,7 @@ permalink: /
   .verse-arabic {
     font-family: 'Amiri', serif;
     font-size: 1.5rem;
-    color: var(--creme);
+    color: var(--texte);
     direction: rtl;
     text-align: right;
     line-height: 2;
@@ -419,14 +385,14 @@ permalink: /
 
   .verse-translit {
     font-style: italic;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-size: 0.92rem;
     margin-bottom: 0.6rem;
     line-height: 1.6;
   }
 
   .verse-trans {
-    color: var(--creme);
+    color: var(--texte);
     font-size: 1rem;
     line-height: 1.7;
   }
@@ -442,25 +408,25 @@ permalink: /
   .callout-dit {
     background: rgba(201,168,76,0.08);
     border-left: 3px solid var(--or);
-    color: var(--creme);
+    color: var(--texte);
   }
 
   .callout-nondit {
     background: rgba(120,100,60,0.15);
     border-left: 3px solid #8a7045;
-    color: var(--creme-dim);
+    color: var(--texte2);
   }
 
   .callout-inference {
     background: rgba(80,120,80,0.1);
     border-left: 3px solid #6a9060;
-    color: var(--text);
+    color: var(--texte);
   }
 
   .callout-warning {
     background: rgba(160,60,40,0.1);
     border-left: 3px solid #a03828;
-    color: var(--creme-dim);
+    color: var(--texte2);
   }
 
   .callout-label {
@@ -500,7 +466,7 @@ permalink: /
 
   .pillar-card p {
     font-size: 0.92rem;
-    color: var(--text);
+    color: var(--texte);
     line-height: 1.65;
   }
 
@@ -546,7 +512,7 @@ permalink: /
 
   .steps-list li p {
     font-size: 0.92rem;
-    color: var(--text);
+    color: var(--texte);
     margin: 0;
   }
 
@@ -586,7 +552,7 @@ permalink: /
     padding: 0.4rem 0.9rem;
     background: var(--bg2);
     border: 1px solid var(--border);
-    color: var(--text);
+    color: var(--texte);
     text-decoration: none;
     font-size: 0.88rem;
     transition: border-color 0.2s, color 0.2s;
@@ -610,7 +576,7 @@ permalink: /
     padding: 2rem;
     text-align: center;
     margin: 1.5rem 0;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-style: italic;
     font-size: 0.9rem;
   }
@@ -647,14 +613,14 @@ permalink: /
     font-family: 'Cinzel', serif;
     font-size: 0.7rem;
     letter-spacing: 0.08em;
-    color: var(--creme);
+    color: var(--texte);
     margin-bottom: 0.4rem;
     text-transform: uppercase;
   }
 
   .gallery-item p {
     font-size: 0.8rem;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-style: italic;
   }
 
@@ -715,13 +681,13 @@ permalink: /
     font-family: 'Cinzel', serif;
     font-size: 0.9rem;
     font-weight: 700;
-    color: var(--creme);
+    color: var(--texte);
     margin-bottom: 0.5rem;
   }
 
   .concept-current {
     font-size: 0.75rem;
-    color: var(--creme-dim);
+    color: var(--texte2);
     font-style: italic;
     margin-bottom: 0.7rem;
     padding-bottom: 0.7rem;
@@ -730,7 +696,7 @@ permalink: /
 
   .concept-desc {
     font-size: 0.88rem;
-    color: var(--text);
+    color: var(--texte);
     line-height: 1.65;
   }
 
@@ -783,7 +749,7 @@ permalink: /
   td {
     padding: 0.6rem 1rem;
     border: 1px solid var(--border);
-    color: var(--text);
+    color: var(--texte);
     vertical-align: top;
   }
 
@@ -812,7 +778,7 @@ permalink: /
     font-size: 0.58rem;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: var(--creme-dim);
+    color: var(--texte2);
     line-height: 2;
     max-width: 900px;
     margin: 1rem auto 0;
@@ -827,7 +793,7 @@ permalink: /
   }
 
   .or { color: var(--or); }
-  .creme { color: var(--creme); }
+  .creme { color: var(--texte); }
   .italic { font-style: italic; }
 
   .big-arabic {
@@ -835,14 +801,14 @@ permalink: /
     font-size: 2rem;
     direction: rtl;
     text-align: right;
-    color: var(--creme);
+    color: var(--texte);
     line-height: 2;
     margin-bottom: 0.8rem;
   }
 
   .intro-text {
     font-size: 1.05rem;
-    color: var(--text);
+    color: var(--texte);
     max-width: 760px;
     margin: 0 auto 1.5rem;
     text-align: center;
@@ -853,7 +819,7 @@ permalink: /
     border-left: 2px solid var(--or);
     padding-left: 1.2rem;
     margin: 1.2rem 0;
-    color: var(--creme);
+    color: var(--texte);
     font-style: italic;
   }
 
@@ -883,7 +849,7 @@ permalink: /
   }
 
   .highlight-box p {
-    color: var(--creme);
+    color: var(--texte);
     font-size: 1.1rem;
     font-style: italic;
   }
@@ -915,7 +881,101 @@ permalink: /
     margin-bottom: 0.3rem;
   }
 
+
+/* Fix tab button colors for sable bg */
+.tab-btn { color: var(--texte3); }
+.tab-btn:hover { color: var(--texte); }
+.tab-btn.active { color: var(--or3); border-bottom-color: var(--or3); }
+/* Complaint centered */
+.complaint { text-align: center; background: var(--bg4); border-color: var(--bg5); border-left-color: var(--or3); }
+.complaint .arabic-verse, .complaint .transliteration, .complaint .translation { text-align: center; color: var(--texte); }
+.complaint-ref { color: var(--or3); }
+/* Attr cards sable */
+.attr-card { background: var(--bg3); border-color: var(--bg5); }
+.attr-arabic { color: var(--or3); }
+.attr-label { color: var(--texte); }
+.attr-refs { color: var(--or2); }
+/* Verse blocks */
+.verse-block { background: var(--bg4); border-color: var(--bg5); border-left-color: var(--or3); }
+.verse-ref { color: var(--or3); }
+.verse-arabic { color: var(--texte); }
+.verse-translit { color: var(--texte2); }
+.verse-trans { color: var(--texte); }
+/* Callouts */
+.callout-dit { background: var(--dit-bg); border-left-color: var(--dit-b); color: var(--dit-c); }
+.callout-nondit { background: var(--nondit-bg); border-left-color: var(--nondit-b); color: var(--nondit-c); }
+.callout-inference { background: var(--inf-bg); border-left-color: var(--inf-b); color: var(--inf-c); }
+.callout-warning { background: var(--warn-bg); border-left-color: var(--warn-b); color: var(--warn-c); }
+/* Pillar cards */
+.pillar-card { background: var(--bg3); border-color: var(--bg5); }
+.pillar-card h4 { color: var(--or3); }
+.pillar-card p { color: var(--texte); }
+/* Themes list */
+.themes-list li a { background: var(--bg3); border-color: var(--bg5); color: var(--texte2); }
+.themes-list li a:hover { border-color: var(--or3); color: var(--or3); }
+.themes-category-title { color: var(--or3); border-color: var(--bg5); }
+/* Gallery */
+.gallery-item { background: var(--bg3); border-color: var(--bg5); }
+.gallery-item h4 { color: var(--texte); }
+.gallery-item p { color: var(--texte2); }
+.gallery-item a { border-color: var(--or3); color: var(--or3); }
+.gallery-item a:hover { background: var(--or3); color: var(--bg); }
+/* Hero */
+.hero { background: linear-gradient(180deg, #d4c8a0 0%, var(--bg) 100%); border-color: var(--bg5); }
+/* Content blocks */
+.content-block h2 { color: var(--or2); border-color: var(--bg5); }
+.content-block h3 { color: var(--or3); }
+.content-block p { color: var(--texte); }
+/* Note blocks */
+.note-block { background: var(--bg3); border-color: var(--bg5); }
+/* Concept cards */
+.concept-card { background: var(--bg3); border-color: var(--bg5); }
+.concept-arabic { color: var(--or3); }
+.concept-translit { color: var(--or2); }
+.concept-title { color: var(--texte); }
+.concept-desc { color: var(--texte2); }
+/* Section */
+.section-title { color: var(--or3); }
+.section-heading { color: var(--texte); }
+.section-desc { color: var(--texte2); }
+/* Tables */
+th { background: var(--bg3); color: var(--or3); border-color: var(--bg5); }
+td { border-color: var(--bg5); color: var(--texte); }
+tr:nth-child(even) td { background: var(--bg2); }
+/* Baraa solemn */
+.baraa { background: var(--bg2); border-top: 2px solid var(--or3); border-bottom: 2px solid var(--or3); }
+.baraa-title { color: var(--or3); }
+.baraa-subtitle { color: var(--texte3); }
+.baraa-sep { background: var(--or3); }
+.baraa-line { color: var(--texte2); }
+.baraa-or { color: var(--or3); }
+.baraa-final { color: var(--or3); }
 </style>
+</head>
+<body>
+
+<nav class="site-nav" role="navigation">
+  <a class="site-nav__logo" href="/">islamducoran.fr</a>
+  <ul class="site-nav__links" id="nav-links" role="list">
+    <li><a href="/" class="active">Accueil</a></li>
+    <li><a href="/methode/">Méthode</a></li>
+    <li><a href="/etudes/">Études</a></li>
+    <li><a href="/traduction/">Traduction du Coran</a></li>
+    <li><a href="/recherche/">Recherche</a></li>
+    <li><a href="/assistant/">Assistant</a></li>
+    <li><a href="/baraaa/">Barāʾa</a></li>
+  </ul>
+  <a href="/recherche/" class="site-nav__search-btn" aria-label="Rechercher">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+  </a>
+  <button class="site-nav__burger" id="nav-burger" aria-label="Menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="20" height="20">
+      <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+    </svg>
+  </button>
+</nav>
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero" id="accueil">
@@ -999,15 +1059,9 @@ permalink: /
   <div class="baraa-line"><span class="baraa-or">Muslim — uniquement et seulement</span></div>
   <div class="baraa-line">Source normative unique : le Coran &nbsp;·&nbsp; Autorité unique : Allaah</div>
   <div class="baraa-sep-thin"></div>
-  <div class="baraa-line baraa-ni">
-    Ni sunnite &nbsp;·&nbsp; ni chiite &nbsp;·&nbsp; ni salafite &nbsp;·&nbsp; ni wahhabite &nbsp;·&nbsp; ni habachite &nbsp;·&nbsp; ni coraniste &nbsp;·&nbsp; ni soufiste d'aucune ṭarīqa
-  </div>
-  <div class="baraa-line baraa-ni">
-    Ni d'aucune école de fiqh (mālikite, ḥanafite, shāfiʿite, ḥanbalite…) &nbsp;·&nbsp; ni d'aucune école de kalām (ashʿarite, māturīdite, muʿtazilite…)
-  </div>
-  <div class="baraa-line baraa-ni">
-    Ni d'aucun mouvement constitué
-  </div>
+  <div class="baraa-line baraa-ni">Ni sunnite &nbsp;·&nbsp; ni chiite &nbsp;·&nbsp; ni salafite &nbsp;·&nbsp; ni wahhabite &nbsp;·&nbsp; ni habachite &nbsp;·&nbsp; ni coraniste &nbsp;·&nbsp; ni soufiste d'aucune ṭarīqa</div>
+  <div class="baraa-line baraa-ni">Ni d'aucune école de fiqh (mālikite, ḥanafite, shāfiʿite, ḥanbalite…) &nbsp;·&nbsp; ni d'aucune école de kalām (ashʿarite, māturīdite, muʿtazilite…)</div>
+  <div class="baraa-line baraa-ni">Ni d'aucun mouvement constitué</div>
   <div class="baraa-sep-thin"></div>
   <div class="baraa-line">Aucun ḥizb &nbsp;·&nbsp; aucun tafsīr &nbsp;·&nbsp; aucun ḥadīth comme source normative &nbsp;·&nbsp; aucune autorité humaine sur le <em>dīn</em></div>
   <div class="baraa-sep"></div>
@@ -1880,23 +1934,7 @@ permalink: /
 </div><!-- /tabs-section -->
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
-<footer>
-  <div class="footer-logo">Islam du Coran</div>
-  <p style="font-size:0.82rem; color:var(--creme-dim); font-style:italic; margin:0.3rem 0;">islamducoran.fr · Le Coran lu par lui-même, en arabe classique · Sans tafsīr · Sans hadith · Sans école</p>
 
-  <div class="separator-verse" style="max-width:600px; margin:2rem auto;">
-    <div class="arabic-big">وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ</div>
-    <div style="font-style:italic; color:var(--creme-dim); font-size:0.92rem;">wa-qāla innanī mina l-muslimīn — 41:33</div>
-  </div>
-
-  <div class="footer-baraa">
-    <strong>Muslim — uniquement et seulement</strong> · Source normative unique : le Coran · Autorité unique : Allaah ◆<br>
-    Ni sunnite · ni chiite · ni salafite · ni wahhabite · <strong>ni habachite ·</strong> ni coraniste · ni soufiste d'aucune tariqa · ni d'aucune école de fiqh (malikite, hanafite, chafi'ite, hanbalite…) · ni d'aucune école de kalām (ash'arite, maturidite, mu'tazilite…) · ni d'aucun mouvement constitué ◆<br>
-    Aucun hizb · aucun tafsir · aucun hadith comme source normative · aucune autorité humaine sur le dīn ◆<br>
-    Le texte dit ce qu'il dit — rien de plus, rien de moins.
-  </div>
-  <p style="font-size:0.72rem; color:var(--or-dim); margin-top:1.5rem; font-family:'Cinzel',serif; letter-spacing:0.08em;">Barāʾa — Déclaration de positionnement · Les sources lexicographiques sont des références de langue uniquement — aucune autorité sur le sens du texte.</p>
-</footer>
 
 <script>
   // Tab system
@@ -1929,3 +1967,46 @@ permalink: /
     });
   });
 </script>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="site-footer__baraaa">
+    Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah
+    ◆ Ni sunnite · ni chiite · ni salafite · ni wahhabite · ni habachite · ni coraniste · ni soufiste d'aucune tariqa
+    · ni d'aucune école de fiqh · ni d'aucun mouvement constitué
+    ◆ Aucun ḥizb · aucun tafsīr · aucun ḥadīth comme source normative · aucune autorité humaine sur le dīn
+    ◆ Le texte dit ce qu'il dit — rien de plus, rien de moins.
+  </div>
+  <div class="site-footer__copy">
+    islamducoran.fr · Le Coran lu par lui-même, en arabe classique · Sans tafsīr · Sans ḥadīth · Sans école
+    · Sources lexicographiques : al-Farāhīdī · Ibn Fāris · Ibn Manẓūr
+  </div>
+</footer>
+
+<script>
+  // Tab system
+  const tabBtns = document.querySelectorAll('.tab-btn');
+  const tabContents = document.querySelectorAll('.tab-content');
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = btn.dataset.tab;
+      tabBtns.forEach(b => b.classList.remove('active'));
+      tabContents.forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      const el = document.getElementById('tab-' + target);
+      if (el) { el.classList.add('active'); el.scrollIntoView({behavior:'smooth',block:'start'}); }
+    });
+  });
+  // Burger menu
+  const burger = document.getElementById('nav-burger');
+  const navLinks = document.getElementById('nav-links');
+  if (burger && navLinks) {
+    burger.addEventListener('click', () => {
+      const open = burger.getAttribute('aria-expanded') === 'true';
+      burger.setAttribute('aria-expanded', !open);
+      navLinks.style.display = open ? '' : 'flex';
+      navLinks.style.flexDirection = open ? '' : 'column';
+    });
+  }
+</script>
+</body>
+</html>
