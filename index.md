@@ -79,21 +79,6 @@ permalink: /
 </div></section>
 
 <!-- ═══════════════ BARAA ═══════════════ -->
-<div class="baraa">
-  <div class="baraa-title">بَرَاءَة</div>
-  <div class="baraa-subtitle">Déclaration officielle de positionnement et de non-appartenance</div>
-  <div class="baraa-sep"></div>
-  <div class="baraa-line"><span class="baraa-or">Muslim — uniquement et seulement</span></div>
-  <div class="baraa-line">Source normative unique : le Coran &nbsp;·&nbsp; Autorité unique : Allaah</div>
-  <div class="baraa-sep-thin"></div>
-  <div class="baraa-line baraa-ni">Ni sunnite &nbsp;·&nbsp; ni chiite &nbsp;·&nbsp; ni salafite &nbsp;·&nbsp; ni wahhabite &nbsp;·&nbsp; ni habachite &nbsp;·&nbsp; ni coraniste &nbsp;·&nbsp; ni soufiste d'aucune ṭarīqa</div>
-  <div class="baraa-line baraa-ni">Ni d'aucune école de fiqh (mālikite, ḥanafite, shāfiʿite, ḥanbalite…) &nbsp;·&nbsp; ni d'aucune école de kalām (ashʿarite, māturīdite, muʿtazilite…)</div>
-  <div class="baraa-line baraa-ni">Ni d'aucun mouvement constitué</div>
-  <div class="baraa-sep-thin"></div>
-  <div class="baraa-line">Aucun ḥizb &nbsp;·&nbsp; aucun tafsīr &nbsp;·&nbsp; aucun ḥadīth comme source normative &nbsp;·&nbsp; aucune autorité humaine sur le <em>dīn</em></div>
-  <div class="baraa-sep"></div>
-  <div class="baraa-final">Le texte dit ce qu'il dit — rien de plus, rien de moins.</div>
-</div>
 
 <!-- ═══════════════ TABS ═══════════════ -->
 <div class="tabs-section" id="tabs-main">
