@@ -239,7 +239,7 @@ body::before {
 /* ═══════════ LAYOUT ═══════════ */
 .site-main {
   position: relative; z-index: 1;
-  max-width: var(--max-width);
+  max-width: 1100px;
   margin: 0 auto; padding: 3rem 2rem 5rem;
 }
 .site-main--wide { max-width: 1100px; }
@@ -672,9 +672,9 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 /* ── PAGE BODY (pages simples: methode, traduction, baraa…) ── */
 .page-body {
-  max-width: 720px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 2rem 2.5rem;
+  padding: 3rem 2rem;
 }
 .page-body h2 {
   font-family: var(--font-titre);
@@ -801,7 +801,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 /* ── COMPLAINT 25:30 ── */
 .complaint {
-  max-width: 760px;
+  max-width: 1100px;
   margin: 0 auto 2rem;
   background: var(--bg4);
   border: 1px solid var(--bg5);
@@ -879,7 +879,7 @@ tr:nth-child(even) td { background: var(--bg2); }
   font-size: 1.8rem;
   color: var(--texte2);
   text-align: center;
-  max-width: 760px;
+  max-width: 1100px;
   margin: 0 auto 2rem;
   line-height: 1.9555;
   font-style: italic;
@@ -999,7 +999,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 .tabs-section {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 3rem 2rem;
 }
 .tabs-nav {
   display: flex;
@@ -1050,7 +1050,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 /* ── CONTENT BLOCKS (onglets) ── */
 .content-block {
-  max-width: 860px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 .content-block h2 {
