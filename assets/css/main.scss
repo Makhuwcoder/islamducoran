@@ -1,6 +1,60 @@
 
 
 /* === Console override === */
+/* ââ Console islamducoran.fr â Variables gÃ©nÃ©rÃ©es ââ */
+:root {
+  /* Typographie */
+  --font-size-nav: 1.65rem;
+  --font-size-sidebar: 1.25rem;
+  --font-size-tab: 1.62rem;
+  --font-size-tag: 0.9rem;
+  --font-size-body: 1.65rem;
+  --font-size-h2: 1.8rem;
+  --font-size-h3: 1.44rem;
+  --font-size-arabic: 2.4rem;
+  --font-size-card-titre: 1.32rem;
+  --font-size-footer-baraa: 1.1rem;
+  --font-size-footer-copy: 0.95rem;
+
+  /* Mise en page */
+  --lateral-padding: 0.9rem;
+  --vertical-padding: 3rem;
+  --max-width: 1500px;
+  --sidebar-width: 410px;
+
+  /* Espacement */
+  --line-height-body: 1.95;
+}
+
+/* Navigation */
+.site-nav__links a { font-size: 1.65rem; }
+.tab-btn { font-size: 1.62rem; }
+.sidebar-label { font-size: 1.25rem; }
+
+/* Contenu */
+.page-body p, .content-block p { font-size: 1.65rem; line-height: 1.95; }
+.content-block h2 { font-size: 1.8rem; }
+.content-block h3 { font-size: 1.44rem; }
+
+/* Cartes Ã©tudes */
+.etude-card__titre { font-size: 1.32rem; }
+.etude-card__resume { font-size: 1.2rem; }
+
+/* Sidebar */
+.site-sidebar { width: 410px; }
+
+/* Footer */
+.site-footer__baraaa { font-size: 1.1rem; }
+.site-footer__copy { font-size: 0.95rem; }
+
+/* Marges */
+.site-main, .page-body, .tabs-section, .accueil-wrap {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 3rem 0.9rem;
+}
+
+/* === Console override === */
 /* ── Console islamducoran.fr — Variables générées ── */
 :root {
   /* Typographie */
