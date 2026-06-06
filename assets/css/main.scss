@@ -121,11 +121,14 @@ body::before {
 .site-nav__logo {
   display: flex;
   align-items: center;
+  justify-content: center;
   text-decoration: none;
   flex-shrink: 0;
+  width: 200px;
+  padding: 0 .5rem;
 }
 .site-nav__logo-img {
-  height: 42px;
+  height: 52px;
   width: auto;
   display: block;
   object-fit: contain;
