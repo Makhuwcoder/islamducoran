@@ -120,7 +120,7 @@ body::before {
 
 .site-nav__logo {
   font-family: var(--font-titre);
-  font-size: 1.8rem; letter-spacing: .16em;
+  font-size: 1.5rem; letter-spacing: .16em;
   text-transform: uppercase;
   color: #3a2800;
   text-decoration: none; white-space: nowrap;
@@ -136,7 +136,7 @@ body::before {
 
 .site-nav__links a {
   font-family: var(--font-titre);
-  font-size: 1.65rem; letter-spacing: .11em;
+  font-size: 1.45rem; letter-spacing: .11em;
   text-transform: uppercase;
   color: #3a2800;
   text-decoration: none;
@@ -512,7 +512,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 }
 .etude-card__titre {
   font-family: var(--font-titre);
-  font-size: 2.62rem; font-weight: 700;
+  font-size: 1.55rem; font-weight: 700;
   letter-spacing: .02em;
   line-height: 1.3; margin-bottom: .4rem;
   background: linear-gradient(90deg, #8a6010 0%, #c09030 25%, #f0d060 45%, #ffeea0 50%, #f0d060 55%, #c09030 75%, #8a6010 100%);
@@ -520,7 +520,7 @@ tr:nth-child(even) td { background: var(--bg2); }
   -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
   animation: shimmer-or 3.5s linear infinite;
 }
-.etude-card__resume { font-size: 2.17rem; color: #221808; font-weight: 500; line-height: 1.6; font-style: italic; }
+.etude-card__resume { font-size: 1.55rem; color: #221808; font-weight: 500; line-height: 1.6; font-style: italic; }
 .etude-card__tag {
   margin-top: .7rem;
   font-family: var(--font-titre);
@@ -696,7 +696,7 @@ tr:nth-child(even) td { background: var(--bg2); }
   margin: 1.5rem 0 .6rem;
 }
 .page-body p {
-  font-size: 2.48rem; font-weight: 500;
+  font-size: 1.95rem; font-weight: 500;
   color: #221808; line-height: 1.955;
   margin-bottom: 1rem;
 }
@@ -1019,7 +1019,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 }
 .tab-btn {
   font-family: var(--font-titre);
-  font-size: 2.58rem;
+  font-size: 1.85rem;
   letter-spacing: .09em;
   text-transform: uppercase;
   color: var(--texte3);
@@ -1059,7 +1059,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 }
 .content-block h2 {
   font-family: var(--font-titre);
-  font-size: 2.55rem;
+  font-size: 2.3rem;
   font-weight: 700;
   color: var(--or2);
   letter-spacing: .05em;
@@ -1069,7 +1069,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 }
 .content-block h3 {
   font-family: var(--font-titre);
-  font-size: 2.48rem;
+  font-size: 1.95rem;
   font-weight: 700;
   letter-spacing: .07em;
   text-transform: uppercase;
@@ -1464,7 +1464,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 .sidebar-group__title {
   font-family: var(--font-titre);
-  font-size: 2.58rem;
+  font-size: 1.15rem;
   letter-spacing: .15em;
   text-transform: uppercase;
   color: #3a2800;
@@ -1501,7 +1501,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 .sidebar-ar { display: none; }
 .sidebar-label {
   font-family: var(--font-titre);
-  font-size: 2.58rem;
+  font-size: 1.5rem;
   letter-spacing: .09em;
   text-transform: uppercase;
   color: #3a2800;
