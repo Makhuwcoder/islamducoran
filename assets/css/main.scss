@@ -239,8 +239,8 @@ body::before {
 /* ═══════════ LAYOUT ═══════════ */
 .site-main {
   position: relative; z-index: 1;
-  max-width: 1650px;
-  margin: 0 auto; padding: 3rem 1rem 5rem;
+  max-width: 1700px;
+  margin: 0 auto; padding: 3rem 0.9rem 5rem;
 }
 .site-main--wide { max-width: 1100px; }
 
@@ -678,7 +678,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 .page-body {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 1rem;
+  padding: 3rem 0.9rem;
 }
 .page-body h2 {
   font-family: var(--font-titre);
@@ -1003,7 +1003,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 .tabs-section {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 3rem 1.6rem;
+  padding: 3rem 0.9rem;
 }
 .tabs-nav {
   display: flex;
