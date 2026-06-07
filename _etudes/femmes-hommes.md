@@ -3,7 +3,7 @@ layout: etude
 title: "Femmes et hommes dans le Coran — La place de chacun dans la société"
 subtitle: "Rapport social · Responsabilités mutuelles · Analyse lexicale exhaustive de ḍaraba — Nafs wāḥida · Qiwāma · Nushūz · Médiation"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 order: 4
 racine_ar: "الرِّجَالُ قَوَّامُونَ"
 date: 2026-04-19
