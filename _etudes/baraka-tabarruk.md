@@ -3,7 +3,7 @@ layout: etude
 title: "Al-Baraka wa-l-Tabarruk — Ce que tout le monde croit savoir et ce que le texte dit réellement"
 subtitle: "Étude lexicographique et intra-coranique exhaustive — Racine · Formes · Usages coraniques · Distinctions sémantiques"
 categorie: "Pratiques rituelles"
-categorie_slug: "pratiques"
+categorie_slug: "ibadaat"
 order: 4
 racine: "ب-ر-ك"
 racine_ar: "بَرَكَة · تَبَارَكَ"
