@@ -6,7 +6,7 @@ categorie: "Communauté religieuse & Identité"
 categorie_slug: "communaute"
 racine: "أ-م-ن"
 racine_ar: "الْمُؤْمِن"
-order: 605
+order: 1
 date: 2026-06-01
 description: "Étude à paraître — définition coranique du *muʾmin* : racine أ-م-ن, occurrences, critères textuels explicites, distinction *muʾmin* / *muslim* / *muḥsin*. Dit / Non-dit / Inférence."
 coming_soon: true
