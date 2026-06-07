@@ -3,8 +3,8 @@ layout: etude
 title: "Le duʿāʾ dans la ṣalāt — L'espace libre"
 subtitle: "Ce que le Coran ne ferme pas — Prescription, empêchement et espace ouvert · الفَضَاءُ الحُرُّ فِي الصَّلَاةِ"
 categorie: "Pratiques rituelles"
-categorie_slug: "ibadaat"
-order: 220
+categorie_slug: "pratiques"
+order: 2
 racine_ar: "الدُّعَاء"
 date: 2026-04-20
 description: "Distinction fondamentale : absence de prescription ≠ interdiction. Analyse des quatre formules courantes (takbīr, tasbīḥāt, taḥmīd). Le duʿāʾ coranique et personnel. S.17:110 comme verset pivot. L'espace libre de la ṣalāt."
