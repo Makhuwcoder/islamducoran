@@ -1905,3 +1905,105 @@ tr:nth-child(even) td { background: var(--bg2); }
   font-style: italic;
   margin: 0;
 }
+
+/* ════════════════════════════════════════════════
+   LECTEURS AUDIO AUTO — VERSETS
+   Trois tailles : normal · compact · mini
+════════════════════════════════════════════════ */
+
+/* Conteneur injecté par JS */
+.verset__audio {
+  margin-top: .6rem;
+}
+.verset__audio-inner {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  background: var(--bg3);
+  border: 1px solid var(--bg5);
+  border-radius: 4px;
+  padding: .3rem .7rem;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
+/* Icône play */
+.verset__audio-icon {
+  color: var(--or3);
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  opacity: .85;
+}
+.verset__audio-inner:hover .verset__audio-icon {
+  opacity: 1;
+}
+
+/* Étiquette S.X:Y · Ḥuṣarī */
+.verset__audio-label {
+  font-family: var(--font-titre);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--or2);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* Lecteur <audio> — occupe le reste */
+.verset__audio-player {
+  flex: 1;
+  min-width: 0;
+  border-radius: 3px;
+  background: transparent;
+  accent-color: var(--or3);
+}
+
+/* ── TAILLE NORMALE (hero, accueil) ── */
+.verset__audio--normal {
+  padding: .45rem .9rem;
+  border-left: 3px solid var(--or3);
+}
+.verset__audio--normal .verset__audio-label {
+  font-size: .68rem;
+}
+.verset__audio--normal .verset__audio-player {
+  height: 40px;
+}
+.verset__audio--normal .verset__audio-icon svg {
+  width: 16px; height: 16px;
+}
+
+/* ── TAILLE COMPACTE (études, pages internes) ── */
+.verset__audio--compact {
+  padding: .25rem .6rem;
+}
+.verset__audio--compact .verset__audio-label {
+  font-size: .6rem;
+}
+.verset__audio--compact .verset__audio-player {
+  height: 32px;
+}
+.verset__audio--compact .verset__audio-icon svg {
+  width: 13px; height: 13px;
+}
+
+/* ── TAILLE MINI (tableaux, callouts étroits) ── */
+.verset__audio--mini {
+  padding: .18rem .45rem;
+  gap: .35rem;
+}
+.verset__audio--mini .verset__audio-label {
+  font-size: .55rem;
+}
+.verset__audio--mini .verset__audio-player {
+  height: 26px;
+}
+.verset__audio--mini .verset__audio-icon {
+  display: none;  /* icône masquée en mini pour gagner de la place */
+}
+
+/* Responsive : sur très petits écrans, masquer l'étiquette */
+@media (max-width: 480px) {
+  .verset__audio-label { display: none; }
+  .verset__audio-inner { padding: .2rem .4rem; }
+}
