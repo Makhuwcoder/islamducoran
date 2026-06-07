@@ -17,9 +17,18 @@ permalink: /baraa/
 
 ---
 
+## Le verset fondateur
+
+{% include verset.html
+   ref="Sourate Al-Ḥajj · 22:78"
+   ar="وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَاهِيمَ ۚ هُوَ سَمَّاكُمُ الْمُسْلِمِينَ مِن قَبْلُ"
+   trl="*Wa-jāhidū fī llāhi ḥaqqa jihādihi · Huwa jtabākum · wa-mā jaʿala ʿalaykum fī d-dīni min ḥaraj · Millata abīkum Ibrāhīm · **Huwa sammākumu l-muslimīna min qabl***"
+   trad="Et engagez-vous dans la voie d'Allaah comme il le mérite. C'est Lui qui vous a choisis et Il n'a imposé sur vous aucune restriction dans le *dīn* — la *milla* de votre père Ibrāhīm. **C'est Lui qui vous a nommés *muslimūn* auparavant.**"
+%}
+
 ## Le fondement textuel
 
-{% include verset.html ref="Sourate 30 · Al-Rūm · v. 31–32" ar="مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۚ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ" trl="*Munībīna ilayhi wa-ttaqūhu wa-aqīmū l-ṣalāta — wa-lā takūnū mina l-**mushrikīna** — mina lladhīna **farraqū dīnahum** wa-kānū **shiyaʿan** — kullu **ḥizbin** bi-mā ladayhim **fariḥūna***" trad="En revenant vers Lui, en vous prémunissant de Lui, en accomplissant la ṣalāt — et ne soyez pas de ceux qui **associent** — de ceux qui ont **divisé leur *dīn*** et sont devenus des **factions** — chaque **groupe** se réjouit de ce qu'il détient." %}
+{% include verset.html ref="Sourate Al-Rūm · 30:31–32" ar="مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۚ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ" trl="*Munībīna ilayhi wa-ttaqūhu wa-aqīmū l-ṣalāta — wa-lā takūnū mina l-**mushrikīna** — mina lladhīna **farraqū dīnahum** wa-kānū **shiyaʿan** — kullu **ḥizbin** bi-mā ladayhim **fariḥūna***" trad="En revenant vers Lui, en vous prémunissant de Lui, en accomplissant la ṣalāt — et ne soyez pas de ceux qui **associent** — de ceux qui ont **divisé leur *dīn*** et sont devenus des **factions** — chaque **groupe** se réjouit de ce qu'il détient." %}
 
 Le texte coranique nomme la fragmentation en groupes comme une forme d'association (*shirk*) — 30:31–32, 6:159. C'est précisément pourquoi cette déclaration est nécessaire : non par polémique envers quiconque, mais parce que le texte l'exige et que notre méthode l'impose.
 
