@@ -4,7 +4,7 @@ title: "La shafāʿa dans le Coran الشَّفَاعَة"
 subtitle: "Étude lexicale et corpus exhaustif — ce que le texte dit, et ce qu'il ne dit pas"
 categorie: "Eschatologie & Métaphysique"
 categorie_slug: "eschatologie"
-order: 750
+order: 5
 racine: "ش-ف-ع"
 racine_ar: "الشَّفَاعَة"
 date: 2026-04-04
