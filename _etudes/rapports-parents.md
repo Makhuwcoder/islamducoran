@@ -3,7 +3,7 @@ layout: etude
 title: "Les rapports aux parents dans le Coran"
 subtitle: "Al-Wālidān · De l'iḥsān à la limite"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 order: 2
 racine: "ب-ر-ر"
 racine_ar: "بِرُّ الْوَالِدَيْنِ"
