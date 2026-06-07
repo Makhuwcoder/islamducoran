@@ -6,7 +6,7 @@ categorie: "Droit pénal & Économie islamique"
 categorie_slug: "droit"
 racine: "ر-ج-م"
 racine_ar: "أَلرَّجْم"
-order: 515
+order: 3
 date: 2026-05-15
 description: "Étude à paraître — la lapidation dans le Coran : occurrences de la racine ر-ج-م, absence de prescription coranique explicite, analyse du hadith prescriptif et de la tension avec S.24:2. Dit / Non-dit rigoureux."
 coming_soon: true
