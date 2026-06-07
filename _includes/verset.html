@@ -7,7 +7,7 @@ Usage:
    trad="Le ḥajj se tient sur **des mois connus**."
 %}
 {% endcomment %}
-<div class="verset">
+<div class="verset" data-ref="{{ include.ref | escape }}">
   {% if include.ref %}
   <span class="verset__ref">{{ include.ref }}</span>
   {% endif %}
@@ -27,4 +27,6 @@ Usage:
   {% if include.suite %}
   {{ include.suite }}
   {% endif %}
+  <!-- Lecteur audio auto-généré -->
+  <div class="verset__audio" aria-label="Écouter ce verset"></div>
 </div>
