@@ -3,8 +3,8 @@ layout: etude
 title: "Le Coran s'adresse-t-il aux seuls hommes ?"
 subtitle: "Humanité, responsabilité et rétribution de la femme dans le texte — Enquête exhaustive verset par verset"
 categorie: "Corps, Famille & Société"
-categorie_slug: "societe"
-order: 440
+categorie_slug: "famille"
+order: 5
 racine_ar: "مِنْ ذَكَرٍ أَوْ أُنثَىٰ"
 date: 2026-04-19
 description: "Le masculin générique arabe (المذكر الشامل) inclut structurellement les femmes. La formule min dhakarin aw unthā apparaît 4 fois en contexte de rétribution identique (S3:195, S4:124, S16:97, S40:40). S33:35 : 10 catégories × 2 genres. S7:172 : le mīthāq est universel. La nafs est grammaticalement féminine."
