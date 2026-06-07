@@ -3,7 +3,7 @@ layout: etude
 title: "La Ṣalāt dans le Coran"
 subtitle: "Ce que le texte prescrit, ce qu'il ne prescrit pas — les silences sur la forme rituelle"
 categorie: "Pratiques rituelles"
-categorie_slug: "pratiques"
+categorie_slug: "ibadaat"
 racine: "ص-ل-و"
 racine_ar: "صَلَاة"
 order: 1
