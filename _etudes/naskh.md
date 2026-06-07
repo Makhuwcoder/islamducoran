@@ -3,8 +3,8 @@ layout: etude
 title: "النَّسْخ — (L'abrogation) Le Naskh"
 subtitle: "Analyse critique de la doctrine d'abrogation à l'épreuve du texte coranique"
 categorie: "Autorité légifératrice & Sources"
-categorie_slug: "sources"
-order: 360
+categorie_slug: "autorite"
+order: 6
 racine: "ن-س-خ"
 racine_ar: "النَّسْخ"
 date: 2026-04-03
