@@ -26,37 +26,124 @@ permalink: /etudes/
     <div id="search-results"></div>
   </div>
 
-  <!-- ═══ FILTRE PAR CATÉGORIE ═══ -->
+  <!-- ═══ NAVIGATION DEUX NIVEAUX ═══ -->
   <div class="filter-wrap" id="filter-bar">
-    <select id="cat-filter" onchange="filterByCategorie(this.value)">
-      <option value="all">― Toutes les catégories ―</option>
-      <optgroup label="النُّبُوَّة وَالرِّسَالَة">
-        <option value="nabuwwa">Nabuwwa &amp; Risāla — Prophétie &amp; Mission</option>
-      </optgroup>
-      <optgroup label="التَّقْوِيمُ وَالزَّمَن">
-        <option value="calendrier">Calendrier &amp; Temps cosmique</option>
-      </optgroup>
-      <optgroup label="عِبَادَات">
-        <option value="ibadaat">Pratiques rituelles — ʿIbādāt</option>
-      </optgroup>
-      <optgroup label="السُّلْطَةُ التَّشْرِيعِيَّةُ وَالْمَصَادِر">
-        <option value="sources">Autorité légifératrice &amp; Sources</option>
-      </optgroup>
-      <optgroup label="الْجَسَدُ وَالْأُسْرَةُ وَالْمُجْتَمَع">
-        <option value="societe">Corps, Famille &amp; Société</option>
-      </optgroup>
-      <optgroup label="الْحُدُودُ وَالاقْتِصَاد">
-        <option value="droit">Droit pénal &amp; Économie islamique</option>
-      </optgroup>
-      <optgroup label="الْجَمَاعَةُ الدِّينِيَّةُ وَالْهُوِيَّة">
-        <option value="communaute">Communauté religieuse &amp; Identité</option>
-      </optgroup>
-      <optgroup label="الْآخِرَةُ وَالْغَيْب">
-        <option value="eschatologie">Eschatologie &amp; Métaphysique</option>
-      </optgroup>
-    </select>
+    <div class="filter-row">
+      <select id="cat-filter" onchange="onCatChange(this.value)">
+        <option value="all">― Toutes les catégories ―</option>
+        <optgroup label="النُّبُوَّة وَالرِّسَالَة">
+          <option value="nabuwwa">Nabuwwa &amp; Risāla — Prophétie &amp; Mission</option>
+        </optgroup>
+        <optgroup label="التَّقْوِيمُ وَالزَّمَن">
+          <option value="calendrier">Calendrier &amp; Temps cosmique</option>
+        </optgroup>
+        <optgroup label="عِبَادَات">
+          <option value="ibadaat">Pratiques rituelles — ʿIbādāt</option>
+        </optgroup>
+        <optgroup label="السُّلْطَةُ التَّشْرِيعِيَّةُ وَالْمَصَادِر">
+          <option value="sources">Autorité légifératrice &amp; Sources</option>
+        </optgroup>
+        <optgroup label="الْجَسَدُ وَالْأُسْرَةُ وَالْمُجْتَمَع">
+          <option value="societe">Corps, Famille &amp; Société</option>
+        </optgroup>
+        <optgroup label="الْحُدُودُ وَالاقْتِصَاد">
+          <option value="droit">Droit pénal &amp; Économie islamique</option>
+        </optgroup>
+        <optgroup label="الْجَمَاعَةُ الدِّينِيَّةُ وَالْهُوِيَّة">
+          <option value="communaute">Communauté religieuse &amp; Identité</option>
+        </optgroup>
+        <optgroup label="الْآخِرَةُ وَالْغَيْب">
+          <option value="eschatologie">Eschatologie &amp; Métaphysique</option>
+        </optgroup>
+      </select>
+      <select id="etude-filter" onchange="goToEtude(this.value)" style="display:none">
+        <option value="">― Aller à une étude ―</option>
+      </select>
+    </div>
     <span id="filter-count"></span>
   </div>
+
+  <script>
+  var etudesData = {
+    nabuwwa: [
+      {slug:'abandon-coran',title:"L'abandon du Coran"},
+      {slug:'khatam-nabiyyin',title:"Khātam al-nabiyyīn"},
+      {slug:'nabi-legislateur',title:"Le Nabī n'est pas législateur"},
+      {slug:'kitman-bayyan',title:"2:159–163 · Kitmān et bayān"}
+    ],
+    calendrier: [
+      {slug:'etat-lieux-calendaire',title:"Le Calendrier Islamique — État des lieux"},
+      {slug:'calendrier-lunaire',title:"Le calendrier lunaire pur face au Coran"}
+    ],
+    ibadaat: [
+      {slug:'salat-coran',title:"La Ṣalāt dans le Coran"},
+      {slug:'duaa-salat',title:"Le duʿāʾ dans la ṣalāt"},
+      {slug:'hajar-aswad',title:"Al-Ḥajar al-Aswad — La Pierre Noire"},
+      {slug:'baraka-tabarruk',title:"Al-Baraka wa-l-Tabarruk"},
+      {slug:'kiswa',title:"Al-Kiswa — La couverture de la Kaʿba"},
+      {slug:'hajj-oumra',title:"Le Ḥajj et la ʿUmra dans le Coran"},
+      {slug:'eid-adha',title:"ʿĪd al-Aḍḥā — ʿĪd al-Kabīr"},
+      {slug:'hatu-burhanakum',title:"Hātu Burhānakum — Apportez votre preuve"}
+    ],
+    sources: [
+      {slug:'hadith-coran',title:"Ḥadīth — Ce que le Coran en dit"},
+      {slug:'sunna-coran',title:"Sunna · Sunnat Allāh"},
+      {slug:'fatwa',title:"Fatwā — Qui peut légiférer ?"},
+      {slug:'halal-haram',title:"Ḥalāl et Ḥarām dans le Coran"},
+      {slug:'ulu-albab',title:"Ulū l-albāb — Le noyau d'intelligence"},
+      {slug:'naskh',title:"Al-Naskh — L'abrogation"},
+      {slug:'traduction-intraduisible',title:"Le Coran est-il intraduisible ?"},
+      {slug:'qiraaat-recitations',title:"Les récitations — Al-Qirāʾāt"}
+    ],
+    societe: [
+      {slug:'yatim',title:"Le Yatīm — L'Orphelin"},
+      {slug:'rapports-parents',title:"Les rapports aux parents dans le Coran"},
+      {slug:'femmes-hommes',title:"Femmes et hommes dans le Coran"},
+      {slug:'coran-seuls-hommes',title:"Le Coran s'adresse-t-il aux seuls hommes ?"},
+      {slug:'polygamie',title:"La Polygamie dans le Coran"},
+      {slug:'esclavage',title:"L'Esclavage dans le Coran"}
+    ],
+    droit: [
+      {slug:'zakat',title:"La simplicité de la Zakāt"},
+      {slug:'riba',title:"Ar-Ribā — L'incrément usuraire"},
+      {slug:'lapidation',title:"Al-Rajm — La Lapidation"},
+      {slug:'fasad-mufsidun',title:"Le fasād et les mufsidūn"}
+    ],
+    communaute: [
+      {slug:'shirk',title:"Le Shirk — Définition coranique"},
+      {slug:'kafir-coran',title:"Le Kāfir dans le Coran"},
+      {slug:'minorite-croyants',title:"La minorité des croyants"}
+    ],
+    eschatologie: [
+      {slug:'mecanisme-derniere-heure',title:"Le mécanisme de la dernière heure"},
+      {slug:'amwat-ahyaa-barzakh',title:"Amwāt, Aḥyāʾ, Barzakh"},
+      {slug:'heure-signes',title:"L'Heure et ses signes"},
+      {slug:'sortir-du-feu',title:"Sortir du feu : Garantie ou invention ?"},
+      {slug:'shafaa',title:"La shafāʿa dans le Coran"}
+    ]
+  };
+
+  function onCatChange(val) {
+    filterByCategorie(val);
+    var sel2 = document.getElementById('etude-filter');
+    sel2.innerHTML = '<option value="">― Aller à une étude ―</option>';
+    if (val !== 'all' && etudesData[val]) {
+      etudesData[val].forEach(function(e) {
+        var opt = document.createElement('option');
+        opt.value = '/etudes/' + e.slug + '/';
+        opt.textContent = e.title;
+        sel2.appendChild(opt);
+      });
+      sel2.style.display = '';
+    } else {
+      sel2.style.display = 'none';
+    }
+  }
+
+  function goToEtude(url) {
+    if (url) window.location.href = url;
+  }
+  </script>
 
 {% assign g_nabuwwa = site.etudes | where: "categorie_slug", "nabuwwa" | sort: "order" %}
 {% if g_nabuwwa.size > 0 %}
