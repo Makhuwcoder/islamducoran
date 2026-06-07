@@ -6,7 +6,7 @@ categorie: "Calendrier & Temps cosmique"
 categorie_slug: "calendrier"
 racine: "هـ-ل-ل"
 racine_ar: "الأَهِلَّة"
-order: 105
+order: 1
 date: 2026-03-09
 description: "Altérations du calendrier islamique — étude thématique complète. Cinq versets fondateurs (S.2:189, S.9:36, S.10:5, S.55:5, S.6:96), analyse rigoureuse du nasīʾ (S.9:37), étymologie saisonnière des 12 mois arabes, S.18:25 et le cycle luni-solaire, analyse comparée inter-scripturaire, dit/non-dit."
 ---
