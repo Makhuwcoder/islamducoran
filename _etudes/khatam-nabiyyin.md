@@ -83,7 +83,7 @@ Le titre est *khātam al-**nabiyyīna*** — sceau des *nabiyyīn*, la catégori
    trad="Aujourd'hui J'ai complété pour vous votre *dīn* et J'ai parachevé sur vous Ma grâce."
 %}
 
-*Akmaltu* (k-m-l : intégralement complet) + *atmamtu* (t-m-m : pleinement accompli) — deux verbes divins à la première personne déclarant que le *dīn* ne manque de rien et que le processus est terminé. **Un *dīn* complet n'appelle aucun complément prophétique.**
+*Akmaltu* (k-m-l : intégralement complet) + *atmamtu* (t-m-m : pleinement accompli) — deux verbes attribués à Allaah à la première personne déclarant que le *dīn* ne manque de rien et que le processus est terminé. **Un *dīn* complet n'appelle aucun complément prophétique.**
 
 {% include verset.html
    ref="Sourate Sabaʾ · 34:28"
