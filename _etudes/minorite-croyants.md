@@ -4,7 +4,7 @@ title: "La minorité des croyants"
 subtitle: "أَكْثَرُهُمْ لَا يَعْلَمُونَ · قَلِيلٌ مِّنْ عِبَادِيَ · وَهُمْ مُّشْرِكُونَ"
 categorie: "Communauté religieuse & Identité"
 categorie_slug: "communaute"
-order: 630
+order: 4
 racine: "ك-ث-ر / ق-ل-ل"
 racine_ar: "أَكْثَرُهُمْ · قَلِيلٌ"
 date: 2026-05-12
