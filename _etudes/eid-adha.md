@@ -3,8 +3,8 @@ layout: etude
 title: "ʿĪd al-Aḍḥā — ʿĪd al-Kabīr"
 subtitle: "Ce que le Coran dit — ce que le Coran ne dit pas"
 categorie: "Pratiques rituelles"
-categorie_slug: "ibadaat"
-order: 270
+categorie_slug: "pratiques"
+order: 7
 racine_ar: "عِيد الأَضْحَى"
 date: 2026-05-15
 description: "Le terme ʿīd al-aḍḥā est absent du Coran. Analyse du terme ʿīd (S.5:114), du récit d'Ibrāhīm (S.37:100–107), du sacrifice du ḥajj (S.22:27–37), et confrontation frontale entre S.22:37 et le ḥadīth H4 d'at-Tirmidhī."
