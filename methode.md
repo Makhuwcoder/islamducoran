@@ -84,7 +84,12 @@ permalink: /methode/
 <div class="declaration" style="margin-top:2.5rem; text-align:center; max-width:740px; margin-left:auto; margin-right:auto;">
   <span class="declaration__label">Principe cardinal</span>
   <p>Ne jamais ajouter au texte ce qu'il ne dit pas. Ne jamais effacer un dit textuel au profit d'une position préétablie. Le texte dit ce qu'il dit — rien de plus, rien de moins.</p>
-  <p style="margin-top:.7rem; font-style:italic;">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ (S.54:17)</p>
+  {% include verset.html
+     ref="Sourate Al-Qamar · 54:17"
+     ar="وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ"
+     trl="*Wa-laqad **yassarnā l-qurʾāna li-dhikr** — fa-hal min **muddakir***"
+     trad="Et Nous avons **facilité le Coran pour le rappel** — y a-t-il quelqu'un pour s'en souvenir ?"
+  %}
 </div>
 
   </div><!-- .page-body -->
