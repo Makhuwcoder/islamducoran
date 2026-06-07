@@ -89,7 +89,7 @@ Le titre est *khātam al-**nabiyyīna*** — sceau des *nabiyyīn*, la catégori
    ref="Sourate Sabaʾ · 34:28"
    ar="وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا"
    trl="*wa-mā arsalnāka illā kāffatan li-n-nāsi bashīran wa-nadhīran*"
-   trad="Nous ne t'avons envoyé qu'à la totalité des gens, comme annonciateur et avertisseur."
+   trad="Nous ne t'avons envoyé à tous les êtres humains que comme annonciateur et avertisseur."
 %}
 
 Contrairement aux *rusul* précédents, envoyés à un *qawm* déterminé (16:36 : *fī kulli ummatin rasūlan*), la mission de Muḥammad est *kāffatan li-n-nās* — pour les gens en totalité. Cette universalité est la marque textuelle d'une mission qui n'est pas destinée à être relayée par une autre.
