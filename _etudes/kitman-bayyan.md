@@ -2,11 +2,11 @@
 layout: etude
 title: "2:159–163 · Kitmān et bayān"
 subtitle: "Dissimulation de la révélation (Kitmān), retour - conditions du pardon et déclaration publique (bayān)"
-categorie: "Méthode & Épistémologie"
-categorie_slug: "methode"
+categorie: "Nabuwwa & Risāla"
+categorie_slug: "nabuwwa"
 racine: "ك-ت-م / ب-ي-ن"
 racine_ar: "كِتْمَانٌ · بَيَانٌ"
-order: 1
+order: 4
 date: 2026-04-02
 methode: "Dit / Non-dit / Inférence"
 ---
