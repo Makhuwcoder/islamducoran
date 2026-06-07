@@ -81,10 +81,10 @@ permalink: /methode/
 <li>Tout silence du texte comblé par une prescription humaine</li>
 </ul>
 
-<div class="declaration" style="margin-top:2.5rem">
+<div class="declaration" style="margin-top:2.5rem; text-align:center; max-width:740px; margin-left:auto; margin-right:auto;">
   <span class="declaration__label">Principe cardinal</span>
   <p>Ne jamais ajouter au texte ce qu'il ne dit pas. Ne jamais effacer un dit textuel au profit d'une position préétablie. Le texte dit ce qu'il dit — rien de plus, rien de moins.</p>
-  <p style="margin-top:.7rem; font-style:italic; text-align:center">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ (S.54:17)</p>
+  <p style="margin-top:.7rem; font-style:italic;">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ (S.54:17)</p>
 </div>
 
   </div><!-- .page-body -->
