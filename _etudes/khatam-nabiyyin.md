@@ -6,7 +6,7 @@ categorie: "Nabuwwa & Risāla"
 categorie_slug: "nabuwwa"
 racine: "خ-ت-م"
 racine_ar: "خَاتَمُ النَّبِيِّينَ"
-order: 6
+order: 2
 date: 2026-04-16
 methode: "Dit / Non-dit / Inférence"
 ---
