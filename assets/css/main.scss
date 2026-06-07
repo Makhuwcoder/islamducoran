@@ -1339,46 +1339,54 @@ tr:nth-child(even) td { background: var(--bg2); }
 /* ── CONCEPT CARDS ── */
 .concepts-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.4rem;
   margin: 1.2rem 0;
+}
+@media (max-width: 680px) {
+  .concepts-grid { grid-template-columns: 1fr; }
 }
 .concept-card {
   background: var(--bg4);
   border: 1px solid var(--bg5);
   border-top: 2px solid var(--or3);
-  padding: 1.2rem;
+  padding: 1.4rem 1.6rem;
+  text-align: center;
 }
 .concept-arabic {
   font-family: var(--font-arabe);
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   color: var(--or3);
   direction: rtl;
   display: block;
   margin-bottom: .3rem;
+  text-align: center;
 }
 .concept-translit {
   font-family: var(--font-titre);
-  font-size: 2.4rem;
-  letter-spacing: .1em;
+  font-size: .68rem;
+  letter-spacing: .12em;
   color: var(--or2);
   text-transform: uppercase;
-  margin-bottom: .5rem;
+  margin-bottom: .6rem;
   display: block;
+  text-align: center;
 }
 .concept-title {
   font-family: var(--font-titre);
-  font-size: 1.82rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: .07em;
   text-transform: uppercase;
   color: var(--texte);
-  margin-bottom: .3rem;
+  margin-bottom: .5rem;
+  text-align: center;
 }
 .concept-desc {
-  font-size: 2.62rem;
+  font-size: .9rem;
   color: var(--texte2);
-  line-height: 1.95;
+  line-height: 1.8;
+  text-align: left;
 }
 
 /* ── NOTE / CALLOUT BLOCKS ── */
