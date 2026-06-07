@@ -3,7 +3,7 @@ layout: etude
 title: "L'Esclavage dans le Coran — Réalité régulée, non prescrite"
 subtitle: "Corpus des voies de libération · Droits reconnus aux personnes réduites en servitude · Méthode dit/non-dit stricte"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 order: 7
 racine: "ر-ق-ق / ر-ق-ب"
 racine_ar: "فَكُّ رَقَبَةٍ"
