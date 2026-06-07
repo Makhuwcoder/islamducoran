@@ -1,0 +1,16 @@
+<div class="audio-block">
+  <div class="audio-block__header">
+    <span class="audio-block__ref">{{ include.ref }}</span>
+    {% if include.lecteur %}
+    <span class="audio-block__lecteur">{{ include.lecteur }}</span>
+    {% endif %}
+  </div>
+  <audio class="audio-block__player" controls preload="none">
+    <source src="{{ include.src }}" type="audio/mpeg">
+    <source src="{{ include.src | replace: '.mp3', '.ogg' }}" type="audio/ogg">
+    Votre navigateur ne supporte pas la lecture audio.
+  </audio>
+  {% if include.note %}
+  <p class="audio-block__note">{{ include.note }}</p>
+  {% endif %}
+</div>
