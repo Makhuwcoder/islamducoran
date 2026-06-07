@@ -200,7 +200,26 @@ html,body{height:100%;background:var(--bg);color:var(--tx);font-family:var(--f-c
   </div>
 </div>
 
-<div class="accueil" id="accueil"></div>
+<div class="accueil" id="accueil">
+  <div class="wlc-ar">وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ</div>
+  <div class="wlc-sp"></div>
+  <div class="wlc-ti">Posez votre question sur le Coran</div>
+  <div class="wlc-tx">Réponses exclusivement fondées sur le texte coranique et la lexicographie arabe classique.<br>Aucun ḥadīth · Aucun tafsīr · Aucune école</div>
+  <div class="accueil-inp">
+    <div class="accueil-row">
+      <textarea id="inp-accueil" placeholder="Votre question sur le Coran…" rows="1"></textarea>
+      <button class="accueil-btn" id="btn-accueil" onclick="sendFrom('accueil')">Envoyer</button>
+    </div>
+    <div class="accueil-sugs">
+      <button class="sug" onclick="qs(this,'accueil')">Qu'est-ce que le shirk selon le Coran ?</button>
+      <button class="sug" onclick="qs(this,'accueil')">Le Nabī est-il législateur ?</button>
+      <button class="sug" onclick="qs(this,'accueil')">Définition coranique de *dīn*</button>
+      <button class="sug" onclick="qs(this,'accueil')">Ce que dit le Coran sur la ṣalāt</button>
+      <button class="sug" onclick="qs(this,'accueil')">Le *nasīʾ* selon S.9:37</button>
+      <button class="sug" onclick="qs(this,'accueil')">Études disponibles</button>
+    </div>
+  </div>
+</div>
 
 <div class="chat-mode" id="chat-mode">
   <div class="msgs" id="msgs"></div>
