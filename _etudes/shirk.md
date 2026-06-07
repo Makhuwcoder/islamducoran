@@ -4,7 +4,7 @@ title: "Le Shirk — Définition coranique et étendue réelle"
 subtitle: "Ce que le texte désigne par ce mot dans toute la portée que lui donne le Coran lui-même"
 categorie: "Communauté religieuse & Identité"
 categorie_slug: "communaute"
-order: 610
+order: 2
 racine: "ش-ر-ك"
 racine_ar: "شِرْك"
 date: 2026-03-19
