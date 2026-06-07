@@ -3,7 +3,7 @@ layout: etude
 title: "فَتْوَى · Fatwā"
 subtitle: "Définition coranique et étendue réelle d'un terme décisif — ce que le texte désigne par ce mot dans toute la portée que lui donne le Coran lui-même"
 categorie: "Autorité légifératrice & Sources"
-categorie_slug: "autorite"
+categorie_slug: "sources"
 order: 3
 racine: "ف-ت-و"
 racine_ar: "فَتْوَى"
