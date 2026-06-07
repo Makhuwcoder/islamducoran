@@ -3,7 +3,7 @@ layout: etude
 title: "La Polygamie dans le Coran — S4:3 dans son contexte"
 subtitle: "Analyse exhaustive et approfondie — Dit, Non-dit, Inférence — Principe d'honnêteté symétrique"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 order: 6
 racine_ar: "النِّكَاح"
 date: 2026-05-05
