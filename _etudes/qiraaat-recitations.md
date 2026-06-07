@@ -3,8 +3,8 @@ layout: etude
 title: "Les récitations — ٱلْقِرَاءَاتُ"
 subtitle: "Plusieurs versions ou réalisations phonétiques d'un texte unique ? La manipulation pseudo-philologique et sa réfutation"
 categorie: "Autorité légifératrice & Sources"
-categorie_slug: "sources"
-order: 380
+categorie_slug: "autorite"
+order: 8
 racine: "ق-ر-أ"
 racine_ar: "الْقِرَاءَاتُ"
 date: 2026-04-08
