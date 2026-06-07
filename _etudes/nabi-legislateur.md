@@ -6,7 +6,7 @@ categorie: "Nabuwwa & Risāla"
 categorie_slug: "nabuwwa"
 racine: "ح-ك-م"
 racine_ar: "الْحُكْمُ"
-order: 7
+order: 3
 date: 2026-04-10
 methode: "Dit / Non-dit / Inférence"
 ---
