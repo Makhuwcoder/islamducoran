@@ -54,11 +54,17 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- ── NAVIGATION PREV/NEXT ── -->
-  {% assign all_etudes = site.etudes | sort: 'title' %}
+  <!-- ── NAVIGATION PREV/NEXT (ordre défini dans _data/etude_order.yml) ── -->
+  {% assign ordered_slugs = site.data.etude_order.slugs %}
+  {% assign current_slug = page.url | split: '/' | last %}
+  {% if current_slug == '' %}
+    {% assign url_parts = page.url | split: '/' %}
+    {% assign current_slug = url_parts | last %}
+  {% endif %}
+  {% comment %} Trouver l'index de l'étude courante {% endcomment %}
   {% assign current_index = nil %}
-  {% for etude in all_etudes %}
-    {% if etude.url == page.url %}
+  {% for slug in ordered_slugs %}
+    {% if page.url contains slug %}
       {% assign current_index = forloop.index0 %}
     {% endif %}
   {% endfor %}
@@ -68,21 +74,30 @@ layout: default
   {% assign next_index = current_index | plus: 1 %}
   <nav class="etude-nav" aria-label="Navigation entre études">
     {% if prev_index >= 0 %}
-    {% assign prev_etude = all_etudes[prev_index] %}
-    <a class="etude-nav__item" href="{{ prev_etude.url | relative_url }}">
-      <span class="etude-nav__label">← Étude précédente</span>
-      <span class="etude-nav__titre">{{ prev_etude.title }}</span>
-    </a>
+      {% assign prev_slug = ordered_slugs[prev_index] %}
+      {% assign prev_etude = site.etudes | where_exp: "e", "e.url contains prev_slug" | first %}
+      {% if prev_etude %}
+      <a class="etude-nav__item" href="{{ prev_etude.url | relative_url }}">
+        <span class="etude-nav__label">← Étude précédente</span>
+        <span class="etude-nav__titre">{{ prev_etude.title }}</span>
+      </a>
+      {% else %}
+      <div></div>
+      {% endif %}
     {% else %}
     <div></div>
     {% endif %}
 
-    {% if next_index < all_etudes.size %}
-    {% assign next_etude = all_etudes[next_index] %}
-    <a class="etude-nav__item" href="{{ next_etude.url | relative_url }}" style="text-align:right">
-      <span class="etude-nav__label">Étude suivante →</span>
-      <span class="etude-nav__titre">{{ next_etude.title }}</span>
-    </a>
+    {% assign max_index = ordered_slugs.size | minus: 1 %}
+    {% if next_index <= max_index %}
+      {% assign next_slug = ordered_slugs[next_index] %}
+      {% assign next_etude = site.etudes | where_exp: "e", "e.url contains next_slug" | first %}
+      {% if next_etude %}
+      <a class="etude-nav__item etude-nav__item--next" href="{{ next_etude.url | relative_url }}">
+        <span class="etude-nav__label">Étude suivante →</span>
+        <span class="etude-nav__titre">{{ next_etude.title }}</span>
+      </a>
+      {% endif %}
     {% endif %}
   </nav>
   {% endif %}
