@@ -3,7 +3,7 @@ layout: etude
 title: "Les rapports aux enfants et aux proches dans le Coran"
 subtitle: "À venir — Nūḥ et son fils (S.11:42–46), tension avec S.71:28, *dhurriyya* et *qurba*"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 racine: "ذ-ر-ر"
 racine_ar: "ذُرِّيَّة"
 order: 3
