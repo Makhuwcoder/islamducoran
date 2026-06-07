@@ -263,7 +263,10 @@ body::before {
 .page-header__racine {
   font-family: var(--font-arabe);
   font-size: 1.9rem; color: var(--or3);
-  direction: rtl; margin-bottom: .3rem;
+  direction: rtl;
+  text-align: left;
+  display: block;
+  margin-bottom: .3rem;
 }
 .page-header__title {
   font-family: var(--font-titre);
