@@ -18,6 +18,13 @@ permalink: /
     <div class="transliteration">Wa-qāla r-rasūlu yā rabbi inna qawmī ttakhadhū hādhā l-qurʾāna mahjūrā</div>
     <div class="translation">Et le Messager dira :<br>« Mon Seigneur, en vérité mon peuple a pris ce Coran comme quelque chose de délaissé. »</div>
     <p style="margin-top:0.8rem; font-size:0.88rem; color:var(--or); font-family:'Cinzel',serif; font-size:0.7rem; letter-spacing:0.08em;">Le Messager comme témoin à charge de son propre peuple.</p>
+  
+  {% include audio.html
+     ref="Sourate Al-Furqān · 25:30"
+     src="https://everyayah.com/data/Husary_128kbps/025030.mp3"
+     lecteur="Maḥmūd Khalīl al-Ḥuṣarī"
+     note="Récitation fournie par everyayah.com"
+  %}
   </div>
 
   <div class="intro-text">Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah</div>
