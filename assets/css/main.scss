@@ -849,12 +849,14 @@ tr:nth-child(even) td { background: var(--bg2); }
   font-size: .88rem;
   margin-bottom: .5rem;
   line-height: 1.65;
+  text-align: center;
 }
 .translation {
   color: var(--texte);
   font-size: .95rem;
   font-weight: 500;
   line-height: 1.65;
+  text-align: center;
 }
 
 /* ── BARAA MINI (sous complaint) ── */
@@ -1154,15 +1156,17 @@ tr:nth-child(even) td { background: var(--bg2); }
   padding: 1.2rem 1.5rem;
   margin: 1.5rem 0;
   overflow: hidden;
+  text-align: center;
 }
 .verse-ref {
   font-family: var(--font-titre);
-  font-size: 2.4rem;
-  letter-spacing: .14em;
+  font-size: .72rem;
+  letter-spacing: .18em;
   text-transform: uppercase;
   color: var(--or3);
   display: block;
   margin-bottom: .6rem;
+  text-align: center;
 }
 .verse-arabic {
   font-family: var(--font-arabe);
@@ -1553,6 +1557,8 @@ tr:nth-child(even) td { background: var(--bg2); }
   overflow-wrap: break-word;
   font-size: 1.9rem;
   max-width: 100%;
+  text-align: center;
+  margin: 0 auto .6rem;
 }
 .verse-block .verse-translit {
   font-size: .82rem;
@@ -1560,11 +1566,13 @@ tr:nth-child(even) td { background: var(--bg2); }
   word-break: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
+  text-align: center;
 }
 .verse-block .verse-trans {
   font-size: .92rem;
   line-height: 1.9555;
   max-width: 100%;
+  text-align: center;
 }
 /* ── Note block padding ── */
 .note-block {
@@ -1624,7 +1632,10 @@ tr:nth-child(even) td { background: var(--bg2); }
   line-height: 1.955;
 }
 
-.complaint .arabic-verse { font-size: 2rem; }
+.complaint .arabic-verse { font-size: 2rem;
+  text-align: center;
+  margin: 0 auto .6rem;
+}
 
 .etude-corps p { font-size: 1rem;
   line-height: 1.75;
@@ -1639,3 +1650,27 @@ tr:nth-child(even) td { background: var(--bg2); }
 .etude-corps h3 { font-size: .9rem; }
 
 .etude-corps h4 { font-size: .78rem; }
+
+/* ── Blocs versets — centrage universel ── */
+.verse-block { text-align: center; }
+.verse-block .verse-ref    { display: block; text-align: center; font-size: .72rem; }
+.verse-block .arabic-verse { text-align: center; }
+.verse-block .verse-arabic { text-align: center; }
+.verse-block .transliteration { text-align: center; }
+.verse-block .verse-translit  { text-align: center; }
+.verse-block .translation  { text-align: center; }
+.verse-block .verse-trans  { text-align: center; }
+.verse-block .verse-note   { text-align: center; }
+
+/* Titre de sourate (h2/h3 dans les blocs d'étude) */
+.etude-corps .verse-block h2,
+.etude-corps .verse-block h3 {
+  font-family: var(--font-titre);
+  font-size: .72rem;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--or3);
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: .8rem;
+}
