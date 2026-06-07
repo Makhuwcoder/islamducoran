@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Barāʾa — Déclaration officielle"
 subtitle: "Déclaration de positionnement, de non-appartenance et d'engagement méthodologique · Permanent · Opposable · Sans exception"
 date: 2024-04-16
