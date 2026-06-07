@@ -4,7 +4,7 @@ title: "La simplicité de la Zakāt — Az-Zakāt الزَّكَاة"
 subtitle: "La purification par le versement — ce que le texte dit, et rien de plus — Bénéficiaires · Moment · Montant · Non-muslim · Mécanisme coranique"
 categorie: "Droit pénal & Économie islamique"
 categorie_slug: "droit"
-order: 505
+order: 1
 racine: "ز-ك-و / ز-ك-ي"
 racine_ar: "الزَّكَاة"
 date: 2026-06-02
