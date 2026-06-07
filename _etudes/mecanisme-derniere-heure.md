@@ -4,7 +4,7 @@ title: "Le mécanisme de la dernière heure"
 subtitle: "Contraste entre le discours coranique et la tradition — Deuxième partie"
 categorie: "Eschatologie & Métaphysique"
 categorie_slug: "eschatologie"
-order: 710
+order: 1
 racine: "ت-و-ب"
 racine_ar: "التَّوبة"
 date: 2026-04-04
