@@ -26,6 +26,38 @@ permalink: /etudes/
     <div id="search-results"></div>
   </div>
 
+  <!-- ═══ FILTRE PAR CATÉGORIE ═══ -->
+  <div class="filter-wrap" id="filter-bar">
+    <select id="cat-filter" onchange="filterByCategorie(this.value)">
+      <option value="all">― Toutes les catégories ―</option>
+      <optgroup label="النُّبُوَّة وَالرِّسَالَة">
+        <option value="nabuwwa">Nabuwwa &amp; Risāla — Prophétie &amp; Mission</option>
+      </optgroup>
+      <optgroup label="التَّقْوِيمُ وَالزَّمَن">
+        <option value="calendrier">Calendrier &amp; Temps cosmique</option>
+      </optgroup>
+      <optgroup label="عِبَادَات">
+        <option value="ibadaat">Pratiques rituelles — ʿIbādāt</option>
+      </optgroup>
+      <optgroup label="السُّلْطَةُ التَّشْرِيعِيَّةُ وَالْمَصَادِر">
+        <option value="sources">Autorité légifératrice &amp; Sources</option>
+      </optgroup>
+      <optgroup label="الْجَسَدُ وَالْأُسْرَةُ وَالْمُجْتَمَع">
+        <option value="societe">Corps, Famille &amp; Société</option>
+      </optgroup>
+      <optgroup label="الْحُدُودُ وَالاقْتِصَاد">
+        <option value="droit">Droit pénal &amp; Économie islamique</option>
+      </optgroup>
+      <optgroup label="الْجَمَاعَةُ الدِّينِيَّةُ وَالْهُوِيَّة">
+        <option value="communaute">Communauté religieuse &amp; Identité</option>
+      </optgroup>
+      <optgroup label="الْآخِرَةُ وَالْغَيْب">
+        <option value="eschatologie">Eschatologie &amp; Métaphysique</option>
+      </optgroup>
+    </select>
+    <span id="filter-count"></span>
+  </div>
+
 {% assign g_nabuwwa = site.etudes | where: "categorie_slug", "nabuwwa" | sort: "order" %}
 {% if g_nabuwwa.size > 0 %}
 <div class="categorie-header" id="nabuwwa">
