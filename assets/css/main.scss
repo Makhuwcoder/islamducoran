@@ -78,7 +78,7 @@
   --font-arabe:  'Amiri', 'Georgia', serif;
 
   --max-width: 900px;
-  --nav-h: 52px;
+  --nav-h: 76px;
   --t: .2s ease;
 }
 
@@ -124,11 +124,11 @@ body::before {
   justify-content: flex-start;
   text-decoration: none;
   flex-shrink: 0;
-  width: 200px;
-  padding: 0 .5rem 0 .8rem;
+  width: 240px;
+  padding: 0 .5rem 0 .6rem;
 }
 .site-nav__logo-img {
-  height: 48px;
+  height: 68px;
   width: auto;
   display: block;
   object-fit: contain;
