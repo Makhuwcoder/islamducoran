@@ -3,7 +3,7 @@ layout: etude
 title: "Al-Kiswa wa-l-Tabarruk bi-l-Kiswa الكِسْوَة والتَّبَرُّك بها"
 subtitle: "La couverture de la Kaʿba à la lumière de la structure coranique de la baraka — héritage pré-islamique, marquage politique abbasside, et incompatibilité du contact rituel avec ce que le texte établit"
 categorie: "Pratiques rituelles"
-categorie_slug: "pratiques"
+categorie_slug: "ibadaat"
 order: 5
 racine: "ك-س-و / ب-ر-ك"
 racine_ar: "الكِسْوَة"
