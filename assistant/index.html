@@ -17,11 +17,13 @@
 html,body{height:100%;background:var(--bg);color:var(--tx);font-family:var(--f-c);font-size:16px}
 
 /* ── HEADER ── */
-.hdr{background:linear-gradient(180deg,#d4c8a0,var(--bg));border-bottom:1px solid var(--bd);
-  padding:.6rem 1.2rem;display:flex;align-items:center;gap:.75rem;position:relative;z-index:10}
-.hdr-ar{font-family:var(--f-a);font-size: 1.65rem;color:var(--or3);direction:rtl;line-height:1}
-.hdr-ti{font-family:var(--f-t);font-size: 1.08rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
-.hdr-su{font-size: .97rem;color:var(--tx3);font-style:italic}
+.hdr{background:linear-gradient(180deg,#d4c8a0,var(--bg));border-bottom:1px solid var(--bd);padding:.5rem 1.6rem;display:flex;align-items:center;gap:1rem;position:relative;z-index:10}
+.hdr-logo-link{flex-shrink:0;display:flex;align-items:center;text-decoration:none}
+.hdr-logo{height:48px;width:auto;display:block;object-fit:contain}
+.hdr-center{flex:1;display:flex;flex-direction:column;align-items:center;text-align:center;gap:.1rem}
+.hdr-ar{font-family:var(--f-a);font-size:1.3rem;color:var(--or3);direction:rtl;line-height:1}
+.hdr-ti{font-family:var(--f-t);font-size:.82rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}
+.hdr-su{font-size:.68rem;color:var(--tx3);font-style:italic}
 .hdr-bx{margin-left:auto;font-family:var(--f-t);font-size: .66rem;letter-spacing:.12em;
   text-transform:uppercase;color:var(--or3);border:1px solid var(--or3);padding:.12rem .4rem;border-radius:2px}
 
@@ -158,12 +160,14 @@ html,body{height:100%;background:var(--bg);color:var(--tx);font-family:var(--f-c
 <body>
 
 <div class="hdr">
-  <div class="hdr-ar">بِسْمِ اللَّهِ</div>
-  <div>
+  <a href="/" class="hdr-logo-link" title="Retour à l'accueil">
+    <img src="/assets/img/logo.png" alt="Islam du Coran" class="hdr-logo">
+  </a>
+  <div class="hdr-center">
+    <div class="hdr-ar">بِسْمِ اللَّهِ</div>
     <div class="hdr-ti">islamducoran.fr · Assistant</div>
     <div class="hdr-su">Le Coran lu par lui-même · Dit / Non-dit / Inférence</div>
   </div>
-  
 </div>
 
 <button class="float-toggle" id="float-toggle" onclick="toggleFloat()">+ Question</button>
