@@ -6,6 +6,11 @@ permalink: /
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero" id="accueil"><div class="accueil-wrap">
+  <!-- Logo centré au-dessus du verset hero -->
+  <div style="text-align:center; margin-bottom:2.5rem;">
+    <img src="/assets/img/logo.png" alt="islamducoran.fr" style="max-width:320px; width:80%; height:auto; display:inline-block;">
+  </div>
+
   <!-- Plainte du Nabi -->
   <div class="complaint">
     <div class="complaint-ref">Sourate Al-Furqān · 25:30</div>
