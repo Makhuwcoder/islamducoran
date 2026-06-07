@@ -183,3 +183,119 @@ document.addEventListener('DOMContentLoaded', function () {
     filterByCategorie(hash);
   }
 });
+
+
+/* ════════════════════════════════════════════════
+   LECTEURS AUDIO AUTOMATIQUES — VERSETS CORANIQUES
+   Génère un <audio> compact pour chaque .verset
+   à partir de la référence S:V dans data-ref
+════════════════════════════════════════════════ */
+(function () {
+  'use strict';
+
+  var RECITATEUR = 'Husary_128kbps';
+  var BASE_URL   = 'https://everyayah.com/data/' + RECITATEUR + '/';
+
+  /* Extraire le premier couple S:V d'une chaîne ref */
+  function parseRef(ref) {
+    if (!ref) return null;
+    var m = ref.match(/(\d{1,3}):(\d{1,3})/);
+    if (!m) return null;
+    return {
+      sura : parseInt(m[1], 10),
+      verse: parseInt(m[2], 10)
+    };
+  }
+
+  /* Construire l'URL everyayah */
+  function buildUrl(sv) {
+    var s = String(sv.sura ).padStart(3, '0');
+    var v = String(sv.verse).padStart(3, '0');
+    return BASE_URL + s + v + '.mp3';
+  }
+
+  /* Détecter le contexte pour choisir la taille */
+  function detectSize(container) {
+    /* hero / page d'accueil → normal */
+    if (container.closest('.complaint') ||
+        container.closest('.hero')      ||
+        container.closest('.highlight-box')) {
+      return 'normal';
+    }
+    /* tableaux, callouts étroits → mini */
+    if (container.closest('td') ||
+        container.closest('.callout')) {
+      return 'mini';
+    }
+    /* études, pages internes → compact (défaut) */
+    return 'compact';
+  }
+
+  /* Construire le lecteur HTML */
+  function buildPlayer(url, sv, size) {
+    var label = 'S.' + sv.sura + ':' + sv.verse;
+    var heightMap = { normal: 40, compact: 32, mini: 28 };
+    var h = heightMap[size] || 32;
+
+    var wrapper = document.createElement('div');
+    wrapper.className = 'verset__audio-inner verset__audio--' + size;
+    wrapper.setAttribute('title', 'Écouter ' + label + ' — Ḥuṣarī');
+
+    /* Icône discrète */
+    var icon = document.createElement('span');
+    icon.className = 'verset__audio-icon';
+    icon.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"/></svg>';
+    wrapper.appendChild(icon);
+
+    /* Étiquette */
+    var lbl = document.createElement('span');
+    lbl.className = 'verset__audio-label';
+    lbl.textContent = label + ' · Ḥuṣarī';
+    wrapper.appendChild(lbl);
+
+    /* Élément audio */
+    var audio = document.createElement('audio');
+    audio.className = 'verset__audio-player';
+    audio.controls  = true;
+    audio.preload   = 'none';
+    audio.style.height = h + 'px';
+
+    var src = document.createElement('source');
+    src.src  = url;
+    src.type = 'audio/mpeg';
+    audio.appendChild(src);
+
+    /* Message fallback */
+    audio.insertAdjacentText('beforeend', 'Audio non supporté.');
+    wrapper.appendChild(audio);
+
+    return wrapper;
+  }
+
+  /* Initialisation au chargement */
+  function init() {
+    var versets = document.querySelectorAll('.verset');
+    versets.forEach(function (verset) {
+      var container = verset.querySelector('.verset__audio');
+      if (!container) return;
+
+      var ref = verset.getAttribute('data-ref') || '';
+      var sv  = parseRef(ref);
+      if (!sv) return;  /* ref sans numéro S:V → pas de lecteur */
+
+      var url    = buildUrl(sv);
+      var size   = detectSize(verset);
+      var player = buildPlayer(url, sv, size);
+      container.appendChild(player);
+    });
+
+    /* Cas spécial : bloc hero de l'accueil (.complaint) */
+    /* déjà géré via include audio.html — pas de doublon */
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
