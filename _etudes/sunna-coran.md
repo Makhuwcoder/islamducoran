@@ -3,7 +3,7 @@ layout: etude
 title: "Sunna · Sunan · Sunnat Allāh سُنَّة"
 subtitle: "La voie tracée, la norme en acte — et à qui elle appartient — ce que le Coran dit de ce terme dans chacune de ses occurrences"
 categorie: "Autorité légifératrice & Sources"
-categorie_slug: "autorite"
+categorie_slug: "sources"
 order: 2
 racine: "س-ن-ن"
 racine_ar: "سُنَّة"
