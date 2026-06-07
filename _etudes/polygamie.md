@@ -3,8 +3,8 @@ layout: etude
 title: "La Polygamie dans le Coran — S4:3 dans son contexte"
 subtitle: "Analyse exhaustive et approfondie — Dit, Non-dit, Inférence — Principe d'honnêteté symétrique"
 categorie: "Corps, Famille & Société"
-categorie_slug: "societe"
-order: 450
+categorie_slug: "famille"
+order: 6
 racine_ar: "النِّكَاح"
 date: 2026-05-05
 description: "S4:3 dans son contexte (S4:2→S4:127). Analyse des distributifs mathnā wa-thulātha wa-rubāʿ et parallèle S35:1. Distinction qisṭ/ʿadl. S4:128–129 : muʿallaqa. Trois lectures grammaticales honnêtes. Déconstruction des inférences prohibitives et permissives."
