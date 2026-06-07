@@ -128,3 +128,58 @@
   });
 
 })();
+
+
+/* ═══════════════════════════════════════
+   FILTRE PAR CATÉGORIE — PAGE ÉTUDES
+═══════════════════════════════════════ */
+function filterByCategorie(val) {
+  // Toutes les sections catégorie et leurs grilles
+  const allSections = document.querySelectorAll('.categorie-header, .etudes-grid');
+  const filterCount = document.getElementById('filter-count');
+
+  if (val === 'all') {
+    // Tout afficher
+    allSections.forEach(el => el.classList.remove('categorie-section--hidden'));
+    if (filterCount) filterCount.textContent = '';
+    return;
+  }
+
+  // Masquer tout d'abord
+  allSections.forEach(el => el.classList.add('categorie-section--hidden'));
+
+  // Afficher la section correspondante
+  const target = document.getElementById(val);
+  if (target) {
+    target.classList.remove('categorie-section--hidden');
+    // La grille suivante
+    let next = target.nextElementSibling;
+    while (next && !next.classList.contains('categorie-header')) {
+      next.classList.remove('categorie-section--hidden');
+      next = next.nextElementSibling;
+    }
+    // Compter les cartes visibles
+    const cards = target.nextElementSibling ? target.nextElementSibling.querySelectorAll('.etude-card:not(.etude-card--soon)') : [];
+    if (filterCount) {
+      filterCount.textContent = cards.length + (cards.length > 1 ? ' études' : ' étude');
+    }
+  }
+  // Réinitialiser la recherche texte si active
+  const searchInput = document.getElementById('search-input');
+  if (searchInput && searchInput.value) {
+    searchInput.value = '';
+    // Déclencher l'event pour réinitialiser l'affichage de recherche
+    searchInput.dispatchEvent(new Event('input'));
+  }
+}
+
+// Synchroniser le filtre avec les ancres URL (ex: /etudes/#ibadaat)
+document.addEventListener('DOMContentLoaded', function () {
+  const hash = window.location.hash.replace('#', '');
+  const select = document.getElementById('cat-filter');
+  const validCats = ['nabuwwa','calendrier','ibadaat','sources','societe','droit','communaute','eschatologie'];
+  if (hash && validCats.includes(hash) && select) {
+    select.value = hash;
+    filterByCategorie(hash);
+  }
+});
