@@ -1,7 +1,8 @@
 /* ════════════════════════════════════════════════
    LECTEURS AUDIO AUTOMATIQUES — islamducoran.fr
-   Génère un lecteur <audio> compact pour chaque
-   {% include verset.html %} trouvé sur la page.
+   Couvre deux formats de versets :
+   1. {% include verset.html %} → .verset[data-ref]
+   2. <div class="verse-block"> → .verse-ref texte
    Source : everyayah.com — Ḥuṣarī 128kbps
 ════════════════════════════════════════════════ */
 (function () {
@@ -9,22 +10,23 @@
 
   var BASE = 'https://everyayah.com/data/Husary_128kbps/';
 
-  /* --- Extraire S:V depuis la ref textuelle --- */
+  /* Extraire S:V depuis une chaîne quelconque */
   function parseRef(ref) {
     if (!ref) return null;
-    var m = ref.match(/(\d{1,3}):(\d{1,3})/);
+    /* Formats : "25:30" "25 : 30" "25 · 30" "S.25:30" */
+    var m = ref.match(/(\d{1,3})\s*[:\u00b7]\s*(\d{1,3})/);
     if (!m) return null;
     return { s: parseInt(m[1], 10), v: parseInt(m[2], 10) };
   }
 
-  /* --- URL everyayah --- */
+  /* URL everyayah */
   function mp3Url(sv) {
     var s = ('000' + sv.s).slice(-3);
     var v = ('000' + sv.v).slice(-3);
     return BASE + s + v + '.mp3';
   }
 
-  /* --- Taille selon le contexte DOM --- */
+  /* Détecter la taille selon le contexte DOM */
   function detectSize(el) {
     if (el.closest('.complaint') || el.closest('.hero') || el.closest('.highlight-box')) {
       return 'normal';
@@ -35,21 +37,22 @@
     return 'compact';
   }
 
-  /* --- Construire le widget lecteur --- */
+  /* Construire le widget lecteur */
   function buildPlayer(sv, size) {
-    var label = 'S.' + sv.s + ':' + sv.v + '\u00a0\u00b7\u00a0\u1e24u\u1e63ar\u012b';
+    var label = 'S.' + sv.s + ':' + sv.v + ' \u00b7 \u1e24u\u1e63ar\u012b';
     var heights = { normal: 40, compact: 32, mini: 28 };
     var h = heights[size] || 32;
 
     var wrap = document.createElement('div');
     wrap.className = 'verset__audio-inner verset__audio--' + size;
+    wrap.setAttribute('data-audio-injected', '1');
 
     /* Icône */
     var icon = document.createElement('span');
     icon.className = 'verset__audio-icon';
     icon.innerHTML =
-      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" ' +
-      'stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none"' +
+      ' stroke="currentColor" stroke-width="2" stroke-linecap="round">' +
       '<polygon points="5 3 19 12 5 21 5 3"/></svg>';
     wrap.appendChild(icon);
 
@@ -71,22 +74,47 @@
     audio.appendChild(src);
     wrap.appendChild(audio);
 
-    return wrap;
+    /* Conteneur */
+    var slot = document.createElement('div');
+    slot.className = 'verset__audio';
+    slot.appendChild(wrap);
+    return slot;
   }
 
-  /* --- Initialisation --- */
-  function init() {
-    document.querySelectorAll('.verset').forEach(function (verset) {
-      var slot = verset.querySelector('.verset__audio');
-      if (!slot || slot.children.length > 0) return; /* déjà rempli */
-
-      var ref = verset.getAttribute('data-ref') || '';
+  /* ── FORMAT 1 : {% include verset.html %} ── */
+  function handleVersets() {
+    document.querySelectorAll('.verset').forEach(function (el) {
+      var slot = el.querySelector('.verset__audio');
+      if (!slot) return;
+      if (slot.querySelector('[data-audio-injected]')) return; /* déjà fait */
+      var ref = el.getAttribute('data-ref') || '';
       var sv  = parseRef(ref);
       if (!sv) return;
-
-      var size = detectSize(verset);
-      slot.appendChild(buildPlayer(sv, size));
+      slot.appendChild(buildPlayer(sv, detectSize(el)).firstChild);
     });
+  }
+
+  /* ── FORMAT 2 : <div class="verse-block"> ── */
+  function handleVerseBlocks() {
+    document.querySelectorAll('.verse-block').forEach(function (el) {
+      if (el.querySelector('[data-audio-injected]')) return;
+      var refEl = el.querySelector('.verse-ref');
+      if (!refEl) return;
+      var sv = parseRef(refEl.textContent);
+      if (!sv) return;
+      var size   = detectSize(el);
+      var player = buildPlayer(sv, size);
+      /* Insérer après le dernier élément existant */
+      el.appendChild(player);
+    });
+  }
+
+  /* ── FORMAT 3 : versets inline sur methode.md / baraa ── */
+  /* Ces cas sont gérés par les includes dédiés dans les fichiers MD */
+
+  function init() {
+    handleVersets();
+    handleVerseBlocks();
   }
 
   if (document.readyState === 'loading') {
