@@ -8,8 +8,8 @@ permalink: /baraa/
 ---
 
 <div class="declaration" style="border-left: 4px solid var(--or3); padding: 1.2rem 1.5rem; margin-bottom: 2rem;">
-  <span class="declaration__label">Barāʾa — Déclaration de positionnement</span>
-  <p>Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah</p>
+  <span class="declaration__label" style="display:block;text-align:center;">Barāʾa — Déclaration de positionnement</span>
+  <p style="text-align:center;">Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah</p>
   <p style="margin-top:.5rem">Ni sunnite · ni chiite · ni salafite · ni wahhabite · ni habachite · ni coraniste · ni soufiste d'aucun ṭarīqa · ni d'aucune école de fiqh · ni d'aucune école de kalām · ni d'aucun mouvement constitué</p>
   <p style="margin-top:.5rem">Aucun ḥizb · aucun tafsīr · aucun ḥadīth comme source normative · aucune autorité humaine sur le dīn</p>
   <p style="margin-top:.5rem; font-weight: bold">Le texte dit ce qu'il dit — rien de plus, rien de moins.</p>
