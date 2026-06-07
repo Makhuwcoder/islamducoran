@@ -3,7 +3,7 @@ layout: etude
 title: "Le duʿāʾ dans la ṣalāt — L'espace libre"
 subtitle: "Ce que le Coran ne ferme pas — Prescription, empêchement et espace ouvert · الفَضَاءُ الحُرُّ فِي الصَّلَاةِ"
 categorie: "Pratiques rituelles"
-categorie_slug: "pratiques"
+categorie_slug: "ibadaat"
 order: 2
 racine_ar: "الدُّعَاء"
 date: 2026-04-20
