@@ -6,7 +6,7 @@ categorie: "Nabuwwa & Risāla"
 categorie_slug: "nabuwwa"
 racine: "هـ-ج-ر"
 racine_ar: "مَهْجُورًا"
-order: 5
+order: 1
 date: 2026-03-09
 methode: "Dit / Non-dit / Inférence"
 ---
