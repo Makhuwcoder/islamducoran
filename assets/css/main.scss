@@ -246,7 +246,7 @@ body::before {
 .site-main {
   position: relative; z-index: 1;
   max-width: 1050px;
-  margin: 0 auto; padding: 3rem 0.9rem 5rem;
+  margin: 0 auto; padding: 2rem 1.6rem 4rem;
 }
 .site-main--wide { max-width: 1100px; }
 
@@ -271,12 +271,14 @@ body::before {
   font-weight: 600; color: var(--or3);
   letter-spacing: .02em; line-height: 1.25; margin-bottom: .5rem;
 }
-.page-header__subtitle { font-style: italic; color: var(--texte2); font-size: .82rem; }
+.page-header__subtitle { font-style: italic; color: var(--texte2); font-size: .85rem;
+  line-height: 1.65;
+}
 .page-header__meta { margin-top: 1rem; display: flex; flex-wrap: wrap; gap: .5rem; }
 
 .tag {
   font-family: var(--font-titre);
-  font-size: .57rem; letter-spacing: .09em;
+  font-size: .58rem; letter-spacing: .09em;
   text-transform: uppercase; color: var(--texte2);
   background: var(--bg3); border: 1px solid var(--bg5);
   padding: .2rem .6rem; border-radius: 2px;
@@ -406,7 +408,7 @@ li { margin-bottom: .3rem; }
 /* ═══════════ CALLOUTS — tons neutres, sobres ═══════════ */
 .callout {
   margin: 1.4rem 0;
-  padding: 1.1rem 1.4rem;
+  padding: 1rem 1.4rem;
   border-left: 4px solid;
   border-radius: 0 4px 4px 0;
   font-size: 2.58rem;
@@ -465,8 +467,12 @@ td {
 tr:nth-child(even) td { background: var(--bg2); }
 
 /* Markdown tables */
-.etude-corps table th { background: var(--bg3); color: var(--or3); border: 1px solid var(--bg5); padding: .6rem .9rem; }
-.etude-corps table td { background: var(--bg4); border: 1px solid var(--bg5); padding: .55rem .9rem; }
+.etude-corps table th { background: var(--bg3); color: var(--or3); border: 1px solid var(--bg5); padding: .6rem .9rem;
+  font-size: .6rem;
+}
+.etude-corps table td { background: var(--bg4); border: 1px solid var(--bg5); padding: .55rem .9rem;
+  font-size: .88rem;
+}
 .etude-corps table tr:nth-child(even) td { background: var(--bg2); }
 
 /* ═══════════ DÉCLARATION ═══════════ */
@@ -624,7 +630,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 /* ═══════════ BREADCRUMB ═══════════ */
 .breadcrumb {
-  font-family: var(--font-titre); font-size: 2.48rem; letter-spacing: .09em;
+  font-family: var(--font-titre); font-size: .6rem; letter-spacing: .09em;
   color: var(--texte3); text-transform: uppercase;
   margin-bottom: 1.5rem;
   display: flex; align-items: center; gap: .5rem; flex-wrap: wrap;
@@ -703,8 +709,8 @@ tr:nth-child(even) td { background: var(--bg2); }
   margin: 1.5rem 0 .6rem;
 }
 .page-body p {
-  font-size: 1rem; font-weight: 500;
-  color: #221808; line-height: 1.8;
+  font-size: 1rem; font-weight: 400;
+  color: #221808; line-height: 1.75;
   margin-bottom: 1rem;
 }
 .page-body ul, .page-body ol {
@@ -834,20 +840,21 @@ tr:nth-child(even) td { background: var(--bg2); }
   font-size: 2rem;
   direction: rtl;
   color: var(--texte);
-  line-height: 2;
+  line-height: 1.9;
   margin-bottom: .6rem;
 }
 .transliteration {
   font-style: italic;
   color: var(--texte2);
-  font-size: .85rem;
+  font-size: .88rem;
   margin-bottom: .5rem;
+  line-height: 1.65;
 }
 .translation {
   color: var(--texte);
   font-size: .95rem;
   font-weight: 500;
-  line-height: 1.95;
+  line-height: 1.65;
 }
 
 /* ── BARAA MINI (sous complaint) ── */
@@ -1144,7 +1151,7 @@ tr:nth-child(even) td { background: var(--bg2); }
   background: var(--bg4);
   border: 1px solid var(--bg5);
   border-left: 3px solid var(--or3);
-  padding: 1.5rem 1.6rem;
+  padding: 1.2rem 1.5rem;
   margin: 1.5rem 0;
   overflow: hidden;
 }
@@ -1618,3 +1625,17 @@ tr:nth-child(even) td { background: var(--bg2); }
 }
 
 .complaint .arabic-verse { font-size: 2rem; }
+
+.etude-corps p { font-size: 1rem;
+  line-height: 1.75;
+}
+
+.callout__body { font-size: 1rem;
+  line-height: 1.75;
+}
+
+.etude-corps h2 { font-size: 1.1rem; }
+
+.etude-corps h3 { font-size: .9rem; }
+
+.etude-corps h4 { font-size: .78rem; }
