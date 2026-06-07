@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Pourquoi ce site existe"
 subtitle: "Note fondatrice — Un acte de bayān"
 date: 2024-04-01
