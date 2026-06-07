@@ -1395,11 +1395,27 @@ tr:nth-child(even) td { background: var(--bg2); }
   border-left: 3px solid var(--or3);
   padding: 1rem 1.4rem;
   margin: 1rem 0;
-  font-size: 1.8rem;
+  font-size: .88rem;
   color: var(--texte2);
-  line-height: 1.9555;
+  line-height: 1.8;
 }
 .note-block strong { color: var(--or2); }
+.concept-current {
+  font-size: .75rem;
+  font-style: italic;
+  color: var(--texte3);
+  margin-bottom: .5rem;
+  text-align: center;
+}
+.concept-tags {
+  font-family: var(--font-titre);
+  font-size: .6rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--or3);
+  margin-top: .8rem;
+  text-align: center;
+}
 
 /* ── CONDITION CARDS (3 conditions) ── */
 .conditions-grid {
