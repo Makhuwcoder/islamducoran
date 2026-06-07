@@ -3,8 +3,8 @@ layout: etude
 title: "Le Ḥajj et la ʿUmra dans le Coran"
 subtitle: "Ce que le texte dit · Ce que le texte ne dit pas · Ce que l'on peut inférer"
 categorie: "Pratiques rituelles"
-categorie_slug: "ibadaat"
-order: 255
+categorie_slug: "pratiques"
+order: 6
 racine: "ح-ج-ج / ع-م-ر"
 racine_ar: "حَجّ · عُمْرَة"
 date: 2026-03-26
