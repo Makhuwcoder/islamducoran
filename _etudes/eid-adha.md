@@ -3,7 +3,7 @@ layout: etude
 title: "ʿĪd al-Aḍḥā — ʿĪd al-Kabīr"
 subtitle: "Ce que le Coran dit — ce que le Coran ne dit pas"
 categorie: "Pratiques rituelles"
-categorie_slug: "pratiques"
+categorie_slug: "ibadaat"
 order: 7
 racine_ar: "عِيد الأَضْحَى"
 date: 2026-05-15
