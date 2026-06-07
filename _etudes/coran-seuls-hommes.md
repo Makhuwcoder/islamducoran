@@ -3,7 +3,7 @@ layout: etude
 title: "Le Coran s'adresse-t-il aux seuls hommes ?"
 subtitle: "Humanité, responsabilité et rétribution de la femme dans le texte — Enquête exhaustive verset par verset"
 categorie: "Corps, Famille & Société"
-categorie_slug: "famille"
+categorie_slug: "societe"
 order: 5
 racine_ar: "مِنْ ذَكَرٍ أَوْ أُنثَىٰ"
 date: 2026-04-19
