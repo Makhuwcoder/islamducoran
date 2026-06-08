@@ -377,5 +377,33 @@ permalink: /etudes/
 </div>
 {% endif %}
 
+{% assign g_approche = site.etudes | where: "categorie_slug", "approche" | sort: "order" %}
+{% if g_approche.size > 0 %}
+<div class="categorie-header" id="approche">
+  <span class="categorie-header__fr">Comment aborder le Coran</span>
+  <span class="categorie-header__ar" dir="rtl">كَيْفَ تَتَعَامَلُ مَعَ الْقُرْآنِ</span>
+  <span class="tag">{{ g_approche | size }}</span>
+</div>
+<div class="etudes-grid">
+  {% for etude in g_approche %}
+  {% if etude.coming_soon %}
+  <div class="etude-card etude-card--soon">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    <div class="etude-card__tag etude-card__tag--soon">À paraître</div>
+  </div>
+  {% else %}
+  <a class="etude-card" href="{{ etude.url | relative_url }}">
+    {% if etude.racine_ar %}<div class="etude-card__racine" dir="rtl">{{ etude.racine_ar }}</div>{% endif %}
+    <div class="etude-card__titre">{{ etude.title }}</div>
+    {% if etude.subtitle %}<p class="etude-card__resume">{{ etude.subtitle }}</p>{% endif %}
+    {% if etude.racine %}<div class="etude-card__tag">{{ etude.racine }}</div>{% endif %}
+  </a>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
 </div>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
