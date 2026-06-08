@@ -6,7 +6,7 @@ categorie: "Calendrier & Temps cosmique"
 categorie_slug: "calendrier"
 racine: "ل-ي-ل / ن-ه-ر"
 racine_ar: "اللَّيْلُ وَالنَّهَارُ"
-order: 2
+order: 4
 date: 2026-03-10
 methode: "Dit / Non-dit / Inférence"
 ---
