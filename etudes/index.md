@@ -55,6 +55,9 @@ permalink: /etudes/
         <optgroup label="الْآخِرَةُ وَالْغَيْب">
           <option value="eschatologie">Eschatologie &amp; Métaphysique</option>
         </optgroup>
+        <optgroup label="كَيْفَ تَتَعَامَلُ مَعَ الْقُرْآنِ">
+          <option value="approche">Comment aborder le Coran</option>
+        </optgroup>
       </select>
       <select id="etude-filter" onchange="goToEtude(this.value)" style="display:none">
         <option value="">― Aller à une étude ―</option>
@@ -120,6 +123,11 @@ permalink: /etudes/
       {slug:'heure-signes',title:"L'Heure et ses signes"},
       {slug:'sortir-du-feu',title:"Sortir du feu : Garantie ou invention ?"},
       {slug:'shafaa',title:"La shafāʿa dans le Coran"}
+    ],
+    approche: [
+      {slug:'mediter-texte-langue',title:"Méditer le texte dans sa langue"},
+      {slug:'comprendre-memoriser',title:"Comprendre avant de mémoriser"},
+      {slug:'protocole-lecture-coran',title:"Protocole de lecture du Coran"}
     ]
   };
 
