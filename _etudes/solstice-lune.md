@@ -6,7 +6,7 @@ categorie: "Calendrier & Temps cosmique"
 categorie_slug: "calendrier"
 racine: "ش-م-س / ق-م-ر"
 racine_ar: "الشَّمْسُ وَالْقَمَرُ"
-order: 1
+order: 3
 date: 2026-03-09
 methode: "Dit / Non-dit / Inférence"
 ---
