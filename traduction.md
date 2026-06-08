@@ -41,9 +41,10 @@ permalink: /traduction/
 
 <p>La traduction de Sourate 2 · Al-Ijāba (Al-Baqara) est en cours. Les blocs seront publiés progressivement.</p>
 
-<div class="declaration" style="margin-top:2.5rem">
-  <span class="declaration__label">Barāʾa</span>
+<div class="declaration" style="margin-top:2.5rem;text-align:center;max-width:640px;margin-left:auto;margin-right:auto;">
+  <span class="declaration__label" style="display:block;margin-bottom:.6rem;">Barāʾa</span>
   <p>Cette traduction est conduite selon la méthode islamducoran.fr. Elle n'est pas prescriptive. Elle est révisable à la lumière du texte. L'unique garant de la compréhension est Allaah.</p>
+  <p style="margin-top:.8rem;"><a href="/baraa/" style="font-family:var(--font-titre);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:var(--or2);background:var(--bg4);border:1px solid var(--bg5);border-radius:3px;padding:.3rem .7rem;text-decoration:none;">Lire la déclaration complète →</a></p>
 </div>
 
   </div><!-- .page-body -->
