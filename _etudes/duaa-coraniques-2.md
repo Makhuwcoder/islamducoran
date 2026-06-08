@@ -1,12 +1,12 @@
 ---
 layout: etude
-title: "Inventaire des Duʿāʾ Coraniques — II"
+title: "Inventaire des Duʿāʾ Coraniques — II · Annexe contextuelle"
 subtitle: "Formules à référent concret requis · Demandes propres aux nabī · Demandes d'Iblīs · Doléances des perdants · Thèmes 12–15"
 categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "د-ع-و"
 racine_ar: "الدُّعَاء"
-order: 10
+order: 4
 date: 2026-05-25
 methode: "Dit / Non-dit / Inférence"
 ---
