@@ -25,13 +25,13 @@ permalink: /comprendre/
           <div class="study-icon">الْفَهْم</div>
           <h4>Protocole coranique</h4>
           <p>Comprendre avant de mémoriser — étude complète</p>
-          <a href="https://protocole-coran-0u8m0uo.gamma.site" target="_blank">Lire l'étude →</a>
+          <a href="/etudes/protocole-lecture-coran/">Lire l'étude →</a>
         </div>
         <div class="gallery-item">
           <div class="study-icon">الْحِفْظ</div>
           <h4>Comprendre avant mémoriser</h4>
           <p>Méthode et application pratique</p>
-          <a href="https://comprendre-avant-memoris-y0x8tty.gamma.site" target="_blank">Lire l'étude →</a>
+          <a href="/etudes/comprendre-memoriser/">Lire l'étude →</a>
         </div>
       </div>
 
