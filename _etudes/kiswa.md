@@ -6,7 +6,7 @@ categorie: "Pratiques rituelles"
 categorie_slug: "ibadaat"
 racine: "ك-س-و"
 racine_ar: "الكِسْوَة"
-order: 5
+order: 6
 date: 2026-04-20
 methode: "Dit / Non-dit / Inférence"
 ---
