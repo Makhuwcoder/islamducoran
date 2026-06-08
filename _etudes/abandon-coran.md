@@ -121,12 +121,9 @@ L'abandon du Coran décrit en S.25:30 est donc une **rupture de lien**, non une 
   </div>
 </div>
 
-{% include verset.html
-   ref="2 · Entendre sans comprendre : les cœurs sous voile — S.17:45–46"
-   ar="وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا ۝ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا"
-   trl="*Wa-idhā qaraʾta l-qurʾāna jaʿalnā baynaka wa-bayna lladhīna lā yuʾminūna bi-l-ākhirati ḥijāban mastūrā · wa-jaʿalnā ʿalā qulūbihim akinnatan an yafqahūhu wa-fī ādhānihim waqrā*"
-   trad="« Lorsque tu récites le Coran, Nous plaçons entre toi et ceux qui ne croient pas en l'au-delà un voile invisible. Et Nous plaçons sur leurs cœurs des enveloppes pour qu'ils ne le comprennent pas, et dans leurs oreilles une lourdeur. »"
-%}
+{% include verset.html ref="Sourate Al-Isrāʾ · 17:45" ar="وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا" trl="*Wa-idhā qaraʾta l-qurʾāna jaʿalnā baynaka wa-bayna lladhīna lā yuʾminūna bi-l-ākhirati **ḥijāban mastūrā***" trad="Lorsque tu récites le Coran, Nous plaçons entre toi et ceux qui ne croient pas en l'au-delà **un voile invisible**." %}
+
+{% include verset.html ref="Sourate Al-Isrāʾ · 17:46" ar="وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا" trl="*Wa-jaʿalnā ʿalā qulūbihim **akinnatan** an yafqahūhu wa-fī ādhānihim **waqrā***" trad="Et Nous plaçons sur leurs cœurs des **enveloppes** pour qu'ils ne le comprennent pas, et dans leurs oreilles une **lourdeur**." %}
 
 <div class="callout callout--dit">
   <span class="callout__label">Note lexicale</span>
