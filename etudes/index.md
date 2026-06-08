@@ -75,12 +75,16 @@ permalink: /etudes/
       {slug:'kitman-bayyan',title:"2:159–163 · Kitmān et bayān"}
     ],
     calendrier: [
+      {slug:'etat-lieux-calendaire',title:"État des lieux calendaire"},
+      {slug:'calendrier-lunaire',title:"Le calendrier islamique lunaire"},
       {slug:'solstice-lune',title:"La Méthode Solstice-Lune"},
       {slug:'nuit-jour-aube-crepuscule',title:"Nuit, Journée, Aube et Crépuscule"}
     ],
     ibadaat: [
       {slug:'salat-coran',title:"La Ṣalāt dans le Coran"},
       {slug:'duaa-salat',title:"Le duʿāʾ dans la ṣalāt"},
+      {slug:'duaa-coraniques',title:"Inventaire des Duʿāʾ Coraniques"},
+      {slug:'duaa-coraniques-2',title:"Inventaire des Duʿāʾ Coraniques — II · Annexe contextuelle"},
       {slug:'hajar-aswad',title:"Al-Ḥajar al-Aswad — La Pierre Noire"},
       {slug:'baraka-tabarruk',title:"Al-Baraka wa-l-Tabarruk"},
       {slug:'kiswa',title:"Al-Kiswa — La couverture de la Kaʿba"},
