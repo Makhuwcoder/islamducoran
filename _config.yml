@@ -58,7 +58,7 @@ nav_items:
   - title: "Assistant"
     url: "/assistant/"
   - title: "Baraa"
-    url: "/baraaa/"
+    url: "/baraa/"
 
 # Sidebar verticale
 nav_sidebar:
