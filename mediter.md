@@ -42,7 +42,7 @@ permalink: /mediter/
           <div class="study-icon">التَّدَبُّر</div>
           <h4>Islam du Coran — Introduction</h4>
           <p>Méditer le texte — étude complète</p>
-          <a href="https://islam-du-coran-2qlaxzt.gamma.site" target="_blank">Lire l'étude →</a>
+          <a href="/etudes/mediter-texte-langue/">Lire l'étude →</a>
         </div>
       </div>
     </div>
