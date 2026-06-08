@@ -37,7 +37,13 @@ L'absence de *ʿiwaj* (torsion, déviation) est une propriété de la langue ell
 
 ## Axe II · En une langue arabe *mubīn* — le texte qui se manifeste lui-même
 
-{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:192–195 — Lisān ʿarabī mubīn" ar="وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ ۝ نَزَلَ بِهِ الرُّوحُ الْأَمِينُ ۝ عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ ۝ بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ" trl="*Wa-innahu la-tanzīlu Rabbi l-ʿālamīn · nazala bihi r-Rūḥu l-Amīn · ʿalā qalbika li-takūna mina l-mundhirīna · **bi-lisānin ʿarabiyyin mubīn***" trad="Et c'est bien une descente du Seigneur des mondes — l'Esprit fidèle l'a fait descendre — sur ton cœur pour que tu sois parmi les avertisseurs — **en une langue arabe *mubīn***." %}
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:192" ar="وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ" trl="*Wa-innahu la-tanzīlu Rabbi l-ʿālamīn*" trad="Et c'est bien une descente du Seigneur des mondes." %}
+
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:193" ar="نَزَلَ بِهِ الرُّوحُ الْأَمِينُ" trl="*Nazala bihi r-Rūḥu l-Amīn*" trad="L'Esprit fidèle l'a fait descendre." %}
+
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:194" ar="عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ" trl="*ʿAlā qalbika li-takūna mina l-mundhirīn*" trad="Sur ton cœur — pour que tu sois parmi les avertisseurs." %}
+
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:195" ar="بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ" trl="***Bi-lisānin ʿarabiyyin mubīn***" trad="**En une langue arabe *mubīn*.**" %}
 
 **Mubīn** (racine ب-ي-ن) : le schème morphologique *mufʿil* indique une causalité active. *Mubīn* n'est pas seulement « ce qui est clair » — c'est aussi **ce qui rend clair**, ce qui manifeste. La langue arabe est présentée comme un instrument dont la clarté est active et structurelle.
 
