@@ -75,8 +75,8 @@ permalink: /etudes/
       {slug:'kitman-bayyan',title:"2:159–163 · Kitmān et bayān"}
     ],
     calendrier: [
-      {slug:'etat-lieux-calendaire',title:"Le Calendrier Islamique — État des lieux"},
-      {slug:'calendrier-lunaire',title:"Le calendrier lunaire pur face au Coran"}
+      {slug:'solstice-lune',title:"La Méthode Solstice-Lune"},
+      {slug:'nuit-jour-aube-crepuscule',title:"Nuit, Journée, Aube et Crépuscule"}
     ],
     ibadaat: [
       {slug:'salat-coran',title:"La Ṣalāt dans le Coran"},
