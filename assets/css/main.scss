@@ -2007,3 +2007,219 @@ tr:nth-child(even) td { background: var(--bg2); }
   .verset__audio-label { display: none; }
   .verset__audio-inner { padding: .2rem .4rem; }
 }
+
+/* ══════════════════════════════════════════════════════
+   RESPONSIVE MOBILE — islamducoran.fr
+   Optimisation complète pour écrans ≤ 480px (iPhone)
+   et ≤ 768px (tablette portrait)
+══════════════════════════════════════════════════════ */
+
+/* ── Navigation : titre tronqué ── */
+@media (max-width: 768px) {
+  .site-nav {
+    padding: 0 1rem;
+  }
+  .site-nav__logo-text {
+    font-size: .55rem;
+    max-width: 160px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .site-nav__logo img {
+    height: 36px;
+    width: 36px;
+  }
+}
+
+/* ── Hero / accueil ── */
+@media (max-width: 768px) {
+  .hero {
+    padding: 2rem 1rem 1.5rem;
+  }
+  .complaint {
+    padding: 1.4rem 1rem;
+    margin-bottom: 1.4rem;
+  }
+  .complaint .arabic {
+    font-size: 1.5rem;
+    line-height: 2;
+  }
+  .accueil-wrap {
+    padding: 0 .5rem;
+  }
+}
+
+/* ── Layout sidebar mobile ── */
+@media (max-width: 768px) {
+  .page-layout {
+    flex-direction: column;
+  }
+  .site-sidebar {
+    width: 100%;
+    position: relative;
+    height: auto;
+    border-right: none;
+    border-bottom: 2px solid var(--bg5);
+  }
+  .page-main {
+    padding: 1.2rem 1rem 3rem;
+    max-width: 100%;
+  }
+}
+
+/* ── Versets coraniques ── */
+@media (max-width: 768px) {
+  .verset__arabe {
+    font-size: 1.5rem;
+    line-height: 2;
+  }
+  .verset__ref {
+    font-size: .58rem;
+  }
+  .verset__trl,
+  .verset__trad {
+    font-size: .88rem;
+  }
+  .verset {
+    padding: 1rem;
+  }
+}
+
+/* ── Verse-blocks (pages statiques) ── */
+@media (max-width: 768px) {
+  .verse-block {
+    padding: 1rem;
+  }
+  .verse-arabic {
+    font-size: 1.5rem !important;
+    line-height: 2 !important;
+  }
+  .verse-translit,
+  .verse-trans {
+    font-size: .86rem;
+  }
+  .verse-ref {
+    font-size: .62rem;
+  }
+}
+
+/* ── En-têtes d'études ── */
+@media (max-width: 768px) {
+  .page-header__titre,
+  .page-header__arabic {
+    font-size: 1.6rem;
+  }
+  .page-header__arabic {
+    font-size: 2rem;
+  }
+  .page-header__subtitle {
+    font-size: .82rem;
+  }
+}
+
+/* ── Grilles → 1 colonne sur mobile ── */
+@media (max-width: 600px) {
+  .pillars-grid,
+  .gallery-grid,
+  .concepts-grid,
+  .etudes-grid,
+  .filter-row {
+    grid-template-columns: 1fr;
+  }
+  #cat-filter,
+  #etude-filter {
+    min-width: 0;
+    width: 100%;
+  }
+  .filter-wrap {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+/* ── Callouts ── */
+@media (max-width: 768px) {
+  .callout {
+    padding: .8rem 1rem;
+  }
+  .callout__label {
+    font-size: .6rem;
+  }
+  .callout__body p,
+  .callout__body li {
+    font-size: .85rem;
+  }
+}
+
+/* ── Navigation prev/next études ── */
+@media (max-width: 600px) {
+  .etude-nav {
+    grid-template-columns: 1fr;
+  }
+  .etude-nav__titre {
+    font-size: .85rem;
+  }
+}
+
+/* ── Breadcrumb ── */
+@media (max-width: 600px) {
+  .breadcrumb {
+    font-size: .55rem;
+    gap: .25rem;
+  }
+  .breadcrumb a,
+  .breadcrumb__current {
+    padding: .2rem .4rem;
+    font-size: .55rem;
+  }
+  .breadcrumb__current {
+    max-width: 140px;
+  }
+}
+
+/* ── Tableau de synthèse ── */
+@media (max-width: 600px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    font-size: .78rem;
+  }
+  th, td {
+    padding: .4rem .5rem;
+    min-width: 100px;
+  }
+}
+
+/* ── Tags badges ── */
+@media (max-width: 600px) {
+  .tag-badge,
+  .etude-badge {
+    font-size: .55rem;
+    padding: .2rem .5rem;
+  }
+}
+
+/* ── Audio player mobile ── */
+@media (max-width: 600px) {
+  .verset__audio-inner {
+    flex-wrap: wrap;
+    gap: .3rem;
+    padding: .3rem .5rem;
+  }
+  .verset__audio-player {
+    height: 28px;
+    min-width: 120px;
+  }
+}
+
+/* ── Page accueil — logo ── */
+@media (max-width: 600px) {
+  .hero img[alt="islamducoran.fr"] {
+    max-width: 220px;
+  }
+  .intro-text {
+    font-size: .65rem;
+    padding: 0 .5rem;
+  }
+}
