@@ -15,7 +15,7 @@ permalink: /baraa/
   <p style="margin-top:.5rem; font-weight: bold">Le texte dit ce qu'il dit — rien de plus, rien de moins.</p>
 </div>
 
----
+
 
 ## Le verset fondateur
 
@@ -27,7 +27,7 @@ permalink: /baraa/
 
 Le texte coranique nomme la fragmentation en groupes comme une forme d'association (*shirk*) — 30:31–32, 6:159. C'est précisément pourquoi cette déclaration est nécessaire : non par polémique envers quiconque, mais parce que le texte l'exige et que notre méthode l'impose.
 
----
+
 
 ## Pourquoi cette déclaration
 
@@ -35,7 +35,7 @@ Ce site existe pour une raison unique : **lire le Coran par lui-même**, en arab
 
 Cette page formalise ce positionnement **libre et indépendant**. Elle nomme ce que nous sommes — et tout ce que nous ne sommes pas. Elle est une *barāʾa* — **une distanciation formelle, permanente, opposable à toute tentative de rattachement ou d'affiliation.** Elle n'est pas une polémique.
 
----
+
 
 ## Ce que nous appelons « sources »
 
@@ -45,7 +45,7 @@ Cette page formalise ce positionnement **libre et indépendant**. Elle nomme ce 
 
 **Ce qui n'est pas une source** — Ḥadīth · Tafsīr · Sīra · Ijmāʿ · Qiyās · Fatwa · Enseignements d'écoles juridiques. Aucun de ces corpus n'est utilisé comme source normative. Ils peuvent être mentionnés à titre informatif pour nommer une divergence — **jamais pour trancher une question de *dīn***.
 
----
+
 
 ## Divisions sectaires et écoles juridiques
 
@@ -61,7 +61,7 @@ islamducoran.fr ne se rattache à aucune des divisions, écoles ou mouvements su
 
 **Voies soufies — Ṭuruq** : ni Mouride · ni Tijānī · ni Qādirī · ni Naqshbandī · ni Shādhilī · ni Rifāʿī · ni Badawī · ni Mawlawī · ni Chishtī · ni Suhrawardī · ni Khalwatī · ni Burhānī · ni aucun ṭarīqa d'aucun ordre, aucun shaykh comme autorité spirituelle
 
----
+
 
 ## Engagement final
 
