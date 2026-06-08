@@ -7,8 +7,6 @@ description: "islamducoran.fr ne se rattache à aucun courant, aucune école, au
 permalink: /baraa/
 ---
 
-<div class="site-main">
-
 {% include callout.html type="pivot" label="Barāʾa — Déclaration de positionnement" content="Muslim — uniquement et seulement · Source normative unique : le Coran · Autorité unique : Allaah
 
 Ni sunnite · ni chiite · ni salafite · ni wahhabite · ni habachite · ni coraniste · ni soufiste d'aucune ṭarīqa · ni chiite d'aucune branche · aucun shaykh · aucun maître · aucun groupe d'appartenance.
@@ -67,4 +65,3 @@ Nous ne prétendons pas détenir la vérité absolue sur le *dīn*. Nous présen
 
 {% include callout.html type="pivot" label="Permanent · Opposable · Sans exception" content="islamducoran.fr · Déclaration officielle · Barāʾa" %}
 
-</div>
