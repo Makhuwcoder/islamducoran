@@ -14,6 +14,11 @@ slugs:
   - duaa-salat
   - duaa-coraniques
   - duaa-coraniques-2
+  - siyam
+  - salat-rituel
+  - voix-salat
+  - amin-mot
+  - rattrapage-salat
   - hajar-aswad
   - baraka-tabarruk
   - kiswa
@@ -25,6 +30,11 @@ slugs:
   - khatam-nabiyyin
   - nabi-legislateur
   - kitman-bayyan
+  - nabi-rasul
+  - nabi-muhammad-coran
+  - ummi-illettre
+  - salam-nabiyyun
+  - nabi-legislateur-v2
   # ── Autorité légifératrice & Sources ──────────
   - hadith-coran
   - sunna-coran
@@ -42,6 +52,7 @@ slugs:
   - coran-seuls-hommes
   - polygamie
   - esclavage
+  - union-conjugale
   # ── Droit pénal & Économie islamique ──────────
   - zakat
   - riba
@@ -58,3 +69,4 @@ slugs:
   - heure-signes
   - sortir-du-feu
   - shafaa
+  - protection-livre
