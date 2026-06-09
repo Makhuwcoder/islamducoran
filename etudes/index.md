@@ -85,6 +85,11 @@ permalink: /etudes/
       {slug:'duaa-salat',title:"Le duʿāʾ dans la ṣalāt"},
       {slug:'duaa-coraniques',title:"Inventaire des Duʿāʾ Coraniques"},
       {slug:'duaa-coraniques-2',title:"Inventaire des Duʿāʾ Coraniques — II · Annexe contextuelle"},
+      {slug:'siyam',title:"L'Abstention Sacrée — As-Ṣiyām"},
+      {slug:'salat-rituel',title:"Le rituel de la Ṣalāt dans le Coran"},
+      {slug:'voix-salat',title:"La voix dans la Ṣalāt"},
+      {slug:'amin-mot',title:"Que savons-nous du mot Āmīn ?"},
+      {slug:'rattrapage-salat',title:"Le rattrapage des Ṣalāt"},
       {slug:'hajar-aswad',title:"Al-Ḥajar al-Aswad — La Pierre Noire"},
       {slug:'baraka-tabarruk',title:"Al-Baraka wa-l-Tabarruk"},
       {slug:'kiswa',title:"Al-Kiswa — La couverture de la Kaʿba"},
@@ -108,7 +113,8 @@ permalink: /etudes/
       {slug:'femmes-hommes',title:"Femmes et hommes dans le Coran"},
       {slug:'coran-seuls-hommes',title:"Le Coran s'adresse-t-il aux seuls hommes ?"},
       {slug:'polygamie',title:"La Polygamie dans le Coran"},
-      {slug:'esclavage',title:"L'Esclavage dans le Coran"}
+      {slug:'esclavage',title:"L'Esclavage dans le Coran"},
+      {slug:'union-conjugale',title:"Union conjugale et séparation"}
     ],
     droit: [
       {slug:'zakat',title:"La simplicité de la Zakāt"},
