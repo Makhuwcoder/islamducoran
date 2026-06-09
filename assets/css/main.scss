@@ -2288,9 +2288,10 @@ tr:nth-child(even) td { background: var(--bg2); }
 
   &__label {
     font-family: 'Cinzel', serif;
-    font-size: .7rem;
-    letter-spacing: .06em;
-    color: #c9a84c;
+    font-size: .75rem;
+    letter-spacing: .07em;
+    font-weight: 600;
+    color: #f0e2c0;
     white-space: nowrap;
   }
 
@@ -2356,29 +2357,30 @@ tr:nth-child(even) td { background: var(--bg2); }
   &__btn {
     display: inline-flex;
     align-items: center;
-    gap: .35rem;
+    gap: .4rem;
     font-family: 'Cinzel', serif;
-    font-size: .6rem;
-    letter-spacing: .08em;
+    font-size: .7rem;
+    letter-spacing: .1em;
     text-transform: uppercase;
-    color: #c9a84c;
-    background: transparent;
-    border: 1px solid rgba(201, 168, 76, 0.35);
-    border-radius: 2px;
-    padding: .3rem .8rem;
+    color: #16130e;
+    background: #c9a84c;
+    border: 2px solid #c9a84c;
+    border-radius: 3px;
+    padding: .45rem 1.1rem;
     text-decoration: none;
+    font-weight: 600;
     transition: background .18s, border-color .18s, color .18s;
 
     &:hover {
-      background: rgba(201, 168, 76, 0.1);
-      border-color: #c9a84c;
-      color: #f0e2c0;
+      background: #f0e2c0;
+      border-color: #f0e2c0;
+      color: #16130e;
       text-decoration: none;
     }
 
     &::before {
       content: "↑";
-      font-size: .75rem;
+      font-size: .85rem;
       line-height: 1;
     }
   }
@@ -2386,7 +2388,7 @@ tr:nth-child(even) td { background: var(--bg2); }
 
 @media (max-width: 600px) {
   .duaa-back-top__btn {
-    font-size: .55rem;
-    padding: .25rem .6rem;
+    font-size: .62rem;
+    padding: .38rem .85rem;
   }
 }
