@@ -108,3 +108,6 @@ nav_sidebar:
       - title: "Toutes les etudes"
         url: "/etudes/"
         ar: "الدِّرَاسَات"
+      - title: "Espace de debats"
+        url: "/debats/"
+        ar: "فَضَاءُ الْحِجَاج"
