@@ -310,6 +310,32 @@ permalink: /etudes/
 </div>
 {% endif %}
 
+{% assign g_universalite = site.etudes | where: "categorie_slug", "universalite" | sort: "order" %}
+{% if g_universalite.size > 0 %}
+<div class="categorie-header" id="universalite">
+  <span class="categorie-header__fr">Universalité du message</span>
+  <span class="categorie-header__ar" dir="rtl">الرِّسَالَةُ الْعَالَمِيَّةُ</span>
+  <span class="tag">{{ g_universalite | size }}</span>
+</div>
+<div class="etudes-grid">
+  {% for etude in g_universalite %}
+  {% if etude.coming_soon %}
+  <div class="etude-card etude-card--soon">
+    {% if etude.racine_ar %}<span class="etude-card__ar" dir="rtl">{{ etude.racine_ar }}</span>{% endif %}
+    <h3 class="etude-card__titre">{{ etude.title }}</h3>
+    <span class="etude-badge etude-badge--soon">Bientôt</span>
+  </div>
+  {% else %}
+  <a href="{{ etude.url | relative_url }}" class="etude-card">
+    {% if etude.racine_ar %}<span class="etude-card__ar" dir="rtl">{{ etude.racine_ar }}</span>{% endif %}
+    <h3 class="etude-card__titre">{{ etude.title }}</h3>
+    {% if etude.subtitle %}<p class="etude-card__sub">{{ etude.subtitle }}</p>{% endif %}
+  </a>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
 {% assign g_societe = site.etudes | where: "categorie_slug", "societe" | sort: "order" %}
 {% if g_societe.size > 0 %}
 <div class="categorie-header" id="societe">
