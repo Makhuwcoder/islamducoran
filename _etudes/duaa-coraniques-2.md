@@ -25,8 +25,9 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include callout.html type="warn" label="Document annexe" content="Cette étude est la suite directe de l'[Inventaire des Duʿāʾ Coraniques — I](/etudes/duaa-coraniques/). Elle couvre les sections 12 à 15 : formules à référent concret requis, demandes propres aux nabī, demandes d'Iblīs, doléances des perdants, sécurité et délivrance." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -78,8 +79,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Qamar · 54:10" ar="أَنِّي مَغْلُوبٌ فَانتَصِرْ" trl="*Annī maghlūbun fa-ntaṣir*" trad="Je suis dépassé — interviens." %}
 
 {% include callout.html type="dit" label="Note sur la transposition" content="Le texte rapporte : *fa-daʿā rabbahu annī maghlūbun fa-ntaṣir*. La transposition : **Rabbi — innī maghlūbun fa-ntaṣir** — Seigneur, je suis dépassé : interviens. La formule ne dit pas « donne-moi la victoire » : elle dit « je suis dépassé — interviens ». Elle est prononçable uniquement lorsque l'épuisement et le dépassement décrits correspondent à une situation réelle et vérifiable." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -172,8 +174,9 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include callout.html type="nondit" label="Non transposable" content="Introduite par *qul* — instruction explicitement adressée au nabī. Condition prophétique (*immā turiyannī mā yūʿadūn*) non reproductible en dehors du mandat prophétique." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -215,8 +218,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Zukhruf · 43:77 — S'adressant à Mālik" ar="يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ" trl="*Yā Mālik liyaqḍi ʿalaynā rabbuk*" trad="Ô Mālik, que ton Seigneur en finisse avec nous." %}
 
 {% include callout.html type="dit" label="Réponse de Mālik" content="*Innakum māKithūn* — Vous demeurerez. Deux mots. La réponse est immédiate et sans développement." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -227,8 +231,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include callout.html type="dit" label="Tension textuelle" content="La réponse d'Allaah (2:126b) étend la provision même à ceux qui ne croient pas — provisoirement. La demande d'Ibrāhīm est conditionnée à la foi ; la réponse d'Allaah ne l'est pas. Cette tension est textuelle et non résolue par le texte lui-même." %}
 
 {% include verset.html ref="Sourate Ibrāhīm · 14:35 — Ibrāhīm" ar="رَبِّ اجْعَلْ هَٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ" trl="*Rabbi jaʿal hādhā l-balada āminan wa-jnubnī wa-baniyya an naʿbudu l-aṣnām*" trad="Seigneur, fais de cette cité un lieu sûr, et tiens-moi éloigné, ainsi que mes fils, d'adorer les idoles." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
