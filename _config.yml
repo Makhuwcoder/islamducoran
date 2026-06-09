@@ -92,6 +92,9 @@ nav_sidebar:
       - title: "Mediter le Coran"
         url: "/mediter/"
         ar: "التَّدَبُّر"
+      - title: "Inventaire des du'a coraniques"
+        url: "/etudes/duaa-coraniques/"
+        ar: "الدُّعَاء الْقُرْآنِي"
   - group: "Etudes"
     items:
       - title: "Toutes les etudes"
