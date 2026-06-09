@@ -61,8 +61,9 @@ methode: "Dit / Non-dit / Inférence"
 | 13 | Demandes propres aux nabī | طَلَبَاتٌ خَاصَّةٌ بِالأَنْبِيَاءِ | 14 |
 | 14 | Sécurité des lieux et des communautés | أَمَانُ الْبَلَدِ وَالْجَمَاعَةِ | 2 |
 | 15 | Délivrance | النَّجَاةُ | 2 |
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -85,8 +86,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Mumtaḥana · 60:4" ar="رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ" trl="*Rabbanā ʿalayka tawakkalnā wa-ilayka anabnā wa-ilayka l-maṣīr*" trad="Seigneur, en Toi nous nous en remettons, vers Toi nous revenons — et vers Toi est le terme." %}
 {% include verset.html ref="Sourate Al-Mumtaḥana · 60:5" ar="رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ" trl="*Rabbanā lā tajʿalnā fitnatan lilladhīna kafarū wa-ghfir lanā Rabbanā innaka anta l-ʿazīzu l-ḥakīm*" trad="Seigneur, ne fais pas de nous une fitna pour ceux qui refusent, et pardonne-nous — Seigneur, Tu es *al-ʿazīzu l-ḥakīm*." %}
 </div>
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -122,8 +124,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Ḥashr · 59:10" ar="رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ" trl="*Rabbanā ghfir lanā wa-li-ikhwāninā lladhīna sabaqūnā bi-l-īmān · wa-lā tajʿal fī qulūbinā ghillan lilladhīna āmanū · Rabbanā innaka raʾūfun raḥīm*" trad="Seigneur, pardonne-nous et pardonne à nos frères qui nous ont précédés dans la foi, et ne mets pas dans nos poitrines de rancœur envers ceux qui ont cru — Seigneur, Tu es plein de bienveillance et de miséricorde." %}
 
 {% include verset.html ref="Sourate Nūḥ · 71:28" ar="رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ" trl="*Rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytī muʾminan wa-li-l-muʾminīna wa-l-muʾmināt*" trad="Seigneur, pardonne-moi, pardonne à mes parents, à quiconque est entré dans ma demeure en croyant, aux croyants et aux croyantes." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -132,8 +135,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Kahf · 18:10" ar="رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا" trl="*Rabbanā ātinā min ladunka raḥmatan wa-hayyi lanā min amrinā rashadā*" trad="Seigneur, accorde-nous de Ta part une miséricorde et dispose pour nous dans notre affaire une droite conduite." %}
 
 {% include verset.html ref="Sourate Al-Qaṣaṣ · 28:24" ar="رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ" trl="*Rabbi innī limā anzalta ilayya min khayrin faqīr*" trad="Seigneur, je suis dans le besoin de tout bien que Tu fais descendre vers moi." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -148,16 +152,18 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Āl ʿImrān · 3:193" ar="رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا ۚ رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ" trl="*Rabbanā innanā samiʿnā munādiyān yunādī li-l-īmān · fa-āmannā · Rabbanā fa-ghfir lanā dhunūbanā wa-kaffir ʿannā sayyiʾātinā wa-tawaffanā maʿa l-abrār*" trad="Seigneur, nous avons entendu un appelant qui appelait à croire — et nous avons cru. Pardonne-nous nos fautes, efface nos méfaits, et fais-nous partir avec les hommes de bien." %}
 {% include verset.html ref="Sourate Āl ʿImrān · 3:194" ar="رَبَّنَا وَآتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ ۗ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ" trl="*Rabbanā wa-ātinā mā waʿadtanā ʿalā rusulika wa-lā tukhzinā yawma l-qiyāmati · innaka lā tukhlif al-mīʿād*" trad="Seigneur, donne-nous ce que Tu nous as promis par Tes messagers, et ne nous couvre pas de honte au Jour de la résurrection — Tu ne manques pas à ce qui est promis." %}
 </div>
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
 ## <span id="theme-5">Thème 5 · Connaissance · الْعِلْمُ</span>
 
 {% include verset.html ref="Sourate Ṭāhā · 20:114" ar="رَّبِّ زِدْنِي عِلْمًا" trl="*Rabbi zidnī ʿilmā*" trad="Seigneur, accroîs-moi en connaissance." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -174,8 +180,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Āl ʿImrān · 3:38" ar="رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ" trl="*Rabbi hab lī min ladunka dhurriyyatan ṭayyibatan innaka samīʿu d-duʿāʾ*" trad="Seigneur, accorde-moi de Ta part une descendance pure — Tu es en effet l'Entendant du duʿāʾ." %}
 
 {% include verset.html ref="Sourate Al-Anbiyāʾ · 21:89" ar="رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ" trl="*Rabbi lā tadharni fardan wa-anta khayru l-wārithīn*" trad="Seigneur, ne me laisse pas seul — Tu es le meilleur des héritiers." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -184,8 +191,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Ijāba · 2:250" ar="رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ" trl="*Rabbanā afrigh ʿalaynā ṣabran wa-thabbit aqdāmanā wa-nṣurnā ʿalā l-qawmi l-kāfirīn*" trad="Seigneur, déverse sur nous la patience, affermis nos pas et donne-nous la victoire sur le peuple des kāfirūn." %}
 
 {% include verset.html ref="Sourate Al-Aʿrāf · 7:126" ar="رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ" trl="*Rabbanā afrigh ʿalaynā ṣabran wa-tawaffanā muslimīn*" trad="Seigneur, déverse sur nous la patience, et prends-nous en soumis." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -199,8 +207,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Isrāʾ · 17:80" ar="رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا" trl="*Rabbi adkhilnī mudkhala ṣidqin wa-akhrijnī mukhraja ṣidqin wa-jʿal lī min ladunka sulṭānan naṣīrā*" trad="Seigneur, fais-moi entrer d'une entrée vraie et sortir d'une sortie vraie, et donne-moi de Ta part une autorité secourable." %}
 
 {% include verset.html ref="Sourate Al-Muʾminūn · 23:29" ar="رَبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ" trl="*Rabbi anzilnī munzalan mubārakan wa-anta khayru l-munzilīn*" trad="Seigneur, fais-moi descendre dans un établissement béni — Tu es le meilleur de ceux qui font descendre." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -227,8 +236,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Nās · 114:5" ar="ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ" trl="*Alladhī yuwaswisu fī ṣudūri n-nās*" trad="Celui qui insinue ses murmures dans les poitrines des humains." %}
 {% include verset.html ref="Sourate Al-Nās · 114:6" ar="مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ" trl="*Mina l-jinnati wa-n-nās*" trad="Qu'il soit d'entre les jinn ou d'entre les humains." %}
 </div>
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -237,16 +247,18 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Naml · 27:19" ar="رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ" trl="*Rabbi awziʿnī an ashkura niʿmataka llatī anʿamta ʿalayya wa-ʿalā wālidayya · wa-an aʿmala ṣāliḥan tarḍāhu · wa-adkhilnī bi-raḥmatika fī ʿibādika ṣ-ṣāliḥīn*" trad="Seigneur, inspire-moi à être reconnaissant pour le bienfait que Tu m'as accordé et à mes parents, et à accomplir ce qui est juste et qui ne repousse pas de Toi, et fais-moi entrer par Ta miséricorde dans le nombre de Tes serviteurs hommes de bien." %}
 
 {% include verset.html ref="Sourate Al-Aḥqāf · 46:15" ar="رَبِّ أَوْزِعْنِي أَن أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي" trl="*Rabbi awziʿnī an ashkura niʿmataka llatī anʿamta ʿalayya wa-ʿalā wālidayya · wa-an aʿmala ṣāliḥan tarḍāhu wa-aṣliḥ lī fī dhurriyyatī*" trad="Seigneur, inspire-moi à être reconnaissant pour le bienfait que Tu m'as accordé à moi et à mes parents, et à accomplir ce qui est juste et qui ne repousse pas de Toi, et rends droite ma descendance en ma faveur." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
 ## <span id="theme-11">Thème 11 · Lumière · النُّورُ</span>
 
 {% include verset.html ref="Sourate Al-Taḥrīm · 66:8" ar="رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ" trl="*Rabbanā atmim lanā nūranā wa-ghfir lanā — innaka ʿalā kulli shayʾin qadīr*" trad="Seigneur, mène pour nous notre lumière à son plein accomplissement et pardonne-nous — Tu es sur toute chose en pleine capacité." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -265,8 +277,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Yūsuf · 12:101" ar="تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ" trl="*Tawaffanī musliman wa-alḥiqnī bi-ṣ-ṣāliḥīn*" trad="Prends-moi en soumis et fais-moi rejoindre les hommes de bien." %}
 
 {% include verset.html ref="Sourate Al-Anbiyāʾ · 21:89" ar="رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ" trl="*Rabbi lā tadharni fardan wa-anta khayru l-wārithīn*" trad="Seigneur, ne me laisse pas seul — Tu es le meilleur des héritiers." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -301,8 +314,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Muʾminūn · 23:26" ar="رَبِّ انصُرْنِي بِمَا كَذَّبُونِ" trl="*Rabbi nṣurnī bi-mā kadhdhabūn*" trad="Seigneur, donne-moi la victoire contre ce qu'ils ont démenti." %}
 
 {% include verset.html ref="Sourate Al-Muʾminūn · 23:39" ar="رَبِّ انصُرْنِي بِمَا كَذَّبُونِ" trl="*Rabbi nṣurnī bi-mā kadhdhabūn*" trad="Seigneur, donne-moi la victoire contre ce qu'ils ont démenti." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -311,8 +325,9 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Ibrāhīm · 14:35" ar="رَبِّ اجْعَلْ هَٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَن نَّعْبُدَ الْأَصْنَامَ" trl="*Rabbi jʿal hādhā l-balada āminan wa-jnubnī wa-baniyya an naʿbuda l-aṣnām*" trad="Seigneur, rends ce lieu sûr, et préserve-moi, moi et mes fils, de servir les aṣnām." %}
 
 {% include verset.html ref="Sourate Al-Ijāba · 2:126" ar="رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ" trl="*Rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāt*" trad="Seigneur, fais de ce lieu un lieu sûr et pourvois ses habitants en fruits." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
+
+<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 ---
 
@@ -321,7 +336,6 @@ methode: "Dit / Non-dit / Inférence"
 {% include verset.html ref="Sourate Al-Qaṣaṣ · 28:21" ar="رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ" trl="*Rabbi najjinī mina l-qawmi ẓ-ẓālimīn*" trad="Seigneur, sauve-moi du peuple des injustes." %}
 
 {% include verset.html ref="Sourate Yūnus · 10:86" ar="وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ" trl="*Wa-najjinā bi-raḥmatika mina l-qawmi l-kāfirīn*" trad="Et sauve-nous par Ta miséricorde du peuple des kāfirūn." %}
-<div class="duaa-back-top"><a href="#top-nav" class="duaa-back-top__btn">↑ Retour au menu</a></div>
 
 
 ---
