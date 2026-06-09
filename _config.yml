@@ -83,7 +83,7 @@ nav_sidebar:
         ar: "مَفَاهِيم"
   - group: "Le Coran"
     items:
-      - title: "Traduction du Coran"
+      - title: "Traduction Linguistique du Coran"
         url: "/traduction/"
         ar: "التَّرْجَمَة"
       - title: "Comprendre avant de memoriser"
