@@ -68,6 +68,9 @@ permalink: /etudes/
 
   <script>
   var etudesData = {
+    "livre-allah": [
+      {slug:'livre-allah-humains',title:"Le Livre d'Allaah face aux Livres des Humains"}
+    ],
     nabuwwa: [
       {slug:'abandon-coran',title:"L'abandon du Coran"},
       {slug:'khatam-nabiyyin',title:"Khātam al-nabiyyīn"},
