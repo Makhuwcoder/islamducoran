@@ -224,19 +224,20 @@ permalink: /traduction/
 ═══════════════════════════════════════════ */
 .trad-back {
   display: inline-block;
-  margin: 1.8rem 0 0;
+  margin: 2rem 0 0;
   font-family: var(--font-titre, 'Cinzel', serif);
-  font-size: .58rem;
-  letter-spacing: .1em;
+  font-size: .65rem;
+  letter-spacing: .12em;
   text-transform: uppercase;
-  color: var(--or3, #8a6a2a);
+  color: var(--bg2, #16130e);
+  background: var(--or3, #8a6a2a);
   text-decoration: none;
-  border: 1px solid var(--bg5, #3a3020);
-  border-radius: 3px;
-  padding: .3rem .75rem;
-  transition: color .15s, border-color .15s;
+  border: none;
+  border-radius: 4px;
+  padding: .55rem 1.2rem;
+  transition: background .15s;
 }
-.trad-back:hover { color: var(--or2, #c9a84c); border-color: var(--or3, #8a6a2a); }
+.trad-back:hover { background: var(--or2, #c9a84c); color: var(--bg2, #16130e); }
 
 /* ═══════════════════════════════════════════
    PROGRESSION CHANTIER
