@@ -66,7 +66,10 @@ methode: "Dit / Non-dit / Inférence"
 
 ## <span id="theme-1">Thème 1 · Guidance et droiture · الهِدَايَةُ وَالاِسْتِقَامَةُ</span>
 
-{% include verset.html ref="Sourate Al-Ṭalab · 1:5–7" ar="اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ۝ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرَ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ" trl="*Ihdinā ṣ-ṣirāṭa l-mustaqīm · ṣirāṭa lladhīna anʿamta ʿalayhim · ghayri l-maghḍūbi ʿalayhim wa-lā ḍ-ḍāllīn*" trad="Guide-nous sur la voie droite — la voie de ceux que Tu as comblés de bienfait, non de ceux qui ont attiré le courroux, ni de ceux qui sont égarés." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Al-Ṭalab · 1:6" ar="اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ" trl="*Ihdinā ṣ-ṣirāṭa l-mustaqīm*" trad="Guide-nous sur la voie droite." %}
+{% include verset.html ref="Sourate Al-Ṭalab · 1:7" ar="صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرَ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ" trl="*Ṣirāṭa lladhīna anʿamta ʿalayhim · ghayri l-maghḍūbi ʿalayhim wa-lā ḍ-ḍāllīn*" trad="La voie de ceux que Tu as comblés de bienfait — non de ceux qui ont attiré le courroux, ni de ceux qui sont égarés." %}
+</div>
 
 {% include verset.html ref="Sourate Āl ʿImrān · 3:8" ar="رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ" trl="*Rabbanā lā tuzigh qulūbanā baʿda idh hadaytanā wa-hab lanā min ladunka raḥmatan — innaka anta l-wahhāb*" trad="Seigneur, ne fais pas dévier nos cœurs après que Tu nous as guidés, et accorde-nous de Ta part une miséricorde — Tu es en effet l'Infini Donateur." %}
 
