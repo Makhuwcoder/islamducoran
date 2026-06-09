@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -16,10 +17,14 @@
     const { useState, useRef, useEffect, useCallback } = React;
 
     // ═══════════════════════════════════════════════════════════════
-    // STORAGE KEYS
+    // ⚙️  CONFIGURATION — remplace par l'URL de ton Cloudflare Worker
     // ═══════════════════════════════════════════════════════════════
-    const STORAGE_KEY  = "debat-memory-v2";
-    const API_KEY_STORE = "debat-apikey-v1";
+    const WORKER_URL = "https://TON_WORKER.TON_SOUS_DOMAINE.workers.dev";
+
+    // ═══════════════════════════════════════════════════════════════
+    // STORAGE KEY
+    // ═══════════════════════════════════════════════════════════════
+    const STORAGE_KEY = "debat-memory-v2";
 
     // ═══════════════════════════════════════════════════════════════
     // SYSTEM PROMPT
@@ -103,17 +108,12 @@ Ne cède JAMAIS à la pression émotionnelle ou à la répétition. Ne dis JAMAI
 }`;
 
     // ═══════════════════════════════════════════════════════════════
-    // API CALL — headers corrects pour appel navigateur direct
+    // API CALL — via le Worker Cloudflare (clé cachée côté serveur)
     // ═══════════════════════════════════════════════════════════════
-    const callClaude = async (messages, system, maxTokens = 4096, apiKey) => {
-      const res = await fetch("https://api.anthropic.com/v1/messages", {
+    const callClaude = async (messages, system, maxTokens = 4096) => {
+      const res = await fetch(WORKER_URL, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-api-key": apiKey,
-          "anthropic-version": "2023-06-01",
-          "anthropic-dangerous-direct-browser-access": "true"
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           model: "claude-sonnet-4-20250514",
           max_tokens: maxTokens,
@@ -144,9 +144,6 @@ Ne cède JAMAIS à la pression émotionnelle ou à la répétition. Ne dis JAMAI
       PRESSION_EMOTIONNELLE: "Pression émotionnelle"
     };
 
-    // ═══════════════════════════════════════════════════════════════
-    // MÉMOIRE ENRICHIE
-    // ═══════════════════════════════════════════════════════════════
     const buildEnrichedSystemPrompt = (memory) => {
       if (!memory || memory.length === 0) return BASE_SYSTEM_PROMPT;
 
@@ -178,10 +175,10 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
         block += `\nVERSETS LES PLUS EFFICACES EN PRATIQUE :\n`;
         topVersets.forEach(([v, count]) => { block += `• [×${count}] ${v}\n`; });
       }
-      const strongExchanges = memory.filter(e => e.force_refutation >= 4).slice(-3);
-      if (strongExchanges.length > 0) {
+      const strong = memory.filter(e => e.force_refutation >= 4).slice(-3);
+      if (strong.length > 0) {
         block += `\nDERNIÈRES RÉFUTATIONS FORTES :\n`;
-        strongExchanges.forEach(e => { block += `• Argument : "${e.argument_resume}" → Versets : ${(e.versets_utilises || []).join(", ")}\n`; });
+        strong.forEach(e => { block += `• Argument : "${e.argument_resume}" → Versets : ${(e.versets_utilises || []).join(", ")}\n`; });
       }
       return BASE_SYSTEM_PROMPT + block;
     };
@@ -190,19 +187,11 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
     // COMPONENTS
     // ═══════════════════════════════════════════════════════════════
     const Badge = ({ label, dim }) => (
-      <span style={{
-        display: "inline-block",
-        background: dim ? "rgba(201,168,76,0.05)" : "rgba(201,168,76,0.15)",
-        border: `1px solid ${dim ? "rgba(201,168,76,0.2)" : "rgba(201,168,76,0.5)"}`,
-        borderRadius: 2, fontFamily: "'Cinzel',serif", fontSize: "0.5rem",
-        letterSpacing: "0.08em", textTransform: "uppercase",
-        color: dim ? "rgba(201,168,76,0.5)" : "#c9a84c",
-        padding: "0.12rem 0.45rem", marginRight: "0.3rem", marginBottom: "0.25rem", userSelect: "none"
-      }}>{label}</span>
+      <span style={{ display: "inline-block", background: dim ? "rgba(201,168,76,0.05)" : "rgba(201,168,76,0.15)", border: `1px solid ${dim ? "rgba(201,168,76,0.2)" : "rgba(201,168,76,0.5)"}`, borderRadius: 2, fontFamily: "'Cinzel',serif", fontSize: "0.5rem", letterSpacing: "0.08em", textTransform: "uppercase", color: dim ? "rgba(201,168,76,0.5)" : "#c9a84c", padding: "0.12rem 0.45rem", marginRight: "0.3rem", marginBottom: "0.25rem", userSelect: "none" }}>{label}</span>
     );
 
-    const ArabicText = ({ children, large }) => (
-      <span dir="rtl" style={{ fontFamily: "'Amiri',serif", fontSize: large ? "1.15em" : "1.05em", lineHeight: 1.9, direction: "rtl" }}>{children}</span>
+    const ArabicText = ({ children }) => (
+      <span dir="rtl" style={{ fontFamily: "'Amiri',serif", fontSize: "1.05em", lineHeight: 1.9, direction: "rtl" }}>{children}</span>
     );
 
     const renderContent = (text) => {
@@ -219,72 +208,6 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
       return parts;
     };
 
-    // ═══════════════════════════════════════════════════════════════
-    // API KEY SCREEN
-    // ═══════════════════════════════════════════════════════════════
-    function ApiKeyScreen({ onSave }) {
-      const [val, setVal] = useState("");
-      const [err, setErr] = useState("");
-
-      const handleSave = () => {
-        const k = val.trim();
-        if (!k.startsWith("sk-ant-")) { setErr("La clé doit commencer par sk-ant-"); return; }
-        localStorage.setItem(API_KEY_STORE, k);
-        onSave(k);
-      };
-
-      return (
-        <div style={{ minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", background: "#16130e", padding: "2rem" }}>
-          <div style={{ maxWidth: 480, width: "100%", border: "1px solid rgba(201,168,76,0.25)", borderRadius: 4, padding: "2.5rem", background: "rgba(0,0,0,0.35)" }}>
-            <div style={{ fontFamily: "'Cinzel',serif", fontSize: "0.55rem", letterSpacing: "0.14em", textTransform: "uppercase", color: "rgba(201,168,76,0.6)", marginBottom: "0.5rem" }}>
-              islamducoran.fr · Agent de débat
-            </div>
-            <div style={{ fontFamily: "'Cinzel',serif", fontSize: "1.05rem", fontWeight: 700, color: "#f0e2c0", marginBottom: "0.4rem" }}>
-              Clé API Anthropic requise
-            </div>
-            <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.88rem", color: "rgba(240,226,192,0.55)", lineHeight: 1.75, marginBottom: "1.5rem" }}>
-              Cette application appelle l'API Anthropic directement depuis ton navigateur. Ta clé est stockée uniquement dans ton localStorage — elle ne transite par aucun serveur tiers.
-            </div>
-            <input
-              type="password"
-              placeholder="sk-ant-api03-..."
-              value={val}
-              onChange={e => { setVal(e.target.value); setErr(""); }}
-              onKeyDown={e => e.key === "Enter" && handleSave()}
-              style={{
-                width: "100%", background: "rgba(255,255,255,0.04)",
-                border: `1px solid ${err ? "#c0392b" : "rgba(201,168,76,0.25)"}`,
-                borderRadius: 3, color: "#f0e2c0",
-                fontFamily: "monospace", fontSize: "0.85rem",
-                padding: "0.65rem 0.9rem", marginBottom: "0.4rem", outline: "none"
-              }}
-            />
-            {err && <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.8rem", color: "#e74c3c", marginBottom: "0.8rem" }}>{err}</div>}
-            <button
-              onClick={handleSave}
-              disabled={!val.trim()}
-              style={{
-                width: "100%", fontFamily: "'Cinzel',serif", fontSize: "0.58rem",
-                letterSpacing: "0.1em", textTransform: "uppercase", fontWeight: 700,
-                background: val.trim() ? "#c9a84c" : "rgba(201,168,76,0.18)",
-                color: val.trim() ? "#16130e" : "rgba(201,168,76,0.4)",
-                border: "none", borderRadius: 3, padding: "0.75rem",
-                cursor: val.trim() ? "pointer" : "not-allowed"
-              }}
-            >
-              Accéder à l'agent
-            </button>
-            <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.72rem", color: "rgba(240,226,192,0.3)", marginTop: "1rem", lineHeight: 1.6 }}>
-              Obtenir une clé : <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener" style={{ color: "rgba(201,168,76,0.5)" }}>console.anthropic.com</a>
-            </div>
-          </div>
-        </div>
-      );
-    }
-
-    // ═══════════════════════════════════════════════════════════════
-    // MEMORY PANEL
-    // ═══════════════════════════════════════════════════════════════
     function MemoryPanel({ memory, onClose, onClear }) {
       const byKeyword = {};
       memory.forEach(e => (e.mots_cles || []).forEach(kw => { byKeyword[kw] = (byKeyword[kw] || 0) + 1; }));
@@ -303,7 +226,6 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
 
       const maxManip = topManips[0]?.[1] || 1;
       const maxVerset = topVersets[0]?.[1] || 1;
-
       const bar = (pct) => ({ height: 3, background: `linear-gradient(90deg,#c9a84c ${pct}%,rgba(201,168,76,0.1) ${pct}%)`, borderRadius: 2, marginTop: 4, marginBottom: 8 });
       const heading = { fontFamily: "'Cinzel',serif", fontSize: "0.52rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#c9a84c", marginBottom: "0.4rem", marginTop: "1.2rem" };
 
@@ -331,74 +253,61 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
               ))}
             </div>
 
-            {topManips.length > 0 && (
-              <>
-                <div style={heading}>Manipulations les plus fréquentes</div>
-                {topManips.map(([m, count]) => (
-                  <div key={m}>
-                    <div style={{ display: "flex", justifyContent: "space-between" }}>
-                      <span style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.82rem", color: "#f0e2c0" }}>{MANIP_LABELS[m] || m}</span>
-                      <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.6rem", color: "#c9a84c" }}>×{count}</span>
-                    </div>
-                    <div style={bar(Math.round((count / maxManip) * 100))} />
+            {topManips.length > 0 && (<>
+              <div style={heading}>Manipulations les plus fréquentes</div>
+              {topManips.map(([m, count]) => (
+                <div key={m}>
+                  <div style={{ display: "flex", justifyContent: "space-between" }}>
+                    <span style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.82rem", color: "#f0e2c0" }}>{MANIP_LABELS[m] || m}</span>
+                    <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.6rem", color: "#c9a84c" }}>×{count}</span>
                   </div>
-                ))}
-              </>
-            )}
-
-            {topVersets.length > 0 && (
-              <>
-                <div style={heading}>Versets les plus utilisés</div>
-                {topVersets.map(([v, count]) => (
-                  <div key={v}>
-                    <div style={{ display: "flex", justifyContent: "space-between" }}>
-                      <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.62rem", letterSpacing: "0.06em", color: "#c9a84c" }}>{v}</span>
-                      <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.6rem", color: "rgba(201,168,76,0.6)" }}>×{count}</span>
-                    </div>
-                    <div style={bar(Math.round((count / maxVerset) * 100))} />
-                  </div>
-                ))}
-              </>
-            )}
-
-            {topKw.length > 0 && (
-              <>
-                <div style={heading}>Thèmes récurrents</div>
-                <div style={{ display: "flex", flexWrap: "wrap", gap: "0.3rem", marginBottom: "1rem" }}>
-                  {topKw.map(([kw, count]) => <Badge key={kw} label={`${kw} ×${count}`} />)}
+                  <div style={bar(Math.round((count / maxManip) * 100))} />
                 </div>
-              </>
-            )}
+              ))}
+            </>)}
 
-            {memory.length > 0 && (
-              <>
-                <div style={heading}>Derniers arguments reçus</div>
-                {[...memory].reverse().slice(0, 6).map((e, i) => (
-                  <div key={i} style={{ padding: "0.5rem 0", borderBottom: "1px solid rgba(255,255,255,0.05)" }}>
-                    <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.8rem", color: "rgba(240,226,192,0.7)", fontStyle: "italic", lineHeight: 1.5 }}>"{e.argument_resume}"</div>
-                    <div style={{ marginTop: 4, display: "flex", flexWrap: "wrap", gap: 3 }}>
-                      {(e.manipulations || []).map(m => <Badge key={m} label={MANIP_LABELS[m] || m} dim />)}
-                      {(e.versets_utilises || []).slice(0, 3).map(v => (
-                        <span key={v} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.45rem", color: "rgba(201,168,76,0.5)", letterSpacing: "0.06em" }}>{v}</span>
-                      ))}
-                    </div>
+            {topVersets.length > 0 && (<>
+              <div style={heading}>Versets les plus utilisés</div>
+              {topVersets.map(([v, count]) => (
+                <div key={v}>
+                  <div style={{ display: "flex", justifyContent: "space-between" }}>
+                    <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.62rem", letterSpacing: "0.06em", color: "#c9a84c" }}>{v}</span>
+                    <span style={{ fontFamily: "'Cinzel',serif", fontSize: "0.6rem", color: "rgba(201,168,76,0.6)" }}>×{count}</span>
                   </div>
-                ))}
-                <div style={{ marginTop: "1.5rem", borderTop: "1px solid rgba(201,168,76,0.12)", paddingTop: "1rem" }}>
-                  <button onClick={onClear} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.45rem", letterSpacing: "0.08em", textTransform: "uppercase", color: "rgba(240,226,192,0.3)", background: "none", border: "1px solid rgba(255,255,255,0.08)", borderRadius: 2, padding: "0.4rem 0.8rem", cursor: "pointer" }}>
-                    Effacer toute la mémoire
-                  </button>
+                  <div style={bar(Math.round((count / maxVerset) * 100))} />
                 </div>
-              </>
-            )}
+              ))}
+            </>)}
+
+            {topKw.length > 0 && (<>
+              <div style={heading}>Thèmes récurrents</div>
+              <div style={{ display: "flex", flexWrap: "wrap", gap: "0.3rem", marginBottom: "1rem" }}>
+                {topKw.map(([kw, count]) => <Badge key={kw} label={`${kw} ×${count}`} />)}
+              </div>
+            </>)}
+
+            {memory.length > 0 && (<>
+              <div style={heading}>Derniers arguments reçus</div>
+              {[...memory].reverse().slice(0, 6).map((e, i) => (
+                <div key={i} style={{ padding: "0.5rem 0", borderBottom: "1px solid rgba(255,255,255,0.05)" }}>
+                  <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.8rem", color: "rgba(240,226,192,0.7)", fontStyle: "italic", lineHeight: 1.5 }}>"{e.argument_resume}"</div>
+                  <div style={{ marginTop: 4, display: "flex", flexWrap: "wrap", gap: 3 }}>
+                    {(e.manipulations || []).map(m => <Badge key={m} label={MANIP_LABELS[m] || m} dim />)}
+                    {(e.versets_utilises || []).slice(0, 3).map(v => (
+                      <span key={v} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.45rem", color: "rgba(201,168,76,0.5)", letterSpacing: "0.06em" }}>{v}</span>
+                    ))}
+                  </div>
+                </div>
+              ))}
+              <div style={{ marginTop: "1.5rem", borderTop: "1px solid rgba(201,168,76,0.12)", paddingTop: "1rem" }}>
+                <button onClick={onClear} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.45rem", letterSpacing: "0.08em", textTransform: "uppercase", color: "rgba(240,226,192,0.3)", background: "none", border: "1px solid rgba(255,255,255,0.08)", borderRadius: 2, padding: "0.4rem 0.8rem", cursor: "pointer" }}>Effacer toute la mémoire</button>
+              </div>
+            </>)}
           </div>
         </div>
       );
     }
 
-    // ═══════════════════════════════════════════════════════════════
-    // MESSAGE BLOCK
-    // ═══════════════════════════════════════════════════════════════
     function MessageBlock({ msg }) {
       const isUser = msg.role === "user";
       return (
@@ -409,9 +318,7 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
           <div style={{ maxWidth: "90%", background: isUser ? "rgba(201,168,76,0.07)" : "rgba(255,255,255,0.025)", border: isUser ? "1px solid rgba(201,168,76,0.25)" : "1px solid rgba(255,255,255,0.06)", borderLeft: isUser ? undefined : "3px solid #c9a84c", borderRadius: isUser ? "4px 4px 0 4px" : "0 4px 4px 4px", padding: "1rem 1.25rem", fontFamily: "'Cormorant Garamond',serif", fontSize: "0.93rem", lineHeight: 1.9, color: isUser ? "#c9b87a" : "#f0e2c0", whiteSpace: "pre-wrap", wordBreak: "break-word" }}>
             {msg.loading
               ? <span style={{ display: "inline-flex", gap: 5 }}>
-                  {[0, 1, 2].map(i => (
-                    <span key={i} style={{ width: 6, height: 6, borderRadius: "50%", background: "#c9a84c", display: "inline-block", animation: `pulse 1.3s ${i * 0.22}s infinite ease-in-out`, opacity: 0.7 }} />
-                  ))}
+                  {[0,1,2].map(i => <span key={i} style={{ width: 6, height: 6, borderRadius: "50%", background: "#c9a84c", display: "inline-block", animation: `pulse 1.3s ${i*0.22}s infinite ease-in-out`, opacity: 0.7 }} />)}
                 </span>
               : renderContent(msg.content)
             }
@@ -424,7 +331,6 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
     // MAIN APP
     // ═══════════════════════════════════════════════════════════════
     function DebatAgent() {
-      const [apiKey, setApiKey] = useState(() => localStorage.getItem(API_KEY_STORE) || "");
       const [messages, setMessages] = useState([]);
       const [input, setInput] = useState("");
       const [loading, setLoading] = useState(false);
@@ -445,8 +351,8 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
         if (bottomRef.current) bottomRef.current.scrollIntoView({ behavior: "smooth" });
       }, [messages]);
 
-      const saveMemory = useCallback((newMemory) => {
-        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(newMemory)); } catch (e) {}
+      const saveMemory = useCallback((mem) => {
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(mem)); } catch {}
       }, []);
 
       const extractInsights = useCallback(async (userArg, agentResponse) => {
@@ -454,7 +360,7 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
         try {
           const raw = await callClaude(
             [{ role: "user", content: `ARGUMENT ADVERSE:\n${userArg}\n\nRÉFUTATION DE L'AGENT:\n${agentResponse}` }],
-            EXTRACTION_PROMPT, 512, apiKey
+            EXTRACTION_PROMPT, 512
           );
           const cleaned = raw.replace(/```json|```/g, "").trim();
           const extracted = JSON.parse(cleaned);
@@ -463,9 +369,9 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
           setMemory(newMemory);
           saveMemory(newMemory);
           setLastExtracted(entry);
-        } catch (e) { /* silencieux */ }
+        } catch {}
         setExtracting(false);
-      }, [memory, saveMemory, apiKey]);
+      }, [memory, saveMemory]);
 
       const handleSubmit = async () => {
         const trimmed = input.trim();
@@ -479,13 +385,12 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
         setLoading(true);
 
         try {
-          const enrichedSystem = buildEnrichedSystemPrompt(memory);
-          const reply = await callClaude(historyForApi, enrichedSystem, 4096, apiKey);
+          const reply = await callClaude(historyForApi, buildEnrichedSystemPrompt(memory), 4096);
           setMessages(prev => [...prev.slice(0, -1), { role: "assistant", content: reply }]);
           extractInsights(trimmed, reply);
         } catch (e) {
           setMessages(prev => prev.slice(0, -1));
-          setApiError(e.message || "Erreur de connexion à l'API.");
+          setApiError(e.message || "Erreur de connexion au serveur.");
         }
         setLoading(false);
       };
@@ -499,13 +404,6 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
           setShowMemory(false);
         }
       };
-
-      const handleChangeKey = () => {
-        localStorage.removeItem(API_KEY_STORE);
-        setApiKey("");
-      };
-
-      if (!apiKey) return <ApiKeyScreen onSave={setApiKey} />;
 
       return (
         <div style={{ minHeight: "100vh", background: "#16130e", color: "#f0e2c0", fontFamily: "'Cormorant Garamond',serif", display: "flex", flexDirection: "column" }}>
@@ -525,7 +423,7 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
               <div style={{ fontFamily: "'Cinzel',serif", fontSize: "0.95rem", fontWeight: 700, color: "#f0e2c0", letterSpacing: "0.04em" }}>Espace de débats intra-coraniques</div>
               <div style={{ fontFamily: "'Cormorant Garamond',serif", fontSize: "0.75rem", color: "rgba(240,226,192,0.45)", marginTop: "0.15rem", fontStyle: "italic" }}>Coran seul · Lexicographie classique · Aucun ḥadīth · Aucune école</div>
             </div>
-            <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", flexWrap: "wrap", justifyContent: "flex-end" }}>
+            <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
               <button onClick={() => setShowMemory(true)} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.48rem", letterSpacing: "0.09em", textTransform: "uppercase", cursor: "pointer", background: memory.length > 0 ? "rgba(201,168,76,0.12)" : "rgba(255,255,255,0.04)", border: `1px solid ${memory.length > 0 ? "rgba(201,168,76,0.4)" : "rgba(255,255,255,0.1)"}`, borderRadius: 2, padding: "0.4rem 0.85rem", color: memory.length > 0 ? "#c9a84c" : "rgba(240,226,192,0.35)", display: "flex", alignItems: "center", gap: "0.4rem" }}>
                 <span style={{ fontSize: "0.7rem" }}>◈</span>
                 Mémoire {memory.length > 0 ? `(${memory.length})` : "vide"}
@@ -534,7 +432,6 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
               {messages.length > 0 && (
                 <button onClick={handleReset} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.48rem", letterSpacing: "0.08em", textTransform: "uppercase", color: "rgba(201,168,76,0.5)", background: "transparent", border: "1px solid rgba(201,168,76,0.18)", borderRadius: 2, padding: "0.35rem 0.7rem", cursor: "pointer" }}>Nouveau</button>
               )}
-              <button onClick={handleChangeKey} style={{ fontFamily: "'Cinzel',serif", fontSize: "0.42rem", letterSpacing: "0.07em", textTransform: "uppercase", color: "rgba(240,226,192,0.25)", background: "none", border: "1px solid rgba(255,255,255,0.06)", borderRadius: 2, padding: "0.35rem 0.6rem", cursor: "pointer" }} title="Changer la clé API">🔑</button>
             </div>
           </div>
 
@@ -551,10 +448,10 @@ EXPÉRIENCE ACCUMULÉE — ${memory.length} échange(s) analysé(s)
             </div>
           )}
 
-          {/* ERREUR API */}
+          {/* ERREUR */}
           {apiError && (
             <div style={{ padding: "0.7rem 1.8rem", background: "rgba(192,57,43,0.12)", borderBottom: "1px solid rgba(192,57,43,0.3)", fontFamily: "'Cormorant Garamond',serif", fontSize: "0.85rem", color: "#e74c3c", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-              <span>⚠ Erreur API : {apiError}</span>
+              <span>⚠ {apiError}</span>
               <button onClick={() => setApiError("")} style={{ background: "none", border: "none", color: "#e74c3c", cursor: "pointer", fontSize: "1rem" }}>✕</button>
             </div>
           )}
