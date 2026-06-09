@@ -113,7 +113,12 @@ permalink: /etudes/
       {slug:'ulu-albab',title:"Ulū l-albāb — Le noyau d'intelligence"},
       {slug:'naskh',title:"Al-Naskh — L'abrogation"},
       {slug:'traduction-intraduisible',title:"Le Coran est-il intraduisible ?"},
-      {slug:'qiraaat-recitations',title:"Les récitations — Al-Qirāʾāt"}
+      {slug:'qiraaat-recitations',title:"Les récitations — Al-Qirāʾāt"},
+      {slug:'ilm-ulama',title:"Al-ʿIlm — La saisie certaine du réel"}
+    ],
+    "universalite": [
+      {slug:'universite-islam-culture-arabe',title:"Islam universel VS Culture arabe"},
+      {slug:'universite-islam-afrocentrisme',title:"Islam universel VS Afro-centrisme"}
     ],
     societe: [
       {slug:'yatim',title:"Le Yatīm — L'Orphelin"},
