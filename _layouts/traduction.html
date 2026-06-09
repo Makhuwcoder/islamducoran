@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<article class="site-main">
+
+  <!-- ── BREADCRUMB ── -->
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <span class="breadcrumb__sep">›</span>
+    <a href="{{ '/traduction/' | relative_url }}">Traduction Linguistique</a>
+    {% if page.bloc %}
+    <span class="breadcrumb__sep">›</span>
+    <span class="breadcrumb__current">{{ page.bloc }}</span>
+    {% else %}
+    <span class="breadcrumb__sep">›</span>
+    <span class="breadcrumb__current">{{ page.title | truncate: 50 }}</span>
+    {% endif %}
+  </nav>
+
+  <!-- ── EN-TÊTE ── -->
+  <header class="page-header">
+    <div class="page-header__categorie">Traduction Linguistique du Coran</div>
+    {% if page.racine_ar %}
+    <div class="page-header__racine">{{ page.racine_ar }}</div>
+    {% endif %}
+    <h1 class="page-header__title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="page-header__subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+    <div class="page-header__meta">
+      <span class="tag">Arabe classique</span>
+      <span class="tag">Sans tafsīr · Sans ḥadīth</span>
+      <span class="tag">Dit / Non-dit / Inférence</span>
+    </div>
+  </header>
+
+  <!-- ── NAVIGATION INTERNE (si définie) ── -->
+  {% if page.toc %}
+  <nav class="toc" aria-label="Table des matières">
+    <div class="toc__title">Dans cette fiche</div>
+    {{ page.toc }}
+  </nav>
+  {% endif %}
+
+  <!-- ── CONTENU ── -->
+  <div class="etude-corps">
+    {{ content }}
+  </div>
+
+  <!-- ── NAVIGATION ENTRE FICHES ── -->
+  {% assign all_traductions = site.traductions | sort: "ordre" %}
+  {% assign current_ordre = page.ordre %}
+  {% assign prev_fiche = nil %}
+  {% assign next_fiche = nil %}
+  {% for fiche in all_traductions %}
+    {% if fiche.ordre == current_ordre | minus: 1 %}
+      {% assign prev_fiche = fiche %}
+    {% endif %}
+    {% if fiche.ordre == current_ordre | plus: 1 %}
+      {% assign next_fiche = fiche %}
+    {% endif %}
+  {% endfor %}
+
+  <nav class="etude-nav" aria-label="Navigation entre fiches">
+    {% if prev_fiche %}
+    <a class="etude-nav__item" href="{{ prev_fiche.url | relative_url }}">
+      <span class="etude-nav__label">← Fiche précédente</span>
+      <span class="etude-nav__titre">{{ prev_fiche.title }}</span>
+    </a>
+    {% else %}
+    <a class="etude-nav__item" href="{{ '/traduction/' | relative_url }}">
+      <span class="etude-nav__label">← Retour</span>
+      <span class="etude-nav__titre">Traduction Linguistique du Coran</span>
+    </a>
+    {% endif %}
+    {% if next_fiche %}
+    <a class="etude-nav__item etude-nav__item--next" href="{{ next_fiche.url | relative_url }}">
+      <span class="etude-nav__label">Fiche suivante →</span>
+      <span class="etude-nav__titre">{{ next_fiche.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+
+</article>
