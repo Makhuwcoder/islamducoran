@@ -2288,10 +2288,14 @@ tr:nth-child(even) td { background: var(--bg2); }
 
   &__label {
     font-family: 'Cinzel', serif;
-    font-size: .75rem;
+    font-size: .8rem;
     letter-spacing: .07em;
-    font-weight: 600;
-    color: #f0e2c0;
+    font-weight: 700;
+    color: #c9a84c;
+    background: rgba(201, 168, 76, 0.12);
+    border: 1px solid rgba(201, 168, 76, 0.5);
+    border-radius: 2px;
+    padding: .3rem .7rem;
     white-space: nowrap;
   }
 
