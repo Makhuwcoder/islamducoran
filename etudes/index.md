@@ -72,7 +72,12 @@ permalink: /etudes/
       {slug:'abandon-coran',title:"L'abandon du Coran"},
       {slug:'khatam-nabiyyin',title:"Khātam al-nabiyyīn"},
       {slug:'nabi-legislateur',title:"Le Nabī n'est pas législateur"},
-      {slug:'kitman-bayyan',title:"2:159–163 · Kitmān et bayān"}
+      {slug:'kitman-bayyan',title:"2:159–163 · Kitmān et bayān"},
+      {slug:'nabi-rasul',title:"Nabī et Rasūl"},
+      {slug:'nabi-muhammad-coran',title:"Le Nabī Muḥammad dans le Coran"},
+      {slug:'ummi-illettre',title:"Le nabī était-il illettré ? (ummī)"},
+      {slug:'salam-nabiyyun',title:"Le salām sur les nabiyyūn et mursilūn"},
+      {slug:'nabi-legislateur-v2',title:"Le Nabī n'est pas législateur (approfondi)"}
     ],
     calendrier: [
       {slug:'etat-lieux-calendaire',title:"État des lieux calendaire"},
@@ -132,7 +137,8 @@ permalink: /etudes/
       {slug:'amwat-ahyaa-barzakh',title:"Amwāt, Aḥyāʾ, Barzakh"},
       {slug:'heure-signes',title:"L'Heure et ses signes"},
       {slug:'sortir-du-feu',title:"Sortir du feu : Garantie ou invention ?"},
-      {slug:'shafaa',title:"La shafāʿa dans le Coran"}
+      {slug:'shafaa',title:"La shafāʿa dans le Coran"},
+      {slug:'protection-livre',title:"La protection selon le Livre"}
     ],
     approche: [
       {slug:'mediter-texte-langue',title:"Méditer le texte dans sa langue"},
