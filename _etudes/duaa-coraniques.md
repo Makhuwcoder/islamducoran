@@ -267,7 +267,10 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html ref="Sourate Al-Qaṣaṣ · 28:22" ar="عَسَىٰ رَبِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ" trl="*ʿAsā rabbī an yahdiyani sawāʾa s-sabīl*" trad="Peut-être mon Seigneur me guidera-t-il sur la voie droite." %}
 
-{% include verset.html ref="Sourate Yūnus · 10:85–86" ar="عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ۝ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ" trl="*ʿAlā llāhi tawakkalnā · Rabbanā lā tajʿalnā fitnatan li-l-qawmi ẓ-ẓālimīn · wa-najjinā bi-raḥmatika mina l-qawmi l-kāfirīn*" trad="En Allaah nous nous en remettons. Seigneur, ne fais pas de nous une fitna pour le peuple des injustes, et sauve-nous par Ta miséricorde du peuple des kāfirūn." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Yūnus · 10:85" ar="عَلَى اللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ" trl="*ʿAlā llāhi tawakkalnā · Rabbanā lā tajʿalnā fitnatan li-l-qawmi ẓ-ẓālimīn*" trad="En Allaah nous nous en remettons. Seigneur, ne fais pas de nous une fitna pour le peuple des injustes." %}
+{% include verset.html ref="Sourate Yūnus · 10:86" ar="وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ" trl="*Wa-najjinā bi-raḥmatika mina l-qawmi l-kāfirīn*" trad="Et sauve-nous par Ta miséricorde du peuple des kāfirūn." %}
+</div>
 
 {% include verset.html ref="Sourate Al-Muʾminūn · 23:26" ar="رَبِّ انصُرْنِي بِمَا كَذَّبُونِ" trl="*Rabbi nṣurnī bi-mā kadhdhabūn*" trad="Seigneur, donne-moi la victoire contre ce qu'ils ont démenti." %}
 
