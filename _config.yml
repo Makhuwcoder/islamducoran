@@ -95,6 +95,14 @@ nav_sidebar:
       - title: "Inventaire des du'a coraniques"
         url: "/etudes/duaa-coraniques/"
         ar: "الدُّعَاء الْقُرْآنِي"
+  - group: "Universalite du message"
+    items:
+      - title: "Islam universel VS Culture arabe"
+        url: "/etudes/universalite/"
+        ar: "الرِّسَالَةُ الْعَالَمِيَّةُ"
+      - title: "Islam universel VS Afro-centrisme"
+        url: "/etudes/universalite/"
+        ar: "الرِّسَالَةُ وَالْحَضَارَةُ"
   - group: "Etudes"
     items:
       - title: "Toutes les etudes"
