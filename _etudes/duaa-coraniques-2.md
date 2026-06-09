@@ -11,11 +11,24 @@ date: 2026-05-25
 methode: "Dit / Non-dit / Inférence"
 ---
 
+
+<div class="duaa-index-nav">
+  <label for="duaa2-theme-select" class="duaa-index-nav__label">Aller à une section :</label>
+  <select id="duaa2-theme-select" class="duaa-index-nav__select" onchange="if(this.value){location.hash=this.value}">
+    <option value="">— Choisir une section —</option>
+    <option value="ref-concret">Formules à référent concret requis</option>
+    <option value="theme-nabi">Thème 12 · Demandes propres aux nabī</option>
+    <option value="theme-iblis">Thème 13 · Demandes d'Iblīs et doléances des perdants</option>
+    <option value="theme-securite">Thème 14 · Sécurité des lieux et des communautés</option>
+    <option value="theme-delivrance">Thème 15 · Délivrance</option>
+  </select>
+</div>
+
 {% include callout.html type="warn" label="Document annexe" content="Cette étude est la suite directe de l'[Inventaire des Duʿāʾ Coraniques — I](/etudes/duaa-coraniques/). Elle couvre les sections 12 à 15 : formules à référent concret requis, demandes propres aux nabī, demandes d'Iblīs, doléances des perdants, sécurité et délivrance." %}
 
 ---
 
-## Formules à référent concret requis · صِيَغٌ تَسْتَلْزِمُ مَرْجِعًا وَاقِعِيًّا
+## <span id="ref-concret">Formules à référent concret requis · صِيَغٌ تَسْتَلْزِمُ مَرْجِعًا وَاقِعِيًّا</span>
 
 <div class="callout callout--warn">
   <span class="callout__label">Statut particulier</span>
@@ -35,7 +48,10 @@ methode: "Dit / Non-dit / Inférence"
 
 ### S.10:85–86 — Mūsā et son peuple face à Pharaon
 
-{% include verset.html ref="Sourate Yūnus · 10:85–86" ar="رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ ۝ وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ" trl="*Rabbanā lā tajʿalnā fitnatan li-l-qawmi ẓ-ẓālimīn · wa-najjinā bi-raḥmatika mina l-qawmi l-kāfirīn*" trad="Seigneur, ne fais pas de nous une fitna pour le peuple des injustes, et délivre-nous par Ta miséricorde du peuple des kāfirūn." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Yūnus · 10:85" ar="رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ الظَّالِمِينَ" trl="*Rabbanā lā tajʿalnā fitnatan li-l-qawmi ẓ-ẓālimīn*" trad="Seigneur, ne fais pas de nous une fitna pour le peuple des injustes." %}
+{% include verset.html ref="Sourate Yūnus · 10:86" ar="وَنَجِّنَا بِرَحْمَتِكَ مِنَ الْقَوْمِ الْكَافِرِينَ" trl="*Wa-najjinā bi-raḥmatika mina l-qawmi l-kāfirīn*" trad="Et délivre-nous par Ta miséricorde du peuple des kāfirūn." %}
+</div>
 
 ### S.12:33 — Yūsuf en situation de tentation
 
@@ -63,7 +79,7 @@ methode: "Dit / Non-dit / Inférence"
 
 ---
 
-## Thème 12 · Demandes propres aux nabī · طَلَبَاتٌ خَاصَّةٌ بِالأَنْبِيَاءِ
+## <span id="theme-nabi">Thème 12 · Demandes propres aux nabī · طَلَبَاتٌ خَاصَّةٌ بِالأَنْبِيَاءِ</span>
 
 <div class="callout callout--warn">
   <span class="callout__label">14 entrées — Contextes non transposables</span>
@@ -84,11 +100,19 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include callout.html type="nondit" label="Non transposable" content="Un don expressément demandé comme exclusif et sans successeur — non transposable par définition." %}
 
-{% include verset.html ref="Sourate Nūḥ · 71:26–28 — Nūḥ" ar="رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا ۝ إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا ۝ رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ" trl="*Rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyārā · innaka in tadhar-hum yuḍillū ʿibādaka wa-lā yalidū illā fājiran kaffārā · Rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytī muʾminan wa-li-l-muʾminīna wa-l-muʾmināt*" trad="Seigneur, ne laisse sur la terre aucun des kāfirūn — pas un seul… Seigneur, pardonne-moi, pardonne à mes parents, à quiconque est entré dans ma demeure en croyant, aux croyants et aux croyantes." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Nūḥ · 71:26" ar="رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا" trl="*Rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyārā*" trad="Seigneur, ne laisse sur la terre aucun des kāfirūn — pas un seul." %}
+{% include verset.html ref="Sourate Nūḥ · 71:27" ar="إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا" trl="*Innaka in tadhar-hum yuḍillū ʿibādaka wa-lā yalidū illā fājiran kaffārā*" trad="Car si Tu les laisses, ils égareront Tes serviteurs et n'engendreront que des pervers, des grands kāfirūn." %}
+{% include verset.html ref="Sourate Nūḥ · 71:28" ar="رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ" trl="*Rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytī muʾminan wa-li-l-muʾminīna wa-l-muʾmināt*" trad="Seigneur, pardonne-moi, pardonne à mes parents, à quiconque est entré dans ma demeure en croyant, aux croyants et aux croyantes." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable (71:26–27)" content="La première partie est l'aboutissement d'un mandat prophétique unique et épuisé après des siècles de mission. La seconde partie (71:28) figure dans l'inventaire général (Thème 2)." %}
 
-{% include verset.html ref="Sourate Ghāfir · 40:7–9 — Les malāʾika pour les croyants" ar="رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ ۝ رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم" trl="*Rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilmā fa-ghfir lilladhīna tābū wa-ttabaʿū sabīlaka wa-qihim ʿadhāba l-jaḥīm · Rabbanā wa-adkhilhum jannāti ʿadnin allatī waʿadtahum*" trad="Seigneur, Tu as embrassé toute chose de miséricorde et de connaissance — pardonne donc à ceux qui sont revenus et ont suivi Ta voie, et préserve-les du tourment de la Jaḥīm. Seigneur, fais-les entrer dans les jardins d'éternité que Tu leur as promis." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Ghāfir · 40:7" ar="رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ" trl="*Rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilmā · fa-ghfir lilladhīna tābū wa-ttabaʿū sabīlaka wa-qihim ʿadhāba l-jaḥīm*" trad="Seigneur, Tu as embrassé toute chose de miséricorde et de connaissance — pardonne donc à ceux qui sont revenus et ont suivi Ta voie, et préserve-les du tourment de la Jaḥīm." %}
+{% include verset.html ref="Sourate Ghāfir · 40:8" ar="رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدتَّهُم وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ" trl="*Rabbanā wa-adkhilhum jannāti ʿadnin allatī waʿadtahum wa-man ṣalaḥa min ābāʾihim wa-azwājihim wa-dhurriyyātihim · innaka anta l-ʿazīzu l-ḥakīm*" trad="Seigneur, fais-les entrer dans les jardins d'éternité que Tu leur as promis — ainsi que ceux de leurs pères, épouses et descendants qui ont agi dans la droiture. Tu es *al-ʿazīzu l-ḥakīm*." %}
+{% include verset.html ref="Sourate Ghāfir · 40:9" ar="وَقِهِمُ السَّيِّئَاتِ وَمَن تَقِ السَّيِّئَاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُ وَذَلِكَ هُوَ الْفَوْزُ الْعَظِيمُ" trl="*Wa-qihimu s-sayyiʾāt · wa-man taqī s-sayyiʾāti yawmaʾidhin fa-qad raḥimtahu · wa-dhālika huwa l-fawzu l-ʿaẓīm*" trad="Et préserve-les des mauvaises actions — celui que Tu préserves des mauvaises actions ce jour-là, Tu lui as accordé Ta miséricorde. Et c'est là le succès immense." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable — locuteurs non humains" content="Formulée par ceux qui portent le ʿArsh. Sa structure est celle d'une intercession — non d'un modèle de duʿāʾ personnel." %}
 
@@ -96,13 +120,20 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include callout.html type="nondit" label="Non transposable" content="*Najjinī min firʿawna* est une demande de délivrance d'un oppresseur nommé dans un contexte historique unique — non reproductible." %}
 
-{% include verset.html ref="Sourate Al-Ijāba · 2:127–128 — Ibrāhīm et Ismāʿīl" ar="رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ ۝ رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ" trl="*Rabbanā taqabbal minnā innaka anta s-samīʿu l-ʿalīm · Rabbanā wa-jʿalnā muslimayni lak wa-min dhurriyyatinā ummatan muslimatan lak wa-arinā manāsikanā wa-tub ʿalaynā innaka anta t-tawwābu r-raḥīm*" trad="Seigneur, accepte de nous — Tu es l'Entendant, le Connaisseur. Seigneur, fais de nous deux des soumis à Toi, et de notre descendance une communauté soumise à Toi, et montre-nous nos rites — et reviens vers nous : Tu es l'Infiniment Clément, le Miséricordieux." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Al-Ijāba · 2:127" ar="رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ" trl="*Rabbanā taqabbal minnā innaka anta s-samīʿu l-ʿalīm*" trad="Seigneur, accepte de nous — Tu es l'Entendant, le Connaisseur." %}
+{% include verset.html ref="Sourate Al-Ijāba · 2:128" ar="رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَا أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنتَ التَّوَّابُ الرَّحِيمُ" trl="*Rabbanā wa-jʿalnā muslimayni lak wa-min dhurriyyatinā ummatan muslimatan lak wa-arinā manāsikanā wa-tub ʿalaynā innaka anta t-tawwābu r-raḥīm*" trad="Seigneur, fais de nous deux des soumis à Toi, et de notre descendance une communauté soumise à Toi, et montre-nous nos rites — et reviens vers nous : Tu es l'Infiniment Clément, le Miséricordieux." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable" content="*Wa-arinā manāsikanā* est une demande de révélation directe des rites rituels dans le contexte de la construction du Bayt — réservée au contexte prophétique unique." %}
 
 {% include verset.html ref="Sourate Ibrāhīm · 14:37 — Ibrāhīm pour l'établissement de Makkah" ar="رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِّنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِّنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ" trl="*Rabbanā innī askantu min dhurriyyatī bi-wādin ghayri dhī zarʿin ʿinda baytika l-muḥarram Rabbanā li-yuqīmū ṣ-ṣalāt fa-jʿal afʾidatan mina n-nāsi tahwī ilayhim wa-rzuqhum mina th-thamarāt laʿallahum yashkurūn*" trad="Seigneur, j'ai établi une part de ma descendance dans une vallée sans culture, auprès de Ta maison sacrée — afin qu'ils établissent la ṣalāt. Fais que des cœurs parmi les humains soient attirés vers eux, et pourvois-les en fruits, peut-être seront-ils reconnaissants." %}
 
-{% include verset.html ref="Sourate Maryam · 19:4–6 — Zakariyyā : forme développée" ar="رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيًّا ۝ وَإِنِّي خِفْتُ الْمَوَالِيَ مِن وَرَائِي فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا ۝ يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيًّا" trl="*Rabbi innī wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shaybā wa-lam akun bi-duʿāʾika rabbi shaqiyyan · wa-innī khiftu l-mawāliya min warāʾī fa-hab lī min ladunka waliyyā yarithunī wa-yarithu min āli yaʿqūb · wa-jʿalhu rabbi raḍiyyan*" trad="Seigneur, mes os se sont affaiblis et ma tête s'est embrasée de blancheur — et je n'ai jamais été dans le malheur dans mon adresse à Toi, Seigneur. Je redoute ceux qui me succéderont — accorde-moi de Ta part un héritier qui me succède et succède à la lignée de Yaʿqūb, et fais-en quelqu'un qui répond à ce qui T'agrée, Seigneur." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Maryam · 19:4" ar="رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيًّا" trl="*Rabbi innī wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shaybā wa-lam akun bi-duʿāʾika rabbi shaqiyyan*" trad="Seigneur, mes os se sont affaiblis et ma tête s'est embrasée de blancheur — et je n'ai jamais été dans le malheur dans mon adresse à Toi, Seigneur." %}
+{% include verset.html ref="Sourate Maryam · 19:5" ar="وَإِنِّي خِفْتُ الْمَوَالِيَ مِن وَرَائِي فَهَبْ لِي مِن لَّدُنكَ وَلِيًّا" trl="*Wa-innī khiftu l-mawāliya min warāʾī fa-hab lī min ladunka waliyyā*" trad="Je redoute ceux qui me succéderont — accorde-moi de Ta part un héritier." %}
+{% include verset.html ref="Sourate Maryam · 19:6" ar="يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ وَاجْعَلْهُ رَبِّ رَضِيًّا" trl="*Yarithunī wa-yarithu min āli yaʿqūb · wa-jʿalhu rabbi raḍiyyan*" trad="Qui me succède et succède à la lignée de Yaʿqūb — et fais-en quelqu'un qui répond à ce qui T'agrée, Seigneur." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable" content="*Yarithunī wa-yarithu min āli yaʿqūb* — dimension de succession prophétique non transposable. Les deux autres formules de Zakariyyā (3:38 et 21:89) demeurent dans l'inventaire général." %}
 
@@ -114,21 +145,33 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include callout.html type="nondit" label="Non transposable" content="Demande de jugement entre un nabī et son peuple — structure propre à une mission prophétique confrontée à un rejet documenté par le récit." %}
 
-{% include verset.html ref="Sourate Ṭāhā · 20:27–28 — Partie déplacée du duʿāʾ de Mūsā" ar="وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ۝ يَفْقَهُوا قَوْلِي" trl="*Wa-ḥlul ʿuqdata min lisānī · yafqahū qawlī*" trad="Délie le nœud de ma langue — qu'ils comprennent ma parole." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Ṭāhā · 20:27" ar="وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي" trl="*Wa-ḥlul ʿuqdata min lisānī*" trad="Délie le nœud de ma langue." %}
+{% include verset.html ref="Sourate Ṭāhā · 20:28" ar="يَفْقَهُوا قَوْلِي" trl="*Yafqahū qawlī*" trad="Qu'ils comprennent ma parole." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable" content="Liée à la condition personnelle de Mūsā — l'obstruction de sa langue — dans le contexte précis de sa mission vers Pharaon (20:24). Inséparable de ce mandat." %}
 
-{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:83–87 — Ibrāhīm" ar="رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ ۝ وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ ۝ وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ ۝ وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ ۝ وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ" trl="*Rabbi hab lī ḥukmān wa-alḥiqnī bi-ṣ-ṣāliḥīn · wa-jʿal lī lisāna ṣidqin fī l-ākhirīn · wa-jʿalnī min warathati jannati n-naʿīm · wa-ghfir li-abī innahu kāna mina ḍ-ḍāllīn · wa-lā tukhzinī yawma yubʿathūn*" trad="Seigneur, accorde-moi la sagesse et fais-moi rejoindre les hommes de bien, et fais que je sois mentionné avec vérité parmi les générations à venir, et fais de moi l'un des héritiers du jardin de la félicité. Et pardonne à mon père — il était du nombre des égarés. Et ne me couvre pas de honte le Jour où ils seront ressuscités." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:83" ar="رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ" trl="*Rabbi hab lī ḥukmān wa-alḥiqnī bi-ṣ-ṣāliḥīn*" trad="Seigneur, accorde-moi la sagesse et fais-moi rejoindre les hommes de bien." %}
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:84" ar="وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ" trl="*Wa-jʿal lī lisāna ṣidqin fī l-ākhirīn*" trad="Et fais que je sois mentionné avec vérité parmi les générations à venir." %}
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:85" ar="وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ" trl="*Wa-jʿalnī min warathati jannati n-naʿīm*" trad="Et fais de moi l'un des héritiers du jardin de la félicité." %}
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:86" ar="وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ" trl="*Wa-ghfir li-abī innahu kāna mina ḍ-ḍāllīn*" trad="Et pardonne à mon père — il était du nombre des égarés." %}
+{% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:87" ar="وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ" trl="*Wa-lā tukhzinī yawma yubʿathūn*" trad="Et ne me couvre pas de honte le Jour où ils seront ressuscités." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable" content="Deux éléments non transposables : *lisāna ṣidqin fī l-ākhirīn* (inscription mémorielle prophétique) et *ghfir li-abī* (traité explicitement en 9:114 comme situation particulière et close)." %}
 
-{% include verset.html ref="Sourate Al-Muʾminūn · 23:93–94 — Formule adressée au nabī par qul" ar="رَبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ ۝ رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ" trl="*Rabbi immā turiyannī mā yūʿadūn · Rabbi fa-lā tajʿalnī fī l-qawmi ẓ-ẓālimīn*" trad="Seigneur, si Tu me montres ce qui leur est promis — Seigneur, alors ne me place pas au nombre du peuple des injustes." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Al-Muʾminūn · 23:93" ar="رَبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ" trl="*Rabbi immā turiyannī mā yūʿadūn*" trad="Seigneur, si Tu me montres ce qui leur est promis —" %}
+{% include verset.html ref="Sourate Al-Muʾminūn · 23:94" ar="رَبِّ فَلَا تَجْعَلْنِي فِي الْقَوْمِ الظَّالِمِينَ" trl="*Rabbi fa-lā tajʿalnī fī l-qawmi ẓ-ẓālimīn*" trad="Seigneur, alors ne me place pas au nombre du peuple des injustes." %}
+</div>
 
 {% include callout.html type="nondit" label="Non transposable" content="Introduite par *qul* — instruction explicitement adressée au nabī. Condition prophétique (*immā turiyannī mā yūʿadūn*) non reproductible en dehors du mandat prophétique." %}
 
 ---
 
-## Thème 13 · Demandes d'Iblīs et doléances des perdants · مَطَالِبُ إِبْلِيسَ وَشَكَاوَى الْخَاسِرِينَ
+## <span id="theme-iblis">Thème 13 · Demandes d'Iblīs et doléances des perdants · مَطَالِبُ إِبْلِيسَ وَشَكَاوَى الْخَاسِرِينَ</span>
 
 {% include callout.html type="warn" label="Registre radicalement différent" content="Ces demandes ne sont pas des modèles. Elles sont rapportées pour ce qu'elles révèlent : la nature de ceux qui les formulent, les conditions dans lesquelles elles surviennent, et la réponse — ou le silence — qui leur est adressé. **À aucun moment Iblīs ne demande le pardon.** Ses demandes sont exclusivement instrumentales. Son orgueil est premier, permanent et définitif." %}
 
@@ -142,7 +185,10 @@ methode: "Dit / Non-dit / Inférence"
 
 ### Doléances des perdants
 
-{% include verset.html ref="Sourate Al-Muʾminūn · 23:99–100 — À l'approche de la mort" ar="رَبِّ ارْجِعُونِ ۝ لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ" trl="*Rabbi rjiʿūn · laʿallī aʿmalu ṣāliḥan fī mā taraktu*" trad="Seigneur, renvoie-moi — peut-être agirai-je de manière juste dans ce que j'ai laissé." %}
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Al-Muʾminūn · 23:99" ar="رَبِّ ارْجِعُونِ" trl="*Rabbi rjiʿūn*" trad="Seigneur, renvoie-moi." %}
+{% include verset.html ref="Sourate Al-Muʾminūn · 23:100" ar="لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ" trl="*Laʿallī aʿmalu ṣāliḥan fī mā taraktu*" trad="Peut-être agirai-je de manière juste dans ce que j'ai laissé." %}
+</div>
 
 {% include callout.html type="warn" label="Réponse — Kallā" content="**Kallā** — Non. *Innaha kalimatun huwa qāʾiluhā wa-min warāʾihim barzakhun ilā yawmi yubʿathūn.* C'est une parole qu'il dit — et devant eux un barzakh jusqu'au Jour où ils seront ressuscités. Le refus est posé avec une sécheresse absolue." %}
 
@@ -166,7 +212,7 @@ methode: "Dit / Non-dit / Inférence"
 
 ---
 
-## Thème 14 · Sécurité des lieux et des communautés · أَمَانُ الْبَلَدِ وَالْجَمَاعَةِ
+## <span id="theme-securite">Thème 14 · Sécurité des lieux et des communautés · أَمَانُ الْبَلَدِ وَالْجَمَاعَةِ</span>
 
 {% include verset.html ref="Sourate Al-Ijāba · 2:126 — Ibrāhīm" ar="رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللَّهِ وَالْيَوْمِ الْآخِرِ" trl="*Rabbi jaʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāt man āmana minhum bi-llāhi wa-l-yawmi l-ākhir*" trad="Seigneur, fais de ceci une cité sûre, et pourvois ses habitants en fruits — ceux d'entre eux qui croient en Allaah et au Jour dernier." %}
 
@@ -176,7 +222,7 @@ methode: "Dit / Non-dit / Inférence"
 
 ---
 
-## Thème 15 · Délivrance · النَّجَاةُ
+## <span id="theme-delivrance">Thème 15 · Délivrance · النَّجَاةُ</span>
 
 {% include verset.html ref="Sourate Al-Shuʿarāʾ · 26:169 — Lūṭ" ar="رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ" trl="*Rabbi najjinī wa-ahlī mimmā yaʿmalūn*" trad="Seigneur, délivre-moi et les miens de ce qu'ils font." %}
 
