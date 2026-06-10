@@ -612,59 +612,6 @@ function tradGo(e) {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
-     SECTION 4 — ÉTAT D'AVANCEMENT
-═══════════════════════════════════════════════════════════ -->
-<div class="trad-section" id="progression">
-  <p class="trad-section__titre">État d'avancement — Chantier en cours</p>
-
-  <p>La traduction est publiée par blocs progressifs sur Gamma. La migration vers des pages Jekyll intégrées avec audio verset par verset est prévue en étape suivante.</p>
-
-  <div class="trad-progress">
-
-    <div class="trad-progress__item">
-      <span class="trad-progress__badge trad-progress__badge--live">Publié</span>
-      <span class="trad-progress__text">
-        <strong>Les Muqaṭṭaʿāt</strong> — Lettres séparées du Coran · Étude préliminaire exhaustive (8 sections + annexe épistémologique)
-      </span>
-      <a class="trad-progress__link" href="https://muqattaat-coran-i5r80i6.gamma.site/" target="_blank" rel="noopener">Ouvrir ↗</a>
-    </div>
-
-    <div class="trad-progress__item">
-      <span class="trad-progress__badge trad-progress__badge--live">Publié</span>
-      <span class="trad-progress__text">
-        <strong>Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête</strong> + <strong>Sourate 2 · S2:1–129 · Al-Ijāba</strong>
-      </span>
-      <a class="trad-progress__link" href="https://traduction-linguistique--1eqydnl.gamma.site/" target="_blank" rel="noopener">Ouvrir ↗</a>
-    </div>
-
-    <div class="trad-progress__item">
-      <span class="trad-progress__badge trad-progress__badge--live">Publié</span>
-      <span class="trad-progress__text">
-        <strong>Sourate 2 · S2:130–180 · Al-Ijāba</strong> — Deuxième partie
-      </span>
-      <a class="trad-progress__link" href="https://islam-du-coran-cshp5tf.gamma.site/" target="_blank" rel="noopener">Ouvrir ↗</a>
-    </div>
-
-    <div class="trad-progress__item">
-      <span class="trad-progress__badge trad-progress__badge--wip">À venir</span>
-      <span class="trad-progress__text">
-        <strong>Sourate 2 · S2:181–286 · Al-Ijāba</strong> — Troisième partie
-      </span>
-    </div>
-
-    <div class="trad-progress__item">
-      <span class="trad-progress__badge trad-progress__badge--wip">Planifié</span>
-      <span class="trad-progress__text">
-        <strong>Migration Jekyll</strong> — Intégration verset par verset avec lecteurs audio individuels ({% include verset.html %})
-      </span>
-    </div>
-
-  </div>
-
-  <a href="#top-trad" class="trad-back">↑ Retour au menu</a>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════
      BARĀʾA
 ═══════════════════════════════════════════════════════════ -->
 <div class="declaration" style="margin-top:3rem;text-align:center;max-width:640px;margin-left:auto;margin-right:auto;">
