@@ -23,9 +23,6 @@ collections:
   etudes:
     output: true
     permalink: /etudes/:name/
-  traductions:
-    output: true
-    permalink: /traduction/:name/
 
 # Defaults
 defaults:
@@ -34,11 +31,6 @@ defaults:
       type: "etudes"
     values:
       layout: "etude"
-  - scope:
-      path: ""
-      type: "traductions"
-    values:
-      layout: "traduction"
 
 # Exclude
 exclude:
