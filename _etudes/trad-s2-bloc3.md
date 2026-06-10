@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc III — S2:75–103"
 subtitle: "Falsifications · Sorcellerie à Bābil · Foi et *taqwā*"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 6
 date: 2026-01-01
@@ -131,4 +132,4 @@ methode: "Dit / Non-dit / Inférence"
    trad="S'ils avaient cru et s'étaient constitués une *taqwā*, une *mathūba* venant d'Allaah aurait été meilleure — s'ils savaient."
 %}
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
