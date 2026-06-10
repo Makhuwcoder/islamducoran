@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc V — S2:130–157"
 subtitle: "La *milla* d'Ibrāhīm · La *qibla* · Soutien et épreuve"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 8
 date: 2026-01-01
@@ -399,4 +400,4 @@ racine ṣ-l-w al-Farāhīdī ( Kitāb al-ʿAyn ) : al-ṣalā , la région lomb
 
 ---
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
