@@ -315,29 +315,29 @@ permalink: /traduction/
     </optgroup>
 
     <optgroup label="Note · Sommaires">
-      <option value="/traduction/methode-note/">↓ Note méthodologique</option>
-      <option value="/traduction/sommaire-1/">↓ Sommaire Partie 1 — S1 · S2:1–29</option>
-      <option value="/traduction/sommaire-2/">↓ Sommaire Partie 2 — S2:30–129</option>
+      <option value="/etudes/trad-methode-note/">↓ Note méthodologique</option>
+      <option value="/etudes/trad-sommaire-1/">↓ Sommaire Partie 1 — S1 · S2:1–29</option>
+      <option value="/etudes/trad-sommaire-2/">↓ Sommaire Partie 2 — S2:30–129</option>
     </optgroup>
 
     <optgroup label="Études préliminaires">
-      <option value="/traduction/methode-note/#fiche-sura">↓ Les Muqaṭṭaʿāt — étude (Gamma ↗)</option>
+      <option value="/etudes/trad-methode-note/#fiche-sura">↓ Les Muqaṭṭaʿāt — étude (Gamma ↗)</option>
     </optgroup>
 
     <optgroup label="Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête">
-      <option value="/traduction/s1-al-talab/">↓ S1:1–7 · Al-Ṭalab — 7 versets avec audio</option>
+      <option value="/etudes/trad-s1-al-talab/">↓ S1:1–7 · Al-Ṭalab — 7 versets avec audio</option>
     </optgroup>
 
     <optgroup label="Sourate 2 · Al-Ijāba — La Réponse · S2:1–129">
-      <option value="/traduction/s2-bloc1/">↓ Bloc I · S2:1–29 — Portraits · Taḥaddī</option>
-      <option value="/traduction/s2-bloc2/">↓ Bloc II · S2:30–74 — Ādam · Fils d'Isrāʾīl</option>
-      <option value="/traduction/s2-bloc3/">↓ Bloc III · S2:75–103 — Falsifications · Bābil</option>
-      <option value="/traduction/s2-bloc4/">↓ Bloc IV · S2:104–129 — Qibla · Ibrāhīm</option>
+      <option value="/etudes/trad-s2-bloc1/">↓ Bloc I · S2:1–29 — Portraits · Taḥaddī</option>
+      <option value="/etudes/trad-s2-bloc2/">↓ Bloc II · S2:30–74 — Ādam · Fils d'Isrāʾīl</option>
+      <option value="/etudes/trad-s2-bloc3/">↓ Bloc III · S2:75–103 — Falsifications · Bābil</option>
+      <option value="/etudes/trad-s2-bloc4/">↓ Bloc IV · S2:104–129 — Qibla · Ibrāhīm</option>
     </optgroup>
 
     <optgroup label="Sourate 2 · Al-Ijāba — S2:130–179">
-      <option value="/traduction/s2-bloc5/">↓ Bloc V · S2:130–157 — Milla · Qibla · Épreuve</option>
-      <option value="/traduction/s2-bloc6/">↓ Bloc VI · S2:158–179 — Shaʿāʾir · Birr · Qiṣāṣ</option>
+      <option value="/etudes/trad-s2-bloc5/">↓ Bloc V · S2:130–157 — Milla · Qibla · Épreuve</option>
+      <option value="/etudes/trad-s2-bloc6/">↓ Bloc VI · S2:158–179 — Shaʿāʾir · Birr · Qiṣāṣ</option>
     </optgroup>
   </select>
 
