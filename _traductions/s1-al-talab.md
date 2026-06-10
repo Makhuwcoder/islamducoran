@@ -5,7 +5,6 @@ subtitle: "Titre conventionnel : Al-Fātiḥa — L'Ouverture · 7 versets"
 ordre: 2
 bloc: "Sourate 1 · Al-Ṭalab"
 racine_ar: "الطَّلَب"
-permalink: /traduction/s1-al-talab/
 ---
 
 <div id="top-fiche"></div>
