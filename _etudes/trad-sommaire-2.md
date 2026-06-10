@@ -4,6 +4,7 @@ title: "Sommaire · Partie 2"
 subtitle: "S2:30–129 · Al-Ijāba — La Réponse · Blocs II · III · IV"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 ordre: 3
 date: 2026-01-01
 methode: "Dit / Non-dit / Inférence"
@@ -119,4 +120,4 @@ Ce sommaire couvre les **Blocs II, III et IV** de la Sourate 2 · Al-Ijāba (S2:
 → **[Bloc III · S2:75–103 →](/etudes/trad-s2-bloc3/)**
 → **[Bloc IV · S2:104–129 →](/etudes/trad-s2-bloc4/)**
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
