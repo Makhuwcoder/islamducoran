@@ -23,7 +23,7 @@ Ce sommaire couvre la **Sourate 1 · Al-Ṭalab** dans son intégralité (7 vers
 
 > *Titre textuel argumenté :* La sourate est une requête adressée à Allaah — *ihdināṣ-ṣirāṭa l-mustaqīm* (1:6). La structure entière est celle d'un demandeur devant Allaah : reconnaissance (1:2–4), engagement (1:5), demande (1:6–7). Le titre *Al-Ṭalab* (La Requête) est argumenté depuis le texte lui-même.
 
-→ **[Lire la Sourate 1 complète avec audio →](/traduction/s1-al-talab/)**
+→ **[Lire la Sourate 1 complète avec audio →](/etudes/trad-s1-al-talab/)**
 
 | Réf. | Titre thématique |
 |------|-----------------|
@@ -43,7 +43,7 @@ Ce sommaire couvre la **Sourate 1 · Al-Ṭalab** dans son intégralité (7 vers
 
 > *Titre textuel argumenté :* S.2 est la réponse d'Allaah à la requête de S.1. La sourate s'ouvre sur *dhālika l-kitābu lā rayba fīhi hudan li-l-muttaqīn* (2:2) — « Ce Livre, nul doute en lui, est un guide ». La réponse est : *voilà le guide que tu demandais*. Le titre *Al-Ijāba* (La Réponse) est argumenté depuis la structure S1→S2 et confirmé par la logique interne du texte.
 
-→ **[Lire le Bloc I avec audio →](/traduction/s2-bloc1/)**
+→ **[Lire le Bloc I avec audio →](/etudes/trad-s2-bloc1/)**
 
 ### Ouverture — S2:1–5 · Portrait des *muttaqīn*
 
@@ -98,6 +98,6 @@ Ce sommaire couvre la **Sourate 1 · Al-Ṭalab** dans son intégralité (7 vers
 
 ## Navigation
 
-→ **[Sommaire Partie 2 — S2:30–129 →](/traduction/sommaire-2/)**
+→ **[Sommaire Partie 2 — S2:30–129 →](/etudes/trad-sommaire-2/)**
 
 <a href="#top-fiche" class="trad-back">↑ Haut de page</a>
