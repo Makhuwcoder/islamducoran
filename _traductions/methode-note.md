@@ -4,7 +4,6 @@ title: "Note méthodologique"
 subtitle: "Protocole de traduction · Sources · Format · Règles absolues"
 ordre: 0
 bloc: "Note méthodologique"
-permalink: /traduction/methode-note/
 ---
 
 <div id="top-fiche"></div>
