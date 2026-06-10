@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc VI — S2:158–179"
 subtitle: "Shaʿāʾir · Al-kitmān · La définition du *birr* · Le *qiṣāṣ*"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 9
 date: 2026-01-01
@@ -334,4 +335,4 @@ racine ḥ-y-y Ibn Fāris ( Maqāyīs ) : le mouvement, l'animation, ce qui est 
 
 ---
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
