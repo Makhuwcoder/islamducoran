@@ -5,7 +5,6 @@ subtitle: "Ādam et les malāʾika · Les fils d'Isrāʾīl · L'épisode de la 
 ordre: 5
 bloc: "S2:30–74 · Bloc II"
 racine_ar: "الْإِجَابَة"
-permalink: /traduction/s2-bloc2/
 ---
 
 <div id="top-fiche"></div>
