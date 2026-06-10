@@ -5,7 +5,6 @@ subtitle: "La *milla* d'Ibrāhīm · La *qibla* · Soutien et épreuve"
 ordre: 8
 bloc: "S2:130–157 · Bloc V"
 racine_ar: "الْإِجَابَة"
-permalink: /traduction/s2-bloc5/
 ---
 
 <div id="top-fiche"></div>
