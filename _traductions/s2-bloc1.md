@@ -5,7 +5,6 @@ subtitle: "Les trois portraits d'ouverture · Création · Taḥaddī"
 ordre: 4
 bloc: "S2:1–29 · Bloc I"
 racine_ar: "الْإِجَابَة"
-permalink: /traduction/s2-bloc1/
 ---
 
 <div id="top-fiche"></div>
