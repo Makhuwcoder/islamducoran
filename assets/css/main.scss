@@ -22,6 +22,8 @@
   --or2:         #a07820;
   --or3:         #c09030;
   --or4:         #d4a830;
+  /* Or lisible sur fond clair — contraste AA garanti sur bg3 et bg4 */
+  --or-text:     #6e4c04;
 
   /* Texte */
   --texte:       #221808;   /* brun encre très profond */
@@ -408,7 +410,7 @@ li { margin-bottom: .3rem; }
 .verset__corps { font-size: 1rem; color: var(--texte);
   text-align: center;
 }
-.verset__trl { font-style: italic; color: var(--or2); display: block; margin-top: .35rem;
+.verset__trl { font-style: italic; color: var(--or-text); display: block; margin-top: .35rem;
   text-align: center;
   font-size: .9rem;
 }
@@ -437,6 +439,7 @@ li { margin-bottom: .3rem; }
   font-family: var(--font-titre);
   font-size: .6rem; letter-spacing: .14em;
   text-transform: uppercase; margin-bottom: .4rem; display: block;
+  color: var(--or-text);
 }
 
 .callout--dit     { background: var(--dit-bg);     border-color: var(--dit-b); }
