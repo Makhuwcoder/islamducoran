@@ -4,7 +4,6 @@ title: "Sommaire · Partie 2"
 subtitle: "S2:30–129 · Al-Ijāba — La Réponse · Blocs II · III · IV"
 ordre: 3
 bloc: "Sommaire Partie 2"
-permalink: /traduction/sommaire-2/
 ---
 
 <div id="top-fiche"></div>
