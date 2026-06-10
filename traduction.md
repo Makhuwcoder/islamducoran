@@ -321,7 +321,7 @@ permalink: /traduction/
     </optgroup>
 
     <optgroup label="Études préliminaires">
-      <option value="https://muqattaat-coran-i5r80i6.gamma.site/" data-ext="1">↗ Les Muqaṭṭaʿāt — Lettres séparées du Coran</option>
+      <option value="/etudes/trad-muqattaat/">↓ Les Muqaṭṭaʿāt — Lettres séparées du Coran</option>
     </optgroup>
 
     <optgroup label="Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête">
