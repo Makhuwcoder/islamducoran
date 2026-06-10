@@ -4,7 +4,6 @@ title: "Sommaire · Partie 1"
 subtitle: "S1:1–7 · Al-Ṭalab — La Requête · S2:1–29 · Al-Ijāba — La Réponse (Bloc I)"
 ordre: 1
 bloc: "Sommaire Partie 1"
-permalink: /traduction/sommaire-1/
 ---
 
 <div id="top-fiche"></div>
