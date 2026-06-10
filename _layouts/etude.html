@@ -11,7 +11,11 @@ layout: default
     <a href="{{ '/etudes/' | relative_url }}">Études</a>
     {% if page.categorie %}
     <span class="breadcrumb__sep">›</span>
+    {% if page.categorie_url %}
+    <a href="{{ page.categorie_url | relative_url }}">{{ page.categorie }}</a>
+    {% else %}
     <a href="{{ '/etudes/' | append: page.categorie_slug | append: '/' | relative_url }}">{{ page.categorie }}</a>
+    {% endif %}
     {% endif %}
     <span class="breadcrumb__sep">›</span>
     <span class="breadcrumb__current">{{ page.title | truncate: 45 }}</span>
