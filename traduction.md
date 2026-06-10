@@ -314,24 +314,30 @@ permalink: /traduction/
       <option value="#fiches">↓ Fiches terminologiques</option>
     </optgroup>
 
-    <optgroup label="Études préliminaires (Gamma)">
-      <option value="https://muqattaat-coran-i5r80i6.gamma.site/" data-ext="1">
-        ↗ Les Muqaṭṭaʿāt — Lettres séparées du Coran
-      </option>
+    <optgroup label="Note · Sommaires">
+      <option value="/traduction/methode-note/">↓ Note méthodologique</option>
+      <option value="/traduction/sommaire-1/">↓ Sommaire Partie 1 — S1 · S2:1–29</option>
+      <option value="/traduction/sommaire-2/">↓ Sommaire Partie 2 — S2:30–129</option>
     </optgroup>
 
-    <optgroup label="Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête (conv. : Al-Fātiḥa)">
-      <option value="https://traduction-linguistique--1eqydnl.gamma.site/" data-ext="1">
-        ↗ S1:1–7 · Al-Ṭalab complète
-      </option>
+    <optgroup label="Études préliminaires">
+      <option value="/traduction/methode-note/#fiche-sura">↓ Les Muqaṭṭaʿāt — étude (Gamma ↗)</option>
     </optgroup>
 
-    <optgroup label="Sourate 2 · Al-Ijāba — La Réponse (conv. : Al-Baqara)">
-      <option value="https://traduction-linguistique--1eqydnl.gamma.site/" data-ext="1">
-        ↗ S2:1–129 · Al-Ijāba — Première partie
-      </option>
+    <optgroup label="Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête">
+      <option value="/traduction/s1-al-talab/">↓ S1:1–7 · Al-Ṭalab — 7 versets avec audio</option>
+    </optgroup>
+
+    <optgroup label="Sourate 2 · Al-Ijāba — La Réponse · S2:1–129">
+      <option value="/traduction/s2-bloc1/">↓ Bloc I · S2:1–29 — Portraits · Taḥaddī</option>
+      <option value="/traduction/s2-bloc2/">↓ Bloc II · S2:30–74 — Ādam · Fils d'Isrāʾīl</option>
+      <option value="/traduction/s2-bloc3/">↓ Bloc III · S2:75–103 — Falsifications · Bābil</option>
+      <option value="/traduction/s2-bloc4/">↓ Bloc IV · S2:104–129 — Qibla · Ibrāhīm</option>
+    </optgroup>
+
+    <optgroup label="Sourate 2 · S2:130–180 · Al-Ijāba (Gamma)">
       <option value="https://islam-du-coran-cshp5tf.gamma.site/" data-ext="1">
-        ↗ S2:130–180 · Al-Ijāba — Deuxième partie
+        ↗ S2:130–180 · sur Gamma (en attente de migration)
       </option>
     </optgroup>
   </select>
