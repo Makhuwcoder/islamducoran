@@ -5,7 +5,6 @@ subtitle: "*Qibla* · *Wajhu llāh* · Ibrāhīm et la Maison"
 ordre: 7
 bloc: "S2:104–129 · Bloc IV"
 racine_ar: "الْإِجَابَة"
-permalink: /traduction/s2-bloc4/
 ---
 
 <div id="top-fiche"></div>
