@@ -4,6 +4,7 @@ title: "Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête"
 subtitle: "Titre conventionnel : Al-Fātiḥa — L'Ouverture · 7 versets"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الطَّلَب"
 ordre: 2
 date: 2026-01-01
@@ -133,4 +134,4 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Dit / Non-dit.** S.1 dit : il y a un chemin droit (celui des *munʿam ʿalayhim*) et deux voies à éviter (celle du *ghaḍab* et celle de *ḍalāl*). **Non-dit** : qui sont précisément ces groupes. Toute identification nominale est une inférence externe au texte.
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
