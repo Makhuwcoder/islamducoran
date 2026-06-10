@@ -4,6 +4,7 @@ title: "Note méthodologique"
 subtitle: "Protocole de traduction · Sources · Format · Règles absolues"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 ordre: 0
 date: 2026-01-01
 methode: "Dit / Non-dit / Inférence"
@@ -107,4 +108,4 @@ Le sens anatomique (« visage ») est une application dérivée, non le sens pre
 
 Traduire uniformément par « la face d'Allaah » viole *laysa ka-mithlihi shayʾ* (S.42:11) et ignore la richesse de la racine.
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
