@@ -335,10 +335,9 @@ permalink: /traduction/
       <option value="/traduction/s2-bloc4/">↓ Bloc IV · S2:104–129 — Qibla · Ibrāhīm</option>
     </optgroup>
 
-    <optgroup label="Sourate 2 · S2:130–180 · Al-Ijāba (Gamma)">
-      <option value="https://islam-du-coran-cshp5tf.gamma.site/" data-ext="1">
-        ↗ S2:130–180 · sur Gamma (en attente de migration)
-      </option>
+    <optgroup label="Sourate 2 · Al-Ijāba — S2:130–179">
+      <option value="/traduction/s2-bloc5/">↓ Bloc V · S2:130–157 — Milla · Qibla · Épreuve</option>
+      <option value="/traduction/s2-bloc6/">↓ Bloc VI · S2:158–179 — Shaʿāʾir · Birr · Qiṣāṣ</option>
     </optgroup>
   </select>
 
