@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc IV — S2:104–129"
 subtitle: "*Qibla* · *Wajhu llāh* · Ibrāhīm et la Maison"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 7
 date: 2026-01-01
@@ -170,4 +171,4 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Verset pivot — S.2:128–129.** La supplique d'Ibrāhīm demande qu'un *rasūl* soit envoyé *minhum* — venu d'eux, de leur descendance. Ce *rasūl* est identifiable au nabī Muḥammad dans la lecture intra-coranique (S.3:164, S.62:2). Ce que le texte dit : la supplique est exaucée. **Non-dit** : le texte ne dit pas ici explicitement que ce *rasūl* est Muḥammad — c'est une inférence cohérente avec l'ensemble du texte coranique, non une affirmation directe de ce verset.
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
