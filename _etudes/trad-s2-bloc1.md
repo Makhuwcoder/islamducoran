@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc I — S2:1–29"
 subtitle: "Les trois portraits d'ouverture · Création · Taḥaddī"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 4
 date: 2026-01-01
@@ -317,4 +318,4 @@ methode: "Dit / Non-dit / Inférence"
 
 - **stawā** — racine *s-w-y* : s'établir, se stabiliser, se diriger vers avec maîtrise. Conservé en translittération : toute traduction de ce terme appliqué à Allaah risque d'introduire une connotation de lieu ou de mouvement spatial contraire à *laysa ka-mithlihi shayʾ* (S.42:11).
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
