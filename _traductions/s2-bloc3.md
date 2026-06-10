@@ -5,7 +5,6 @@ subtitle: "Falsifications · Sorcellerie à Bābil · Foi et *taqwā*"
 ordre: 6
 bloc: "S2:75–103 · Bloc III"
 racine_ar: "الْإِجَابَة"
-permalink: /traduction/s2-bloc3/
 ---
 
 <div id="top-fiche"></div>
