@@ -19,7 +19,7 @@ Ce sommaire couvre les **Blocs II, III et IV** de la Sourate 2 · Al-Ijāba (S2:
 
 ## Bloc II · S2:30–74 · Ādam, les malāʾika, les fils d'Isrāʾīl
 
-→ **[Lire le Bloc II avec audio →](/traduction/s2-bloc2/)**
+→ **[Lire le Bloc II avec audio →](/etudes/trad-s2-bloc2/)**
 
 ### Ādam et les malāʾika — S2:30–39
 
@@ -67,7 +67,7 @@ Ce sommaire couvre les **Blocs II, III et IV** de la Sourate 2 · Al-Ijāba (S2:
 
 ## Bloc III · S2:75–103 · Falsifications · Sorcellerie · Foi
 
-→ **[Lire le Bloc III avec audio →](/traduction/s2-bloc3/)**
+→ **[Lire le Bloc III avec audio →](/etudes/trad-s2-bloc3/)**
 
 | Réf. | Titre thématique |
 |------|-----------------|
@@ -90,7 +90,7 @@ Ce sommaire couvre les **Blocs II, III et IV** de la Sourate 2 · Al-Ijāba (S2:
 
 ## Bloc IV · S2:104–129 · Qibla · Ibrāhīm · La Maison
 
-→ **[Lire le Bloc IV avec audio →](/traduction/s2-bloc4/)**
+→ **[Lire le Bloc IV avec audio →](/etudes/trad-s2-bloc4/)**
 
 | Réf. | Titre thématique |
 |------|-----------------|
@@ -114,9 +114,9 @@ Ce sommaire couvre les **Blocs II, III et IV** de la Sourate 2 · Al-Ijāba (S2:
 
 ## Navigation
 
-→ **[← Sommaire Partie 1 — S1:1–7 + S2:1–29](/traduction/sommaire-1/)**
-→ **[Bloc II · S2:30–74 →](/traduction/s2-bloc2/)**
-→ **[Bloc III · S2:75–103 →](/traduction/s2-bloc3/)**
-→ **[Bloc IV · S2:104–129 →](/traduction/s2-bloc4/)**
+→ **[← Sommaire Partie 1 — S1:1–7 + S2:1–29](/etudes/trad-sommaire-1/)**
+→ **[Bloc II · S2:30–74 →](/etudes/trad-s2-bloc2/)**
+→ **[Bloc III · S2:75–103 →](/etudes/trad-s2-bloc3/)**
+→ **[Bloc IV · S2:104–129 →](/etudes/trad-s2-bloc4/)**
 
 <a href="#top-fiche" class="trad-back">↑ Haut de page</a>
