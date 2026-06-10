@@ -82,7 +82,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note sur *wajhu llāh* · S.2:115.** Dans ce contexte de *qibla* et d'orientation, *wajhu llāh* doit être lu selon l'axe *direction/orientation* de la racine *w-j-h* (al-Farāhīdī : *mā astaqbala min kull shayʾ* — ce vers quoi une chose fait face). La traduction retenue : *le wajhu llāh est là* — Ce vers quoi la créature s'oriente pour exprimer son orientation vers Allaah. Jamais « la face d'Allaah ». → Voir la note sur *wajhu llāh* dans la [Note méthodologique](/traduction/methode-note/).
+**Note sur *wajhu llāh* · S.2:115.** Dans ce contexte de *qibla* et d'orientation, *wajhu llāh* doit être lu selon l'axe *direction/orientation* de la racine *w-j-h* (al-Farāhīdī : *mā astaqbala min kull shayʾ* — ce vers quoi une chose fait face). La traduction retenue : *le wajhu llāh est là* — Ce vers quoi la créature s'oriente pour exprimer son orientation vers Allaah. Jamais « la face d'Allaah ». → Voir la note sur *wajhu llāh* dans la [Note méthodologique](/etudes/trad-methode-note/).
 
 ---
 
