@@ -343,7 +343,6 @@ permalink: /traduction/
 
   <div class="trad-nav__row">
     <a class="trad-nav__btn" href="#" onclick="tradGo(event)">Ouvrir →</a>
-    <a class="trad-nav__btn trad-nav__btn--outline" href="#progression">État d'avancement</a>
   </div>
 </div>
 
@@ -359,6 +358,7 @@ function tradGo(e) {
     var el = document.getElementById(v.slice(1));
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
+  else { window.location.href = v; }
 }
 </script>
 
