@@ -423,12 +423,19 @@ li { margin-bottom: .3rem; }
   padding: 1rem 1.4rem;
   border-left: 4px solid;
   border-radius: 0 4px 4px 0;
-  font-size: 1rem;
+  font-size: .9rem;
+  line-height: 1.75;
   box-shadow: 0 1px 3px rgba(80,50,0,.05);
 }
+.callout p,
+.callout li,
+.callout ul,
+.callout ol { font-size: .9rem; line-height: 1.75; }
+.callout ol,
+.callout ul { margin: .4rem 0 .4rem 1.3rem; }
 .callout__label {
   font-family: var(--font-titre);
-  font-size: 1rem; letter-spacing: .14em;
+  font-size: .6rem; letter-spacing: .14em;
   text-transform: uppercase; margin-bottom: .4rem; display: block;
 }
 
@@ -1729,7 +1736,7 @@ tr:nth-child(even) td { background: var(--bg2); }
   margin: 0 auto .6rem;
 }
 
-.etude-corps p { font-size: 1rem;
+.etude-corps p { font-size: .92rem;
   line-height: 1.75;
 }
 
