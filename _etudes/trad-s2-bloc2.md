@@ -4,6 +4,7 @@ title: "Sourate 2 · Al-Ijāba · Bloc II — S2:30–74"
 subtitle: "Ādam et les malāʾika · Les fils d'Isrāʾīl · L'épisode de la vache"
 categorie: "Traduction Linguistique"
 categorie_slug: "traduction"
+categorie_url: "/traduction/"
 racine_ar: "الْإِجَابَة"
 ordre: 5
 date: 2026-01-01
@@ -216,4 +217,4 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez. — Nous avons dit : « Frappez-le avec une partie d'elle. » Ainsi Allaah redonne vie aux morts et vous montre Ses *āyāt* — peut-être raisonnerez-vous. — Puis vos cœurs se sont durcis après cela — ils sont comme les pierres ou encore plus durs en dureté. Or parmi les pierres il en est d'où jaillissent les fleuves, il en est qui se fendent et d'où sort l'eau, et il en est qui s'effondrent par *khashya* d'Allaah — et Allaah n'est pas inattentif à ce que vous faites."
 %}
 
-<a href="#top-fiche" class="trad-back">↑ Haut de page</a>
+<a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>
