@@ -30,7 +30,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout}
-**Note méthodologique.** Le texte coranique ne commente nulle part ces lettres. Toute attribution de sens — codes, abréviations, noms divins, défi stylistique — est une inférence qui dépasse ce que le texte dit. Ce que le texte dit : ces lettres sont là, en position d'ouverture. → Voir l'étude exhaustive : [Les Muqaṭṭaʿāt](https://muqattaat-coran-i5r80i6.gamma.site/){:target="_blank"}.
+**Note méthodologique.** Le texte coranique ne commente nulle part ces lettres. Toute attribution de sens — codes, abréviations, noms divins, défi stylistique — est une inférence qui dépasse ce que le texte dit. Ce que le texte dit : ces lettres sont là, en position d'ouverture. → Voir l'étude exhaustive : [Les Muqaṭṭaʿāt](https://islamducoran.fr/etudes/trad-muqattaat/){:target="_blank"}.
 
 ---
 
