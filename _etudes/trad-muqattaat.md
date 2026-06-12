@@ -311,7 +311,7 @@ Quatre formes courantes du glissement interprétatif : **par induction** (X pré
 
 ### Inférence I — « Ces lettres seraient des codes divins »
 
-L'affirmation contient cinq présuppositions : (A) les lettres existent ✓ — seul fait textuel ; (B) leur sens n'est pas donné ✓ — mais cela signifie que *le texte ne commente pas*, non qu'il cache quelque chose ; (C) donc elles cachent quelque chose ✗ — glissement non justifié ; (D) donc elles sont des codes ✗ — un code suppose une correspondance intentionnelle que le texte n'établit pas ; (E) donc des codes d'Allaah ✗ — attribution d'intention divine que le Coran interdit explicitement :
+L'affirmation contient cinq présuppositions : (A) les lettres existent ✓ — seul fait textuel ; (B) leur sens n'est pas donné ✓ — mais cela signifie que *le texte ne commente pas*, non qu'il cache quelque chose ; (C) donc elles cachent quelque chose ✗ — glissement non justifié ; (D) donc elles sont des codes ✗ — un code suppose une correspondance intentionnelle que le texte n'établit pas ; (E) donc des codes d'Allaah ✗ — attribution d'un acte à Allaah sans preuve textuelle — démarche que le Coran interdit explicitement :
 
 > *وَأَن تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ* — « et que vous disiez sur Allaah ce que vous ne savez pas. » (S.7:33)
 >
