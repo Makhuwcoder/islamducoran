@@ -151,7 +151,8 @@ permalink: /etudes/
     approche: [
       {slug:'mediter-texte-langue',title:"Méditer le texte dans sa langue"},
       {slug:'comprendre-memoriser',title:"Comprendre avant de mémoriser"},
-      {slug:'protocole-lecture-coran',title:"Protocole de lecture du Coran"}
+      {slug:'protocole-lecture-coran',title:"Protocole de lecture du Coran"},
+      {slug:'qassam-la-uqsimu',title:"Le qassam coranique — lā uqsimu"}
     ]
   };
 
