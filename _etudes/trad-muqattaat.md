@@ -94,30 +94,32 @@ Sur les **28 lettres** de l'alphabet arabe, exactement **14** sont représentée
 
 <div class="mq-cols">
 <div>
-
-| Lettre | Fréquence |
-|--------|-----------|
-| م Mīm | 17 sourates |
-| ا Alif | 13 sourates |
-| ل Lām | 13 sourates |
-| ح Ḥāʾ | 7 sourates |
-| ر Rāʾ | 6 sourates |
-| س Sīn | 5 sourates |
-| ط Ṭāʾ | 4 sourates |
-
+<table>
+<thead><tr><th>Lettre</th><th>Fréquence</th></tr></thead>
+<tbody>
+<tr><td>م Mīm</td><td>17 sourates</td></tr>
+<tr><td>ا Alif</td><td>13 sourates</td></tr>
+<tr><td>ل Lām</td><td>13 sourates</td></tr>
+<tr><td>ح Ḥāʾ</td><td>7 sourates</td></tr>
+<tr><td>ر Rāʾ</td><td>6 sourates</td></tr>
+<tr><td>س Sīn</td><td>5 sourates</td></tr>
+<tr><td>ط Ṭāʾ</td><td>4 sourates</td></tr>
+</tbody>
+</table>
 </div>
 <div>
-
-| Lettre | Fréquence |
-|--------|-----------|
-| ص Ṣād | 3 sourates |
-| ه Hāʾ | 2 sourates |
-| ي Yāʾ | 2 sourates |
-| ع ʿAyn | 2 sourates |
-| ق Qāf | 2 sourates |
-| ك Kāf | 1 sourate |
-| ن Nūn | 1 sourate |
-
+<table>
+<thead><tr><th>Lettre</th><th>Fréquence</th></tr></thead>
+<tbody>
+<tr><td>ص Ṣād</td><td>3 sourates</td></tr>
+<tr><td>ه Hāʾ</td><td>2 sourates</td></tr>
+<tr><td>ي Yāʾ</td><td>2 sourates</td></tr>
+<tr><td>ع ʿAyn</td><td>2 sourates</td></tr>
+<tr><td>ق Qāf</td><td>2 sourates</td></tr>
+<tr><td>ك Kāf</td><td>1 sourate</td></tr>
+<tr><td>ن Nūn</td><td>1 sourate</td></tr>
+</tbody>
+</table>
 </div>
 </div>
 
