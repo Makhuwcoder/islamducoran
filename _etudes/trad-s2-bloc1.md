@@ -269,8 +269,8 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html
    ref="S.2:25"
-   ar="وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ"
-   trl="*Wa-bashshiri lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti anna lahum jannātin tajrī min taḥtihā l-anhāru*"
+   ar="وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ"
+   trl="*Wa-bashshiri lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti anna lahum jannātin tajrī min taḥtihā l-anhāru — kullamā ruziqū minhā min thamaratin rizqan qālū hādhā lladhī ruziqnā min qablu wa-utū bihi mutashābihan wa-lahum fīhā azwājun muṭahharatun wa-hum fīhā khālidūn*"
    trad="Annonce la bonne nouvelle à ceux qui ont cru et accompli les actes droits : à eux des *jannāt* sous lesquelles coulent des fleuves — chaque fois qu'on leur accordera un fruit comme *rizq*, ils diront : « C'est ce dont on nous a pourvus auparavant » — et on leur en donnera de similaires. À eux des épouses purifiées, et ils y demeureront éternellement."
 %}
 
@@ -280,8 +280,8 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html
    ref="S.2:26"
-   ar="إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا"
-   trl="*Inna llāha lā yastaḥyī an yaḍriba mathalan mā baʿūḍatan fa-mā fawqahā*"
+   ar="إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ"
+   trl="*Inna llāha lā yastaḥyī an yaḍriba mathalan mā baʿūḍatan fa-mā fawqahā — fa-ammā lladhīna āmanū fa-yaʿlamūna annahu l-ḥaqqu min rabbihim wa-ammā lladhīna kafarū fa-yaqūlūna mādhā arāda llāhu bi-hādhā mathalan — yuḍillu bihi kathīran wa-yahdī bihi kathīran wa-mā yuḍillu bihi illā l-fāsiqīn*"
    trad="Certes Allaah ne se prive pas de prendre en exemple un moustique ou ce qui le dépasse. Ceux qui ont cru savent que c'est le *ḥaqq* venant de leur *Rabb*. Quant à ceux qui ont commis le *kufr*, ils disent : « Qu'a voulu Allaah par cet exemple ? » — Par cela Il en égare beaucoup et en guide beaucoup, et Il n'égare par cela que les *fāsiqīn*."
 %}
 
