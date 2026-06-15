@@ -417,6 +417,11 @@ li { margin-bottom: .3rem; }
 }
 .verset__trad { display: block; margin-bottom: .55rem;
   text-align: center;
+  margin-top: 1rem;
+  padding-top: .85rem;
+  border-top: 1px solid var(--or3);
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.05rem;
 }
 .verset__trad strong, .verset__corps strong { color: var(--or3); font-weight: 600; }
 
