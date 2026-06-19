@@ -1,0 +1,238 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Historique des débats — islamducoran.fr</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #16130e; color: #f0e2c0; font-family: 'Cormorant Garamond', serif; }
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap');
+    ::-webkit-scrollbar { width: 3px; }
+    ::-webkit-scrollbar-thumb { background: rgba(201,168,76,0.25); border-radius: 2px; }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<div id="app" style="min-height:100vh; display:flex; flex-direction:column;">
+
+  <!-- HEADER -->
+  <div style="border-bottom:1px solid rgba(201,168,76,0.18); padding:1.2rem 1.8rem; display:flex; align-items:center; justify-content:space-between; background:rgba(0,0,0,0.35); position:sticky; top:0; z-index:20;">
+    <div>
+      <div style="font-family:'Cinzel',serif; font-size:0.48rem; letter-spacing:0.16em; text-transform:uppercase; color:rgba(201,168,76,0.6); margin-bottom:0.25rem;">islamducoran.fr · Archives publiques</div>
+      <div style="font-family:'Cinzel',serif; font-size:0.95rem; font-weight:700; color:#f0e2c0; letter-spacing:0.04em;">Historique des débats intra-coraniques</div>
+      <div style="font-family:'Cormorant Garamond',serif; font-size:0.75rem; color:rgba(240,226,192,0.45); margin-top:0.15rem; font-style:italic;">Tous les échanges · Anonymes · Archive publique</div>
+    </div>
+    <div style="display:flex; align-items:center; gap:0.75rem;">
+      <a href="/debats/" style="font-family:'Cinzel',serif; font-size:0.48rem; letter-spacing:0.09em; text-transform:uppercase; cursor:pointer; background:rgba(201,168,76,0.12); border:1px solid rgba(201,168,76,0.4); border-radius:2px; padding:0.4rem 0.85rem; color:#c9a84c; text-decoration:none;">← Débattre</a>
+    </div>
+  </div>
+
+  <!-- FILTRES -->
+  <div style="padding:1rem 1.8rem; border-bottom:1px solid rgba(201,168,76,0.1); background:rgba(0,0,0,0.2); display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center;">
+    <span style="font-family:'Cinzel',serif; font-size:0.48rem; letter-spacing:0.1em; text-transform:uppercase; color:rgba(201,168,76,0.5);">Filtrer :</span>
+    <select id="filter-manip" onchange="applyFilters()" style="font-family:'Cinzel',serif; font-size:0.5rem; letter-spacing:0.06em; background:rgba(255,255,255,0.04); border:1px solid rgba(201,168,76,0.2); border-radius:2px; color:#c9a84c; padding:0.3rem 0.6rem; cursor:pointer;">
+      <option value="">Toutes les manipulations</option>
+      <option value="TRUNCATURE_SELECTIVE">Truncature sélective</option>
+      <option value="GLISSEMENT_SEMANTIQUE">Glissement sémantique</option>
+      <option value="APPEL_AUTORITE">Appel à l'autorité</option>
+      <option value="PETITION_PRINCIPE">Pétition de principe</option>
+      <option value="EXTRAPOLATION_ILLICITE">Extrapolation illicite</option>
+      <option value="FAUSSE_UNIVERSALITE">Fausse universalité</option>
+      <option value="DEPLACEMENT_CHARGE_PREUVE">Déplacement de charge</option>
+      <option value="AMALGAME_TERMINOLOGIQUE">Amalgame terminologique</option>
+      <option value="APPEL_TRADITION">Appel à la tradition</option>
+      <option value="FRAGMENTATION_CONTEXTUELLE">Fragmentation contextuelle</option>
+      <option value="INFERENCE_COMME_DIT">Inférence présentée comme dit</option>
+      <option value="PRESSION_EMOTIONNELLE">Pression émotionnelle</option>
+    </select>
+    <input id="filter-verset" oninput="applyFilters()" placeholder="Filtrer par verset, ex: S.45:6" style="font-family:'Cinzel',serif; font-size:0.5rem; letter-spacing:0.06em; background:rgba(255,255,255,0.04); border:1px solid rgba(201,168,76,0.2); border-radius:2px; color:#c9a84c; padding:0.3rem 0.6rem; width:180px;" />
+    <input id="filter-mot" oninput="applyFilters()" placeholder="Mot-clé..." style="font-family:'Cinzel',serif; font-size:0.5rem; letter-spacing:0.06em; background:rgba(255,255,255,0.04); border:1px solid rgba(201,168,76,0.2); border-radius:2px; color:#c9a84c; padding:0.3rem 0.6rem; width:160px;" />
+    <span id="count-label" style="font-family:'Cinzel',serif; font-size:0.45rem; color:rgba(201,168,76,0.4); margin-left:auto;"></span>
+  </div>
+
+  <!-- STATS GLOBALES -->
+  <div id="stats-bar" style="padding:0.8rem 1.8rem; border-bottom:1px solid rgba(201,168,76,0.08); display:flex; gap:2rem; flex-wrap:wrap;"></div>
+
+  <!-- LISTE -->
+  <div id="liste" style="flex:1; padding:1.5rem 1.8rem; max-width:1000px; width:100%; margin:0 auto;"></div>
+
+  <!-- PAGINATION -->
+  <div id="pagination" style="padding:1rem 1.8rem; display:flex; justify-content:center; gap:0.5rem;"></div>
+
+</div>
+
+<script>
+const SUPABASE_URL = "https://dsepcdbvjxecztkakwga.supabase.co";
+const SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRzZXBjZGJ2anhlY3p0a2Frd2dhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE4MTgxMzcsImV4cCI6MjA5NzM5NDEzN30.5B_TQg7cEk5KGIpA2_CChsmrhGJ9UxerBFbQjVAh_zY";
+const PAGE_SIZE = 20;
+
+const MANIP_LABELS = {
+  TRUNCATURE_SELECTIVE:"Truncature sélective", GLISSEMENT_SEMANTIQUE:"Glissement sémantique",
+  APPEL_AUTORITE:"Appel à l'autorité", PETITION_PRINCIPE:"Pétition de principe",
+  EXTRAPOLATION_ILLICITE:"Extrapolation illicite", FAUSSE_UNIVERSALITE:"Fausse universalité",
+  DEPLACEMENT_CHARGE_PREUVE:"Déplacement de charge", AMALGAME_TERMINOLOGIQUE:"Amalgame terminologique",
+  APPEL_TRADITION:"Appel à la tradition ancestrale", FRAGMENTATION_CONTEXTUELLE:"Fragmentation contextuelle",
+  INFERENCE_COMME_DIT:"Inférence présentée comme dit", PRESSION_EMOTIONNELLE:"Pression émotionnelle"
+};
+
+let allData = [];
+let filtered = [];
+let currentPage = 0;
+
+async function fetchAll() {
+  const liste = document.getElementById('liste');
+  liste.innerHTML = '<div style="text-align:center;padding:3rem;font-family:\'Cinzel\',serif;font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(201,168,76,0.4);">Chargement de l\'archive…</div>';
+  try {
+    // Fetch par lots de 1000 (limite Supabase)
+    let from = 0; let all = [];
+    while (true) {
+      const res = await fetch(
+        `${SUPABASE_URL}/rest/v1/debats_historique?select=id,created_at,argument_utilisateur,reponse_agent,argument_resume,manipulations,versets_utilises,mots_cles,force_refutation&order=created_at.desc&limit=1000&offset=${from}`,
+        { headers: { "apikey": SUPABASE_ANON, "Authorization": `Bearer ${SUPABASE_ANON}` } }
+      );
+      const batch = await res.json();
+      if (!Array.isArray(batch) || batch.length === 0) break;
+      all = all.concat(batch);
+      if (batch.length < 1000) break;
+      from += 1000;
+    }
+    allData = all;
+    renderStats();
+    applyFilters();
+  } catch(e) {
+    liste.innerHTML = `<div style="text-align:center;padding:3rem;color:#e74c3c;font-family:'Cormorant Garamond',serif;">Erreur de chargement : ${e.message}</div>`;
+  }
+}
+
+function renderStats() {
+  const bar = document.getElementById('stats-bar');
+  const manipCounts = {};
+  allData.forEach(e => (e.manipulations||[]).forEach(m => { manipCounts[m]=(manipCounts[m]||0)+1; }));
+  const topManip = Object.entries(manipCounts).sort((a,b)=>b[1]-a[1])[0];
+  const versetCounts = {};
+  allData.forEach(e => (e.versets_utilises||[]).forEach(v => { versetCounts[v]=(versetCounts[v]||0)+1; }));
+  const topVerset = Object.entries(versetCounts).sort((a,b)=>b[1]-a[1])[0];
+  const avgForce = allData.length ? (allData.reduce((s,e)=>s+(e.force_refutation||3),0)/allData.length).toFixed(1) : 0;
+  const statItem = (val, label) => `<div style="text-align:center;padding:0.5rem 1rem;background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.12);border-radius:3px;">
+    <div style="font-family:'Cinzel',serif;font-size:1.2rem;font-weight:700;color:#c9a84c;">${val}</div>
+    <div style="font-family:'Cinzel',serif;font-size:0.4rem;letter-spacing:0.08em;text-transform:uppercase;color:rgba(240,226,192,0.4);margin-top:2px;">${label}</div>
+  </div>`;
+  bar.innerHTML = [
+    statItem(allData.length, "échanges archivés"),
+    statItem(avgForce+"/5", "force moy. de réfutation"),
+    topManip ? statItem("×"+topManip[1], `manipulation #1 : ${MANIP_LABELS[topManip[0]]||topManip[0]}`) : "",
+    topVerset ? statItem("×"+topVerset[1], `verset le + cité : ${topVerset[0]}`) : ""
+  ].join('');
+}
+
+function applyFilters() {
+  const manip = document.getElementById('filter-manip').value;
+  const verset = document.getElementById('filter-verset').value.trim().toLowerCase();
+  const mot = document.getElementById('filter-mot').value.trim().toLowerCase();
+  filtered = allData.filter(e => {
+    if (manip && !(e.manipulations||[]).includes(manip)) return false;
+    if (verset && !(e.versets_utilises||[]).some(v=>v.toLowerCase().includes(verset))) return false;
+    if (mot && !((e.argument_resume||"").toLowerCase().includes(mot) || (e.mots_cles||[]).some(k=>k.toLowerCase().includes(mot)))) return false;
+    return true;
+  });
+  currentPage = 0;
+  document.getElementById('count-label').textContent = `${filtered.length} résultat${filtered.length>1?'s':''}`;
+  renderPage();
+}
+
+function renderPage() {
+  const liste = document.getElementById('liste');
+  const pageBadge = (color, label) => `<span style="display:inline-block;background:rgba(201,168,76,0.1);border:1px solid rgba(201,168,76,0.35);border-radius:2px;font-family:'Cinzel',serif;font-size:0.45rem;letter-spacing:0.07em;text-transform:uppercase;color:#c9a84c;padding:0.1rem 0.4rem;margin:0 0.2rem 0.2rem 0;">${label}</span>`;
+  const start = currentPage * PAGE_SIZE;
+  const page = filtered.slice(start, start + PAGE_SIZE);
+
+  if (page.length === 0) {
+    liste.innerHTML = '<div style="text-align:center;padding:4rem;font-family:\'Cormorant Garamond\',serif;font-size:1rem;color:rgba(240,226,192,0.3);font-style:italic;">Aucun échange trouvé pour ces filtres.</div>';
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  liste.innerHTML = page.map((e, idx) => {
+    const date = new Date(e.created_at);
+    const dateStr = date.toLocaleDateString('fr-FR', {day:'2-digit',month:'long',year:'numeric'});
+    const manips = (e.manipulations||[]).map(m=>pageBadge('#c9a84c', MANIP_LABELS[m]||m)).join('');
+    const versets = (e.versets_utilises||[]).map(v=>`<span style="font-family:'Cinzel',serif;font-size:0.45rem;color:rgba(201,168,76,0.6);letter-spacing:0.06em;margin-right:0.5rem;">${v}</span>`).join('');
+    const forceStars = '◆'.repeat(Math.round(e.force_refutation||3)) + '◇'.repeat(5-Math.round(e.force_refutation||3));
+    const argShort = (e.argument_resume||"").slice(0,200) + ((e.argument_resume||"").length>200?"…":"");
+    const argFull = (e.argument_utilisateur||"").slice(0,600) + ((e.argument_utilisateur||"").length>600?"…":"");
+    const repFull = (e.reponse_agent||"").slice(0,800) + ((e.reponse_agent||"").length>800?"…":"");
+    const id = `debat-${start+idx}`;
+    return `
+    <div style="margin-bottom:1.5rem;border:1px solid rgba(201,168,76,0.12);border-left:3px solid rgba(201,168,76,0.4);border-radius:0 4px 4px 0;background:rgba(255,255,255,0.02);">
+      <div style="padding:1rem 1.2rem;border-bottom:1px solid rgba(201,168,76,0.08);display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;flex-wrap:wrap;">
+        <div style="flex:1;">
+          <div style="font-family:'Cormorant Garamond',serif;font-size:0.95rem;color:#e8d49a;font-style:italic;line-height:1.6;margin-bottom:0.5rem;">"${argShort}"</div>
+          <div style="display:flex;flex-wrap:wrap;gap:0.2rem;margin-bottom:0.3rem;">${manips}</div>
+          <div>${versets}</div>
+        </div>
+        <div style="text-align:right;flex-shrink:0;">
+          <div style="font-family:'Cinzel',serif;font-size:0.45rem;color:rgba(201,168,76,0.5);letter-spacing:0.06em;">${dateStr}</div>
+          <div style="font-family:'Cinzel',serif;font-size:0.6rem;color:#c9a84c;margin-top:0.3rem;" title="Force de réfutation : ${e.force_refutation||3}/5">${forceStars}</div>
+        </div>
+      </div>
+      <div style="padding:0 1.2rem;">
+        <button onclick="toggleDetail('${id}')" style="font-family:'Cinzel',serif;font-size:0.45rem;letter-spacing:0.08em;text-transform:uppercase;color:rgba(201,168,76,0.5);background:none;border:none;cursor:pointer;padding:0.6rem 0;width:100%;text-align:left;">▸ Voir l'échange complet</button>
+        <div id="${id}" style="display:none;padding-bottom:1rem;">
+          <div style="margin-bottom:0.8rem;">
+            <div style="font-family:'Cinzel',serif;font-size:0.42rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(201,168,76,0.4);margin-bottom:0.4rem;">Argument soumis</div>
+            <div style="font-family:'Cormorant Garamond',serif;font-size:0.88rem;line-height:1.8;color:rgba(240,226,192,0.7);background:rgba(201,168,76,0.04);border-left:2px solid rgba(201,168,76,0.2);padding:0.6rem 0.8rem;font-style:italic;">${argFull}</div>
+          </div>
+          <div>
+            <div style="font-family:'Cinzel',serif;font-size:0.42rem;letter-spacing:0.1em;text-transform:uppercase;color:rgba(201,168,76,0.4);margin-bottom:0.4rem;">Réfutation de l'agent</div>
+            <div style="font-family:'Cormorant Garamond',serif;font-size:0.88rem;line-height:1.9;color:#f0e2c0;border-left:3px solid #c9a84c;padding:0.6rem 0.8rem;">${repFull}</div>
+          </div>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+
+  renderPagination();
+}
+
+function toggleDetail(id) {
+  const el = document.getElementById(id);
+  const btn = el.previousElementSibling;
+  if (el.style.display === 'none') {
+    el.style.display = 'block';
+    btn.textContent = '▾ Masquer l\'échange';
+  } else {
+    el.style.display = 'none';
+    btn.textContent = '▸ Voir l\'échange complet';
+  }
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+  const pg = document.getElementById('pagination');
+  if (totalPages <= 1) { pg.innerHTML = ''; return; }
+  const btnStyle = (active) => `font-family:'Cinzel',serif;font-size:0.48rem;letter-spacing:0.08em;background:${active?"#c9a84c":"rgba(255,255,255,0.04)"};color:${active?"#16130e":"rgba(240,226,192,0.4)"};border:1px solid ${active?"#c9a84c":"rgba(201,168,76,0.2)"};border-radius:2px;padding:0.35rem 0.65rem;cursor:pointer;`;
+  let html = '';
+  if (currentPage > 0) html += `<button style="${btnStyle(false)}" onclick="goPage(${currentPage-1})">←</button>`;
+  for (let i = Math.max(0,currentPage-2); i <= Math.min(totalPages-1,currentPage+2); i++) {
+    html += `<button style="${btnStyle(i===currentPage)}" onclick="goPage(${i})">${i+1}</button>`;
+  }
+  if (currentPage < totalPages-1) html += `<button style="${btnStyle(false)}" onclick="goPage(${currentPage+1})">→</button>`;
+  pg.innerHTML = html;
+}
+
+function goPage(n) {
+  currentPage = n;
+  renderPage();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+fetchAll();
+</script>
+</body>
+</html>
