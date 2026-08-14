@@ -114,7 +114,8 @@ permalink: /etudes/
       {slug:'naskh',title:"Al-Naskh — L'abrogation"},
       {slug:'traduction-intraduisible',title:"Le Coran est-il intraduisible ?"},
       {slug:'qiraaat-recitations',title:"Les récitations — Al-Qirāʾāt"},
-      {slug:'ilm-ulama',title:"Al-ʿIlm — La saisie certaine du réel"}
+      {slug:'ilm-ulama',title:"Al-ʿIlm — La saisie certaine du réel"},
+      {slug:'rapporteurs-coran-hadith',title:"Rapporteurs communs, fiabilités distinctes"}
     ],
     "universalite": [
       {slug:'universite-islam-culture-arabe',title:"Islam universel VS Culture arabe"},
