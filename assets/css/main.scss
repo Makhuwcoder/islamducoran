@@ -465,15 +465,15 @@ li { margin-bottom: .3rem; }
 
 /* ═══════════ NOTE LEXICALE ═══════════ */
 .nl {
-  margin: .9rem 0; padding: .9rem 1.2rem;
+  margin: .9rem 0; padding: .7rem 1rem;
   background: var(--bg3);
   border-left: 2px solid var(--or);
   border-radius: 0 3px 3px 0;
-  font-size: .92rem; line-height: 1.7; color: var(--texte2);
+  font-size: .8rem; line-height: 1.6; color: var(--texte2);
 }
 .nl__label {
   font-family: var(--font-titre);
-  font-size: .85rem; letter-spacing: .12em;
+  font-size: .7rem; letter-spacing: .12em;
   text-transform: uppercase; color: var(--or2); margin-bottom: .3rem; display: block;
 }
 .ar-inline { font-family: var(--font-arabe); font-size: 1.1em; color: var(--arabe-c); }
