@@ -37,6 +37,11 @@ permalink: /methode/
 
 <p>Le Coran a été révélé en arabe classique. Pour tout lecteur dont l'arabe n'est ni la langue maternelle ni la langue d'époque du texte, comprendre le sens premier des racines est une nécessité linguistique — non une démarche herméneutique.</p>
 
+<div class="nl">
+  <span class="nl__label">Note de vocabulaire</span>
+  <em>Herméneutique</em> : discipline de l'interprétation qui adjoint au texte du sens depuis l'extérieur — contexte, tradition, présupposés du lecteur. Elle s'oppose ici à la simple lexicographie, qui se borne à établir le sens premier des mots dans leur langue d'origine, sans y ajouter d'interprétation.
+</div>
+
 <p><strong>Trois sources lexicographiques exclusives :</strong></p>
 
 <p><strong><em>Al-Khalīl ibn Aḥmad al-Farāhīdī</em></strong> · <em>Kitāb al-ʿAyn</em> (IIe siècle H) — le premier dictionnaire de la langue arabe.</p>
