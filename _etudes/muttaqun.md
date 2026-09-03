@@ -86,7 +86,9 @@ Ce texte place la *taqwā* et son opposé (*fujūr*, la transgression qui rompt 
 
 ### 1 · La prière elle-même peut être condamnée
 
-{% include verset.html ref="Sourate Al-Māʿūn · 107:4–6" ar="فَوَيْلٌ لِّلْمُصَلِّينَ ﴿٤﴾ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ ﴿٥﴾ الَّذِينَ هُمْ يُرَاءُونَ ﴿٦﴾" trl="*Fa-waylun li-l-muṣallīn — alladhīna hum ʿan ṣalātihim sāhūn — alladhīna hum yurāʾūn*" trad="Malheur à ceux qui prient — ceux qui sont négligents envers leur ṣalāt — ceux qui se donnent en spectacle (yurāʾūn)." %}
+{% include verset.html ref="Sourate Al-Māʿūn · 107:4–6" ar="فَوَيْلٌ لِّلْمُصَلِّينَ ﴿٤﴾ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ ﴿٥﴾ الَّذِينَ هُمْ يُرَاءُونَ ﴿٦﴾" trl="*Fa-waylun li-l-muṣallīn — alladhīna hum ʿan ṣalātihim sāhūn — alladhīna hum yurāʾūn*" trad="Malheur à ceux qui prient — ceux qui se laissent sciemment distraire de leur ṣalāt par autre chose — ceux qui se donnent en spectacle (yurāʾūn)." %}
+
+{% include callout.html type="dit" label="Note lexicale — sāhūn" content="Racine *س-ه-و* : *as-sahw*, selon Ibn Manẓūr, est « le départ du cœur vers autre chose » (*dhahāb al-qalb ilā ghayrihi*) — le verset ne nomme pas ce « autre chose » ; c'est le sens même de la racine qui l'implique. Ibn al-Athīr distingue par ailleurs *sahw fī* (distrait *dans* l'acte, sans le savoir — un lapsus accidentel) et *sahw ʿan* (détourné *loin de* l'acte, en le sachant) — construction employée ici (*ʿan ṣalātihim*, non *fī ṣalātihim*). « Négligence » suggérerait un oubli involontaire ; « désintérêt » resterait trop neutre. La formulation retenue porte à la fois le mouvement du cœur vers ailleurs (le sens racinaire) et le caractère conscient du détournement (la préposition *ʿan*)." %}
 
 {% include callout.html type="dit" label="L'acte visible ne suffit pas" content="Le texte ne condamne pas ici l'absence de prière, mais la prière elle-même, quand elle est accomplie pour être vue (*riyāʾ*). L'acte religieux extérieur, pourtant accompli, est disqualifié par l'orientation qui l'anime." %}
 
