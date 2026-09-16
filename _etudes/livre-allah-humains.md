@@ -27,7 +27,7 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ## II · Neuf caractéristiques que le Coran s'attribue lui-même
 
-### 1 · كَامِلٌ — Complet
+### <span id="theme-1">1 · كَامِلٌ — Complet</span>
 
 {% include verset.html ref="Sourate Al-Māʾida · 5:3 — Le dīn parachevé" ar="الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا" trl="*Al-yawma **akmaltu** lakum dīnakum wa-**atammtu** ʿalaykum niʿmatī wa-raḍītu lakumu l-islāma dīnā*" trad="Aujourd'hui **J'ai parachevé** pour vous votre *dīn*, **J'ai accompli** sur vous Mon bienfait et J'ai agréé pour vous l'islām comme *dīn*." %}
 
@@ -41,7 +41,7 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ---
 
-### 2 · كَافٍ — Suffisant
+### <span id="theme-2">2 · كَافٍ — Suffisant</span>
 
 {% include verset.html ref="Sourate Al-ʿAnkabūt · 29:51 — Ne leur suffit-il pas ?" ar="أَوَلَمْ يَكْفِهِمْ أَنَّا أَنزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَىٰ عَلَيْهِمْ إِنَّ فِي ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ" trl="***Awa-lam yakfihim** annā anzalnā ʿalayka l-kitāba yutlā ʿalayhim · inna fī dhālika la-raḥmatan wa-dhikrā li-qawmin yuʾminūn*" trad="**Ne leur suffit-il pas** que Nous ayons fait descendre sur toi le Livre qui leur est récité ? Il y a là une miséricorde et un rappel pour un peuple qui croit." %}
 
@@ -51,7 +51,7 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ---
 
-### 3 · مُفَصَّلٌ — Détaillé
+### <span id="theme-3">3 · مُفَصَّلٌ — Détaillé</span>
 
 {% include verset.html ref="Sourate Fuṣṣilat · 41:3 — Versets articulés en détail" ar="كِتَابٌ فُصِّلَتْ آيَاتُهُ قُرْآنًا عَرَبِيًّا لِّقَوْمٍ يَعْلَمُونَ" trl="***Kitābun fuṣṣilat āyātuhu** qurʾānan ʿarabiyyan li-qawmin yaʿlamūn*" trad="Un Livre dont **les versets ont été articulés en détail**, un Coran arabe pour un peuple qui sait." %}
 
@@ -61,15 +61,20 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ---
 
-### 4 · مُبِينٌ — Clair
+### <span id="theme-4">4 · مُبِينٌ — Clair</span>
 
 {% include verset.html ref="Sourate Al-Ḥijr · 15:1 — Coran qui se rend manifeste" ar="الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُّبِينٍ" trl="*Alif-Lām-Rā — tilka āyātu l-kitābi wa-**qurʾānin mubīn***" trad="Alif-Lam-Ra — Ce sont les versets du Livre et d'un **Coran qui se rend manifeste**." %}
 
 {% include callout.html type="dit" label="Lexique — mubīn" content="Racine ب-ي-ن (Ibn Fāris) : « la séparation et la distinction qui rendent les choses évidentes ». Un texte *mubīn* est un texte qui se rend lui-même manifeste sans nécessiter d'intermédiaire. Un texte qui nécessiterait un éclaireur pour devenir clair ne serait pas, par définition, *mubīn*." %}
 
+<div class="verset-bloc">
+{% include verset.html ref="Sourate Yūsuf · 12:1 — Idem" ar="الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ" trl="*Alif-Lām-Rā — tilka āyātu l-kitābi l-**mubīn***" trad="Alif-Lam-Ra — Voici les signes du Livre **manifeste**." %}
+{% include verset.html ref="Sourate Ash-Shuʿarāʾ · 26:2 — Idem" ar="تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ" trl="*Tilka āyātu l-kitābi l-**mubīn***" trad="Voici les signes du Livre **manifeste**." %}
+</div>
+
 ---
 
-### 5 · يَسِيرٌ — Facile (répété quatre fois)
+### <span id="theme-5">5 · يَسِيرٌ — Facile (répété quatre fois)</span>
 
 {% include verset.html ref="Sourate Al-Qamar · 54:17 = 54:22 = 54:32 = 54:40 — Répété quatre fois" ar="وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ" trl="***Wa-laqad yassarnā l-qurʾāna li-l-dhikri** fa-hal min muddakir*" trad="**Et certes Nous avons rendu le Coran facile pour le rappel** — y a-t-il donc quelqu'un qui se rappelle ?" %}
 
@@ -77,7 +82,17 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ---
 
-### 6 · لَا اخْتِلَافَ — Sans contradiction
+### <span id="theme-6">6 · مُيَسَّرٌ — Accessible / Rendu facile</span>
+
+{% include verset.html ref="Sourate Ad-Dukhān · 44:58 — Rendu accessible en ta langue" ar="فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ" trl="*Fa-innamā **yassarnāhu** bi-lisānika laʿallahum yatadhakkarūn*" trad="**Nous ne l'avons rendu accessible** que par ta langue, afin qu'ils se rappellent." %}
+
+{% include callout.html type="dit" label="Lexique — yassarnāhu" content="Même racine ي-س-ر que *yasīr* (S.54:17), mais ici à la forme causative (« rendre facile/accessible ») avec un objet direct explicite : le Livre lui-même. Le moyen de cette accessibilité est précisé — *bi-lisānika*, « par ta langue » — la mise à disposition passe par la langue de celui à qui le texte est révélé." %}
+
+{% include verset.html ref="Sourate Al-Qamar · 54:17 — Repris ici" ar="وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ" trl="*Wa-laqad **yassarnā** l-qurʾāna li-l-dhikri fa-hal min muddakir*" trad="Nous avons **rendu le Coran accessible** pour le rappel — y a-t-il donc quelqu'un qui se rappelle ?" %}
+
+---
+
+### <span id="theme-7">7 · لَا اخْتِلَافَ — Sans contradiction</span>
 
 {% include verset.html ref="Sourate Al-Nisāʾ · 4:82 — Preuve par l'absence de contradiction" ar="أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا" trl="*Afalā yatadabbarūna l-qurʾāna — wa-law kāna min ʿindi ghayri llāhi **la-wajadū fīhi khitilāfan kathīrā***" trad="Ne méditent-ils donc pas le Coran ? Si c'était de la part d'autre qu'Allaah, **ils y trouveraient de nombreuses contradictions**." %}
 
@@ -85,13 +100,19 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ---
 
-### 7 · حَكِيمٌ — Sage
+### <span id="theme-8">8 · حَكِيمٌ — Sage</span>
 
 {% include verset.html ref="Sourate Yāsīn · 36:2 — Serment par le Coran sage" ar="وَالْقُرْآنِ الْحَكِيمِ" trl="*Wa-l-**qurʾāni l-ḥakīm***" trad="Par **le Coran sage** !" %}
 
+{% include verset.html ref="Sourate Az-Zukhruf · 43:4 — Dans la Mère du Livre" ar="وَإِنَّهُ فِي أُمِّ الْكِتَابِ لَدَيْنَا لَعَلِيٌّ حَكِيمٌ" trl="*Wa-innahu fī ummi l-kitābi ladaynā la-ʿaliyyun **ḥakīm***" trad="Il est certes, dans la Mère du Livre auprès de Nous, élevé et **empreint de sagesse**." %}
+
+{% include callout.html type="dit" label="Précision — ʿaliyy ne qualifie pas Allaah ici" content="Dans ce verset, l'adjectif *ʿaliyy* qualifie l'*umm al-kitāb* (le Livre-source), et non Allaah — la réserve du site sur la traduction spatiale de *ʿalā* appliquée à Allaah ne s'applique donc pas à cet emploi." %}
+
+{% include verset.html ref="Sourate Yūnus · 10:1 — Livre sage" ar="الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ" trl="*Alif-Lām-Rā — tilka āyātu l-kitābi l-**ḥakīm***" trad="Alif-Lam-Ra — Voici les signes du Livre **empreint de sagesse**." %}
+
 ---
 
-### 8 · لِلْعَالَمِينَ — Universel
+### <span id="theme-9">9 · لِلْعَالَمِينَ — Universel</span>
 
 {% include verset.html ref="Sourate Al-Furqān · 25:1 — Pour les mondes" ar="تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا" trl="*Tabāraka lladhī nazzala l-Furqāna ʿalā ʿabdihi **li-yakūna li-l-ʿālamīna nadhīrā***" trad="Béni soit Ce qui a fait descendre le *Furqān* sur Son serviteur **pour qu'il soit pour les mondes un avertisseur**." %}
 
