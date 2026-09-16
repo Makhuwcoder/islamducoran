@@ -32,6 +32,21 @@ permalink: /
 
 <!-- ═══════════════ 9 ATTRIBUTS ═══════════════ -->
 <section class="attrs-section"><div class="accueil-wrap">
+<style>
+.attr-refs a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+  transition: color .15s, border-color .15s;
+}
+.attr-refs a:hover,
+.attr-refs a:focus {
+  color: var(--or2, #c9a84c);
+  border-bottom-color: var(--or2, #c9a84c);
+}
+.attr-card { transition: border-color .15s, transform .15s; }
+</style>
+
   <div class="attrs-section-title">Le Coran selon le Coran</div>
   <div class="attrs-section-subtitle">Neuf éléments de ce que l'on peut dire du Coran</div>
   <div class="attrs-section-desc">Le Coran est un livre qui se décrit lui-même avec une précision remarquable. Cette auto-description n'est pas un artifice rhétorique : c'est un dispositif argumentatif interne qui permet au lecteur honnête d'évaluer la légitimité de tout autre texte prétendant compléter ou interpréter le message de Allaah.</div>
@@ -40,47 +55,47 @@ permalink: /
     <div class="attr-card">
       <div class="attr-arabic">كَامِلٌ</div>
       <div class="attr-label">Complet</div>
-      <div class="attr-refs">5:3 · 6:38 · 16:89</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3" target="_blank" rel="noopener">5:3</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=38" target="_blank" rel="noopener">6:38</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=89" target="_blank" rel="noopener">16:89</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">كَافٍ</div>
       <div class="attr-label">Suffisant</div>
-      <div class="attr-refs">29:51 · 6:114</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=51" target="_blank" rel="noopener">29:51</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=114" target="_blank" rel="noopener">6:114</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">مُفَصَّلٌ</div>
       <div class="attr-label">Détaillé / Explicite</div>
-      <div class="attr-refs">6:114 · 41:3 · 12:111</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=114" target="_blank" rel="noopener">6:114</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=3" target="_blank" rel="noopener">41:3</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=111" target="_blank" rel="noopener">12:111</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">مُبِينٌ</div>
       <div class="attr-label">Clair / Manifeste</div>
-      <div class="attr-refs">12:1 · 15:1 · 26:2</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1" target="_blank" rel="noopener">12:1</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=1" target="_blank" rel="noopener">15:1</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=2" target="_blank" rel="noopener">26:2</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">يَسِيرٌ</div>
       <div class="attr-label">Facile</div>
-      <div class="attr-refs">54:17 · 54:22 · 54:32 · 54:40</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=17" target="_blank" rel="noopener">54:17</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=22" target="_blank" rel="noopener">54:22</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=32" target="_blank" rel="noopener">54:32</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=40" target="_blank" rel="noopener">54:40</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">مُيَسَّرٌ</div>
       <div class="attr-label">Accessible / Rendu facile</div>
-      <div class="attr-refs">44:58 · 54:17</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=58" target="_blank" rel="noopener">44:58</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=17" target="_blank" rel="noopener">54:17</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic" style="font-size:1.4rem;">لَا اخْتِلَافَ فِيهِ</div>
       <div class="attr-label">Sans contradiction / Cohérent</div>
-      <div class="attr-refs">4:82 · 41:42</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=82" target="_blank" rel="noopener">4:82</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=42" target="_blank" rel="noopener">41:42</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">حَكِيمٌ</div>
       <div class="attr-label">Sage / Parfaitement logique</div>
-      <div class="attr-refs">36:2 · 43:4 · 10:1</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=2" target="_blank" rel="noopener">36:2</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=4" target="_blank" rel="noopener">43:4</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=1" target="_blank" rel="noopener">10:1</a></div>
     </div>
     <div class="attr-card">
       <div class="attr-arabic">لِلْعَالَمِينَ</div>
       <div class="attr-label">Universel (pour les mondes)</div>
-      <div class="attr-refs">25:1 · 38:87 · 81:27</div>
+      <div class="attr-refs"><a href="https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=1" target="_blank" rel="noopener">25:1</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=87" target="_blank" rel="noopener">38:87</a> · <a href="https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=27" target="_blank" rel="noopener">81:27</a></div>
     </div>
   </div>
 
