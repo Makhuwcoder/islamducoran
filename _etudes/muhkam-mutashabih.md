@@ -111,23 +111,46 @@ Le sens premier de la racine n'est donc pas « rendre clair », mais **rendre fe
   </div>
 </div>
 
-Ce verset contient une ambiguïté grammaticale réelle, documentée par la tradition exégétique elle-même — non une invention moderne.
+Ce verset contient une ambiguïté grammaticale réelle. La construction arabe permet deux découpages syntaxiques distincts, selon l'endroit où l'on place la pause (waqf) — un fait de langue, indépendant de toute école ou de toute autorité qui l'aurait ou non retenu.
 
-### La question du point d'arrêt (waqf)
+### La question du point d'arrêt (waqf) — deux découpages possibles, un seul cohérent
 
 <div class="callout callout--nondit">
-  <span class="callout__label">Deux lectures grammaticalement valides, attestées chez les classiques</span>
+  <span class="callout__label">Les deux découpages syntaxiques possibles</span>
   <div class="callout__body">
-    <p><strong>Lecture 1 (waqf lāzim — arrêt après « illā llāh »)</strong> : « ... nul ne connaît son aboutissement sauf Allaah. — Et les rāsikhūna fī l-ʿilm disent : Nous y croyons... » Dans cette lecture, les rāsikhūna ne connaissent pas davantage le taʾwīl qu'aucun autre croyant : leur enracinement dans la science consiste précisément à professer la foi <em>sans</em> prétendre à cette connaissance. C'est la lecture que rapporte al-Ṭabarī comme position de ʿUmar ibn ʿAbd al-ʿAzīz, et qu'appuient les *qirāʾāt* attribuées à Ubayy ibn Kaʿb et à ʿAbdullāh ibn Masʿūd — deux compagnons dont la récitation de ce passage marque explicitement une rupture syntaxique après « Allaah », ce que rapporte également al-Zamakhsharī.</p>
-    <p><strong>Lecture 2 (waṣl — continuité)</strong> : « ... nul ne connaît son aboutissement sauf Allaah et les rāsikhūna fī l-ʿilm, [qui] disent : Nous y croyons... » Dans cette lecture, les rāsikhūna sont associés à Allaah dans la connaissance du taʾwīl. C'est la position que la tradition attribue à Mujāhid, Muḥammad ibn Jaʿfar al-Zubayr, al-Rabīʿ ibn Anas, et qui a été majoritairement retenue par les commentateurs postérieurs — c'est elle qui sous-tend la lecture consacrant les savants comme dépositaires légitimes du sens caché.</p>
-    <p>Al-Ṭabarī, dans son <em>Tafsīr</em>, expose les deux lectures sans trancher unilatéralement, rappelant que le désaccord existait déjà parmi les tout premiers exégètes.</p>
+    <p><strong>Découpage 1 (arrêt après « illā llāh »)</strong> : « ... nul ne connaît son aboutissement sauf Allaah. — Et les rāsikhūna fī l-ʿilm disent : Nous y croyons... » Les rāsikhūna ne connaissent pas davantage le taʾwīl qu'aucun autre croyant : leur enracinement dans la science consiste précisément à professer la foi <em>sans</em> prétendre à cette connaissance.</p>
+    <p><strong>Découpage 2 (continuité)</strong> : « ... nul ne connaît son aboutissement sauf Allaah et les rāsikhūna fī l-ʿilm, [qui] disent : Nous y croyons... » Les rāsikhūna sont ici associés à Allaah dans la connaissance du taʾwīl — c'est cette lecture qui fonde l'idée d'un accès privilégié des savants au sens caché du texte.</p>
+  </div>
+</div>
+
+<div class="callout callout--pivot">
+  <span class="callout__label">Pourquoi le second découpage ne tient pas — trois arguments internes au texte</span>
+  <div class="callout__body">
+    <p><strong>1. Une construction sans précédent dans tout le Coran.</strong> La formule « nul ne connaît X sauf Allaah » (<em>lā yaʿlamu ... illā llāh</em>) revient à plusieurs reprises pour désigner le ghayb — l'inconnaissable — et elle est, chaque fois, exclusive à Allaah seul, sans aucune association humaine :</p>
+  </div>
+</div>
+
+{% include verset.html ref="Sourate An-Naml · 27:65 — Le ghayb, exclusif à Allaah" ar="قُل لَّا يَعْلَمُ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا اللَّهُ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ" trl="*Qul lā yaʿlamu man fī s-samāwāti wa-l-arḍi l-ghayba illā llāh · wa-mā yashʿurūna ayyāna yubʿathūn*" trad="Dis : nul, dans les cieux et sur la terre, ne connaît l'inconnaissable, sauf Allaah — et ils ne perçoivent pas quand ils seront ressuscités." %}
+
+<div class="callout callout--pivot">
+  <div class="callout__body">
+    <p>Si le second découpage de S.3:7 était retenu, ce verset deviendrait la seule occurrence de tout le Coran où une connaissance placée sous ce régime d'exclusivité (<em>illā llāh</em>) est structurellement partagée avec un groupe humain dans la même proposition. Par cohérence intra-coranique, une lecture qui produit une exception unique et sans parallèle est la lecture la moins probable, pas la plus probable.</p>
+    <p><strong>2. Une chute rhétorique incohérente.</strong> Si les rāsikhūna fī l-ʿilm venaient d'être associés à Allaah dans la connaissance du taʾwīl, la phrase suivante devrait en tirer la conséquence — une affirmation de savoir, une explication, une autorité. Or elle les fait dire : « Nous y croyons, tout provient de notre Rabb » — la formule même de qui ne sait <em>pas</em> et s'en remet à la foi. Un texte ne hisse pas un groupe au rang de codétenteur d'un savoir réservé à Allaah pour aussitôt le faire parler comme n'importe quel croyant sincère : c'est une rupture de registre que le second découpage ne peut pas expliquer, alors que le premier la rend immédiatement cohérente — les rāsikhūna ne savent pas, et c'est précisément pour cela qu'ils croient.</p>
+    <p><strong>3. Une clôture, non un ajout.</strong> Dans le second découpage, la dernière proposition — « seuls s'en souviennent ceux qui sont dotés du minimum de raison » — arrive comme un troisième groupe accolé après Allaah+rāsikhūn (qui savent) et les rāsikhūn (qui croient), sans qu'on distingue clairement son rapport aux deux précédents. Dans le premier découpage, elle referme naturellement le verset entier, en écho à son ouverture sur « ceux dont le cœur dévie » : Allaah seul sait → les rāsikhūna professent leur foi → et seuls les gens de raison saine en tirent la leçon. La structure retrouve alors sa cohérence de bout en bout.</p>
+  </div>
+</div>
+
+<div class="callout callout--warn">
+  <span class="callout__label">Une construction à écarter, pas seulement à mettre en balance</span>
+  <div class="callout__body">
+    <p>Ces trois arguments ne s'additionnent pas à égalité avec le second découpage : ils l'invalident. Une lecture qui exige une exception unique au régime d'exclusivité divine du ghayb, qui produit une rupture de registre que rien dans le texte ne motive, et qui laisse la clôture du verset orpheline de sa fonction, n'est pas une variante grammaticale parmi d'autres à respecter par prudence méthodologique. C'est une construction qui, examinée pour elle-même, ne tient pas — et qui a pourtant servi, dans les faits, à fonder l'idée qu'un corps de savants détient un accès au sens du Coran refusé au reste des croyants. Que cette lecture ait été majoritairement retenue ne la rend pas plus cohérente : la cohérence d'un texte se vérifie par sa structure interne, pas par le nombre de ceux qui l'ont, par la suite, adoptée.</p>
   </div>
 </div>
 
 <div class="callout callout--inf">
-  <span class="callout__label">Ce que la cohérence intra-coranique permet d'ajouter au débat</span>
+  <span class="callout__label">Ce que la cohérence intra-coranique permet d'ajouter</span>
   <div class="callout__body">
-    <p>La section IV ci-dessus a établi que le <em>taʾwīl</em>, dans l'usage constant du Coran, désigne l'<strong>aboutissement effectif d'une chose</strong> — un événement qui « vient » un jour donné — et non l'acte de commenter un texte. Si l'on retient ce sens attesté partout ailleurs dans le Coran, la phrase « nul ne connaît son taʾwīl sauf Allaah » cesse de porter sur la compréhension du sens des versets mutashābihāt : elle porte sur la connaissance de leur <strong>réalisation future</strong> — cohérent avec le fait que plusieurs mutashābihāt coraniques concernent des réalités eschatologiques ou cosmiques (l'Heure, les lettres disjointes, la nature des anges, etc.) dont l'aboutissement échappe par nature à la connaissance humaine, savants compris. Cette lecture affaiblit l'argument selon lequel un corps de savants détiendrait, par la formule même de S.3:7, un accès privilégié au sens du texte — qu'on retienne le waqf ou le waṣl, puisque dans les deux cas ce qui est en jeu n'est pas la signification linguistique des mots, mais l'issue future de ce qu'ils annoncent.</p>
+    <p>La section IV ci-dessus a établi que le <em>taʾwīl</em>, dans l'usage constant du Coran, désigne l'<strong>aboutissement effectif d'une chose</strong> — un événement qui « vient » un jour donné — et non l'acte de commenter un texte. Retenu dans le premier découpage, ce sens rend la phrase parfaitement cohérente : « nul ne connaît son aboutissement sauf Allaah » porte sur la réalisation future de ce qu'annoncent les mutashābihāt — cohérent avec le fait que plusieurs d'entre elles concernent des réalités eschatologiques ou cosmiques (l'Heure, les lettres disjointes, la nature des anges) dont l'aboutissement échappe par nature à toute connaissance humaine, savants compris.</p>
   </div>
 </div>
 
