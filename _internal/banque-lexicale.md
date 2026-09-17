@@ -446,6 +446,60 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc XII (S2:267–283)
+
+**kh-b-th (خبث)** — vicié, corrompu — *al-khabīth*, opposé exact de *ṭayyib* — S2:267.
+
+**ʾ-m-m (أمم) — forme V, sens dérivé** — viser délibérément, se diriger vers — *tayammamū* — S2:267.
+
+**gh-m-ḍ (غمض)** — fermer les yeux — *tughmiḍū* — S2:267.
+
+**ḥ-m-d (حمد)** — digne de louange, ce à quoi revient toute reconnaissance méritée — *al-Ḥamīd* — S2:267.
+
+**ʿ-f-f (عفف)** — la retenue, l'abstention volontaire de solliciter — *al-taʿaffuf* — S2:273.
+
+**w-s-m (وسم)** — la marque distinctive, le signe reconnaissable — *sīmā* — S2:273.
+
+**l-ḥ-f (لحف)** — l'insistance pressante dans la demande — *ilḥāfan* — S2:273.
+
+**ḥ-ṣ-r (حصر)** — être retenu, cerné, empêché de sortir — *uḥṣirū* — S2:273.
+
+**w-ʿ-ẓ (وعظ)** — exhortation qui touche le cœur — *mawʿiẓa* — S2:275.
+
+**s-l-f (سلف)** — ce qui a précédé, ce qui est passé — *salaf* — S2:275.
+
+**m-ḥ-q (محق)** — effacer, réduire jusqu'à néant — *yamḥaqu* — S2:276.
+
+**ʿ-s-r (عسر) / y-s-r (يسر)** — difficulté/resserrement vs aisance/facilité — *ʿusra*/*maysara* — S2:280.
+
+**d-y-n (دين) — forme VI** — contracter mutuellement une dette — *tadāyantum* — S2:282.
+
+**k-t-b (كتب)** — écrire, mettre par écrit — *kātib* — S2:282.
+
+**ʾ-b-y (أبي)** — refuser — *lā yaʾba* — S2:282.
+
+**m-l-l (ملل) — forme IV** — dicter à voix haute — *yumlili* — attribué au débiteur, non au créancier — S2:282.
+
+**b-kh-s (بخس)** — diminuer frauduleusement, retrancher indûment — *lā yabkhas* — S2:282.
+
+**s-f-h (سفه)** — dépourvu de discernement dans la gestion de ses affaires — *safīh* — S2:282.
+
+**sh-h-d (شهد) — forme X** — requérir le témoignage — *istashhidū* — S2:282, réemploi de la racine.
+
+**s-ʾ-m (سأم)** — se lasser, éprouver de la lassitude — *tasʾamū* — S2:282.
+
+**ḥ-ḍ-r (حضر) — réemploi** — *tijāratan ḥāḍira* : commerce immédiat, sans délai — S2:282.
+
+**ḍ-r-r (ضرر) — forme III passive** — subir un préjudice — *lā yuḍārra* — protection explicite du scribe et du témoin — S2:282.
+
+**r-h-n (رهن)** — le gage — *rihān* — S2:283.
+
+**ʾ-m-n (أمن) — sens dérivé** — ce qui est confié, la charge de confiance — *amāna* — S2:283, réemploi de la racine.
+
+**k-t-m (كتم) — réemploi** — ne pas dissimuler — *lā taktumū* — S2:283.
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
