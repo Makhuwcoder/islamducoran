@@ -500,6 +500,28 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc XIII (S2:284–286) — clôture de la Sourate 2
+
+**ḥ-s-b (حسب) — réemploi** — demander compte, évaluer précisément — *yuḥāsibkum* — S2:284.
+
+**k-s-b (كسب) — formes I et VIII contrastées** — *kasabat* (acquérir) vs *iktasabat* (rechercher/entreprendre délibérément) — nuance morphologique relevée sans trancher au-delà de ce que le texte énonce — S2:286.
+
+**ʾ-kh-dh (أخذ) — forme III** — saisir, tenir rigueur — *tuʾākhidhnā* — S2:286.
+
+**n-s-y (نسي)** — oublier — *nasīnā* — S2:286.
+
+**kh-ṭ-ʾ (خطأ)** — commettre une erreur, un écart non intentionnel — *akhṭaʾnā* — S2:286.
+
+**ʾ-ṣ-r (أصر)** — une charge qui pèse, qui immobilise par son poids — *iṣr* — S2:286.
+
+**r-ḥ-m (رحم)** — Ibn Fāris (*Maqāyīs*) : *ar-riqqa wa-t-taʿaṭṭuf*, disposition qui incline vers la sollicitude — conservée au sens fonctionnel (ce qui se traduit en conséquence), sans projection d'affect humain sur Allaah — *irḥamnā* — S2:286.
+
+**m-l-k / l-ʾ-k (ملك/لأك)** — *malāʾika*, déjà rencontré à plusieurs reprises — S2:285.
+
+**f-r-q (فرق) — réemploi** — *lā nufarriqu bayna aḥadin min rusulih* : absence de distinction dans l'adhésion à chaque rasūl, à distinguer de la hiérarchie de faḍl entre eux déjà posée en S2:253 — les deux affirmations ne se contredisent pas — S2:285.
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
