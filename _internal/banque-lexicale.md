@@ -344,6 +344,34 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **r-k-b (ركب)** — monter, chevaucher — *rukbānan* — S2:239.
 
+### Ajouts Bloc X (S2:243–253)
+
+**q-r-ḍ (قرض)** — détacher une portion de son bien pour la donner, avec attente d'un retour — *yuqriḍu/qarḍ* (métaphore du prêt à Allaah) — S2:245.
+
+**q-b-ḍ / b-s-ṭ (قبض / بسط)** — resserrer/saisir vs étendre/déployer — appliqués à Allaah sans image de main (anthropomorphisme exclu) — S2:245 ; *basṭa* = surcroît (S2:247, savoir/constitution).
+
+**ṣ-f-w (صفو)** — déjà en banque — *ṣṭafāhu* (a élu) — S2:247.
+
+**w-s-ʿ (وسع)** — déjà en banque — *Wāsiʿ* comme nom : amplitude fonctionnelle, jamais spatiale, appliquée à Allaah — S2:247.
+
+**s-k-n (سكن) — sens dérivé** — *sakīna* : quiétude/stabilité descendue (distinct du sens « immobilité par le besoin », *al-masākīn*, même racine) — S2:248.
+
+**b-l-w (بلو)** — mettre à l'épreuve — *mubtalīkum* — S2:249.
+
+**gh-r-f (غرف)** — puiser pour soi (forme VIII) — *ightarafa* — S2:249.
+
+**f-ʾ-y (فأي)** — groupe, troupe rassemblée — *fiʾa* — S2:249.
+
+**h-z-m (هزم)** — mettre en déroute, briser la résistance — *hazamūhum* — S2:251.
+
+**d-f-ʿ (دفع)** — la poussée qui repousse, écarte — *dafʿu llāhi l-nāsa baʿḍahum bi-baʿḍ* (principe de dissuasion réciproque) — S2:251.
+
+**t-l-w (تلو)** — réciter, faire suivre un énoncé — *natlūhā* — S2:252.
+
+**k-l-m (كلم) — emploi sur Allaah** — la parole adressée ; modalité non décrite par le texte (non-dit à respecter) — *kallama llāh* — S2:253.
+
+**r-w-ḥ (روح) / q-d-s (قدس)** — le souffle vital / la sacralité, pureté totale — *rūḥ al-qudus* translittéré — S2:253.
+
 ---
 
 ## Formules récurrentes déjà validées (répétitions structurelles)
