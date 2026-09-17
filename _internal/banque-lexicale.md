@@ -236,6 +236,78 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **ḍ-l-l (ضلل)** — égarement — *ḍāllīn/ḍalāla* — S2:175, S2:198.
 
+### Ajouts Bloc VIII (S2:200–227)
+
+**ʾ-dh-y (أذي)** — ce qui incommode, gêne, sans être faute morale ni impureté rituelle — *adhan* — S2:222 (maḥīḍ).
+
+**ʾ-kh-dh (أخذ)** — saisir, tenir pour responsable en vue d'une rétribution — *yuʾākhidhukum* — S2:225.
+
+**ʾ-l-y (ألي)** — jurer un vœu d'abstention — *īlāʾ* translittéré — S2:226.
+
+**b-ʾ-s (بأس)** — détresse violente, rigueur éprouvante — *al-baʾsāʾ* — S2:214, S2:177 (hors bloc).
+
+**b-ʿ-th (بعث)** — mettre en mouvement depuis un état de repos, susciter — *baʿatha* — S2:213.
+
+**ʿ-j-b (عجب)** — susciter l'admiration, séduire par l'apparence — *yuʿjibu/aʿjaba* — S2:204, S2:221.
+
+**ʿ-n-t (عنت)** — la difficulté qui va jusqu'à la rupture (Ibn Fāris : image de l'os mal réduit) — *la-aʿnatakum* — S2:220.
+
+**ʿ-r-ḍ (عرض)** — ce qui s'expose transversalement, fait obstacle — *ʿurḍatan* — S2:224.
+
+**ʿ-z-l (عزل)** — se tenir à l'écart, mise à distance délibérée — *ʿtazilū* (forme VIII) — S2:222.
+
+**ʿ-z-m (عزم)** — résoudre avec fermeté — *ʿazamū* — S2:227.
+
+**f-s-d (فسد)** — sortie de l'état d'équilibre, dérèglement (opposé de *ṣalāḥ*) — *fasād/mufsid* — S2:205, S2:220.
+
+**ḥ-l-m (حلم)** — retenue qui diffère la rétribution malgré la capacité d'agir (Farāhīdī : *imhāl*, non ignorance) — *Ḥalīm* — **jamais « indulgent/patient » au sens affectif humain** — S2:225.
+
+**ḥ-r-th (حرث)** — travail de la terre en vue d'une récolte ; métaphore de la fonction procréative/relationnelle du rapport conjugal, non désignation objectivante de la femme — *ḥarth* — S2:205 (culture), S2:223 (conjugal, lien intra-textuel avec *qaddimū li-anfusikum*).
+
+**ḥ-s-b (حسب)** — calculer, estimer par supputation ; au sens dérivé « suffire » (*ḥasbuhu*) — S2:206, S2:214, S2:202 (ḥisāb).
+
+**ḥ-y-ḍ (حيض)** — le flux, l'écoulement — *al-maḥīḍ* translittéré — S2:222.
+
+**k-r-h (كره)** — ce qui pèse, contraint, déplaît — *kurh/takrahū* — S2:216.
+
+**kh-l-ṭ (خلط)** — fusionner, mêler les affaires/ressources — *tukhāliṭūhum* — S2:220.
+
+**kh-m-r (خمر)** — recouvrement, obscurcissement de la raison — *al-khamr* translittéré ; verset S2:219 = balance faute/bénéfice, **pas une interdiction formelle** (celle-ci relève d'un autre verset, hors bloc) — S2:219.
+
+**l-gh-w (لغو)** — parole vide de portée, non délibérée — distincte du serment sciemment engagé — *al-laghw* — S2:225.
+
+**n-k-ḥ (نكح)** — contracter le lien du mariage — *tankiḥū/tunkiḥū* — S2:221.
+
+**ʿ-f-w (عفو) — sens dérivé** — le surplus disponible une fois les besoins propres couverts (distinct du sens « effacer/pardonner » déjà validé S2:178/187 — même racine, Ibn Fāris relie les deux par l'idée de ce qui « dépasse ») — *qul al-ʿafw* — S2:219.
+
+**q-w-m (قوم)** — se tenir debout, se dresser — *yawm al-qiyāma* — S2:212.
+
+**r-ʾ-f (رأف)** — intensité au sein du champ de la *raḥma* — *Raʾūf* — **jamais « doux/tendre/affectueux »** — S2:207.
+
+**r-b-ṣ (ربص)** — attente en suspens, délai observé — *tarabbuṣ* — S2:226.
+
+**s-k-n (سكن)** — immobilité, arrêt (par manque de moyens) — *al-masākīn* — S2:215.
+
+**s-l-m (سلم)** — intégrité, absence de fracture — *al-silm* translittéré (distinct d'*islām*, même racine) — S2:208.
+
+**sh-r-k (شرك)** — mise en équivalence de rang (cf. *andād*) — *mushrikāt/mushrikīn* — S2:221.
+
+**sh-r-y (شري)** — transaction d'échange ; « se donner tout entier » — *yashrī nafsahu* — S2:207.
+
+**ṭ-h-r (طهر) — deux formes distinctes** — *yaṭhurna* (forme I : cessation du flux) vs *taṭahharna* (forme V : accomplissement actif de la purification) — non interchangeables dans le texte — S2:222.
+
+**ṭ-l-q (طلق)** — délier, rendre libre un lien noué — *al-ṭalāq* translittéré — S2:227 (intention posée ; régime détaillé au bloc suivant).
+
+**w-l-y (ولي) — sens dérivé** — forme V *tawallā* : se détourner, tourner le dos (distinct de la wilāya, proximité protectrice, même racine) — S2:205.
+
+**y-t-m (يتم)** — état de solitude par rupture du lien de filiation paternelle — *al-yatāmā* — S2:215, S2:220.
+
+**y-s-r (يسر)** — la facilité ; gain sans effort proportionné, tirage au sort — *al-maysir* translittéré — S2:219.
+
+**z-y-n (زين)** — parer, embellir à la vue — *zuyyina* (passif ; agent non nommé par le texte, non-dit à respecter) — S2:212.
+
+**z-l-l (زلل) / z-l-z-l (réduplication)** — perte d'appui, faux pas / ébranlement répété — *zalaltum* (S2:209), *zulzilū* (S2:214).
+
 ---
 
 ## Formules récurrentes déjà validées (répétitions structurelles)
