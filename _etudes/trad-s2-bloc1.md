@@ -230,8 +230,11 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:21"
    ar="يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ"
    trl="*Yā ayyuhā n-nāsu ʿbudū rabbakumu lladhī khalaqakum wa-lladhīna min qablikum laʿallakum tattaqūn*"
-   trad="Ô *al-nās* ! Adorez votre *Rabb*, Ce qui vous a créés, vous et ceux d'avant vous — peut-être parviendrez-vous à la *taqwā*."
+   trad="Ô *al-nās* ! Adorez votre *Rabb*, Ce qui vous a créés, vous et ceux d'avant vous — afin que vous atteigniez la *taqwā*."
 %}
+
+{:.callout}
+**Correction rétroactive (2026-09-17).** *Laʿallakum tattaqūn* était initialement rendu ici de façon modale (« peut-être »). La méthode retient désormais uniformément le sens finaliste déclaré (« afin que ») pour *laʿalla* + subjonctif dans ce type de clausule — validé par l'étude [*Ṣiyām*](/etudes/siyam/) sur S2:183 et appliqué de façon cohérente en S2:150 et S2:179. Correction appliquée ici et en S2:52, S2:53, S2:63 (Bloc II).
 
 {% include verset.html
    ref="S.2:22"

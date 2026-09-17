@@ -157,8 +157,11 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:51–53"
    ar="وَإِذْ وَاعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَأَنتُمْ ظَالِمُونَ ۝ ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ ۝ وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ"
    trl="*Wa-idh wāʿadnā Mūsā arbaʿīna laylatan thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn · Thumma ʿafawnā ʿankum min baʿdi dhālika laʿallakum tashkurūn · Wa-idh ātaynā Mūsā l-kitāba wa-l-furqāna laʿallakum tahtadūn*"
-   trad="Et quand Nous avons accordé rendez-vous à Mūsā quarante nuits — vous avez pris le *ʿijl* après lui, et vous étiez des *ẓālimīn*. — Puis Nous vous avons pardonné après cela — peut-être serez-vous reconnaissants. — Et quand Nous avons donné à Mūsā le Livre et le *furqān* — peut-être serez-vous guidés."
+   trad="Et quand Nous avons accordé rendez-vous à Mūsā quarante nuits — vous avez pris le *ʿijl* après lui, et vous étiez des *ẓālimīn*. — Puis Nous vous avons pardonné après cela — afin que vous soyez reconnaissants. — Et quand Nous avons donné à Mūsā le Livre et le *furqān* — afin que vous soyez guidés."
 %}
+
+{:.callout}
+**Correction rétroactive (2026-09-17).** Les deux occurrences de *laʿalla* de ce verset étaient rendues de façon modale (« peut-être »). Lecture finaliste uniforme désormais retenue — voir la note sous S2:21 (Bloc I) et l'étude [*Ṣiyām*](/etudes/siyam/).
 
 **Note lexicale**
 
@@ -196,7 +199,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:63–66"
    ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ ۝ ثُمَّ تَوَلَّيْتُم مِّن بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُم مِّنَ الْخَاسِرِينَ"
    trl="*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi laʿallakum tattaqūn · Thumma tawallaytum min baʿdi dhālika fa-lawlā faḍlu llāhi ʿalaykum wa-raḥmatuhu la-kuntum mina l-khāsirīn*"
-   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s'y trouve — peut-être vous constituerez-vous une *taqwā*. » — Puis vous avez tourné le dos après cela — sans le *faḍl* d'Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*."
+   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s'y trouve — afin que vous vous constituiez une *taqwā*. » — Puis vous avez tourné le dos après cela — sans le *faḍl* d'Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*."
 %}
 
 ---
