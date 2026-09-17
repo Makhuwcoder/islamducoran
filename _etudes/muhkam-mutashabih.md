@@ -28,7 +28,7 @@ Cette étude examine ces trois affirmations une à une, à partir des racines le
 
 ## II · مُحْكَمٌ (Muḥkam) — que dit la racine ح-ك-م ?
 
-{% include callout.html type="dit" label="Définition lexicale — Ibn Fāris, Maqāyīs al-Lugha" content="Racine ح-ك-م : *al-manʿ* — empêcher, retenir, faire obstacle. Ibn Fāris rattache explicitement à cette racine le *ḥakam* (le mors du cheval, qui l'empêche de dévier) et le verbe *aḥkama al-shayʾa* : rendre une chose ferme, solide, empêcher qu'elle ne se disloque ou ne se corrompe. Le *ḥukm* (jugement, gouvernement) procède du même sens : trancher pour empêcher le désordre. Ibn Manẓūr (*Lisān al-ʿArab*) confirme : *al-iḥkām, al-itqān* — la fermeté, la parfaite fixation d'une chose." %}
+{% include callout.html type="dit" label="Définition lexicale — Ibn Fāris, Maqāyīs al-Lugha" content="Racine ح-ك-م : Ibn Fāris ramène son sens premier (*aṣl*) à celui d'une autre racine, م-ن-ع, qui exprime *al-manʿ* — empêcher, interdire, retenir, faire obstacle. Ibn Fāris rattache explicitement à cette racine le *ḥakam* (le mors du cheval, qui l'empêche de dévier) et le verbe *aḥkama al-shayʾa* : rendre une chose ferme, solide, empêcher qu'elle ne se disloque ou ne se corrompe. Le *ḥukm* (jugement, gouvernement) procède du même sens : trancher pour empêcher le désordre. Ibn Manẓūr (*Lisān al-ʿArab*) confirme : *al-iḥkām, al-itqān* — la fermeté, la parfaite fixation d'une chose." %}
 
 Le sens premier de la racine n'est donc pas « rendre clair », mais **rendre ferme, solide, inaltérable** — au sens où l'on parle d'une construction *muḥkama* (bien bâtie, qui ne se disloque pas) ou d'une décision *muḥkama* (arrêtée, sans retour possible).
 
