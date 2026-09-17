@@ -104,6 +104,13 @@ Le sens premier de la racine n'est donc pas « rendre clair », mais **rendre fe
 
 <p class="nl"><span class="nl__label">Renvoi — ulū l-albāb</span> Sur ce que désigne exactement cette expression (ni élite intellectuelle, ni capacité acquise, mais le socle de raison inhérent à tout être humain), voir l'étude dédiée : <a href="/etudes/ulu-albab/">Ulū l-Albāb</a>.</p>
 
+<div class="callout callout--inf">
+  <span class="callout__label">Inférence légitime</span>
+  <div class="callout__body">
+    <p>Le verbe <em>yadhdhakkaru</em> (« se remémorent ») est actif, non un simple état : le verset ne dit pas seulement que les ulū l-albāb <em>possèdent</em> ce minimum de raison, mais qu'ils sont ceux qui, de fait, <strong>s'en souviennent</strong> — c'est-à-dire ceux qui l'utilisent effectivement. La possession du <em>lubb</em> (le noyau de raison) est universelle et inhérente à tout être humain (voir l'étude dédiée) ; ce qui distingue les ulū l-albāb n'est donc pas une dotation supplémentaire, mais l'usage qu'ils en font. La barrière que pose ce verset n'est donc pas cognitive — elle est éthique.</p>
+  </div>
+</div>
+
 Ce verset contient une ambiguïté grammaticale réelle, documentée par la tradition exégétique elle-même — non une invention moderne.
 
 ### La question du point d'arrêt (waqf)
