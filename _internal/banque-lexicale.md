@@ -374,6 +374,78 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc XI (S2:254–266)
+
+**ḥ-y-y (حيي) — forme intensive** — *al-Ḥayy* : le vivant en soi, sans début ni fin — nom appliqué à Allaah, S2:255.
+
+**q-w-m (قوم) — forme intensive** — *al-Qayyūm* : ce qui se maintient par soi-même et fait subsister ce qui existe — S2:255.
+
+**s-n-h (سنه) — négation textuelle** — *sina* : somnolence — négation explicite du texte lui-même (pas ajout du traducteur) — S2:255.
+
+**n-w-m (نوم) — négation textuelle** — *nawm* : sommeil — même logique que *sina*, négation textuelle — S2:255.
+
+**k-r-s (كرس)** — *kursī* : point de désaccord lexicographique classique authentique — siège concret (lecture littérale) vs métaphore de l'étendue du savoir/de la souveraineté (lecture figurée) — les deux lectures nommées, aucune imposée, terme translittéré — S2:255.
+
+**ʾ-w-d (أود)** — peser, accabler — *yaʾūduhu* : négation textuelle (ce qui ne L'accable pas) — S2:255.
+
+**ʿ-l-w (علو)** — *al-ʿAliyy* : jamais rendu « Le Très-Haut » (connotation spatiale non effaçable en français) — translittéré avec note, conformément à la règle du projet et au précédent *stawā*/*laysa ka-mithlihi shayʾ* (S42:11) — S2:255.
+
+**ʿ-ẓ-m (عظم)** — *al-ʿAẓīm* : l'immense — hors mesure/comparaison, translittéré avec note — S2:255.
+
+**k-r-h (كره) — réemploi** — *ikrāh* : contrainte, forçage — *lā ikrāha fī l-dīn* — S2:256.
+
+**r-sh-d (رشد) / gh-y-y (غيي)** — la voie droite distincte de l'égarement — *al-rushd*/*al-ghayy* — S2:256.
+
+**ṭ-gh-y (طغي) — sens dérivé** — *ṭāghūt* : nom générique pour tout objet de soumission excessive hors Allaah, non un nom propre — S2:256–257.
+
+**ʿ-r-w (عرو) / w-th-q (وثق) / f-ṣ-m (فصم)** — *al-ʿurwatu l-wuthqā* (l'anse la plus solide) / *infiṣām* (rupture) — image de la saisie ferme sans rupture — S2:256.
+
+**w-l-y (ولي) — sens premier** — *Walī* : proximité protectrice/gestion des affaires — S2:257.
+
+**ẓ-l-m (ظلم) — famille** — *ẓulumāt* (ténèbres, pluriel) — S2:257.
+
+**n-w-r (نور)** — *nūr* : lumière — S2:257.
+
+**b-h-t (بهت)** — être frappé de stupeur, réduit au silence — *buhita* — S2:258.
+
+**kh-w-y (خوي)** — être effondré, vide — *khāwiya* — S2:259.
+
+**l-b-th (لبث)** — demeurer, séjourner — *labitha* — S2:259.
+
+**s-n-w / s-n-h (سنو/سنه)** — se corrompre avec le temps — *yatasannah* — S2:259.
+
+**n-sh-z (نشز)** — se redresser, se soulever — *nunshizu* (les ossements) — S2:259.
+
+**ṭ-m-ʾ-n (طمأن)** — s'apaiser, se stabiliser — *yaṭmaʾinna* (le cœur) — S2:260.
+
+**ṣ-w-r (صور)** — *ṣurhunna* : point de désaccord classique authentique — « apprivoise-les » (lecture retenue comme la plus courante) vs « découpe-les » — méthode retient la première sans exclure catégoriquement la seconde — S2:260.
+
+**j-z-ʾ (جزأ)** — part, portion — *juzʾ* — S2:260.
+
+**q-d-r (قدر)** — capacité déterminante — *Qadīr* — S2:260.
+
+**n-b-t (نبت)** — faire pousser, germer — *anbatat* — S2:261.
+
+**m-n-n (منن) — sens dérivé négatif** — *mann* : même racine que le don positif (*al-mann*, la manne) mais ici sens dérivé négatif — rappeler le bienfait de manière à humilier — S2:262–264.
+
+**gh-n-y (غني)** — *al-Ghaniyy* : ce qui se suffit à soi-même, sans besoin — S2:263, 267.
+
+**b-ṭ-l (بطل)** — annuler, rendre vain — *tubṭilū* — S2:264.
+
+**r-ʾ-y (رأي)** — *riʾāʾ* : le fait d'agir pour être vu — S2:264.
+
+**r-b-w (ربو)** — *rabwa* : hauteur, terrain élevé — S2:265.
+
+**ṭ-l-l (طلل)** — *ṭall* : pluie fine, rosée — S2:265.
+
+**k-b-r (كبر) — sens dérivé** — *al-kibar* : le grand âge — S2:266.
+
+**ḍ-ʿ-f (ضعف)** — lien avec *ḍuʿafāʾ* (les faibles, S2:266 : les descendants faibles laissés derrière) — S2:266.
+
+**ʿ-ṣ-r (عصر)** — tourbillon, ouragan — *iʿṣār* — S2:266.
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
