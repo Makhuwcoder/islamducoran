@@ -340,9 +340,10 @@ permalink: /traduction/
       <option value="/etudes/trad-s2-bloc6/">↓ Bloc VI · S2:158–179 — Shaʿāʾir · Birr · Qiṣāṣ</option>
     </optgroup>
 
-    <optgroup label="Sourate 2 · Al-Ijāba — S2:180–227">
+    <optgroup label="Sourate 2 · Al-Ijāba — S2:180–242">
       <option value="/etudes/trad-s2-bloc7/">↓ Bloc VII · S2:180–199 — Waṣiyya · Ṣiyām · Qitāl · Ḥajj</option>
       <option value="/etudes/trad-s2-bloc8/">↓ Bloc VIII · S2:200–227 — Qitāl · Khamr · Maysir · Mariage · Maḥīḍ</option>
+      <option value="/etudes/trad-s2-bloc9/">↓ Bloc IX · S2:228–242 — ʿIdda · Ṭalāq · Allaitement · Veuvage</option>
     </optgroup>
   </select>
 

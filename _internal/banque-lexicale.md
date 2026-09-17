@@ -308,6 +308,42 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **z-l-l (زلل) / z-l-z-l (réduplication)** — perte d'appui, faux pas / ébranlement répété — *zalaltum* (S2:209), *zulzilū* (S2:214).
 
+### Ajouts Bloc IX (S2:228–242)
+
+**q-r-ʾ (قرأ)** — **polysémie non résolue par la philologie seule** : rassembler/recueillir — *qurūʾ* = périodes de règles OU périodes de pureté (deux lectures rapportées par Ibn Manẓūr sans arbitrage lexical univoque) — translittéré, jamais rendu de façon univoque — S2:228.
+
+**b-ʿ-l (بعل)** — l'époux, maître du foyer (distinct de *zawj*) — *buʿūlatuhunna* — S2:228.
+
+**d-r-j (درج)** — gradation, degré, échelon — *daraja* — **note de non-généralisation** : le « degré » de S2:228 est circonscrit au contexte du droit de reprise pendant l'ʿidda, non une hiérarchie ontologique générale.
+
+**m-s-k / s-r-ḥ (مسك / سرح)** — retenir (saisir et maintenir) / relâcher (image pastorale du troupeau lâché) — *imsāk/tasrīḥ* — S2:229, S2:231.
+
+**h-z-ʾ (هزأ)** — dérision, moquerie — *huzuwan* — S2:231.
+
+**w-ʿ-ẓ (وعظ)** — exhorter, admonestation qui touche le cœur — *yaʿiẓukum* — S2:231, S2:232, S2:275 (hors bloc).
+
+**ʿ-ḍ-l (عضل)** — empêcher, faire obstacle avec contrainte (agent non nommé par le texte) — *taʿḍulūhunna* — S2:232.
+
+**r-ḍ-ʿ (رضع)** — allaiter — *yurḍiʿna/tastarḍiʿū* (forme X : chercher une nourrice) — S2:233.
+
+**w-f-y (وفي) — sens dérivé** — parachever, rappeler à complétude ; euphémisme coranique pour la mort — *yutawaffawna* — S2:234, S2:240.
+
+**f-ṣ-l (فصل)** — séparation, détachement — *fiṣālan* (sevrage) — S2:233.
+
+**ʿ-r-ḍ (عرض) — sens dérivé** — suggérer indirectement, allusion transversale (distinct du sens « obstacle », S2:224, même racine) — *ʿarraḍtum* — S2:235.
+
+**k-n-n (كنن)** — abriter, tenir dissimulé en soi — *aknantum* — S2:235.
+
+**ʿ-q-d (عقد)** — nouer fermement — *ʿuqdatu l-nikāḥ* — S2:235, S2:237.
+
+**m-s-s (مسس)** — toucher ; euphémisme standard pour le rapport conjugal — *tamassūhunna* — S2:236–237.
+
+**w-s-ʿ / q-t-r (وسع / قتر)** — l'aisé / celui aux moyens resserrés — *al-mūsiʿ/al-muqtir* — S2:236.
+
+**w-s-ṭ (وسط)** — ce qui est médian, central — *al-ṣalāt al-wusṭā* (non nommée par le texte) — S2:238.
+
+**r-k-b (ركب)** — monter, chevaucher — *rukbānan* — S2:239.
+
 ---
 
 ## Formules récurrentes déjà validées (répétitions structurelles)
