@@ -420,6 +420,9 @@ permalink: /traduction/
       <option value="/etudes/trad-s3-bloc6/">↓ Bloc VI · S3:149–180 — Uḥud · Second tamḥīṣ · Munāfiqūn · Tués sur le chemin d'Allaah</option>
       <option value="/etudes/trad-s3-bloc7/">↓ Bloc VII · S3:181–200 — Al-Tabyīn (mīthāq S3:187) · Ūlū l-albāb · Clôture de la sourate</option>
     </optgroup>
+    <optgroup label="Sourate 4 · An-Nisāʾ — en cours">
+      <option value="/etudes/trad-s4-bloc1/">↓ Bloc I · S4:1–23 — Origine unique · Orphelins · Farāʾiḍ de l'héritage · Unions interdites</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
