@@ -41,7 +41,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:3–4"
    ar="نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ التَّوْرَاةَ وَالْإِنجِيلَ ۝ مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ الْفُرْقَانَ ۗ إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَاللَّهُ عَزِيزٌ ذُو انتِقَامٍ"
    trl="Nazzala ʿalayka l-kitāba bi-l-ḥaqqi muṣaddiqan li-mā bayna yadayhi wa-anzala l-tawrāta wa-l-injīl — min qablu hudan li-l-nāsi wa-anzala l-furqān — inna lladhīna kafarū bi-āyāti llāhi lahum ʿadhābun shadīd — wa-llāhu ʿazīzun dhū ntiqām"
-   trad="Il a fait descendre sur toi le Livre porteur du ḥaqq, confirmant ce qui le précède — et Il a fait descendre la Tawrāh et l'Injīl, auparavant, en guidance pour les gens — et Il a fait descendre al-Furqān. Ceux qui couvrent leur reconnaissance des āyāt d'Allaah, à eux un châtiment sévère. Allaah est ʿAzīz, détenteur d'ntiqām."
+   trad="Il a fait descendre sur toi le Livre porteur du ḥaqq, confirmant ce qui le précède — et Il a fait descendre la Tawrāh et l'Injīl, auparavant, en guidance pour les gens — et Il a fait descendre al-Furqān. Ceux qui couvrent leur reconnaissance des āyāt d'Allaah, à eux un châtiment sévère. Allaah est ʿAzīz, détenteur d'intiqām."
 %}
 
 {% include verset.html
