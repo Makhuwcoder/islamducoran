@@ -712,6 +712,76 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **s-r-f (سرف) — réemploi, sens élargi** — *isrāfanā*, le débordement, l'excès au-delà de la mesure ; déjà connu dans le contexte de la dépense, ici appliqué plus largement à la conduite — S3:147.
 
+### Ajouts Bloc VI S3 (S3:149–180 — récit du jour de la rencontre des deux camps, second tamḥīṣ, munāfiqūn)
+
+**w-l-y (ولي) — fil racinal du bloc** — même racine appliquée successivement à *mawlā* (Allaah, protecteur, S3:150), *tawallaw* (se détourner, S3:155) et *awliyāʾ* (alliés du Shayṭān, S3:175) — trois pôles opposés tissés sur une même racine.
+
+**r-ʿ-b (رعب)** — l'effroi qui saisit, distinct de *khawf* et *khashya* — *al-ruʿb* — S3:151.
+
+**s-l-ṭ (سلط)** — une force/preuve qui s'impose — *sulṭān* — S3:151.
+
+**ḥ-s-s (حسس)** — sens de base : percevoir par les sens ; sens dérivé en contexte de combat : frapper, abattre en nombre — *taḥussūnahum* — S3:152.
+
+**f-sh-l (فشل)** — faiblir jusqu'à l'échec — *fashiltum* — S3:152.
+
+**n-z-ʿ (نزع)** — s'arracher mutuellement, se disputer — *tanāzaʿtum* — S3:152.
+
+**ṣ-r-f (صرف)** — détourner d'une trajectoire — *ṣarafakum* — S3:152.
+
+**Note de vigilance méthodologique — ẓann al-jāhiliyya (S3:154)** : *al-jāhiliyya*, racine j-h-l, désigne littéralement l'état d'ignorance qualifiant une pensée (ẓann) — non-dit sur toute périodisation historique précise ; ce seul verset ne fournit aucune borne chronologique.
+
+**m-ḥ-ṣ (محص) — seconde occurrence** — *wa-li-yumaḥḥiṣa*, S3:154, reprise à l'identique du verbe-pivot de S3:141 — renforce le fil « Al-Tamḥīṣ ».
+
+**z-l-l (زلل)** — faire glisser, faire chuter — *istazallahum* — S3:155 (Shayṭān cause du glissement, non-dit sur l'articulation exacte avec « bi-baʿḍi mā kasabū »).
+
+**l-y-n (لين)** — doux, souple — *linta*, qualifie le rasūl (non Allaah, la règle anti-anthropomorphisme ne s'applique pas) — S3:159.
+
+**sh-w-r (شور)** — consulter, extraire un avis — *shāwirhum* — S3:159.
+
+**w-k-l (وكل)** — confier une affaire, s'en remettre — *tawakkal/al-mutawakkilīn* (S3:159–160), même racine que *al-wakīl* (S3:173).
+
+**kh-dh-l (خذل)** — abandonner, laisser sans secours, opposé de *naṣr* — *yakhdhulkum* — S3:160.
+
+**gh-l-l (غلل)** — soustraire furtivement, détourner un bien collectif — *ghulūl* — S3:161 ; même famille que *ghill* (rancœur tapie, non rencontré dans ce bloc) : sens commun de ce qui circule caché.
+
+**w-f-y (وفي) — sens de base, distinct du sens dérivé déjà noté** — *tuwaffā kullu nafsin*, donner/recevoir en totalité (rétribution), sans connotation de mort — à distinguer de *yutawaffawna*/*mutawaffīka* (S2:234, S2:240, S3:55) — S3:161.
+
+**m-n-n (منن)** — accorder une faveur — *manna* — S3:164 ; homographe sans lien de sens avec la manne alimentaire (S2:57).
+
+**z-k-w (زكو) — réemploi** — *yuzakkīhim*, faire croître en pureté ; même racine que *zakāt* — S3:164.
+
+**ḥ-k-m (حكم) — hikma** — ce qui retient de l'erreur (image du mors) ; même racine que *ḥukm* — S3:164.
+
+**b-w-ʾ (بوء)** — revenir se loger dans un état, s'y installer — *bāʾa bi-sakhaṭ* — S3:162.
+
+**Note de renvoi — nifāq (S3:167)** : *nāfaqū*, racine n-f-q, homographe de la racine de *infāq* (dépenser, S2:3/195) mais sens second distinct — dictionnaires anciens rattachent ce sens au *nāfiqāʾ*, issue cachée du terrier du jarbū (double ouverture, une visible, une dissimulée) — d'où le sens de duplicité entre parole et cœur.
+
+**Note méthodologique — taʿālaw (S3:167)** : impératif figé « venez », racine ʿ-l-w (même racine que *al-aʿlawna*, S3:139), sans connotation d'élévation active dans cet emploi idiomatique — confirme par contraste la prudence requise quand cette racine qualifie Allaah.
+
+**k-t-m (كتم) — réemploi** — *yaktumūn*, même racine que S3:71/75, appliquée ici aux munāfiqūn — S3:167.
+
+**Note de renvoi méthodologique — tués sur le chemin d'Allaah (S3:169–171)** : voir l'étude dédiée [Amwāt, aḥyāʾ, barzakh](/etudes/amwat-ahyaa-barzakh/) — non-dit sur la modalité exacte (lieu, nature, temporalité) de l'état affirmé par ces versets.
+
+**Note de renvoi — istajābū (S3:172)** : racine j-w-b, la même que le titre déjà validé *Al-Ijāba* (Sourate 2) — écho lexical direct.
+
+**ḥ-ẓ-ẓ (حظظ)** — une part, un lot attribué — *ḥaẓẓan* — S3:176.
+
+**sh-r-y (شري) — réemploi, sens inversé** — *ishtarawu l-kufra bi-l-īmān*, échanger l'īmān contre le kufr — image inverse de S2:207 — S3:177.
+
+**m-l-w/m-l-y (ملو/ملي)** — prolonger, allonger un délai (sens concret : donner du mou à une corde) — *numlī*, sans connotation de faveur positive — S3:178.
+
+**Note de vigilance méthodologique — yamīza (m-y-z) distincte de yumaḥḥiṣa (m-ḥ-ṣ)** : m-y-z (S3:179) désigne la séparation d'un mélange selon une qualité déjà présente (*khabīth*/*ṭayyib*), tandis que m-ḥ-ṣ (S3:141, S3:154) désigne un tri produit par le passage même de l'épreuve — les deux racines convergent pour appuyer l'hypothèse de titre « Al-Tamḥīṣ » sans se substituer l'une à l'autre.
+
+**j-b-y (جبي)** — rassembler vers soi, choisir en attirant à soi (sens concret : collecter) — *yajtabī* — S3:179.
+
+**ṭ-l-ʿ (طلع)** — faire apparaître, faire accéder à une vue — *yuṭliʿakum* — S3:179.
+
+**b-kh-l (بخل)** — retenir par avarice — *yabkhalūn* — S3:180.
+
+**ṭ-w-q (طوق)** — mettre un collier/anneau autour du cou — *sa-yuṭawwaqūn*, image concrète de ce qui a été retenu, porté ensuite comme marque visible — S3:180.
+
+**w-r-th (ورث)** — ce qui revient en héritage — *mīrāth al-samāwāti wa-l-arḍ* — S3:180.
+
 ---
 
 ## Formules récurrentes déjà validées (répétitions structurelles)

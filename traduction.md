@@ -409,12 +409,13 @@ permalink: /traduction/
       <option value="/etudes/trad-s2-bloc13/">↓ Bloc XIII · S2:284–286 — Āmana l-rasūl · Clôture de la sourate</option>
     </optgroup>
 
-    <optgroup label="Sourate 3 · Āl ʿImrān — S3:1–148">
+    <optgroup label="Sourate 3 · Āl ʿImrān — S3:1–180">
       <option value="/etudes/trad-s3-bloc1/">↓ Bloc I · S3:1–32 — Tanzīl · Muḥkamāt/Mutashābihāt · Al-islām · Mālik al-Mulk</option>
       <option value="/etudes/trad-s3-bloc2/">↓ Bloc II · S3:33–63 — Āl ʿImrān · Maryam · ʿĪsā · Mubāhala</option>
       <option value="/etudes/trad-s3-bloc3/">↓ Bloc III · S3:64–99 — Parole commune · Ibrāhīm · Mīthāq des nabiyyūn · Maison de Bakka</option>
       <option value="/etudes/trad-s3-bloc4/">↓ Bloc IV · S3:100–129 — Al-Iʿtiṣām · Meilleure umma · Biṭāna · Ouverture de Badr</option>
       <option value="/etudes/trad-s3-bloc5/">↓ Bloc V · S3:130–148 — Ribā · Bayān · Al-Tamḥīṣ · Muḥammad n'est qu'un rasūl</option>
+      <option value="/etudes/trad-s3-bloc6/">↓ Bloc VI · S3:149–180 — Uḥud · Second tamḥīṣ · Munāfiqūn · Tués sur le chemin d'Allaah</option>
     </optgroup>
   </select>
 
@@ -429,7 +430,7 @@ permalink: /traduction/
     <option value="" disabled selected>― Choisir une sourate ―</option>
     <option value="/sourate/1/">↓ Sourate 1 · Al-Ṭalab — S1:1–7 (complète)</option>
     <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
-    <option value="/sourate/3/">↓ Sourate 3 · Āl ʿImrān — S3:1–148 (en cours)</option>
+    <option value="/sourate/3/">↓ Sourate 3 · Āl ʿImrān — S3:1–180 (en cours)</option>
   </select>
 
   <div class="trad-nav__row">
