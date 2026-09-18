@@ -29,9 +29,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ô vous qui avez cru, ne dites pas *rāʿinā* — dites *unẓurnā* et écoutez. Aux *kāfirīn* un châtiment douloureux. — Ceux qui ont commis le *kufr* parmi les gens du Livre, ni les *mushrikīn*, ne souhaitent que descende sur vous le moindre bien de la part de votre *Rabb* — Allaah réserve Sa *raḥma* à qui Il veut, et Allaah est le Détenteur de la faveur immense."
 %}
 
-**Note lexicale**
-
-- **rāʿinā** — équivoque lexicale : en arabe, « prends soin de nous / regarde-nous avec attention » ; mais la forme *rāʿin* peut être retournée en un terme péjoratif dans d'autres langues sémitiques. Le texte ordonne de substituer *unẓurnā* (regarde-nous, prends-nous en considération) pour éviter toute équivoque.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rāʿinā</span></dt>
+<dd>équivoque lexicale : en arabe, « prends soin de nous / regarde-nous avec attention » ; mais la forme *rāʿin* peut être retournée en un terme péjoratif dans d'autres langues sémitiques. Le texte ordonne de substituer *unẓurnā* (regarde-nous, prends-nous en considération) pour éviter toute équivoque.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:106–107"
@@ -40,9 +46,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Toute *āya* que Nous *nansakh* ou que Nous faisons oublier, Nous en apportons une meilleure ou une semblable — ne sais-tu pas qu'Allaah est capable de toute chose ? — Ne sais-tu pas qu'à Allaah appartient le *mulk* des cieux et de la terre ? Vous n'avez en dehors d'Allaah ni *walī* ni *naṣīr*."
 %}
 
-**Note lexicale**
-
-- **nansakh** — racine *n-s-kh* : copier, transcrire, puis par extension : remplacer, substituer. Le *naskh* coranique ici : toute *āya* que Nous *nansakh* — Nous en apportons une meilleure ou semblable. → Voir l'étude dédiée [Le *Naskh*](/etudes/naskh/).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">nansakh</span></dt>
+<dd>racine *n-s-kh* : copier, transcrire, puis par extension : remplacer, substituer. Le *naskh* coranique ici : toute *āya* que Nous *nansakh* — Nous en apportons une meilleure ou semblable. → Voir l'étude dédiée [Le *Naskh*](/etudes/naskh/).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -96,10 +108,19 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et ils ont dit : « Allaah s'est donné un fils. » *Subḥānahu* — non, à Lui appartient ce qui est dans les cieux et la terre — tout est *qānit* devant Lui. — *Badīʿ* des cieux et de la terre — quand Il décrète une chose Il dit seulement : « Sois » — et cela est."
 %}
 
-**Notes lexicales**
-
-- **qānitūn** — racine *q-n-t* : se tenir dans la soumission constante, l'obéissance durable. Ce que l'on peut dire lorsqu'on parle des créatures comme *qānitūn* : chacune est en état de soumission permanente à Allaah.
-- **badīʿ** — racine *b-d-ʿ* : inaugurateur absolu, créateur d'un genre entièrement nouveau. Ibn Fāris : *al-ibdāʿ : ikhtirāʿ al-shayʾ lā ʿan miṭhāl* — inventer une chose sans modèle préalable. Ce que l'on peut dire lorsqu'on parle d'Allaah comme *Badīʿ* : Ce qui instaure sans précédent, sans modèle, sans matière première.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">qānitūn</span></dt>
+<dd>racine *q-n-t* : se tenir dans la soumission constante, l'obéissance durable. Ce que l'on peut dire lorsqu'on parle des créatures comme *qānitūn* : chacune est en état de soumission permanente à Allaah.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">badīʿ</span></dt>
+<dd>racine *b-d-ʿ* : inaugurateur absolu, créateur d'un genre entièrement nouveau. Ibn Fāris : *al-ibdāʿ : ikhtirāʿ al-shayʾ lā ʿan miṭhāl* — inventer une chose sans modèle préalable. Ce que l'on peut dire lorsqu'on parle d'Allaah comme *Badīʿ* : Ce qui instaure sans précédent, sans modèle, sans matière première.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:118–121"
@@ -149,10 +170,19 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand Nous avons fait de la Maison une *mathāba* pour les gens et un espace de sécurité — et prenez le *maqām* d'Ibrāhīm comme *muṣallā* — et Nous avons chargé Ibrāhīm et Ismāʿīl de purifier Ma Maison pour les *ṭāʾifīn*, les *ʿākifīn*, et ceux qui font les *rukūʿ* et les *sujūd*."
 %}
 
-**Notes lexicales**
-
-- **mathāba** — racine *th-w-b* : lieu de retour, point de rassemblement récurrent. Ibn Fāris : *al-rujūʿ ilā l-shayʾ marratan baʿda marrat* — revenir à quelque chose fois après fois. La Maison comme lieu de retour permanent, non simplement de pèlerinage ponctuel.
-- **muṣallā** — racine *ṣ-l-w* : lieu où s'effectue la *ṣalāt*, espace d'orientation.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">mathāba</span></dt>
+<dd>racine *th-w-b* : lieu de retour, point de rassemblement récurrent. Ibn Fāris : *al-rujūʿ ilā l-shayʾ marratan baʿda marrat* — revenir à quelque chose fois après fois. La Maison comme lieu de retour permanent, non simplement de pèlerinage ponctuel.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">muṣallā</span></dt>
+<dd>racine *ṣ-l-w* : lieu où s'effectue la *ṣalāt*, espace d'orientation.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:126–127"

@@ -50,7 +50,37 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱصْطَفَىٰ iṣṭafā — racine ṣ-f-w (forme VIII) : choisir en écartant tout le reste, élire de façon exclusive — même racine que <em>ṣafwa</em> (l'élite, ce qui est purifié/décanté). مُحَرَّرًا muḥarraran — racine ḥ-r-r : rendu libre de toute autre affectation, entièrement voué/consacré — participe passif appliqué ici à un enfant à naître, voué au service exclusif d'al-miḥrāb. وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ — <strong>note de lecture</strong> : la frontière entre la parole rapportée de la mère et un énoncé du texte lui-même n'est pas marquée grammaticalement ; les deux lectures sont possibles sans que le sens global en soit affecté — la fille née n'est pas, dans son rôle attendu, interchangeable avec le garçon espéré pour le service voué. أُعِيذُهَا bika — racine ʿ-w-dh : chercher refuge, placer sous protection — déjà rencontré dans les sourates courtes de type isticadha. ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ al-shayṭāni l-rajīm — rajīm, racine r-j-m : banni, rejeté à distance (sens premier : lapidé/repoussé par jet de pierres, ici au sens dérivé d'exclusion). ٱلْمِحْرَاب al-miḥrāb — racine ḥ-r-b : un espace retiré, une loge fermée ; conservé translittéré, l'équivalent français « sanctuaire » important une charge architecturale précise que le terme arabe ne fixe pas nécessairement ici. رِزْقًا rizqan — provision, ce qui est accordé pour subsister ; racine déjà connue. Ce que le texte dit : une continuité d'élection (Ādam, Nūḥ, Āl Ibrāhīm, Āl ʿImrān), puis un vœu de consécration exclusive suivi d'un accueil et d'une provision extraordinaires pour Maryam. Ce que le texte ne dit pas : il ne précise pas la nature exacte de la provision trouvée par Zakariyyā, ni le mécanisme par lequel elle lui parvient.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱصْطَفَىٰ</span><span class="lex-trl">iṣṭafā</span></dt>
+<dd>racine ṣ-f-w (forme VIII) : choisir en écartant tout le reste, élire de façon exclusive — même racine que <em>ṣafwa</em> (l'élite, ce qui est purifié/décanté).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُحَرَّرًا</span><span class="lex-trl">muḥarraran</span></dt>
+<dd>racine ḥ-r-r : rendu libre de toute autre affectation, entièrement voué/consacré — participe passif appliqué ici à un enfant à naître, voué au service exclusif d'al-miḥrāb. وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ — <strong>note de lecture</strong> : la frontière entre la parole rapportée de la mère et un énoncé du texte lui-même n'est pas marquée grammaticalement ; les deux lectures sont possibles sans que le sens global en soit affecté — la fille née n'est pas, dans son rôle attendu, interchangeable avec le garçon espéré pour le service voué.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُعِيذُهَا</span><span class="lex-trl">bika</span></dt>
+<dd>racine ʿ-w-dh : chercher refuge, placer sous protection — dans les sourates courtes de type isticadha.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ</span><span class="lex-trl">al-shayṭāni l-rajīm</span></dt>
+<dd>rajīm, racine r-j-m : banni, rejeté à distance (sens premier : lapidé/repoussé par jet de pierres, ici au sens dérivé d'exclusion).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْمِحْرَاب</span><span class="lex-trl">al-miḥrāb</span></dt>
+<dd>racine ḥ-r-b : un espace retiré, une loge fermée ; conservé translittéré, l'équivalent français « sanctuaire » important une charge architecturale précise que le terme arabe ne fixe pas nécessairement ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رِزْقًا</span><span class="lex-trl">rizqan</span></dt>
+<dd>provision, ce qui est accordé pour subsister.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une continuité d'élection (Ādam, Nūḥ, Āl Ibrāhīm, Āl ʿImrān), puis un vœu de consécration exclusive suivi d'un accueil et d'une provision extraordinaires pour Maryam.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise pas la nature exacte de la provision trouvée par Zakariyyā, ni le mécanisme par lequel elle lui parvient.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -99,7 +129,41 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> سَيِّدًا sayyidan — racine s-y-d : figure d'autorité et de dignité reconnue ; traduit par « notable » plutôt que par « seigneur », terme réservé dans ce projet au registre de Rabb appliqué à Allaah. حَصُورًا ḥaṣūran — racine ḥ-ṣ-r : qui se retient, se contient entièrement — sens premier « encercler/confiner ». ٱلْغَيْب al-ghayb — déjà connu : ce qui échappe à la perception directe. ٱلْمَسِيح al-Masīḥ — conservé translittéré ; racine m-s-ḥ (essuyer/oindre) — **non-dit** sur la nuance précise retenue par ce titre dans ce contexte ; le terme est un nom propre composé, non traduit. ٱلْمُقَرَّبِينَ al-muqarrabīn — racine q-r-b : ceux rapprochés, mis en proximité. قنت qanata — racine q-n-t : se tenir dans un état de soumission/dévotion prolongée et constante ; conservé transcrit par « qunūt » faute d'équivalent français unique. سُجُود / رُكُوع sujūd / rukūʿ — la prosternation et l'inclinaison, gestes déjà rencontrés dans le vocabulaire rituel du corpus. Ce que le texte dit : Zakariyyā reçoit l'annonce de Yaḥyā malgré la vieillesse et la stérilité de son épouse, et demande un signe qui lui est accordé sous forme de mutisme temporaire ; Maryam est élue et appelée à un état de dévotion soutenu ; ʿĪsā est annoncé comme « une parole » venant d'Allaah. Ce que le texte ne dit pas : la nature exacte du tirage au sort par calames (S3:44) n'est pas détaillée au-delà de son résultat.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">سَيِّدًا</span><span class="lex-trl">sayyidan</span></dt>
+<dd>racine s-y-d : figure d'autorité et de dignité reconnue ; traduit par « notable » plutôt que par « seigneur », terme réservé dans ce projet au registre de Rabb appliqué à Allaah.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَصُورًا</span><span class="lex-trl">ḥaṣūran</span></dt>
+<dd>racine ḥ-ṣ-r : qui se retient, se contient entièrement — sens premier « encercler/confiner ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْغَيْب</span><span class="lex-trl">al-ghayb</span></dt>
+<dd>ce qui échappe à la perception directe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْمَسِيح</span><span class="lex-trl">al-Masīḥ</span></dt>
+<dd>conservé translittéré ; racine m-s-ḥ (essuyer/oindre) — **non-dit** sur la nuance précise retenue par ce titre dans ce contexte ; le terme est un nom propre composé, non traduit.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْمُقَرَّبِينَ</span><span class="lex-trl">al-muqarrabīn</span></dt>
+<dd>racine q-r-b : ceux rapprochés, mis en proximité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قنت</span><span class="lex-trl">qanata</span></dt>
+<dd>racine q-n-t : se tenir dans un état de soumission/dévotion prolongée et constante ; conservé transcrit par « qunūt » faute d'équivalent français unique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سُجُود / رُكُوع</span><span class="lex-trl">sujūd / rukūʿ</span></dt>
+<dd>la prosternation et l'inclinaison, gestes dans le vocabulaire rituel du corpus.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> Zakariyyā reçoit l'annonce de Yaḥyā malgré la vieillesse et la stérilité de son épouse, et demande un signe qui lui est accordé sous forme de mutisme temporaire ; Maryam est élue et appelée à un état de dévotion soutenu ; ʿĪsā est annoncé comme « une parole » venant d'Allaah.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> la nature exacte du tirage au sort par calames (S3:44) n'est pas détaillée au-delà de son résultat.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -127,7 +191,33 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> بَشَر bashar — être humain au sens biologique/générique, déjà rencontré. كُن فَيَكُونُ kun fa-yakūn — racine k-w-n (être/exister) : formule de création directe, traduite littéralement (« Sois — et elle est ») car elle constitue un acte de parole performatif, non une expression figurée. بِإِذْنِ ٱللَّهِ bi-idhni llāh — racine ʾ-dh-n : par la permission/l'autorisation d'Allaah — formule répétée trois fois dans ce passage, soulignant explicitement que les actes accomplis ne procèdent pas d'ʿĪsā de façon autonome. ٱلْأَكْمَه al-akmah — l'aveugle de naissance (racine k-m-h). ٱلْأَبْرَص al-abraṣ — celui atteint de la lèpre/vitiligo (racine b-r-ṣ). Ce que le texte dit : les actes attribués à ʿĪsā sont systématiquement rattachés à une permission d'Allaah, jamais présentés comme une capacité propre. Ce que le texte ne dit pas : le mécanisme physique exact de ces actes n'est pas décrit au-delà de leur description narrative.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">بَشَر</span><span class="lex-trl">bashar</span></dt>
+<dd>être humain au sens biologique/générique,.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كُن فَيَكُونُ</span><span class="lex-trl">kun fa-yakūn</span></dt>
+<dd>racine k-w-n (être/exister) : formule de création directe, traduite littéralement (« Sois — et elle est ») car elle constitue un acte de parole performatif, non une expression figurée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بِإِذْنِ ٱللَّهِ</span><span class="lex-trl">bi-idhni llāh</span></dt>
+<dd>racine ʾ-dh-n : par la permission/l'autorisation d'Allaah — formule répétée trois fois dans ce passage, soulignant explicitement que les actes accomplis ne procèdent pas d'ʿĪsā de façon autonome.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْأَكْمَه</span><span class="lex-trl">al-akmah</span></dt>
+<dd>l'aveugle de naissance (racine k-m-h).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْأَبْرَص</span><span class="lex-trl">al-abraṣ</span></dt>
+<dd>celui atteint de la lèpre/vitiligo (racine b-r-ṣ).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> les actes attribués à ʿĪsā sont systématiquement rattachés à une permission d'Allaah, jamais présentés comme une capacité propre.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> le mécanisme physique exact de ces actes n'est pas décrit au-delà de leur description narrative.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -194,7 +284,37 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱلْكُفْر al-kufr — racine k-f-r, déjà validée : le couvrement, le refus de reconnaissance ; substantif de la même famille que le verbe déjà rendu par « couvrir sa reconnaissance ». ٱلْحَوَارِيُّونَ al-ḥawāriyyūn — racine ḥ-w-r : deux sens attestés en lexicographie ancienne, la blancheur/pureté ou le fait de revenir/dialoguer ; **non-dit** sur laquelle de ces deux nuances est ici privilégiée — conservé translittéré. مَكَرُوا۟ / مَكَرَ makarū / makara — racine m-k-r : manœuvre indirecte visant à déjouer un dessein ; le texte emploie délibérément le même verbe pour les deux sujets (figure de style, <em>jinās</em>), ce qui interdit de traduire différemment selon le sujet — le sens retenu reste fonctionnel : une réponse stratégique qui renverse une manœuvre, sans qu'aucun affect humain ne soit projeté sur Allaah par ce choix lexical. نَبْتَهِلْ nabtahil — racine b-h-l : s'en remettre mutuellement à une invocation solennelle, appelant la malédiction sur le menteur — événement connu sous le nom de mubāhala, conservé translittéré. ٱلْقَصَص al-qaṣaṣ — racine q-ṣ-ṣ : le récit qui suit fidèlement le fil des événements — même racine que qiṣāṣ (la rétribution qui suit fidèlement le tort subi), sans que les deux sens se confondent. ٱلْمُفْسِدِينَ al-mufsidīn — voir l'étude dédiée <a href="/etudes/fasad-mufsidun/">Fasad et mufsidūn</a> pour le traitement complet de cette racine. Ce que le texte dit : ʿĪsā perçoit un refus de reconnaissance chez une partie de ceux à qui il s'adresse, obtient l'adhésion des ḥawāriyyūn, et le texte propose la mubāhala à quiconque continue de contester après que le savoir est parvenu. Ce que le texte ne dit pas : l'identité précise des contestataires visés par S3:61 n'est pas nommée dans le passage lui-même.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْكُفْر</span><span class="lex-trl">al-kufr</span></dt>
+<dd>racine k-f-r : le couvrement, le refus de reconnaissance ; substantif de la même famille que le verbe kafara/kafarū, conservé translittéré (*kāfir/kāfirūn/kufr*) — voir l'étude dédiée [Kāfir](/etudes/kafir-coran/).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْحَوَارِيُّونَ</span><span class="lex-trl">al-ḥawāriyyūn</span></dt>
+<dd>racine ḥ-w-r : deux sens attestés en lexicographie ancienne, la blancheur/pureté ou le fait de revenir/dialoguer ; **non-dit** sur laquelle de ces deux nuances est ici privilégiée — conservé translittéré.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَكَرُوا۟ / مَكَرَ</span><span class="lex-trl">makarū / makara</span></dt>
+<dd>racine m-k-r : manœuvre indirecte visant à déjouer un dessein ; le texte emploie délibérément le même verbe pour les deux sujets (figure de style, <em>jinās</em>), ce qui interdit de traduire différemment selon le sujet — le sens retenu reste fonctionnel : une réponse stratégique qui renverse une manœuvre, sans qu'aucun affect humain ne soit projeté sur Allaah par ce choix lexical.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَبْتَهِلْ</span><span class="lex-trl">nabtahil</span></dt>
+<dd>racine b-h-l : s'en remettre mutuellement à une invocation solennelle, appelant la malédiction sur le menteur — événement connu sous le nom de mubāhala, conservé translittéré.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْقَصَص</span><span class="lex-trl">al-qaṣaṣ</span></dt>
+<dd>racine q-ṣ-ṣ : le récit qui suit fidèlement le fil des événements — même racine que qiṣāṣ (la rétribution qui suit fidèlement le tort subi), sans que les deux sens se confondent.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْمُفْسِدِينَ</span><span class="lex-trl">al-mufsidīn</span></dt>
+<dd>voir l'étude dédiée <a href="/etudes/fasad-mufsidun/">Fasad et mufsidūn</a> pour le traitement complet de cette.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> ʿĪsā perçoit un refus de reconnaissance chez une partie de ceux à qui il s'adresse, obtient l'adhésion des ḥawāriyyūn, et le texte propose la mubāhala à quiconque continue de contester après que le savoir est parvenu.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> l'identité précise des contestataires visés par S3:61 n'est pas nommée dans le passage lui-même.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 

@@ -76,9 +76,107 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui dépensent leurs biens de nuit et de jour, en secret et publiquement, ont leur récompense auprès de leur Seigneur ; nulle crainte sur eux, et ils n'auront pas à se désoler."
 %}
 
-**Notes lexicales**
-
-طَيِّبَات ṭayyibāt — racine ṭ-y-b (déjà connue) : ce qui est bon, sain, agréable. الْخَبِيث al-khabīth — racine kh-b-th : ce qui est vicié, corrompu — opposé exact de ṭayyib. تَيَمَّمُوا tayammamū — racine ʾ-m-m (forme V) : viser délibérément, se diriger vers — même racine que *tayammum* dans son sens d'orientation intentionnelle, ici appliquée négativement (viser le pire pour s'en défausser). تُغْمِضُوا tughmiḍū — racine gh-m-ḍ : fermer les yeux — image du don qu'on ne accepterait soi-même qu'en fermant les yeux dessus par gêne. غَنِيّ / حَمِيد Ghaniyy / Ḥamīd — Ghaniyy (racine gh-n-y, déjà validée S2:263 : ce qui se suffit à soi-même, sans besoin) ; Ḥamīd — racine ḥ-m-d : digne de louange, ce à quoi revient toute reconnaissance méritée. الْفَحْشَاء al-faḥshāʾ — déjà connu : ce qui dépasse la mesure convenable, l'obscène/l'outrancier. مَغْفِرَة maghfira — déjà validée (gh-f-r). وَاسِع Wāsiʿ — déjà validé (w-s-ʿ, S2:247 : amplitude fonctionnelle non spatiale). الْحِكْمَة al-ḥikma — déjà validée (ḥ-k-m). أُولُو الْأَلْبَاب ulū l-albāb — déjà connu (l-b-b) : ceux qui possèdent le noyau/l'intelligence discernante. نَذْر nadhr — racine n-dh-r : engagement volontaire formulé envers Allaah. الظَّالِمِين al-ẓālimīn — déjà connu (ẓ-l-m). الصَّدَقَات al-ṣadaqāt — déjà connu (ṣ-d-q). يُكَفِّرُ yukaffiru — déjà validé (k-f-r, forme II : couvrir/effacer une faute). خَبِير Khabīr — racine kh-b-r : ce qui connaît en profondeur, jusqu'au détail interne des choses. هُدَاهُم hudāhum — déjà connu (h-d-y). وَجْهُ اللَّه wajhu llāh — déjà rencontré (S2:112, S2:115) : l'orientation/l'honneur recherché dans l'acte, non une face au sens physique. يُوَفَّ yuwaffa — racine w-f-y : être rendu intégralement, sans manque. أُحْصِرُوا uḥṣirū — racine ḥ-ṣ-r : être retenu, cerné, empêché de sortir. ضَرْبًا فِي الْأَرْض ḍarban fī l-arḍ — image déjà rencontrée pour désigner le déplacement/l'activité économique itinérante. التَّعَفُّف al-taʿaffuf — racine ʿ-f-f : la retenue, l'abstention volontaire de solliciter. سِيمَا sīmā — racine w-s-m : la marque distinctive, le signe reconnaissable. إِلْحَافًا ilḥāfā — racine l-ḥ-f : l'insistance pressante dans la demande. Ce que le texte dit : la dépense est qualifiée par sa qualité (ṭayyib, non khabīth), par sa discrétion possible ou son affichage (les deux étant valorisés selon le contexte), et par son adressage prioritaire à des fuqarāʾ empêchés d'agir plutôt que visibles par leur détresse apparente. Ce que le texte ne dit pas : il ne fixe pas de proportion ni de montant pour cette dépense volontaire, distincte de la zakāt obligatoire déjà traitée ailleurs dans le corpus.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">طَيِّبَات</span><span class="lex-trl">ṭayyibāt</span></dt>
+<dd>racine ṭ-y-b : ce qui est bon, sain, agréable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْخَبِيث</span><span class="lex-trl">al-khabīth</span></dt>
+<dd>racine kh-b-th : ce qui est vicié, corrompu — opposé exact de ṭayyib.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَيَمَّمُوا</span><span class="lex-trl">tayammamū</span></dt>
+<dd>racine ʾ-m-m (forme V) : viser délibérément, se diriger vers — même racine que *tayammum* dans son sens d'orientation intentionnelle, ici appliquée négativement (viser le pire pour s'en défausser).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُغْمِضُوا</span><span class="lex-trl">tughmiḍū</span></dt>
+<dd>racine gh-m-ḍ : fermer les yeux — image du don qu'on ne accepterait soi-même qu'en fermant les yeux dessus par gêne.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غَنِيّ / حَمِيد</span><span class="lex-trl">Ghaniyy / Ḥamīd</span></dt>
+<dd>Ghaniyy (racine gh-n-y, S2:263 : ce qui se suffit à soi-même, sans besoin) ; Ḥamīd — racine ḥ-m-d : digne de louange, ce à quoi revient toute reconnaissance méritée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْفَحْشَاء</span><span class="lex-trl">al-faḥshāʾ</span></dt>
+<dd>ce qui dépasse la mesure convenable, l'obscène/l'outrancier.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَغْفِرَة</span><span class="lex-trl">maghfira</span></dt>
+<dd>(gh-f-r).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَاسِع</span><span class="lex-trl">Wāsiʿ</span></dt>
+<dd>(w-s-ʿ, S2:247 : amplitude fonctionnelle non spatiale).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْحِكْمَة</span><span class="lex-trl">al-ḥikma</span></dt>
+<dd>(ḥ-k-m).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُولُو الْأَلْبَاب</span><span class="lex-trl">ulū l-albāb</span></dt>
+<dd>(l-b-b) : ceux qui possèdent le noyau/l'intelligence discernante.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَذْر</span><span class="lex-trl">nadhr</span></dt>
+<dd>racine n-dh-r : engagement volontaire formulé envers Allaah.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الظَّالِمِين</span><span class="lex-trl">al-ẓālimīn</span></dt>
+<dd>(ẓ-l-m).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الصَّدَقَات</span><span class="lex-trl">al-ṣadaqāt</span></dt>
+<dd>(ṣ-d-q).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُكَفِّرُ</span><span class="lex-trl">yukaffiru</span></dt>
+<dd>(k-f-r, forme II : couvrir/effacer une faute).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خَبِير</span><span class="lex-trl">Khabīr</span></dt>
+<dd>racine kh-b-r : ce qui connaît en profondeur, jusqu'au détail interne des choses.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">هُدَاهُم</span><span class="lex-trl">hudāhum</span></dt>
+<dd>(h-d-y).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَجْهُ اللَّه</span><span class="lex-trl">wajhu llāh</span></dt>
+<dd>(S2:112, S2:115) : l'orientation/l'honneur recherché dans l'acte, non une face au sens physique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُوَفَّ</span><span class="lex-trl">yuwaffa</span></dt>
+<dd>racine w-f-y : être rendu intégralement, sans manque.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُحْصِرُوا</span><span class="lex-trl">uḥṣirū</span></dt>
+<dd>racine ḥ-ṣ-r : être retenu, cerné, empêché de sortir.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ضَرْبًا فِي الْأَرْض</span><span class="lex-trl">ḍarban fī l-arḍ</span></dt>
+<dd>image pour désigner le déplacement/l'activité économique itinérante.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">التَّعَفُّف</span><span class="lex-trl">al-taʿaffuf</span></dt>
+<dd>racine ʿ-f-f : la retenue, l'abstention volontaire de solliciter.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سِيمَا</span><span class="lex-trl">sīmā</span></dt>
+<dd>racine w-s-m : la marque distinctive, le signe reconnaissable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِلْحَافًا</span><span class="lex-trl">ilḥāfā</span></dt>
+<dd>racine l-ḥ-f : l'insistance pressante dans la demande.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la dépense est qualifiée par sa qualité (ṭayyib, non khabīth), par sa discrétion possible ou son affichage (les deux étant valorisés selon le contexte), et par son adressage prioritaire à des fuqarāʾ empêchés d'agir plutôt que visibles par leur détresse apparente.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne fixe pas de proportion ni de montant pour cette dépense volontaire, distincte de la zakāt obligatoire déjà traitée ailleurs dans le corpus.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -138,9 +236,55 @@ Ce passage fait l'objet d'une étude dédiée et approfondie, qui confronte les 
    trad="Et prémunissez-vous d'un jour où vous serez ramenés vers Allaah — puis chaque nafs recevra intégralement ce qu'elle a acquis, et ils ne seront pas lésés."
 %}
 
-**Notes lexicales**
-
-يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسّ yatakhabbaṭuhu l-shayṭānu mina l-mass — image d'un ébranlement, d'une démarche déséquilibrée. أَحَلَّ / حَرَّمَ aḥalla / ḥarrama — deux verbes de statut juridique opposés et explicites (déjà validés). مَوْعِظَة mawʿiẓa — racine w-ʿ-ẓ : exhortation qui touche le cœur. سَلَف salaf — racine s-l-f : ce qui a précédé, ce qui est passé. يَمْحَقُ yamḥaqu — racine m-ḥ-q : effacer, réduire jusqu'à néant. رُءُوسُ أَمْوَالِكُم ruʾūsu amwālikum — le capital principal, littéralement « les têtes de vos biens ». عُسْرَة / مَيْسَرَة ʿusra / maysara — racines ʿ-s-r (difficulté, resserrement) et y-s-r (aisance, facilité) : deux états opposés déjà rencontrés dans le corpus. تَصَدَّقُوا taṣaddaqū — forme V de ṣ-d-q : donner en ṣadaqa, jusqu'à la remise totale de la dette. تُرْجَعُونَ turjaʿūn — déjà connu (r-j-ʿ). تُوَفَّىٰ tuwaffā — même racine que *yuwaffa* (S2:272) : recevoir intégralement, sans manque. Ce que le texte dit : voir l'étude dédiée pour le détail arithmétique du seuil condamné et l'identification systématique du créancier comme sujet de l'interdiction. Ce que le texte ne dit pas : le texte ne fixe pas de taux plancher séparant explicitement ce qui est ribā de ce qui ne l'est pas en-deçà du seuil qu'il condamne (point développé dans l'étude dédiée).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسّ</span><span class="lex-trl">yatakhabbaṭuhu l-shayṭānu mina l-mass</span></dt>
+<dd>image d'un ébranlement, d'une démarche déséquilibrée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَحَلَّ / حَرَّمَ</span><span class="lex-trl">aḥalla / ḥarrama</span></dt>
+<dd>deux verbes de statut juridique opposés et explicites.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَوْعِظَة</span><span class="lex-trl">mawʿiẓa</span></dt>
+<dd>racine w-ʿ-ẓ : exhortation qui touche le cœur.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَلَف</span><span class="lex-trl">salaf</span></dt>
+<dd>racine s-l-f : ce qui a précédé, ce qui est passé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَمْحَقُ</span><span class="lex-trl">yamḥaqu</span></dt>
+<dd>racine m-ḥ-q : effacer, réduire jusqu'à néant.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رُءُوسُ أَمْوَالِكُم</span><span class="lex-trl">ruʾūsu amwālikum</span></dt>
+<dd>le capital principal, littéralement « les têtes de vos biens ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عُسْرَة / مَيْسَرَة</span><span class="lex-trl">ʿusra / maysara</span></dt>
+<dd>racines ʿ-s-r (difficulté, resserrement) et y-s-r (aisance, facilité) : deux états opposés dans le corpus.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَصَدَّقُوا</span><span class="lex-trl">taṣaddaqū</span></dt>
+<dd>forme V de ṣ-d-q : donner en ṣadaqa, jusqu'à la remise totale de la dette.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُرْجَعُونَ</span><span class="lex-trl">turjaʿūn</span></dt>
+<dd>(r-j-ʿ).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُوَفَّىٰ</span><span class="lex-trl">tuwaffā</span></dt>
+<dd>même racine que *yuwaffa* (S2:272) : recevoir intégralement, sans manque.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> voir l'étude dédiée pour le détail arithmétique du seuil condamné et l'identification systématique du créancier comme sujet de l'interdiction.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> le texte ne fixe pas de taux plancher séparant explicitement ce qui est ribā de ce qui ne l'est pas en-deçà du seuil qu'il condamne (point développé dans l'étude dédiée).</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -165,9 +309,104 @@ S2:282 est le verset le plus long du muṣḥaf. Il est donné ici intégralemen
    trad="Et si vous êtes en voyage et ne trouvez pas de scribe, un gage saisi (rihān maqbūḍa) suffit. Et si l'un de vous fait confiance à un autre, que celui à qui la confiance a été faite s'acquitte de son amāna, et qu'il se prémunisse d'Allaah, son Seigneur. Ne dissimulez pas le témoignage : quiconque le dissimule, son cœur est certes chargé de faute (āthim). Allaah, de ce que vous faites, est ʿAlīm."
 %}
 
-**Notes lexicales — décomposition clause par clause de S2:282**
-
-تَدَايَنتُم tadāyantum — forme VI (réciproque) de d-y-n : contracter mutuellement une dette. أَجَلٍ مُّسَمًّى ajalin musamman — déjà connu (ʾ-j-l) : un terme nommément fixé, non vague. كَاتِب kātib — racine k-t-b : celui qui écrit. الْعَدْل al-ʿadl — déjà connu : la justice comme équilibre exact, sans excès ni manque. لَا يَأْبَ lā yaʾba — racine ʾ-b-y : refuser. يُمْلِلِ yumlili — racine m-l-l (forme IV) : dicter à voix haute ce qui doit être écrit — l'acte revient à celui sur qui pèse la dette (al-ḥaqq, déjà connu), non au créancier : **le texte place l'initiative de la formulation du contenu du côté du débiteur, qui atteste ainsi lui-même de sa dette.** لَا يَبْخَسْ lā yabkhas — racine b-kh-s : diminuer frauduleusement, retrancher indûment. سَفِيه safīh — racine s-f-h : dépourvu de discernement dans la gestion de ses affaires. وَلِيّ walī — déjà validé (w-l-y) : celui qui a la charge, la proximité protectrice — ici au sens de représentant légal. اسْتَشْهِدُوا istashhidū — forme X de sh-h-d : requérir le témoignage. تَضِلَّ taḍilla — déjà connu (ḍ-l-l, égarement) — ici appliqué à un oubli, une défaillance de mémoire, non une déviation morale. **Note de non-généralisation méthodologique.** La disposition « un homme et deux femmes » est formulée ici dans le contexte précis du témoignage écrit sur une dette à terme — un domaine technique et documentaire. Le texte donne lui-même sa raison : *an taḍilla iḥdāhumā fa-tudhakkira iḥdāhumā l-ukhrā* (afin que si l'une s'égare, l'autre la fasse se souvenir) — une clause de sécurité documentaire, non une déclaration générale sur la valeur testimoniale comparée des hommes et des femmes en toute matière. Étendre cette disposition à tout témoignage, en toute matière, dépasserait ce que ce verset précis énonce. تَسْأَمُوا tasʾamū — racine s-ʾ-m : se lasser, éprouver de la lassitude. أَقْسَطُ / أَقْوَمُ / أَدْنَىٰ aqsaṭu / aqwamu / adnā — trois comparatifs de supériorité : plus équitable, plus droit, plus proche (de l'absence de doute). تِجَارَةً حَاضِرَة tijāratan ḥāḍira — déjà connu (ḥ-ḍ-r) : un commerce immédiat, sans délai — exemption explicite de l'obligation d'écrit dans ce cas précis. جُنَاح junāḥ — déjà connu : grief, faute imputable. أَشْهِدُوا ashhidū — forme IV de sh-h-d : prendre à témoin. لَا يُضَارَّ lā yuḍārra — racine ḍ-r-r (forme III passive) : ne pas subir de préjudice — le texte protège explicitement le scribe et le témoin eux-mêmes contre toute pression ou dommage lié à leur fonction. فُسُوق fusūq — déjà connu (f-s-q). رِهَانٌ مَّقْبُوضَة rihānun maqbūḍa — racines r-h-n (gage) et q-b-ḍ (déjà connue, S2:245 : saisir) : un gage effectivement pris en main, non une simple promesse de gage. أَمَانَة amāna — racine ʾ-m-n (déjà connue) : ce qui est confié, la charge de confiance. لَا تَكْتُمُوا الشَّهَادَة lā taktumū l-shahāda — racine k-t-m (déjà connue, S2:159) : ne pas dissimuler. آثِمٌ قَلْبُهُ āthimun qalbuhu — l'imputation de la faute porte explicitement sur le qalb, siège de l'intention et de la disposition intérieure. Ce que le texte dit : un protocole détaillé — écrit, dictée par le débiteur, témoignage, exemption pour le commerce immédiat, protection du scribe et du témoin — encadrant la dette à terme. Ce que le texte ne dit pas : il ne prescrit pas l'écrit et le double témoignage féminin comme règle universelle de preuve en toute matière — la clause de raison donnée par le texte lui-même (*an taḍilla... fa-tudhakkira*) borne son propre champ d'application à ce contexte documentaire précis.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<span class="notes-lexicales__sous-titre">décomposition clause par clause de S2:282</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَدَايَنتُم</span><span class="lex-trl">tadāyantum</span></dt>
+<dd>forme VI (réciproque) de d-y-n : contracter mutuellement une dette.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَجَلٍ مُّسَمًّى</span><span class="lex-trl">ajalin musamman</span></dt>
+<dd>(ʾ-j-l) : un terme nommément fixé, non vague.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَاتِب</span><span class="lex-trl">kātib</span></dt>
+<dd>racine k-t-b : celui qui écrit.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعَدْل</span><span class="lex-trl">al-ʿadl</span></dt>
+<dd>la justice comme équilibre exact, sans excès ni manque.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يَأْبَ</span><span class="lex-trl">lā yaʾba</span></dt>
+<dd>racine ʾ-b-y : refuser.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُمْلِلِ</span><span class="lex-trl">yumlili</span></dt>
+<dd>racine m-l-l (forme IV) : dicter à voix haute ce qui doit être écrit — l'acte revient à celui sur qui pèse la dette (al-ḥaqq), non au créancier : **le texte place l'initiative de la formulation du contenu du côté du débiteur, qui atteste ainsi lui-même de sa dette.**</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يَبْخَسْ</span><span class="lex-trl">lā yabkhas</span></dt>
+<dd>racine b-kh-s : diminuer frauduleusement, retrancher indûment.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَفِيه</span><span class="lex-trl">safīh</span></dt>
+<dd>racine s-f-h : dépourvu de discernement dans la gestion de ses affaires.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَلِيّ</span><span class="lex-trl">walī</span></dt>
+<dd>(w-l-y) : celui qui a la charge, la proximité protectrice — ici au sens de représentant légal.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اسْتَشْهِدُوا</span><span class="lex-trl">istashhidū</span></dt>
+<dd>forme X de sh-h-d : requérir le témoignage.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَضِلَّ</span><span class="lex-trl">taḍilla</span></dt>
+<dd>(ḍ-l-l, égarement) — ici appliqué à un oubli, une défaillance de mémoire, non une déviation morale. **Note de non-généralisation méthodologique.** La disposition « un homme et deux femmes » est formulée ici dans le contexte précis du témoignage écrit sur une dette à terme — un domaine technique et documentaire. Le texte donne lui-même sa raison : *an taḍilla iḥdāhumā fa-tudhakkira iḥdāhumā l-ukhrā* (afin que si l'une s'égare, l'autre la fasse se souvenir) — une clause de sécurité documentaire, non une déclaration générale sur la valeur testimoniale comparée des hommes et des femmes en toute matière. Étendre cette disposition à tout témoignage, en toute matière, dépasserait ce que ce verset précis énonce.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَسْأَمُوا</span><span class="lex-trl">tasʾamū</span></dt>
+<dd>racine s-ʾ-m : se lasser, éprouver de la lassitude.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَقْسَطُ / أَقْوَمُ / أَدْنَىٰ</span><span class="lex-trl">aqsaṭu / aqwamu / adnā</span></dt>
+<dd>trois comparatifs de supériorité : plus équitable, plus droit, plus proche (de l'absence de doute).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تِجَارَةً حَاضِرَة</span><span class="lex-trl">tijāratan ḥāḍira</span></dt>
+<dd>(ḥ-ḍ-r) : un commerce immédiat, sans délai — exemption explicite de l'obligation d'écrit dans ce cas précis.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">جُنَاح</span><span class="lex-trl">junāḥ</span></dt>
+<dd>grief, faute imputable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَشْهِدُوا</span><span class="lex-trl">ashhidū</span></dt>
+<dd>forme IV de sh-h-d : prendre à témoin.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يُضَارَّ</span><span class="lex-trl">lā yuḍārra</span></dt>
+<dd>racine ḍ-r-r (forme III passive) : ne pas subir de préjudice — le texte protège explicitement le scribe et le témoin eux-mêmes contre toute pression ou dommage lié à leur fonction.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فُسُوق</span><span class="lex-trl">fusūq</span></dt>
+<dd>(f-s-q).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رِهَانٌ مَّقْبُوضَة</span><span class="lex-trl">rihānun maqbūḍa</span></dt>
+<dd>racines r-h-n (gage) et q-b-ḍ (S2:245 : saisir) : un gage effectivement pris en main, non une simple promesse de gage.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَمَانَة</span><span class="lex-trl">amāna</span></dt>
+<dd>racine ʾ-m-n : ce qui est confié, la charge de confiance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا تَكْتُمُوا الشَّهَادَة</span><span class="lex-trl">lā taktumū l-shahāda</span></dt>
+<dd>racine k-t-m (S2:159) : ne pas dissimuler.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">آثِمٌ قَلْبُهُ</span><span class="lex-trl">āthimun qalbuhu</span></dt>
+<dd>l'imputation de la faute porte explicitement sur le qalb, siège de l'intention et de la disposition intérieure.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> un protocole détaillé — écrit, dictée par le débiteur, témoignage, exemption pour le commerce immédiat, protection du scribe et du témoin — encadrant la dette à terme.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne prescrit pas l'écrit et le double témoignage féminin comme règle universelle de preuve en toute matière — la clause de raison donnée par le texte lui-même (*an taḍilla... fa-tudhakkira*) borne son propre champ d'application à ce contexte documentaire précis.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 

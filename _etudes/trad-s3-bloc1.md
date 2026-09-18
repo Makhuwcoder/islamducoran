@@ -51,9 +51,55 @@ methode: "Dit / Non-dit / Inférence"
    trad="Rien, sur la terre ni dans le ciel, n'échappe à Allaah — Ce qui vous façonne dans les matrices comme Il veut. Nul ilāh que Lui, al-ʿAzīz, al-Ḥakīm."
 %}
 
-**Notes lexicales**
-
-الْحَىّ al-Ḥayy — déjà validé (ḥ-y-y, forme intensive, S2:255) : le vivant en soi, sans début ni fin. الْقَيُّوم al-Qayyūm — déjà validé (q-w-m, forme intensive, S2:255) : ce qui se maintient par soi-même et fait subsister ce qui existe. نَزَّلَ nazzala — racine n-z-l (forme II, déjà connue par *unzila/nuzzila*) : faire descendre, en particulier de façon graduelle, répétée. مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ muṣaddiqan li-mā bayna yadayhi — racine ṣ-d-q (déjà connue) : confirmant ce qui est entre ses mains — expression déjà rencontrée (S2:41, S2:97) pour désigner la continuité entre les scritures révélées, sans jugement de contenu détaillé sur ce que cette confirmation couvre exactement. التَّوْرَاة / الْإِنجِيل al-Tawrāh / al-Injīl — noms propres translittérés, sans correspondance française établie qui n'importe pas de charge confessionnelle particulière ; conservés tels quels, comme *al-Qurʾān* lui-même est conservé dans d'autres langues. الْفُرْقَان al-Furqān — racine f-r-q (déjà connue, distinguer/séparer) : ce qui sépare, le critère distinctif — ici en parallèle du Kitāb et distinct de la Tawrāh/l'Injīl dans la structure du verset ; **non-dit** sur l'identité exacte de ce que ce terme désigne dans ce verset précis (le Kitāb lui-même sous un autre aspect, ou une révélation distincte) — le texte ne tranche pas explicitement ici. عَزِيزٌ ذُو انْتِقَام ʿAzīzun dhū ntiqām — ʿazīz déjà connu (force/inaccessibilité) ; intiqām — racine n-q-m : la reprise, la sanction en retour d'un tort. الَّذِينَ كَفَرُوا بِآيَاتِ اللَّه alladhīna kafarū bi-āyāti llāh — racine k-f-r : voir l'étude dédiée [Kāfir](/etudes/kafir-coran/), qui établit, sur l'ensemble du corpus, trois dimensions possibles du sens (ingratitude, refus délibéré après reconnaissance, incroyance générale) à partir du sens premier lexicographique (Farāhīdī, Ibn Fāris, Ibn Manẓūr : le recouvrement, la dissimulation). Sans marqueur contextuel désignant explicitement l'une de ces trois dimensions, le terme est conservé translittéré (*kāfir/kāfirūn/kufr*) plutôt que rendu par une formule française fixe — règle appliquée systématiquement dans la suite du corpus. يُصَوِّرُكُمْ yuṣawwirukum — racine ṣ-w-r (déjà rencontrée pour *ṣurhunna*, S2:260, sens différent ici) : façonner, donner forme. الْأَرْحَام al-arḥām — pluriel de *raḥim* (même racine que *raḥma*, déjà connue) : les matrices. Ce que le texte dit : une continuité de tanzīl — Kitāb, Tawrāh, Injīl, Furqān — associée à la connaissance totale et au façonnement de toute créature par Allaah. Ce que le texte ne dit pas : il ne précise pas ici, dans ce verset, la nature exacte du rapport entre al-Furqān et les autres termes cités.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْحَىّ</span><span class="lex-trl">al-Ḥayy</span></dt>
+<dd>(ḥ-y-y, forme intensive, S2:255) : le vivant en soi, sans début ni fin.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْقَيُّوم</span><span class="lex-trl">al-Qayyūm</span></dt>
+<dd>(q-w-m, forme intensive, S2:255) : ce qui se maintient par soi-même et fait subsister ce qui existe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَزَّلَ</span><span class="lex-trl">nazzala</span></dt>
+<dd>racine n-z-l (forme II) : faire descendre, en particulier de façon graduelle, répétée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ</span><span class="lex-trl">muṣaddiqan li-mā bayna yadayhi</span></dt>
+<dd>racine ṣ-d-q : confirmant ce qui est entre ses mains — expression (S2:41, S2:97) pour désigner la continuité entre les scritures révélées, sans jugement de contenu détaillé sur ce que cette confirmation couvre exactement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">التَّوْرَاة / الْإِنجِيل</span><span class="lex-trl">al-Tawrāh / al-Injīl</span></dt>
+<dd>noms propres translittérés, sans correspondance française établie qui n'importe pas de charge confessionnelle particulière ; conservés tels quels, comme *al-Qurʾān* lui-même est conservé dans d'autres langues.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْفُرْقَان</span><span class="lex-trl">al-Furqān</span></dt>
+<dd>racine f-r-q (distinguer/séparer) : ce qui sépare, le critère distinctif — ici en parallèle du Kitāb et distinct de la Tawrāh/l'Injīl dans la structure du verset ; **non-dit** sur l'identité exacte de ce que ce terme désigne dans ce verset précis (le Kitāb lui-même sous un autre aspect, ou une révélation distincte) — le texte ne tranche pas explicitement ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عَزِيزٌ ذُو انْتِقَام</span><span class="lex-trl">ʿAzīzun dhū ntiqām</span></dt>
+<dd>ʿazīz (force/inaccessibilité) ; intiqām — racine n-q-m : la reprise, la sanction en retour d'un tort.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الَّذِينَ كَفَرُوا بِآيَاتِ اللَّه</span><span class="lex-trl">alladhīna kafarū bi-āyāti llāh</span></dt>
+<dd>racine k-f-r : voir l'étude dédiée [Kāfir](/etudes/kafir-coran/), qui établit, sur l'ensemble du corpus, trois dimensions possibles du sens (ingratitude, refus délibéré après reconnaissance, incroyance générale) à partir du sens premier lexicographique (Farāhīdī, Ibn Fāris, Ibn Manẓūr : le recouvrement, la dissimulation). Sans marqueur contextuel désignant explicitement l'une de ces trois dimensions, le terme est conservé translittéré (*kāfir/kāfirūn/kufr*) plutôt que rendu par une formule française fixe — règle appliquée systématiquement dans la suite du corpus.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُصَوِّرُكُمْ</span><span class="lex-trl">yuṣawwirukum</span></dt>
+<dd>racine ṣ-w-r (pour *ṣurhunna*, S2:260, sens différent ici) : façonner, donner forme.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْأَرْحَام</span><span class="lex-trl">al-arḥām</span></dt>
+<dd>pluriel de *raḥim* (même racine que *raḥma*) : les matrices.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une continuité de tanzīl — Kitāb, Tawrāh, Injīl, Furqān — associée à la connaissance totale et au façonnement de toute créature par Allaah.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise pas ici, dans ce verset, la nature exacte du rapport entre al-Furqān et les autres termes cités.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -106,9 +152,87 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui disent : « Notre Seigneur, nous avons cru — pardonne-nous nos fautes et préserve-nous du châtiment du feu » — les endurants, les véridiques, ceux qui se tiennent dans la soumission constante, ceux qui dépensent, ceux qui implorent le pardon aux dernières heures de la nuit."
 %}
 
-**Notes lexicales**
-
-زَيْغ zaygh — racine z-y-gh : déviation, écart par rapport à une ligne droite. ابْتِغَاءَ الْفِتْنَة ibtighāʾa l-fitna — déjà connu (f-t-n) : recherche du trouble, de l'épreuve déstabilisante. تَأْوِيل taʾwīl — racine ʾ-w-l : voir l'étude dédiée — l'aboutissement effectif d'une chose, non une exégèse. الرَّاسِخُون فِي الْعِلْم al-rāsikhūna fi l-ʿilm — racine r-s-kh : ce qui est fermement enraciné, stable. الْوَهَّاب al-Wahhāb — racine w-h-b (forme intensive) : ce qui donne sans contrepartie attendue, avec constance. جَامِعُ النَّاس jāmiʿu l-nās — racine j-m-ʿ : ce qui rassemble. لَا يُخْلِفُ الْمِيعَاد lā yukhlifu l-mīʿād — racine kh-l-f (déjà connue) + w-ʿ-d (déjà connue) : ne manque pas au rendez-vous promis. وَقُودُ النَّار waqūdu l-nār — racine w-q-d : le combustible, ce qui alimente le feu. دَأْب daʾb — racine d-ʾ-b : la manière d'être habituelle, la façon constante d'agir. الْمِهَاد al-mihād — racine m-h-d : la couche préparée, le lieu de repos étendu. فِئَة fiʾa — déjà validé (f-ʾ-y, S2:249 : groupe, troupe rassemblée). عِبْرَة ʿibra — racine ʿ-b-r : ce qui permet de passer d'un constat à un enseignement, la leçon tirée. أُولِي الْأَبْصَار ulī l-abṣār — racine b-ṣ-r : ceux qui possèdent une vue pénétrante, au sens de discernement. زُيِّنَ zuyyina — racine z-y-n (passif, sans agent nommé dans ce verset) : rendu séduisant, embelli aux yeux. **Note de vigilance méthodologique.** Le verbe est ici au passif, sans sujet grammatical explicite — le texte ne nomme pas ici qui embellit ces attraits aux yeux des gens ; ailleurs dans le corpus coranique, ce même verbe est tantôt rattaché explicitement à Allaah, tantôt au shayṭān, selon le contexte : ce verset précis reste au non-dit sur ce point. الْقَنَاطِيرِ الْمُقَنطَرَة al-qanāṭīr al-muqanṭara — racine q-n-ṭ-r : monceaux amoncelés, quantités entassées les unes sur les autres. الْمَآب al-maʾāb — même racine que *taʾwīl* (ʾ-w-l) : le lieu de retour, l'aboutissement. الْقَانِتِين al-qānitīn — déjà validé (q-n-t, S2 : se tenir dans la soumission constante). بِالْأَسْحَار bi-l-asḥār — racine s-ḥ-r : les derniers moments de la nuit, juste avant l'aube. Ce que le texte dit : une opposition entre l'attrait immédiat des biens de ce monde et le bien supérieur promis à ceux qui se prémunissent, encadrée par le signe donné à Badr et la clôture sur les qualités des muttaqīn. Ce que le texte ne dit pas : S3:14 ne nomme pas l'agent du verbe *zuyyina* — cette omission est signalée et non comblée.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">زَيْغ</span><span class="lex-trl">zaygh</span></dt>
+<dd>racine z-y-gh : déviation, écart par rapport à une ligne droite.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ابْتِغَاءَ الْفِتْنَة</span><span class="lex-trl">ibtighāʾa l-fitna</span></dt>
+<dd>(f-t-n) : recherche du trouble, de l'épreuve déstabilisante.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَأْوِيل</span><span class="lex-trl">taʾwīl</span></dt>
+<dd>racine ʾ-w-l : voir l'étude dédiée — l'aboutissement effectif d'une chose, non une exégèse.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الرَّاسِخُون فِي الْعِلْم</span><span class="lex-trl">al-rāsikhūna fi l-ʿilm</span></dt>
+<dd>racine r-s-kh : ce qui est fermement enraciné, stable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْوَهَّاب</span><span class="lex-trl">al-Wahhāb</span></dt>
+<dd>racine w-h-b (forme intensive) : ce qui donne sans contrepartie attendue, avec constance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">جَامِعُ النَّاس</span><span class="lex-trl">jāmiʿu l-nās</span></dt>
+<dd>racine j-m-ʿ : ce qui rassemble.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يُخْلِفُ الْمِيعَاد</span><span class="lex-trl">lā yukhlifu l-mīʿād</span></dt>
+<dd>racine kh-l-f + w-ʿ-d : ne manque pas au rendez-vous promis.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَقُودُ النَّار</span><span class="lex-trl">waqūdu l-nār</span></dt>
+<dd>racine w-q-d : le combustible, ce qui alimente le feu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">دَأْب</span><span class="lex-trl">daʾb</span></dt>
+<dd>racine d-ʾ-b : la manière d'être habituelle, la façon constante d'agir.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمِهَاد</span><span class="lex-trl">al-mihād</span></dt>
+<dd>racine m-h-d : la couche préparée, le lieu de repos étendu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فِئَة</span><span class="lex-trl">fiʾa</span></dt>
+<dd>(f-ʾ-y, S2:249 : groupe, troupe rassemblée).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عِبْرَة</span><span class="lex-trl">ʿibra</span></dt>
+<dd>racine ʿ-b-r : ce qui permet de passer d'un constat à un enseignement, la leçon tirée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُولِي الْأَبْصَار</span><span class="lex-trl">ulī l-abṣār</span></dt>
+<dd>racine b-ṣ-r : ceux qui possèdent une vue pénétrante, au sens de discernement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">زُيِّنَ</span><span class="lex-trl">zuyyina</span></dt>
+<dd>racine z-y-n (passif, sans agent nommé dans ce verset) : rendu séduisant, embelli aux yeux. **Note de vigilance méthodologique.** Le verbe est ici au passif, sans sujet grammatical explicite — le texte ne nomme pas ici qui embellit ces attraits aux yeux des gens ; ailleurs dans le corpus coranique, ce même verbe est tantôt rattaché explicitement à Allaah, tantôt au shayṭān, selon le contexte : ce verset précis reste au non-dit sur ce point.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْقَنَاطِيرِ الْمُقَنطَرَة</span><span class="lex-trl">al-qanāṭīr al-muqanṭara</span></dt>
+<dd>racine q-n-ṭ-r : monceaux amoncelés, quantités entassées les unes sur les autres.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَآب</span><span class="lex-trl">al-maʾāb</span></dt>
+<dd>même racine que *taʾwīl* (ʾ-w-l) : le lieu de retour, l'aboutissement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْقَانِتِين</span><span class="lex-trl">al-qānitīn</span></dt>
+<dd>(q-n-t, S2 : se tenir dans la soumission constante).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بِالْأَسْحَار</span><span class="lex-trl">bi-l-asḥār</span></dt>
+<dd>racine s-ḥ-r : les derniers moments de la nuit, juste avant l'aube.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une opposition entre l'attrait immédiat des biens de ce monde et le bien supérieur promis à ceux qui se prémunissent, encadrée par le signe donné à Badr et la clôture sur les qualités des muttaqīn.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> S3:14 ne nomme pas l'agent du verbe *zuyyina* — cette omission est signalée et non comblée.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -130,9 +254,32 @@ methode: "Dit / Non-dit / Inférence"
    trad="Le dīn, dans le registre d'Allaah, est l'islām — et ceux à qui le Livre a été donné n'ont divergé qu'après que le savoir leur soit parvenu, par rivalité entre eux. Quiconque est kāfir envers les āyāt d'Allaah — Allaah est prompt dans le compte."
 %}
 
-**Note lexicale — première occurrence du nom al-islām**
-
-الدِّين al-dīn — préservé en translittération, conformément à la règle du projet (le mot français « religion » importe un découpage occidental étranger au terme arabe). الْإِسْلَام al-islām — racine س-ل-م : la remise complète, la soumission entière — de la même famille que *salām* (paix, intégrité préservée) et *aslama* (déjà rencontré, S2:112, S2:131 : « soumettre son wajh »). C'est la première occurrence, dans l'ordre du muṣḥaf, du nom *al-islām* lui-même (le verbe *aslama* et le participe *muslim* étaient apparus antérieurement). **Note de vigilance** : le terme est conservé translittéré plutôt que traduit par un équivalent français unique, aucun mot disponible ne portant à la fois le sens de remise complète, de paix et d'intégrité que couvre la racine س-ل-م — voir la méthode générale du projet sur les termes sans correspondance directe. عِندَ اللَّه ʿinda llāh — déjà validé (S2:79 : dans le registre propre d'Allaah, attribution directe — non une localisation spatiale). بَغْيًا baghyā — racine ب-غ-ي : la rivalité, l'excès dans la revendication d'un droit qui empiète sur autrui. سَرِيعُ الْحِسَاب sarīʿu l-ḥisāb — déjà connu (ḥ-s-b, S2:284 : demander compte).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<span class="notes-lexicales__sous-titre">première occurrence du nom al-islām</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الدِّين</span><span class="lex-trl">al-dīn</span></dt>
+<dd>préservé en translittération, conformément à la règle du projet (le mot français « religion » importe un découpage occidental étranger au terme arabe).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْإِسْلَام</span><span class="lex-trl">al-islām</span></dt>
+<dd>racine س-ل-م : la remise complète, la soumission entière — de la même famille que *salām* (paix, intégrité préservée) et *aslama* (S2:112, S2:131 : « soumettre son wajh »). C'est la première occurrence, dans l'ordre du muṣḥaf, du nom *al-islām* lui-même (le verbe *aslama* et le participe *muslim* étaient apparus antérieurement). **Note de vigilance** : le terme est conservé translittéré plutôt que traduit par un équivalent français unique, aucun mot disponible ne portant à la fois le sens de remise complète, de paix et d'intégrité que couvre la racine س-ل-م — voir la méthode générale du projet sur les termes sans correspondance directe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عِندَ اللَّه</span><span class="lex-trl">ʿinda llāh</span></dt>
+<dd>(S2:79 : dans le registre propre d'Allaah, attribution directe — non une localisation spatiale).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَغْيًا</span><span class="lex-trl">baghyā</span></dt>
+<dd>racine ب-غ-ي : la rivalité, l'excès dans la revendication d'un droit qui empiète sur autrui.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَرِيعُ الْحِسَاب</span><span class="lex-trl">sarīʿu l-ḥisāb</span></dt>
+<dd>(ḥ-s-b, S2:284 : demander compte).</dd>
+</div>
+</dl>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -143,9 +290,28 @@ methode: "Dit / Non-dit / Inférence"
    trad="S'ils argumentent avec toi, dis : « J'ai remis mon wajh à Allaah, ainsi que quiconque m'a suivi. » Et dis à ceux à qui le Livre a été donné, et aux ummiyyīn : « Avez-vous remis [votre wajh] ? » S'ils l'ont remis, ils sont alors bien guidés ; s'ils se détournent, il ne t'incombe que la transmission. Allaah voit parfaitement les ʿibād."
 %}
 
-**Note lexicale — al-ummiyyīn**
-
-أَسْلَمْتُ وَجْهِيَ لِلَّه aslamtu wajhiya lillāh — reprend la construction déjà validée (étude dédiée « Wajhu llāh ») : remettre son orientation, sa raison d'être tournée vers Allaah — non une image anatomique. الْأُمِّيِّين al-ummiyyīn — racine ʾ-m-m : voir l'étude dédiée [Le nabī était-il illettré ?](/etudes/ummi-illettre/), qui établit, sur l'ensemble des six occurrences coraniques du terme, qu'*ummī/ummiyyūn* désigne l'appartenance aux peuples non-scripturaires — ceux à qui aucune scripture révélée antérieure n'a été donnée — et non une incapacité à lire ou écrire. Ce sens est repris ici : le verset distingue deux catégories — ceux à qui le Livre a été donné, et les ummiyyūn, ceux qui n'en ont pas reçu. اهْتَدَوا htadaw — déjà connu (h-d-y). الْبَلَاغ al-balāgh — racine ب-ل-غ (déjà connue par *balagha*, atteindre son terme) : la transmission menée à son terme, sans obligation de résultat sur son accueil.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<span class="notes-lexicales__sous-titre">al-ummiyyīn</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَسْلَمْتُ وَجْهِيَ لِلَّه</span><span class="lex-trl">aslamtu wajhiya lillāh</span></dt>
+<dd>reprend la construction (étude dédiée « Wajhu llāh ») : remettre son orientation, sa raison d'être tournée vers Allaah — non une image anatomique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْأُمِّيِّين</span><span class="lex-trl">al-ummiyyīn</span></dt>
+<dd>racine ʾ-m-m : voir l'étude dédiée [Le nabī était-il illettré ?](/etudes/ummi-illettre/), qui établit, sur l'ensemble des six occurrences coraniques du terme, qu'*ummī/ummiyyūn* désigne l'appartenance aux peuples non-scripturaires — ceux à qui aucune scripture révélée antérieure n'a été donnée — et non une incapacité à lire ou écrire. Ce sens est repris ici : le verset distingue deux catégories — ceux à qui le Livre a été donné, et les ummiyyūn, ceux qui n'en ont pas reçu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اهْتَدَوا</span><span class="lex-trl">htadaw</span></dt>
+<dd>(h-d-y).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْبَلَاغ</span><span class="lex-trl">al-balāgh</span></dt>
+<dd>racine ب-ل-غ (atteindre son terme) : la transmission menée à son terme, sans obligation de résultat sur son accueil.</dd>
+</div>
+</dl>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -156,9 +322,23 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui sont kāfirūn envers les āyāt d'Allaah, tuent les nabiyyūn sans droit, et tuent ceux qui, parmi les gens, ordonnent l'équité — annonce-leur un châtiment douloureux. Ceux-là sont ceux dont les œuvres se sont annulées, dans ce monde et dans l'ākhira, et il n'est pour eux aucun secoureur."
 %}
 
-**Note lexicale**
-
-بِغَيْرِ حَقٍّ bi-ghayri ḥaqq — déjà connu (ḥ-q-q) : sans droit légitime — précision qui borne l'accusation à un acte spécifique, non une généralité. الْقِسْط al-qisṭ — racine ق-س-ط : l'équité, la juste mesure répartie sans excès. حَبِطَتْ أَعْمَالُهُمْ ḥabiṭat aʿmāluhum — racine ح-ب-ط : s'annuler, devenir vain — image d'un ventre qui se gonfle sans profit réel (sens premier lexicographique), appliquée ici aux œuvres qui s'annulent.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">بِغَيْرِ حَقٍّ</span><span class="lex-trl">bi-ghayri ḥaqq</span></dt>
+<dd>(ḥ-q-q) : sans droit légitime — précision qui borne l'accusation à un acte spécifique, non une généralité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْقِسْط</span><span class="lex-trl">al-qisṭ</span></dt>
+<dd>racine ق-س-ط : l'équité, la juste mesure répartie sans excès.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَبِطَتْ أَعْمَالُهُمْ</span><span class="lex-trl">ḥabiṭat aʿmāluhum</span></dt>
+<dd>racine ح-ب-ط : s'annuler, devenir vain — image d'un ventre qui se gonfle sans profit réel (sens premier lexicographique), appliquée ici aux œuvres qui s'annulent.</dd>
+</div>
+</dl>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -194,9 +374,67 @@ methode: "Dit / Non-dit / Inférence"
    trad="Le jour où chaque nafs trouvera présent ce qu'elle a fait de bien, et ce qu'elle a fait de mal — elle voudrait qu'il y ait entre elle et cela une distance immense. Allaah vous met en garde de Lui-même. Allaah est Raʾūf envers les ʿibād. Dis : « Si vous aimez Allaah, suivez-moi, Allaah vous aimera et vous pardonnera vos fautes » — Allaah est Ghafūr, Raḥīm. Dis : « Obéissez à Allaah et au rasūl » — s'ils se détournent, Allaah n'honore pas les kāfirūn."
 %}
 
-**Notes lexicales**
-
-نَصِيبًا مِّنَ الْكِتَاب naṣīban mina l-kitāb — racine ن-ص-ب : une part, une portion assignée. مَّعْدُودَات maʿdūdāt — racine ع-د-د : comptées, dénombrées — un nombre limité et défini. غَرَّهُمْ gharrahum — racine غ-ر-ر : tromper, induire en illusion trompeuse. يَفْتَرُون yaftarūn — déjà connu (ف-ر-ي, forger un mensonge). الْمُلْك al-mulk — racine م-ل-ك (déjà connue par *malik*) : la royauté, la possession souveraine — *Mālik al-Mulk* : ce qui possède la royauté elle-même, non seulement un royaume. تُعِزُّ / تُذِلُّ tuʿizzu / tudhillu — racines ع-ز-ز (force, inaccessibilité, déjà connue) et ذ-ل-ل (abaissement, docilité forcée) : deux mouvements opposés. تُولِجُ tūliju — racine و-ل-ج : faire pénétrer, faire entrer. أَوْلِيَاء awliyāʾ — pluriel de *walī* (déjà validé, و-ل-ي : proximité protectrice, gestion des affaires). تُقَاة tuqāh — même racine que *taqwā* (و-ق-ي, déjà connue) : la prémunition, la protection de soi. **Note de non-généralisation méthodologique** : *illā an tattaqū minhum tuqāh* borne l'exception à une situation de prémunition défensive précise (se protéger d'un danger réel), non une autorisation générale de dissimulation. يُحَذِّرُكُمُ اللَّهُ نَفْسَهُ yuḥadhdhirukumu llāhu nafsah — construction réflexive : Allaah met en garde de Lui-même, sans intermédiaire supplémentaire dans l'avertissement. مُحْضَرًا muḥḍaran — racine ح-ض-ر (déjà connue) : rendu présent, mis devant soi. أَمَدًا بَعِيدًا amadan baʿīdā — racine أ-م-د : une distance temporelle ou spatiale étendue. رَءُوف Raʾūf — racine ر-أ-ف : la sollicitude attentive à la vulnérabilité d'autrui — conservée au sens fonctionnel, sans projection d'affect humain. Ce que le texte dit : un déplacement de l'argument — des Ahl al-Kitāb qui se détournent du jugement de leur propre Livre, à la souveraineté totale d'Allaah sur le mulk, puis à l'interdit de la walāya avec les kāfirūn sauf prémunition défensive bornée, et à la clôture sur l'amour d'Allaah conditionné au suivi et à l'obéissance. Ce que le texte ne dit pas : S3:28 ne détaille pas les situations concrètes qui qualifieraient une « prémunition véritable » (tuqāh) — le texte pose le principe sans en cartographier les cas d'application.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">نَصِيبًا مِّنَ الْكِتَاب</span><span class="lex-trl">naṣīban mina l-kitāb</span></dt>
+<dd>racine ن-ص-ب : une part, une portion assignée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَّعْدُودَات</span><span class="lex-trl">maʿdūdāt</span></dt>
+<dd>racine ع-د-د : comptées, dénombrées — un nombre limité et défini.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غَرَّهُمْ</span><span class="lex-trl">gharrahum</span></dt>
+<dd>racine غ-ر-ر : tromper, induire en illusion trompeuse.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَفْتَرُون</span><span class="lex-trl">yaftarūn</span></dt>
+<dd>(ف-ر-ي, forger un mensonge).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمُلْك</span><span class="lex-trl">al-mulk</span></dt>
+<dd>racine م-ل-ك : la royauté, la possession souveraine — *Mālik al-Mulk* : ce qui possède la royauté elle-même, non seulement un royaume.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُعِزُّ / تُذِلُّ</span><span class="lex-trl">tuʿizzu / tudhillu</span></dt>
+<dd>racines ع-ز-ز (force, inaccessibilité) et ذ-ل-ل (abaissement, docilité forcée) : deux mouvements opposés.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُولِجُ</span><span class="lex-trl">tūliju</span></dt>
+<dd>racine و-ل-ج : faire pénétrer, faire entrer.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَوْلِيَاء</span><span class="lex-trl">awliyāʾ</span></dt>
+<dd>pluriel de *walī* (و-ل-ي : proximité protectrice, gestion des affaires).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُقَاة</span><span class="lex-trl">tuqāh</span></dt>
+<dd>même racine que *taqwā* (و-ق-ي) : la prémunition, la protection de soi. **Note de non-généralisation méthodologique** : *illā an tattaqū minhum tuqāh* borne l'exception à une situation de prémunition défensive précise (se protéger d'un danger réel), non une autorisation générale de dissimulation.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُحَذِّرُكُمُ اللَّهُ نَفْسَهُ</span><span class="lex-trl">yuḥadhdhirukumu llāhu nafsah</span></dt>
+<dd>construction réflexive : Allaah met en garde de Lui-même, sans intermédiaire supplémentaire dans l'avertissement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُحْضَرًا</span><span class="lex-trl">muḥḍaran</span></dt>
+<dd>racine ح-ض-ر : rendu présent, mis devant soi.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَمَدًا بَعِيدًا</span><span class="lex-trl">amadan baʿīdā</span></dt>
+<dd>racine أ-م-د : une distance temporelle ou spatiale étendue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رَءُوف</span><span class="lex-trl">Raʾūf</span></dt>
+<dd>racine ر-أ-ف : la sollicitude attentive à la vulnérabilité d'autrui — conservée au sens fonctionnel, sans projection d'affect humain.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> un déplacement de l'argument — des Ahl al-Kitāb qui se détournent du jugement de leur propre Livre, à la souveraineté totale d'Allaah sur le mulk, puis à l'interdit de la walāya avec les kāfirūn sauf prémunition défensive bornée, et à la clôture sur l'amour d'Allaah conditionné au suivi et à l'obéissance.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> S3:28 ne détaille pas les situations concrètes qui qualifieraient une « prémunition véritable » (tuqāh) — le texte pose le principe sans en cartographier les cas d'application.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 

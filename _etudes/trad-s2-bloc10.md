@@ -41,9 +41,47 @@ methode: "Dit / Non-dit / Inférence"
    trad="Qui est celui qui fait à Allaah un prêt bon, qu'Il lui multiplie en maints multiples ? Allaah resserre et déploie, et c'est vers Lui que vous ferez retour."
 %}
 
-**Notes lexicales**
-
-دِيَار diyār — pluriel de *dār*, la demeure. حَذَرَ الْمَوْت ḥadhara l-mawt — déjà validé (ḥ-dh-r, S2:235) au sens de vigilance anticipée : ici, la crainte qui pousse à fuir. مُوتُوا ثُمَّ أَحْيَاهُمْ mūtū thumma aḥyāhum — racines m-w-t et ḥ-y-y (déjà validée, S2:154, S2:179 : mouvement/animation, opposé de m-w-t). **Non-dit assumé.** Le texte ne précise ni les circonstances historiques de cet épisode ni les modalités de la mort puis de la remise en vie — aucune inférence narrative n'est ajoutée ici. فَضْل faḍl — déjà validé (f-ḍ-l). لَا يَشْكُرُون lā yashkurūn — déjà validé (sh-k-r). يُقْرِضُ yuqriḍu — racine q-r-ḍ : détacher une portion de son bien pour la donner, avec l'attente d'un retour — le prêt au sens propre, ici appliqué métaphoriquement à Allaah. يُضَاعِفَ yuḍāʿifu — racine ḍ-ʿ-f : redoubler, multiplier. يَقْبِضُ / يَبْسُطُ yaqbiḍu / yabsuṭu — racines q-b-ḍ (resserrer, saisir) et b-s-ṭ (étendre, déployer) : deux mouvements opposés associés à Allaah dans le contexte de la subsistance — **note de vigilance méthodologique** : ces deux verbes ne sont pas traduits par une image de main qui se ferme ou s'ouvre (anthropomorphisme), mais compris comme deux modes d'action opposés et complémentaires, conservés dans leur portée fonctionnelle. Ce que le texte dit : un épisode de sortie collective par crainte de la mort, suivi d'un appel au qitāl et d'une image du prêt fait à Allaah, multiplié en retour. Ce que le texte ne dit pas : il ne nomme ni le peuple ni l'époque de l'épisode de S2:243.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">دِيَار</span><span class="lex-trl">diyār</span></dt>
+<dd>pluriel de *dār*, la demeure.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَذَرَ الْمَوْت</span><span class="lex-trl">ḥadhara l-mawt</span></dt>
+<dd>(ḥ-dh-r, S2:235) au sens de vigilance anticipée : ici, la crainte qui pousse à fuir.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُوتُوا ثُمَّ أَحْيَاهُمْ</span><span class="lex-trl">mūtū thumma aḥyāhum</span></dt>
+<dd>racines m-w-t et ḥ-y-y (S2:154, S2:179 : mouvement/animation, opposé de m-w-t). **Non-dit assumé.** Le texte ne précise ni les circonstances historiques de cet épisode ni les modalités de la mort puis de la remise en vie — aucune inférence narrative n'est ajoutée ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَضْل</span><span class="lex-trl">faḍl</span></dt>
+<dd>(f-ḍ-l).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يَشْكُرُون</span><span class="lex-trl">lā yashkurūn</span></dt>
+<dd>(sh-k-r).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُقْرِضُ</span><span class="lex-trl">yuqriḍu</span></dt>
+<dd>racine q-r-ḍ : détacher une portion de son bien pour la donner, avec l'attente d'un retour — le prêt au sens propre, ici appliqué métaphoriquement à Allaah.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُضَاعِفَ</span><span class="lex-trl">yuḍāʿifu</span></dt>
+<dd>racine ḍ-ʿ-f : redoubler, multiplier.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَقْبِضُ / يَبْسُطُ</span><span class="lex-trl">yaqbiḍu / yabsuṭu</span></dt>
+<dd>racines q-b-ḍ (resserrer, saisir) et b-s-ṭ (étendre, déployer) : deux mouvements opposés associés à Allaah dans le contexte de la subsistance — **note de vigilance méthodologique** : ces deux verbes ne sont pas traduits par une image de main qui se ferme ou s'ouvre (anthropomorphisme), mais compris comme deux modes d'action opposés et complémentaires, conservés dans leur portée fonctionnelle.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> un épisode de sortie collective par crainte de la mort, suivi d'un appel au qitāl et d'une image du prêt fait à Allaah, multiplié en retour.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne nomme ni le peuple ni l'époque de l'épisode de S2:243.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -93,9 +131,99 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ils les mirent en déroute par la permission d'Allaah, et Dāwūd tua Jālūt. Allaah lui donna la royauté et la ḥikma, et lui enseigna de ce qu'Il voulut. Et si Allaah ne repoussait pas les gens les uns par les autres, la terre se serait dérèglée — mais Allaah est pourvu de faḍl envers les mondes."
 %}
 
-**Notes lexicales**
-
-الْمَلَأ al-malaʾ — racine m-l-ʾ (remplir) : l'assemblée des notables, ceux qui « remplissent » le corps dirigeant par leur rang. مَلِك malik — racine m-l-k : la possession souveraine, le roi. عَسَيْتُمْ ʿasaytum — racine ʿ-s-y : probabilité, éventualité envisagée. تَوَلَّوْا tawallaw — déjà validé (w-l-y, forme V/VI : se détourner). اصْطَفَاهُ ṣṭafāhu — déjà validé (ṣ-f-w, S2:130 : extraire ce qui est pur, élire). بَسْطَة basṭa — même racine que *yabsuṭu* (S2:245) : surcroît, extension — ici appliqué au savoir et à la constitution physique. وَاسِع Wāsiʿ — racine w-s-ʿ (déjà validée) : ce qui embrasse une amplitude sans limite fixée. **Note de vigilance** : conservé sans connotation d'étendue spatiale physique appliquée à Allaah — l'amplitude désignée est fonctionnelle (portée de la connaissance, de la libéralité), non un lieu. سَكِينَة sakīna — même racine que *al-masākīn* (S2:215, l'immobilité par le besoin), mais sens dérivé distinct ici : un état de quiétude, de stabilité descendue — non une simple absence de mouvement par manque de moyens. التَّابُوت al-tābūt — terme ancien stabilisé désignant un coffre, une arche — conservé en translittération. فَصَلَ faṣala — même racine que *fiṣāl* (S2:233, sevrage) : ici, se séparer du lieu de départ, se mettre en marche. مُبْتَلِيكُم mubtalīkum — racine b-l-w : mettre à l'épreuve. اغْتَرَفَ ightarafa — forme VIII de gh-r-f : puiser pour soi, prélever avec la main. جَاوَزَهُ jāwazahu — racine j-w-z : franchir, passer au-delà. لَا طَاقَة lā ṭāqata — déjà validé (ṭ-w-q, S2:184) : absence de capacité/force. فِئَة fiʾa — racine f-ʾ-y : groupe, troupe rassemblée. غَلَبَتْ ghalabat — racine gh-l-b : l'emporter par domination. أَفْرِغْ afrigh — racine f-r-gh : déverser entièrement, vider un contenu dans un autre — image du ṣabr comme substance répandue. ثَبِّتْ thabbit — racine th-b-t : affermir, rendre stable. هَزَمُوهُم hazamūhum — racine h-z-m : mettre en déroute, briser la résistance. دَفْعُ اللَّهِ dafʿu llāh — racine d-f-ʿ : la poussée qui repousse, écarte — le texte pose un principe explicite de dissuasion réciproque entre groupes humains comme rempart contre la corruption généralisée de l'ordre terrestre. الْعَالَمِين al-ʿālamīn — racine ʿ-l-m : les mondes, ce par quoi une catégorie d'êtres se signale et se distingue. Ce que le texte dit : un récit structuré — demande d'un roi, désignation de Ṭālūt, signe du tābūt, épreuve de la rivière, bataille et victoire de Dāwūd — assorti d'un principe général sur la fonction dissuasive du rapport de force entre les gens. Ce que le texte ne dit pas : il ne date ni ne localise précisément cet épisode au-delà des repères donnés (après Mūsā, un nabī non nommé, Ṭālūt, Jālūt, Dāwūd).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَلَأ</span><span class="lex-trl">al-malaʾ</span></dt>
+<dd>racine m-l-ʾ (remplir) : l'assemblée des notables, ceux qui « remplissent » le corps dirigeant par leur rang.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَلِك</span><span class="lex-trl">malik</span></dt>
+<dd>racine m-l-k : la possession souveraine, le roi.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عَسَيْتُمْ</span><span class="lex-trl">ʿasaytum</span></dt>
+<dd>racine ʿ-s-y : probabilité, éventualité envisagée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَوَلَّوْا</span><span class="lex-trl">tawallaw</span></dt>
+<dd>(w-l-y, forme V/VI : se détourner).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اصْطَفَاهُ</span><span class="lex-trl">ṣṭafāhu</span></dt>
+<dd>(ṣ-f-w, S2:130 : extraire ce qui est pur, élire).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَسْطَة</span><span class="lex-trl">basṭa</span></dt>
+<dd>même racine que *yabsuṭu* (S2:245) : surcroît, extension — ici appliqué au savoir et à la constitution physique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَاسِع</span><span class="lex-trl">Wāsiʿ</span></dt>
+<dd>racine w-s-ʿ : ce qui embrasse une amplitude sans limite fixée. **Note de vigilance** : conservé sans connotation d'étendue spatiale physique appliquée à Allaah — l'amplitude désignée est fonctionnelle (portée de la connaissance, de la libéralité), non un lieu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَكِينَة</span><span class="lex-trl">sakīna</span></dt>
+<dd>même racine que *al-masākīn* (S2:215, l'immobilité par le besoin), mais sens dérivé distinct ici : un état de quiétude, de stabilité descendue — non une simple absence de mouvement par manque de moyens.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">التَّابُوت</span><span class="lex-trl">al-tābūt</span></dt>
+<dd>terme ancien stabilisé désignant un coffre, une arche — conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَصَلَ</span><span class="lex-trl">faṣala</span></dt>
+<dd>même racine que *fiṣāl* (S2:233, sevrage) : ici, se séparer du lieu de départ, se mettre en marche.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُبْتَلِيكُم</span><span class="lex-trl">mubtalīkum</span></dt>
+<dd>racine b-l-w : mettre à l'épreuve.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اغْتَرَفَ</span><span class="lex-trl">ightarafa</span></dt>
+<dd>forme VIII de gh-r-f : puiser pour soi, prélever avec la main.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">جَاوَزَهُ</span><span class="lex-trl">jāwazahu</span></dt>
+<dd>racine j-w-z : franchir, passer au-delà.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا طَاقَة</span><span class="lex-trl">lā ṭāqata</span></dt>
+<dd>(ṭ-w-q, S2:184) : absence de capacité/force.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فِئَة</span><span class="lex-trl">fiʾa</span></dt>
+<dd>racine f-ʾ-y : groupe, troupe rassemblée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غَلَبَتْ</span><span class="lex-trl">ghalabat</span></dt>
+<dd>racine gh-l-b : l'emporter par domination.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَفْرِغْ</span><span class="lex-trl">afrigh</span></dt>
+<dd>racine f-r-gh : déverser entièrement, vider un contenu dans un autre — image du ṣabr comme substance répandue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ثَبِّتْ</span><span class="lex-trl">thabbit</span></dt>
+<dd>racine th-b-t : affermir, rendre stable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">هَزَمُوهُم</span><span class="lex-trl">hazamūhum</span></dt>
+<dd>racine h-z-m : mettre en déroute, briser la résistance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">دَفْعُ اللَّهِ</span><span class="lex-trl">dafʿu llāh</span></dt>
+<dd>racine d-f-ʿ : la poussée qui repousse, écarte — le texte pose un principe explicite de dissuasion réciproque entre groupes humains comme rempart contre la corruption généralisée de l'ordre terrestre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعَالَمِين</span><span class="lex-trl">al-ʿālamīn</span></dt>
+<dd>racine ʿ-l-m : les mondes, ce par quoi une catégorie d'êtres se signale et se distingue.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> un récit structuré — demande d'un roi, désignation de Ṭālūt, signe du tābūt, épreuve de la rivière, bataille et victoire de Dāwūd — assorti d'un principe général sur la fonction dissuasive du rapport de force entre les gens.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne date ni ne localise précisément cet épisode au-delà des repères donnés (après Mūsā, un nabī non nommé, Ṭālūt, Jālūt, Dāwūd).</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -117,9 +245,51 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ces rusul, Nous en avons favorisé certains sur d'autres. Parmi eux, il en est à qui Allaah a adressé la parole ; et Il en a élevé d'autres en degrés. Nous avons donné à ʿĪsā fils de Maryam les bayyināt, et Nous l'avons appuyé par rūḥ al-qudus. Et si Allaah avait voulu, ceux venus après eux ne se seraient pas combattus entre eux après que les bayyināt leur furent venues — mais ils divergèrent : parmi eux, il en est qui crurent, et parmi eux, il en est qui furent kāfirūn. Et si Allaah avait voulu, ils ne se seraient pas combattus — mais Allaah fait ce qu'Il veut."
 %}
 
-**Notes lexicales**
-
-نَتْلُوهَا natlūhā — racine t-l-w : réciter, faire suivre un énoncé — non un simple « dire » mais une transmission suivie. الْمُرْسَلِين al-mursalīn — participes de r-s-l, déjà connu (rasūl) : ceux qui sont envoyés porteurs d'un message. فَضَّلْنَا faḍḍalnā — déjà validé (f-ḍ-l) : le texte affirme lui-même une distinction de faḍl entre les rusul — une hiérarchie explicitement posée par le texte, non une inférence extérieure. كَلَّمَ اللَّه kallama llāh — racine k-l-m, la parole adressée. **Note de vigilance méthodologique.** Le texte attribue à Allaah l'acte de « parler » à l'un des rusul (non nommé dans ce verset précis) — le non-dit porte ici sur la modalité de cette parole, que le texte ne décrit pas ; aucune image sensorielle ou physique n'est ajoutée à ce que le verset énonce. رَفَعَ ... دَرَجَات rafaʿa... darajāt — racine r-f-ʿ (élévation) appliquée au même terme *daraja* déjà rencontré (S2:228). رُوحِ الْقُدُس rūḥ al-qudus — r-w-ḥ (le souffle vital) et q-d-s (la sacralité, la pureté totale) : conservé en translittération, sans identification supplémentaire au-delà de ce que le texte nomme. اقْتَتَلَ qtatala — forme VIII réciproque de q-t-l (déjà connu via *qitāl*) : se combattre mutuellement. اخْتَلَفُوا khtalafū — déjà validé (kh-l-f, S2:213). يَفْعَلُ مَا يُرِيدُ yafʿalu mā yurīd — racine r-w-d (rechercher, vouloir activement) : clôture affirmant la portée de la volonté d'Allaah sur le cours des événements humains, y compris leurs divergences. Ce que le texte dit : une hiérarchie de faḍl entre les rusul est explicitement posée par le texte lui-même, et la divergence entre les gens après les bayyināt est rattachée à la volonté d'Allaah, sans que cela annule la responsabilité de la divergence elle-même (« mais ils divergèrent »). Ce que le texte ne dit pas : il ne nomme pas ici celui « à qui Allaah a adressé la parole » — l'identification à Mūsā, si elle est bien établie ailleurs dans le corpus, n'est pas le contenu de ce verset précis.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">نَتْلُوهَا</span><span class="lex-trl">natlūhā</span></dt>
+<dd>racine t-l-w : réciter, faire suivre un énoncé — non un simple « dire » mais une transmission suivie.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمُرْسَلِين</span><span class="lex-trl">al-mursalīn</span></dt>
+<dd>participes de r-s-l, (rasūl) : ceux qui sont envoyés porteurs d'un message.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَضَّلْنَا</span><span class="lex-trl">faḍḍalnā</span></dt>
+<dd>(f-ḍ-l) : le texte affirme lui-même une distinction de faḍl entre les rusul — une hiérarchie explicitement posée par le texte, non une inférence extérieure.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَلَّمَ اللَّه</span><span class="lex-trl">kallama llāh</span></dt>
+<dd>racine k-l-m, la parole adressée. **Note de vigilance méthodologique.** Le texte attribue à Allaah l'acte de « parler » à l'un des rusul (non nommé dans ce verset précis) — le non-dit porte ici sur la modalité de cette parole, que le texte ne décrit pas ; aucune image sensorielle ou physique n'est ajoutée à ce que le verset énonce. رَفَعَ...</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">دَرَجَات</span><span class="lex-trl">rafaʿa... darajāt</span></dt>
+<dd>racine r-f-ʿ (élévation) appliquée au même terme *daraja* (S2:228).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رُوحِ الْقُدُس</span><span class="lex-trl">rūḥ al-qudus</span></dt>
+<dd>r-w-ḥ (le souffle vital) et q-d-s (la sacralité, la pureté totale) : conservé en translittération, sans identification supplémentaire au-delà de ce que le texte nomme.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اقْتَتَلَ</span><span class="lex-trl">qtatala</span></dt>
+<dd>forme VIII réciproque de q-t-l (via *qitāl*) : se combattre mutuellement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اخْتَلَفُوا</span><span class="lex-trl">khtalafū</span></dt>
+<dd>(kh-l-f, S2:213).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَفْعَلُ مَا يُرِيدُ</span><span class="lex-trl">yafʿalu mā yurīd</span></dt>
+<dd>racine r-w-d (rechercher, vouloir activement) : clôture affirmant la portée de la volonté d'Allaah sur le cours des événements humains, y compris leurs divergences.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une hiérarchie de faḍl entre les rusul est explicitement posée par le texte lui-même, et la divergence entre les gens après les bayyināt est rattachée à la volonté d'Allaah, sans que cela annule la responsabilité de la divergence elle-même (« mais ils divergèrent »).</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne nomme pas ici celui « à qui Allaah a adressé la parole » — l'identification à Mūsā, si elle est bien établie ailleurs dans le corpus, n'est pas le contenu de ce verset précis.</p>
+</div>
+</div>
 
 ---
 

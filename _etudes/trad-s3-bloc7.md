@@ -32,7 +32,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> فَقِيرٌ / أَغْنِيَآءُ faqīr / aghniyāʾ — pauvreté et richesse, opposition binaire simple. قُرْبَانٍ qurbān — racine q-r-b (proximité) : ce qui est rapproché/offert en offrande. ٱلزُّبُرِ al-zubur — pluriel de <em>zabūr</em> : écrits, feuillets consignés. ٱلْكِتَـٰبِ ٱلْمُنِيرِ al-kitāb al-munīr — racine n-w-r : ce qui éclaire, répand la lumière — à ne pas confondre avec la racine b-y-n (bayyināt, dans le même verset) : deux images distinctes pour la clarté — l'une par la lumière, l'autre par ce qui se détache et se distingue. Ce que le texte dit : la demande d'une preuve matérielle précise (une offrande consumée par le feu) est présentée comme une exigence déjà refusée par ceux-là mêmes qui ont tué des nabiyyūn venus avec des bayyināt correspondant à cette exigence — une incohérence relevée par le texte lui-même, non par inférence extérieure.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">فَقِيرٌ / أَغْنِيَآءُ</span><span class="lex-trl">faqīr / aghniyāʾ</span></dt>
+<dd>pauvreté et richesse, opposition binaire simple.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قُرْبَانٍ</span><span class="lex-trl">qurbān</span></dt>
+<dd>racine q-r-b (proximité) : ce qui est rapproché/offert en offrande.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلزُّبُرِ</span><span class="lex-trl">al-zubur</span></dt>
+<dd>pluriel de <em>zabūr</em> : écrits, feuillets consignés.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْكِتَـٰبِ ٱلْمُنِيرِ</span><span class="lex-trl">al-kitāb al-munīr</span></dt>
+<dd>racine n-w-r : ce qui éclaire, répand la lumière — à ne pas confondre avec la racine b-y-n (bayyināt, dans le même verset) : deux images distinctes pour la clarté — l'une par la lumière, l'autre par ce qui se détache et se distingue.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la demande d'une preuve matérielle précise (une offrande consumée par le feu) est présentée comme une exigence déjà refusée par ceux-là mêmes qui ont tué des nabiyyūn venus avec des bayyināt correspondant à cette exigence — une incohérence relevée par le texte lui-même, non par inférence extérieure.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -53,7 +74,33 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ذَآئِقَةُ dhāʾiqa — racine dh-w-q : goûter — la mort présentée par l'image du goût, non de l'anéantissement total. تُوَفَّوْنَ tuwaffawna — racine w-f-y, sens de base déjà noté S3:161 : recevoir en plein, sans lien avec le sens dérivé euphémique pour la mort. زُحْزِحَ zuḥziḥa — racine z-ḥ-z-ḥ, forme redoublée intensive : être repoussé, écarté avec insistance. غُرُور ghurūr — racine gh-r-r, déjà rencontrée S3:24 (« gharrahum », les a leurrés) : le leurre, ce qui trompe par une apparence engageante — appliqué ici à la vie d'ici-bas elle-même, non à un acteur qui trompe. أَذًى adhā — un tort, une nuisance qui atteint sans nécessairement détruire. عَزْمِ ٱلْأُمُورِ ʿazm al-umūr — racine ʿ-z-m, déjà rencontrée S2:227 : la résolution ferme — ici, la ṣabr et la taqwā sont qualifiées comme relevant des affaires qui exigent une telle résolution, non comme allant de soi.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ذَآئِقَةُ</span><span class="lex-trl">dhāʾiqa</span></dt>
+<dd>racine dh-w-q : goûter — la mort présentée par l'image du goût, non de l'anéantissement total.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُوَفَّوْنَ</span><span class="lex-trl">tuwaffawna</span></dt>
+<dd>racine w-f-y, sens de base déjà noté S3:161 : recevoir en plein, sans lien avec le sens dérivé euphémique pour la mort.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">زُحْزِحَ</span><span class="lex-trl">zuḥziḥa</span></dt>
+<dd>racine z-ḥ-z-ḥ, forme redoublée intensive : être repoussé, écarté avec insistance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غُرُور</span><span class="lex-trl">ghurūr</span></dt>
+<dd>racine gh-r-r, S3:24 (« gharrahum », les a leurrés) : le leurre, ce qui trompe par une apparence engageante — appliqué ici à la vie d'ici-bas elle-même, non à un acteur qui trompe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَذًى</span><span class="lex-trl">adhā</span></dt>
+<dd>un tort, une nuisance qui atteint sans nécessairement détruire.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عَزْمِ ٱلْأُمُورِ</span><span class="lex-trl">ʿazm al-umūr</span></dt>
+<dd>racine ʿ-z-m, S2:227 : la résolution ferme — ici, la ṣabr et la taqwā sont qualifiées comme relevant des affaires qui exigent une telle résolution, non comme allant de soi.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -71,7 +118,25 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> مِيثَـٰقَ mīthāq — racine w-th-q : un lien noué avec fermeté, un engagement contracté. نَبَذُوهُ nabadhūhu — racine n-b-dh : jeter, rejeter loin de soi avec un geste de rupture. وَرَآءَ ظُهُورِهِمْ warāʾa ẓuhūrihim — littéralement « derrière leurs dos » : image d'un rejet délibéré, ce qu'on refuse de garder en vue. ٱشْتَرَوْا۟ ishtaraw — même racine sh-r-y que S2:207 et S3:177 : une transaction, ici perdante, d'un engagement contre un gain dérisoire.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مِيثَـٰقَ</span><span class="lex-trl">mīthāq</span></dt>
+<dd>racine w-th-q : un lien noué avec fermeté, un engagement contracté.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَبَذُوهُ</span><span class="lex-trl">nabadhūhu</span></dt>
+<dd>racine n-b-dh : jeter, rejeter loin de soi avec un geste de rupture.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَرَآءَ ظُهُورِهِمْ</span><span class="lex-trl">warāʾa ẓuhūrihim</span></dt>
+<dd>littéralement « derrière leurs dos » : image d'un rejet délibéré, ce qu'on refuse de garder en vue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱشْتَرَوْا۟</span><span class="lex-trl">ishtaraw</span></dt>
+<dd>même racine sh-r-y que S2:207 et S3:177 : une transaction, ici perdante, d'un engagement contre un gain dérisoire.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -85,7 +150,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يَفْرَحُونَ yafraḥūn — se réjouir, distinct de <em>farihīn</em> déjà rencontré S3:170 dans un contexte positif. يُحْمَدُوا۟ yuḥmadū — racine ḥ-m-d : être loué — même racine que <em>al-ḥamd</em>. مَفَازَةٍ mafāza — racine f-w-z, même racine que <em>fāza</em> (S3:185) : un lieu de réussite, d'échappée — nié ici. Ce que le texte dit : c'est la discordance entre l'action réelle et la louange recherchée qui est visée, non la satisfaction en elle-même.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَفْرَحُونَ</span><span class="lex-trl">yafraḥūn</span></dt>
+<dd>se réjouir, distinct de <em>farihīn</em> S3:170 dans un contexte positif.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُحْمَدُوا۟</span><span class="lex-trl">yuḥmadū</span></dt>
+<dd>racine ḥ-m-d : être loué — même racine que <em>al-ḥamd</em>.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَفَازَةٍ</span><span class="lex-trl">mafāza</span></dt>
+<dd>racine f-w-z, même racine que <em>fāza</em> (S3:185) : un lieu de réussite, d'échappée — nié ici.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> c'est la discordance entre l'action réelle et la louange recherchée qui est visée, non la satisfaction en elle-même.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -110,7 +192,33 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يَتَفَكَّرُونَ yatafakkarūn — racine f-k-r : réfléchir, faire circuler la pensée sur un objet — première occurrence de cette racine relevée dans ce corpus. بَـٰطِلًا bāṭilan — racine b-ṭ-l : ce qui est vain, sans fondement, sans effet réel. أَخْزَيْتَهُۥ akhzaytahu — racine kh-z-y : couvrir de honte, d'humiliation. كَفِّرْ kaffir — racine k-f-r, forme II ici au sens d'« effacer/couvrir » une faute — à distinguer nettement du sens déjà établi de <em>kafarū</em> (couvrir sa reconnaissance) : même racine, mais orientée ici vers l'action d'Allaah d'effacer, non vers l'attitude reprochée aux hommes — les deux emplois partagent l'image de « couvrir », appliquée à des objets opposés (la reconnaissance qu'on couvre soi-même vs la faute qu'Allaah efface). ٱلْأَبْرَارِ al-abrār — même racine b-r-r que <em>al-birr</em> (S2:177, S2:189 ; S3:92) : ceux dont l'espace de conduite est ouvert, sans clôture — translittéré selon l'usage déjà fixé pour cette racine. تُخْلِفُ ٱلْمِيعَادَ tukhlifu l-mīʿād — racine kh-l-f (manquer, faire défaut) et w-ʿ-d (promesse) : ne pas manquer à un rendez-vous fixé.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَتَفَكَّرُونَ</span><span class="lex-trl">yatafakkarūn</span></dt>
+<dd>racine f-k-r : réfléchir, faire circuler la pensée sur un objet — première occurrence de cette racine relevée dans ce corpus.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَـٰطِلًا</span><span class="lex-trl">bāṭilan</span></dt>
+<dd>racine b-ṭ-l : ce qui est vain, sans fondement, sans effet réel.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَخْزَيْتَهُۥ</span><span class="lex-trl">akhzaytahu</span></dt>
+<dd>racine kh-z-y : couvrir de honte, d'humiliation.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَفِّرْ</span><span class="lex-trl">kaffir</span></dt>
+<dd>racine k-f-r, forme II ici au sens d'« effacer/couvrir » une faute — à distinguer nettement de l'emploi de <em>kafarū</em> ailleurs dans le corpus (voir l'étude dédiée [Kāfir](/etudes/kafir-coran/)) : même, mais orientée ici vers l'action d'Allaah d'effacer, non vers l'attitude reprochée aux hommes — les deux emplois partagent l'image de « couvrir », appliquée à des objets opposés (la faute qu'Allaah efface vs ce que <em>kafarū</em> désigne selon le contexte).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْأَبْرَارِ</span><span class="lex-trl">al-abrār</span></dt>
+<dd>même racine b-r-r que <em>al-birr</em> (S2:177, S2:189 ; S3:92) : ceux dont l'espace de conduite est ouvert, sans clôture — translittéré selon l'usage déjà fixé pour cette.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُخْلِفُ ٱلْمِيعَادَ</span><span class="lex-trl">tukhlifu l-mīʿād</span></dt>
+<dd>racine kh-l-f (manquer, faire défaut) et w-ʿ-d (promesse) : ne pas manquer à un rendez-vous fixé.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -124,7 +232,29 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱسْتَجَابَ istajāba — même racine j-w-b que S3:172 et le titre de la Sourate 2, <em>Al-Ijāba</em> : réponse directe d'Allaah à l'invocation qui précède. بَعْضُكُم مِّنۢ بَعْضٍ baʿḍukum min baʿḍ — « vous relevez les uns des autres » : Ce que le texte dit établit explicitement une équivalence entre l'homme et la femme dans la non-perte de l'œuvre, avant même d'énumérer les situations d'épreuve. هَاجَرُوا۟ hājarū — racine h-j-r : quitter, se séparer d'un lieu. أُخْرِجُوا۟ ukhrijū — racine kh-r-j : faire sortir de force. أُوذُوا۟ ūdhū — même racine que <em>adhā</em> (S3:186) : subir un tort.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱسْتَجَابَ</span><span class="lex-trl">istajāba</span></dt>
+<dd>même racine j-w-b que S3:172 et le titre de la Sourate 2, <em>Al-Ijāba</em> : réponse directe d'Allaah à l'invocation qui précède.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَعْضُكُم مِّنۢ بَعْضٍ</span><span class="lex-trl">baʿḍukum min baʿḍ</span></dt>
+<dd>« vous relevez les uns des autres » : Ce que le texte dit établit explicitement une équivalence entre l'homme et la femme dans la non-perte de l'œuvre, avant même d'énumérer les situations d'épreuve.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">هَاجَرُوا۟</span><span class="lex-trl">hājarū</span></dt>
+<dd>racine h-j-r : quitter, se séparer d'un lieu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُخْرِجُوا۟</span><span class="lex-trl">ukhrijū</span></dt>
+<dd>racine kh-r-j : faire sortir de force.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُوذُوا۟</span><span class="lex-trl">ūdhū</span></dt>
+<dd>même racine que <em>adhā</em> (S3:186) : subir un tort.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -145,7 +275,29 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> تَقَلُّبُ taqallub — même racine q-l-b que <em>tanqalibū</em> (S3:149), <em>yanqalib</em> (S3:144), <em>fa-nqalabū</em> (S3:174) : ici au sens d'aisance/mobilité dans le pays — la racine q-l-b (retournement) revient une nouvelle fois, appliquée à un mouvement apparemment favorable, mais présenté comme passager. مِهَادُ mihād — même racine m-h-d que <em>al-mihād</em> (S3:12) : ce qui est étendu pour servir d'assise. نُزُلًا nuzulan — racine n-z-l, déjà rencontrée sous forme verbale (S3:3) : ici, un accueil offert, un hébergement préparé. خَـٰشِعِينَ khāshiʿīn — racine kh-sh-ʿ : l'abaissement volontaire, la soumission qui s'incline. سَرِيعُ ٱلْحِسَابِ sarīʿu l-ḥisāb — racine ḥ-s-b déjà rencontrée : le compte est ici qualifié de rapide, sans délai.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَقَلُّبُ</span><span class="lex-trl">taqallub</span></dt>
+<dd>même racine q-l-b que <em>tanqalibū</em> (S3:149), <em>yanqalib</em> (S3:144), <em>fa-nqalabū</em> (S3:174) : ici au sens d'aisance/mobilité dans le pays — la racine q-l-b (retournement) revient une nouvelle fois, appliquée à un mouvement apparemment favorable, mais présenté comme passager.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مِهَادُ</span><span class="lex-trl">mihād</span></dt>
+<dd>même racine m-h-d que <em>al-mihād</em> (S3:12) : ce qui est étendu pour servir d'assise.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نُزُلًا</span><span class="lex-trl">nuzulan</span></dt>
+<dd>racine n-z-l, sous forme verbale (S3:3) : ici, un accueil offert, un hébergement préparé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خَـٰشِعِينَ</span><span class="lex-trl">khāshiʿīn</span></dt>
+<dd>racine kh-sh-ʿ : l'abaissement volontaire, la soumission qui s'incline.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَرِيعُ ٱلْحِسَابِ</span><span class="lex-trl">sarīʿu l-ḥisāb</span></dt>
+<dd>racine ḥ-s-b : le compte est ici qualifié de rapide, sans délai.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -161,7 +313,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱصْبِرُوا۟ ṣbirū — racine ṣ-b-r, déjà établie : tenue ferme, contention active face à la pression. وَصَابِرُوا۟ ṣābirū — forme III de la même racine : une ṣabr exercée face à un vis-à-vis, dans une confrontation (le format grammatical de la forme III implique une réciprocité ou une confrontation directe avec un adversaire). وَرَابِطُوا۟ rābiṭū — racine r-b-ṭ : lier, attacher fermement — au sens concret, tenir une position à laquelle on s'est attaché, ne pas quitter le poste. Ce que le texte dit : la gradation entre les trois impératifs (tenir ferme, tenir ferme face à un adversaire, rester attaché au poste) précède, et non suit, l'injonction à la taqwā — la fermeté est requise en amont de la formule de clôture déjà rencontrée à l'ouverture du Bloc V (S3:130, « wa-ttaqu llāha laʿallakum tufliḥūn »), bouclant ainsi la sourate sur la même clausule qu'à son deux-centième-et-unième verset avant la fin de ce segment.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱصْبِرُوا۟</span><span class="lex-trl">ṣbirū</span></dt>
+<dd>racine ṣ-b-r : tenue ferme, contention active face à la pression.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَصَابِرُوا۟</span><span class="lex-trl">ṣābirū</span></dt>
+<dd>forme III de la même racine : une ṣabr exercée face à un vis-à-vis, dans une confrontation (le format grammatical de la forme III implique une réciprocité ou une confrontation directe avec un adversaire).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَرَابِطُوا۟</span><span class="lex-trl">rābiṭū</span></dt>
+<dd>racine r-b-ṭ : lier, attacher fermement — au sens concret, tenir une position à laquelle on s'est attaché, ne pas quitter le poste.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la gradation entre les trois impératifs (tenir ferme, tenir ferme face à un adversaire, rester attaché au poste) précède, et non suit, l'injonction à la taqwā — la fermeté est requise en amont de la formule de clôture déjà rencontrée à l'ouverture du Bloc V (S3:130, « wa-ttaqu llāha laʿallakum tufliḥūn »), bouclant ainsi la sourate sur la même clausule qu'à son deux-centième-et-unième verset avant la fin de ce segment.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 

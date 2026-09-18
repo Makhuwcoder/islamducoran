@@ -478,6 +478,70 @@ li { margin-bottom: .3rem; }
 }
 .ar-inline { font-family: var(--font-arabe); font-size: 1.1em; color: var(--arabe-c); }
 
+/* ═══════════ NOTES LEXICALES (bloc de traduction) ═══════════ */
+.notes-lexicales {
+  margin: 1.1rem 0 1.6rem;
+  padding: 1rem 1.2rem 1.1rem;
+  background: var(--bg4);
+  border: 1px solid var(--bg5);
+  border-radius: 6px;
+}
+.notes-lexicales__titre {
+  font-family: var(--font-titre);
+  font-size: .68rem; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--or2);
+  margin: 0 0 .7rem; display: block;
+}
+.notes-lexicales__sous-titre {
+  font-family: var(--font-corps);
+  font-size: .82rem; font-style: italic;
+  color: var(--texte3); margin: -.5rem 0 .8rem; display: block;
+}
+.notes-lexicales__intro {
+  margin: 0 0 .9rem; font-size: .9rem; line-height: 1.65; color: var(--texte2);
+}
+dl.lexique { margin: 0; }
+dl.lexique .lex-entree {
+  margin: 0 0 .8rem;
+  padding: 0 0 .8rem;
+  border-bottom: 1px solid var(--bg5);
+}
+dl.lexique .lex-entree:last-of-type {
+  margin-bottom: 0; padding-bottom: 0; border-bottom: none;
+}
+dl.lexique dt {
+  font-weight: 700;
+  margin-bottom: .2rem;
+}
+dl.lexique dt .lex-ar {
+  font-family: var(--font-arabe);
+  font-size: 1.15em; color: var(--arabe-c);
+  margin-right: .5rem;
+}
+dl.lexique dt .lex-trl {
+  font-family: var(--font-corps);
+  font-style: italic; font-weight: 600;
+  color: var(--or-text);
+}
+dl.lexique dd {
+  margin: 0; padding: 0;
+  font-size: .92rem; line-height: 1.65;
+  color: var(--texte2);
+}
+.notes-lexicales__synthese {
+  margin: .9rem 0 0; padding-top: .8rem;
+  border-top: 1px solid var(--bg5);
+  font-size: .9rem; line-height: 1.65; color: var(--texte2);
+}
+.notes-lexicales__synthese p { margin: 0 0 .5rem; }
+.notes-lexicales__synthese p:last-child { margin-bottom: 0; }
+.notes-lexicales__synthese strong { color: var(--texte); }
+
+@media (max-width: 600px) {
+  .notes-lexicales { padding: .85rem 1rem; }
+  dl.lexique dd { font-size: .88rem; }
+}
+
 /* ═══════════ TABLEAUX ═══════════ */
 .table-wrapper { overflow-x: auto; margin: 1.3rem 0; }
 table { width: 100%; border-collapse: collapse; font-size: 2.62rem; }

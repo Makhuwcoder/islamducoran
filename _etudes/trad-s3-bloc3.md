@@ -46,7 +46,25 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> كَلِمَةٍ سَوَآءٍۭ kalimatin sawāʾin — racine s-w-y : une parole d'égale mesure, équitablement partagée entre les parties — non une concession, un terrain commun défini par son contenu (S3:64 le précise immédiatement). حَنِيفًا ḥanīfan — déjà validé (S2:135 : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes) — conservé translittéré. أَوْلَى awlā — racine w-l-y : le plus proche, le plus digne d'un lien — même famille que walī. Ce que le texte dit : la proximité avec Ibrāhīm se définit par le suivi de sa voie, non par une filiation généalogique ou communautaire revendiquée. Ce que le texte ne dit pas : il ne précise pas ici le contenu détaillé de ce « suivi ».</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">كَلِمَةٍ سَوَآءٍۭ</span><span class="lex-trl">kalimatin sawāʾin</span></dt>
+<dd>racine s-w-y : une parole d'égale mesure, équitablement partagée entre les parties — non une concession, un terrain commun défini par son contenu (S3:64 le précise immédiatement).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَنِيفًا</span><span class="lex-trl">ḥanīfan</span></dt>
+<dd>(S2:135 : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes) — conservé translittéré.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَوْلَى</span><span class="lex-trl">awlā</span></dt>
+<dd>racine w-l-y : le plus proche, le plus digne d'un lien — même famille que walī.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la proximité avec Ibrāhīm se définit par le suivi de sa voie, non par une filiation généalogique ou communautaire revendiquée.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise pas ici le contenu détaillé de ce « suivi ».</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -102,7 +120,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> تَلْبِسُونَ / تَكْتُمُونَ talbisūna / taktumūna — S3:71 associe deux verbes distincts : l-b-s (habiller, superposer, brouiller par mélange) et k-t-m, déjà traité en détail dans l'étude dédiée <a href="/etudes/kitman-bayyan/">Kitmān et bayyān</a>, à laquelle ce verset renvoie directement — la dissimulation n'y est pas une simple omission mais un acte actif de recouvrement du ḥaqq par le bāṭil. ٱلْأُمِّيِّـۧنَ al-ummiyyīn — réemploi ; voir l'étude dédiée <a href="/etudes/ummi-illettre/">L'ummī était-il illettré ?</a> — peuples sans écriture révélée antérieure, non « illettrés » ; S3:75 montre un groupe justifiant une malhonnêteté financière par ce statut, sans que le texte n'endosse cette justification — il la rapporte et la dément (« ils disent le mensonge sur Allaah »). قِنطَار / دِينَار qinṭār / dīnār — unités de valeur, un grand montant contre un montant modeste — le contraste souligne que la malhonnêteté visée n'est pas proportionnelle à la somme en jeu. وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ — reprise de la construction déjà rencontrée en S2:174, où elle avait été traduite littéralement sans réduction — la valeur de l'expression reste fonctionnelle (retrait de toute relation), non une description physique. فَرِيقًا farīqan — un groupe, une fraction identifiable — distinct de ṭāʾifa (S3:69, S3:72) sans que le texte marque de différence de nature entre les deux termes ici. Ce que le texte dit : les comportements décrits (dissimulation temporaire de la foi, malhonnêteté financière justifiée par le statut d'autrui, torsion du Kitāb) sont le fait d'une partie identifiée (ṭāʾifa/farīq), non de l'ensemble des Ahl al-Kitāb — la distinction est répétée trois fois dans ce passage (S3:69, S3:72, S3:78).</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَلْبِسُونَ / تَكْتُمُونَ</span><span class="lex-trl">talbisūna / taktumūna</span></dt>
+<dd>S3:71 associe deux verbes distincts : l-b-s (habiller, superposer, brouiller par mélange) et k-t-m, déjà traité en détail dans l'étude dédiée <a href="/etudes/kitman-bayyan/">Kitmān et bayyān</a>, à laquelle ce verset renvoie directement — la dissimulation n'y est pas une simple omission mais un acte actif de recouvrement du ḥaqq par le bāṭil.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْأُمِّيِّـۧنَ</span><span class="lex-trl">al-ummiyyīn</span></dt>
+<dd>réemploi ; voir l'étude dédiée <a href="/etudes/ummi-illettre/">L'ummī était-il illettré ?</a> — peuples sans écriture révélée antérieure, non « illettrés » ; S3:75 montre un groupe justifiant une malhonnêteté financière par ce statut, sans que le texte n'endosse cette justification — il la rapporte et la dément (« ils disent le mensonge sur Allaah »).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قِنطَار / دِينَار</span><span class="lex-trl">qinṭār / dīnār</span></dt>
+<dd>unités de valeur, un grand montant contre un montant modeste — le contraste souligne que la malhonnêteté visée n'est pas proportionnelle à la somme en jeu. وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ — reprise de la construction en S2:174, où elle avait été traduite littéralement sans réduction — la valeur de l'expression reste fonctionnelle (retrait de toute relation), non une description physique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَرِيقًا</span><span class="lex-trl">farīqan</span></dt>
+<dd>un groupe, une fraction identifiable — distinct de ṭāʾifa (S3:69, S3:72) sans que le texte marque de différence de nature entre les deux termes ici.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> les comportements décrits (dissimulation temporaire de la foi, malhonnêteté financière justifiée par le statut d'autrui, torsion du Kitāb) sont le fait d'une partie identifiée (ṭāʾifa/farīq), non de l'ensemble des Ahl al-Kitāb — la distinction est répétée trois fois dans ce passage (S3:69, S3:72, S3:78).</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -166,7 +205,37 @@ methode: "Dit / Non-dit / Inférence"
 
 <div class="notes-lexicales">
 <p><strong>Note lexicale — k-f-r, S3:70–91.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Dans ce passage, deux constructions distinctes : en S3:70–71 et S3:86–89, un marqueur textuel explicite accompagne le verbe — « alors que vous en êtes témoins » (wa-antum tashhadūn, S3:70), « après avoir cru » et « après avoir attesté que le rasūl est ḥaqq » (S3:86) — désignant la dimension du refus délibéré après reconnaissance (même structure qu'en S2:89) ; le verbe est alors rendu « refuser de reconnaître ». En S3:72, S3:90 (second emploi), S3:96 et S3:98, aucun marqueur de cette nature n'accompagne le verbe ou le nom — la forme reste translittérée (*kāfir/kāfirūn*), conformément à la règle méthodologique par défaut.</p>
-<p><strong>Notes lexicales.</strong> رَبَّـٰنِيِّـۧنَ rabbāniyyīn — racine r-b-b : ceux formés et attachés par une pratique constante d'enseignement et d'étude du Kitāb ; conservé translittéré. إِصْرِى iṣrī — déjà connu (S2:286) : une charge/un engagement qui pèse, ici au sens d'un pacte contraignant assumé. أَقْرَرْتُمْ aqrartum — racine q-r-r : reconnaître fermement, faire tenir en place ce qu'on affirme. ٱلْفَـٰسِقُونَ al-fāsiqūn — déjà validé (S2:26 : sortir de l'enveloppe, hors du cadre). طَوْعًا وَكَرْهًا ṭawʿan wa-karhan — de gré ou de force : une remise (islām/aslama) universelle affirmée jusque dans la contrainte, distincte de la soumission volontaire et consciente requise par ailleurs des croyants — non-dit sur l'articulation exacte entre ces deux registres dans ce verset précis. ٱلضَّآلُّونَ al-ḍāllūn — déjà connu (S1:7 : ceux qui s'écartent du chemin). Ce que le texte dit : l'appartenance aux nabiyyūn précédents (Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb, les asbāṭ, Mūsā, ʿĪsā) est affirmée sans hiérarchie de reconnaissance entre eux ; la remise (islām) est décrite comme un fait cosmique universel, tandis que l'islām comme dīn accepté par Allaah (S3:85) est spécifiquement humain et qualifié. Ce que le texte ne dit pas : le mécanisme précis reliant ces deux emplois du même terme n'est pas explicité dans ce passage.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبَّـٰنِيِّـۧنَ</span><span class="lex-trl">rabbāniyyīn</span></dt>
+<dd>racine r-b-b : ceux formés et attachés par une pratique constante d'enseignement et d'étude du Kitāb ; conservé translittéré.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِصْرِى</span><span class="lex-trl">iṣrī</span></dt>
+<dd>(S2:286) : une charge/un engagement qui pèse, ici au sens d'un pacte contraignant assumé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَقْرَرْتُمْ</span><span class="lex-trl">aqrartum</span></dt>
+<dd>racine q-r-r : reconnaître fermement, faire tenir en place ce qu'on affirme.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْفَـٰسِقُونَ</span><span class="lex-trl">al-fāsiqūn</span></dt>
+<dd>(S2:26 : sortir de l'enveloppe, hors du cadre).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">طَوْعًا وَكَرْهًا</span><span class="lex-trl">ṭawʿan wa-karhan</span></dt>
+<dd>de gré ou de force : une remise (islām/aslama) universelle affirmée jusque dans la contrainte, distincte de la soumission volontaire et consciente requise par ailleurs des croyants — non-dit sur l'articulation exacte entre ces deux registres dans ce verset précis.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلضَّآلُّونَ</span><span class="lex-trl">al-ḍāllūn</span></dt>
+<dd>(S1:7 : ceux qui s'écartent du chemin).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'appartenance aux nabiyyūn précédents (Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb, les asbāṭ, Mūsā, ʿĪsā) est affirmée sans hiérarchie de reconnaissance entre eux ; la remise (islām) est décrite comme un fait cosmique universel, tandis que l'islām comme dīn accepté par Allaah (S3:85) est spécifiquement humain et qualifié.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> le mécanisme précis reliant ces deux emplois du même terme n'est pas explicité dans ce passage.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -208,7 +277,41 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱلْبِرّ al-birr — déjà validé (S2:177, S2:189 : Ibn Fāris, espace ouvert sans clôture ; conservé translittéré, jamais réduit à « vertu » ou « piété » seules). حِلًّا ḥillan — racine ḥ-l-l : ce qui est dénoué de toute interdiction, licite. مِلَّة milla — déjà validée (S2:130 : la voie tracée, le mode d'être dicté par une orientation fondamentale). بَكَّة Bakka — nom propre conservé tel quel ; **non-dit** sur son rapport exact avec le toponyme employé ailleurs dans le corpus (Makka, S48:24) — les deux formes coexistent dans le muṣḥaf sans que ce verset ne les articule. مَقَامُ إِبْرَٰهِيمَ maqāmu Ibrāhīma — le lieu où Ibrāhīm s'est tenu debout ; racine q-w-m. حِجّ ḥajj — racine ḥ-j-j : se diriger avec intention répétée/délibérée vers un lieu — conservé translittéré, sujet d'une étude dédiée disponible sur ce site (<a href="/etudes/hajj-oumra/">Ḥajj et ʿUmra</a>). عِوَجًا ʿiwajan — racine ʿ-w-j : la courbure, ce qui dévie d'une ligne droite. Ce que le texte dit : al-birr est défini par un critère concret (la dépense de ce qu'on aime), non par une déclaration ; le ḥajj est explicitement conditionné par la capacité (istiṭāʿa), non une obligation absolue et indifférenciée. Ce que le texte ne dit pas : la nature précise de l'istiṭāʿa requise n'est pas détaillée dans ce verset.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْبِرّ</span><span class="lex-trl">al-birr</span></dt>
+<dd>(S2:177, S2:189 : Ibn Fāris, espace ouvert sans clôture ; conservé translittéré, jamais réduit à « vertu » ou « piété » seules).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حِلًّا</span><span class="lex-trl">ḥillan</span></dt>
+<dd>racine ḥ-l-l : ce qui est dénoué de toute interdiction, licite.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مِلَّة</span><span class="lex-trl">milla</span></dt>
+<dd>(S2:130 : la voie tracée, le mode d'être dicté par une orientation fondamentale).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَكَّة</span><span class="lex-trl">Bakka</span></dt>
+<dd>nom propre conservé tel quel ; **non-dit** sur son rapport exact avec le toponyme employé ailleurs dans le corpus (Makka, S48:24) — les deux formes coexistent dans le muṣḥaf sans que ce verset ne les articule.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَقَامُ إِبْرَٰهِيمَ</span><span class="lex-trl">maqāmu Ibrāhīma</span></dt>
+<dd>le lieu où Ibrāhīm s'est tenu debout ; racine q-w-m.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حِجّ</span><span class="lex-trl">ḥajj</span></dt>
+<dd>racine ḥ-j-j : se diriger avec intention répétée/délibérée vers un lieu — conservé translittéré, sujet d'une étude dédiée disponible sur ce site (<a href="/etudes/hajj-oumra/">Ḥajj et ʿUmra</a>).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عِوَجًا</span><span class="lex-trl">ʿiwajan</span></dt>
+<dd>racine ʿ-w-j : la courbure, ce qui dévie d'une ligne droite.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> al-birr est défini par un critère concret (la dépense de ce qu'on aime), non par une déclaration ; le ḥajj est explicitement conditionné par la capacité (istiṭāʿa), non une obligation absolue et indifférenciée.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> la nature précise de l'istiṭāʿa requise n'est pas détaillée dans ce verset.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 

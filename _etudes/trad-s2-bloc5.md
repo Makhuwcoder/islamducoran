@@ -29,9 +29,26 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et qui se détourne de la milla d'Ibrāhīm, sinon celui qui s'est montré insensé à l'égard de lui-même ? Nous l'avons certes élu en ce monde, et il est assurément, dans l'ākhira, au nombre des ṣāliḥīn."
 %}
 
-**Notes lexicales**
-
-مِلَّة milla — racine m-l-l : Ibn Fāris (Maqāyīs) : la voie tracée, le mode d'être dicté par une orientation fondamentale — ce que l'on suit comme chemin défini, distinct de dīn (l'orientation totale de l'être envers Allaah). La milla d'Ibrāhīm est la voie concrète de l'orientation vers l'unicité. سَفِهَ نَفْسَهُ safiha nafsahu — construction accusative de spécification : littéralement « s'est montré léger quant à lui-même ». Racine s-f-h : la légèreté, l'inconsistance du jugement, à l'opposé de la gravité (al-ḥilm). اصْطَفَيْنَاهُ ṣṭafaynāhu — racine ṣ-f-w : extraire ce qui est pur, choisir en écartant. Ce que le texte dit : l'élection d'Ibrāhīm est affirmée dans les deux mondes (dunyā et ākhira) — un statut continu, non limité à cette vie.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مِلَّة</span><span class="lex-trl">milla</span></dt>
+<dd>racine m-l-l : Ibn Fāris (Maqāyīs) : la voie tracée, le mode d'être dicté par une orientation fondamentale — ce que l'on suit comme chemin défini, distinct de dīn (l'orientation totale de l'être envers Allaah). La milla d'Ibrāhīm est la voie concrète de l'orientation vers l'unicité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَفِهَ نَفْسَهُ</span><span class="lex-trl">safiha nafsahu</span></dt>
+<dd>construction accusative de spécification : littéralement « s'est montré léger quant à lui-même ». Racine s-f-h : la légèreté, l'inconsistance du jugement, à l'opposé de la gravité (al-ḥilm).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اصْطَفَيْنَاهُ</span><span class="lex-trl">ṣṭafaynāhu</span></dt>
+<dd>racine ṣ-f-w : extraire ce qui est pur, choisir en écartant.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'élection d'Ibrāhīm est affirmée dans les deux mondes (dunyā et ākhira) — un statut continu, non limité à cette vie.</p>
+</div>
+</div>
 
 ---
 
@@ -44,9 +61,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Quand son Seigneur lui dit : « Soumets-toi » — il dit : « Je me suis soumis au Seigneur des ʿālamīn. »"
 %}
 
-**Notes lexicales**
-
-أَسْلَمْ / أَسْلَمْتُ aslim / aslamtu — racine s-l-m, forme IV. Al-Farāhīdī (Kitāb al-ʿAyn) : al-salāma — l'absence de fissure, l'intégrité. La forme IV (afʿala) exprime la mise dans cet état : entrer dans l'intégrité, remettre l'être entier sans reste. La réponse d'Ibrāhīm est immédiate, sans restriction et sans désignation d'une entité partielle : li-rabbi l-ʿālamīn — au Seigneur de tous les mondes, non à une divinité locale ou tribale.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَسْلَمْ / أَسْلَمْتُ</span><span class="lex-trl">aslim / aslamtu</span></dt>
+<dd>racine s-l-m, forme IV. Al-Farāhīdī (Kitāb al-ʿAyn) : al-salāma — l'absence de fissure, l'intégrité. La forme IV (afʿala) exprime la mise dans cet état : entrer dans l'intégrité, remettre l'être entier sans reste. La réponse d'Ibrāhīm est immédiate, sans restriction et sans désignation d'une entité partielle : li-rabbi l-ʿālamīn — au Seigneur de tous les mondes, non à une divinité locale ou tribale.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -59,9 +82,23 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et Ibrāhīm en fit la waṣiyya à ses fils, et Yaʿqūb aussi : « Ô mes fils, Allaah a élu pour vous le dīn — ne mourez donc qu'en étant muslimūn. »"
 %}
 
-**Notes lexicales**
-
-وَصَّىٰ waṣṣā — racine w-ṣ-y : relier ce qui va être à ce qui a été (voir S2:180). Ibrāhīm et Yaʿqūb transmettent le dīn comme une waṣiyya — un lien intentionnel entre les générations. الدِّين al-dīn — préservé en translittération, avec note lexicale : le terme désigne l'engagement total envers Allaah, dont on rendra compte — non « religion » au sens d'un système institutionnel. فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ fa-lā tamūtunna illā wa-antum muslimūn — construction d'exception portant sur l'état au moment de la mort : la condition posée est celle de l'état final, non d'un parcours antérieur.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">وَصَّىٰ</span><span class="lex-trl">waṣṣā</span></dt>
+<dd>racine w-ṣ-y : relier ce qui va être à ce qui a été (voir S2:180). Ibrāhīm et Yaʿqūb transmettent le dīn comme une waṣiyya — un lien intentionnel entre les générations.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الدِّين</span><span class="lex-trl">al-dīn</span></dt>
+<dd>préservé en translittération, avec note lexicale : le terme désigne l'engagement total envers Allaah, dont on rendra compte — non « religion » au sens d'un système institutionnel.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ</span><span class="lex-trl">fa-lā tamūtunna illā wa-antum muslimūn</span></dt>
+<dd>construction d'exception portant sur l'état au moment de la mort : la condition posée est celle de l'état final, non d'un parcours antérieur.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -74,9 +111,18 @@ methode: "Dit / Non-dit / Inférence"
    trad="Étiez-vous témoins quand la mort se présenta à Yaʿqūb, quand il dit à ses fils : « Qu'adorerez-vous après moi ? » Ils dirent : « Nous adorons ton ilāh et l'ilāh de tes pères, Ibrāhīm, Ismāʿīl et Isḥāq — un ilāh unique — et nous Lui sommes soumis. »"
 %}
 
-**Notes lexicales**
-
-إِلَٰه ilāh — racine ʾ-l-h. Ibn Fāris (Maqāyīs) identifie deux axes fondamentaux : l'état de saisissement total devant ce qui dépasse (al-taḥayyur wa-l-tadhallul), et ce vers quoi la créature se tourne dans cette dépendance absolue. Al-Farāhīdī (Kitāb al-ʿAyn) : taʾallaha ilayhi — se tourner vers lui avec une dépendance et une dévotion totales. Conservé en translittération. Ce que le texte dit : la filiation ilāhī d'Ibrāhīm, Ismāʿīl et Isḥāq est explicitement unifiée (ilāhan wāḥidan) — la réponse des fils de Yaʿqūb prolonge directement la ḥanīfiyya d'Ibrāhīm.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">إِلَٰه</span><span class="lex-trl">ilāh</span></dt>
+<dd>racine ʾ-l-h. Ibn Fāris (Maqāyīs) identifie deux axes fondamentaux : l'état de saisissement total devant ce qui dépasse (al-taḥayyur wa-l-tadhallul), et ce vers quoi la créature se tourne dans cette dépendance absolue. Al-Farāhīdī (Kitāb al-ʿAyn) : taʾallaha ilayhi — se tourner vers lui avec une dépendance et une dévotion totales. Conservé en translittération.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la filiation ilāhī d'Ibrāhīm, Ismāʿīl et Isḥāq est explicitement unifiée (ilāhan wāḥidan) — la réponse des fils de Yaʿqūb prolonge directement la ḥanīfiyya d'Ibrāhīm.</p>
+</div>
+</div>
 
 ---
 
@@ -104,9 +150,22 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="Ils ont dit : « Soyez juifs ou nazaréens, vous serez guidés » — dis : « Non — la milla d'Ibrāhīm, ḥanīf » — et il n'était pas au nombre des mushrikīn."
 %}
 
-**Notes lexicales**
-
-بَلْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا bal millata Ibrāhīma ḥanīfan — note grammaticale : millata est à l'accusatif, gouverné par un verbe implicite (manṣūb bi-fiʿl maḥdhūf). Le Coran fournit lui-même ailleurs (S.4:125 : wa-ttabaʿa millata Ibrāhīma ḥanīfan) le verbe régissant cette construction : ittabaʿa, suivre. حَنِيف ḥanīf — racine ḥ-n-f : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes. Conservé en translittération. Ce que le texte dit : la réponse à la revendication d'exclusivité communautaire (« soyez juifs ou nazaréens ») n'est pas une troisième appartenance concurrente, mais un retour à la milla d'Ibrāhīm, antérieure à ces catégories mêmes.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">بَلْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا</span><span class="lex-trl">bal millata Ibrāhīma ḥanīfan</span></dt>
+<dd>note grammaticale : millata est à l'accusatif, gouverné par un verbe implicite (manṣūb bi-fiʿl maḥdhūf). Le Coran fournit lui-même ailleurs (S.4:125 : wa-ttabaʿa millata Ibrāhīma ḥanīfan) le verbe régissant cette construction : ittabaʿa, suivre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَنِيف</span><span class="lex-trl">ḥanīf</span></dt>
+<dd>racine ḥ-n-f : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes. Conservé en translittération.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la réponse à la revendication d'exclusivité communautaire (« soyez juifs ou nazaréens ») n'est pas une troisième appartenance concurrente, mais un retour à la milla d'Ibrāhīm, antérieure à ces catégories mêmes.</p>
+</div>
+</div>
 
 ---
 
@@ -119,9 +178,22 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="Dites : « Nous croyons en Allaah, en ce qui a été fait descendre vers nous, en ce qui a été fait descendre vers Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā et à ʿĪsā, et en ce qui a été donné aux nabiyyūn de la part de leur Seigneur — nous ne faisons pas de différence entre l'un quelconque d'entre eux, et nous Lui sommes soumis. »"
 %}
 
-**Notes lexicales**
-
-الْأَسْبَاط al-asbāṭ — racine s-b-ṭ. Ibn Manẓūr (Lisān al-ʿArab) : al-sibṭ — le fils du fils, par extension les descendants d'une souche. Le Coran cite ce groupe aux côtés des patriarches nommés, incluant ainsi l'intégralité de la transmission des nabiyyūn issue de cette lignée, sans réduire la révélation à quelques individus isolés. لَا نُفَرِّقُ lā nufarriqu — racine f-r-q : ne pas séparer, ne pas établir de différence de statut. Ce que le texte dit : la déclaration de foi requise porte explicitement sur la non-discrimination entre les nabiyyūn — un principe déclaré, non une simple tolérance.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْأَسْبَاط</span><span class="lex-trl">al-asbāṭ</span></dt>
+<dd>racine s-b-ṭ. Ibn Manẓūr (Lisān al-ʿArab) : al-sibṭ — le fils du fils, par extension les descendants d'une souche. Le Coran cite ce groupe aux côtés des patriarches nommés, incluant ainsi l'intégralité de la transmission des nabiyyūn issue de cette lignée, sans réduire la révélation à quelques individus isolés.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا نُفَرِّقُ</span><span class="lex-trl">lā nufarriqu</span></dt>
+<dd>racine f-r-q : ne pas séparer, ne pas établir de différence de statut.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la déclaration de foi requise porte explicitement sur la non-discrimination entre les nabiyyūn — un principe déclaré, non une simple tolérance.</p>
+</div>
+</div>
 
 ---
 
@@ -134,9 +206,22 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="S'ils croient à l'instar de ce en quoi vous croyez, ils auront été guidés. Et s'ils se détournent, ils ne sont qu'en shiqāq. Allaah te suffira contre eux — et Il est al-Samīʿ, al-ʿAlīm."
 %}
 
-**Notes lexicales**
-
-شِقَاق shiqāq — racine sh-q-q : la fissure, la division active dans ce qui était ou devrait être un. Le shiqāq n'est pas un simple désaccord : c'est une mise en opposition structurelle, une fracture délibérée. Ceux qui se détournent ne sont pas simplement absents : ils se sont placés dans une position de rupture. السَّمِيعُ ٱلْعَلِيمُ al-Samīʿ · al-ʿAlīm — ce que l'on peut dire d'Allaah ici : rien de ce qui est audible ne peut Lui être caché, aucune connaissance ne Lui échappe. Ce que le texte dit : la suffisance d'Allaah (sa-yakfīkahum) est posée comme réponse suffisante face à la rupture, sans qu'aucune action supplémentaire ne soit requise du destinataire.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">شِقَاق</span><span class="lex-trl">shiqāq</span></dt>
+<dd>racine sh-q-q : la fissure, la division active dans ce qui était ou devrait être un. Le shiqāq n'est pas un simple désaccord : c'est une mise en opposition structurelle, une fracture délibérée. Ceux qui se détournent ne sont pas simplement absents : ils se sont placés dans une position de rupture.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">السَّمِيعُ ٱلْعَلِيمُ</span><span class="lex-trl">al-Samīʿ · al-ʿAlīm</span></dt>
+<dd>ce que l'on peut dire d'Allaah ici : rien de ce qui est audible ne peut Lui être caché, aucune connaissance ne Lui échappe.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la suffisance d'Allaah (sa-yakfīkahum) est posée comme réponse suffisante face à la rupture, sans qu'aucune action supplémentaire ne soit requise du destinataire.</p>
+</div>
+</div>
 
 ---
 
@@ -149,9 +234,18 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="La ṣibgha d'Allaah — et qui teindrait mieux qu'Allaah en ṣibgha ? — et nous Lui sommes dévoués."
 %}
 
-**Notes lexicales**
-
-صِبْغَة ṣibgha — racine ṣ-b-gh. Al-Farāhīdī (Kitāb al-ʿAyn) : terme artisanal — l'acte de teindre, d'imprégner un matériau de couleur. La ṣibgha est ce dont quelque chose est imprégné, le résultat de cette pénétration. Le champ technique de la racine porte une distinction bien documentée en arabe classique : une teinture de qualité pénètre les fibres mêmes du matériau et y demeure, tandis qu'une teinture médiocre reste en surface et ne tient pas. Conservé en translittération. Ce que le texte dit : la ṣibgha d'Allaah est présentée en comparaison implicite avec les marques d'appartenance communautaire revendiquées en S.2:135 (« soyez juifs ou nazaréens ») — une imprégnation qui pénètre, non une étiquette de surface.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">صِبْغَة</span><span class="lex-trl">ṣibgha</span></dt>
+<dd>racine ṣ-b-gh. Al-Farāhīdī (Kitāb al-ʿAyn) : terme artisanal — l'acte de teindre, d'imprégner un matériau de couleur. La ṣibgha est ce dont quelque chose est imprégné, le résultat de cette pénétration. Le champ technique de la racine porte une distinction bien documentée en arabe classique : une teinture de qualité pénètre les fibres mêmes du matériau et y demeure, tandis qu'une teinture médiocre reste en surface et ne tient pas. Conservé en translittération.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la ṣibgha d'Allaah est présentée en comparaison implicite avec les marques d'appartenance communautaire revendiquées en S.2:135 (« soyez juifs ou nazaréens ») — une imprégnation qui pénètre, non une étiquette de surface.</p>
+</div>
+</div>
 
 ---
 
@@ -164,9 +258,22 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="Dis : « Nous disputez-vous au sujet d'Allaah, alors qu'Il est notre Seigneur et votre Seigneur ? À nous nos actes et à vous vos actes — et nous Lui sommes sincèrement dévoués. »"
 %}
 
-**Notes lexicales**
-
-أَتُحَآجُّونَنَا a-tuḥājjūnanā — racine ḥ-j-j, forme III, avec hamza d'interrogation à valeur de désaveu (istifhām inkārī). Ibn Fāris (Maqāyīs) : al-qaṣd, l'intention dirigée — la ḥujja est l'orientation d'une démonstration vers un adversaire pour l'écarter. La forme III exprime un acte offensif et asymétrique : diriger des preuves contre une cible pour lui retirer le terrain. Le hamza d'inkār exprime l'inadmissibilité de la démarche, non une question ouverte. مُخْلِصُون mukhliṣūn — racine kh-l-ṣ : rendre pur, débarrasser de tout mélange. Ce que le texte dit : le fondement de l'objection est rappelé — Allaah est également le Seigneur des deux parties, ce qui rend absurde toute revendication d'exclusivité disputée.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَتُحَآجُّونَنَا</span><span class="lex-trl">a-tuḥājjūnanā</span></dt>
+<dd>racine ḥ-j-j, forme III, avec hamza d'interrogation à valeur de désaveu (istifhām inkārī). Ibn Fāris (Maqāyīs) : al-qaṣd, l'intention dirigée — la ḥujja est l'orientation d'une démonstration vers un adversaire pour l'écarter. La forme III exprime un acte offensif et asymétrique : diriger des preuves contre une cible pour lui retirer le terrain. Le hamza d'inkār exprime l'inadmissibilité de la démarche, non une question ouverte.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُخْلِصُون</span><span class="lex-trl">mukhliṣūn</span></dt>
+<dd>racine kh-l-ṣ : rendre pur, débarrasser de tout mélange.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> le fondement de l'objection est rappelé — Allaah est également le Seigneur des deux parties, ce qui rend absurde toute revendication d'exclusivité disputée.</p>
+</div>
+</div>
 
 ---
 
@@ -179,9 +286,15 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    trad="Dites-vous qu'Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ étaient juifs ou nazaréens ? Dis : « Êtes-vous plus savants qu'Allaah ? » Et qui est plus injuste que celui qui dissimule un témoignage qu'il détient d'Allaah ? Et Allaah n'est pas inattentif à ce que vous faites."
 %}
 
-**Notes lexicales**
-
-كَتَمَ شَهَٰدَةً عِندَهُ مِنَ ٱللَّه katama shahādatan ʿindahu mina llāh — la particule ʿinda marque une proximité directe, sans intermédiaire : la shahāda est déjà en possession du sujet, issue d'Allaah Lui-même. La dissimuler est donc un acte délibéré, non une ignorance — reprise directe du thème du katm ouvert en S.2:159. La séquence S.2:135–140 forme un bloc rhétorique cohérent dont S.2:139 est le pivot : la revendication d'exclusivité (135) est démantelée par le rappel du Seigneur commun (139), puis requalifiée en dissimulation consciente d'un fait su (140).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">كَتَمَ شَهَٰدَةً عِندَهُ مِنَ ٱللَّه</span><span class="lex-trl">katama shahādatan ʿindahu mina llāh</span></dt>
+<dd>la particule ʿinda marque une proximité directe, sans intermédiaire : la shahāda est déjà en possession du sujet, issue d'Allaah Lui-même. La dissimuler est donc un acte délibéré, non une ignorance — reprise directe du thème du katm ouvert en S.2:159. La séquence S.2:135–140 forme un bloc rhétorique cohérent dont S.2:139 est le pivot : la revendication d'exclusivité (135) est démantelée par le rappel du Seigneur commun (139), puis requalifiée en dissimulation consciente d'un fait su (140).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -211,9 +324,22 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Les sufahāʾ parmi les gens vont dire : « Qu'est-ce qui les a détournés de leur qibla sur laquelle ils étaient ? » Dis : « À Allaah appartiennent l'orient et l'occident — Il guide qui Il veut vers un ṣirāṭ droit. »"
 %}
 
-**Notes lexicales**
-
-السُّفَهَآء al-sufahāʾ — même racine que safiha nafsahu en S.2:130 (s-f-h). Le texte établit un écho lexical délibéré : ceux qui se détournent de la milla d'Ibrāhīm et ceux qui contestent le changement de qibla partagent le même déficit de jugement désigné par cette racine. قِبْلَة qibla — racine q-b-l : faire face, se tourner vers. La qibla est le point vers lequel le corps s'oriente dans la ṣalāt. Ce que le texte dit : la réponse à l'objection ne porte pas sur la qibla en tant que direction géographique, mais sur l'appartenance de toute direction à Allaah — l'orient et l'occident Lui appartiennent également.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">السُّفَهَآء</span><span class="lex-trl">al-sufahāʾ</span></dt>
+<dd>même racine que safiha nafsahu en S.2:130 (s-f-h). Le texte établit un écho lexical délibéré : ceux qui se détournent de la milla d'Ibrāhīm et ceux qui contestent le changement de qibla partagent le même déficit de jugement désigné par cette.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قِبْلَة</span><span class="lex-trl">qibla</span></dt>
+<dd>racine q-b-l : faire face, se tourner vers. La qibla est le point vers lequel le corps s'oriente dans la ṣalāt.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la réponse à l'objection ne porte pas sur la qibla en tant que direction géographique, mais sur l'appartenance de toute direction à Allaah — l'orient et l'occident Lui appartiennent également.</p>
+</div>
+</div>
 
 ---
 
@@ -226,9 +352,19 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="C'est ainsi que Nous vous avons établis communauté wasaṭ, pour que vous soyez shuhadāʾ sur les gens, et que le rasūl soit sur vous shahīd — et Nous n'avons établi la qibla sur laquelle tu étais que pour savoir qui suit le rasūl de qui retourne sur ses talons."
 %}
 
-**Notes lexicales**
-
-وَسَط wasaṭ — racine w-s-ṭ : Ibn Fāris (Maqāyīs) : ce qui est équidistant des extrémités — position géométrique du milieu, du centre. Ce que le texte dit : wasaṭ est immédiatement défini par la fonction qui lui est assignée — li-takūnū shuhadāʾa ʿalā l-nās, pour que vous soyez témoins sur les gens. La centralité est définie par cette fonction, non par ses extrémités nommées : c'est parce qu'on est au centre qu'on peut témoigner sur l'ensemble. لِنَعْلَمَ li-naʿlama — racine ʿ-l-m : ici, une fonction de discernement (voir également S.2:154, sur l'axe m-w-t / ḥ-y-y). Le changement de qibla est présenté comme un critère qui rend visible (li-naʿlama) qui suit le rasūl et qui s'en détourne — non un test arbitraire.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">وَسَط</span><span class="lex-trl">wasaṭ</span></dt>
+<dd>racine w-s-ṭ : Ibn Fāris (Maqāyīs) : ce qui est équidistant des extrémités — position géométrique du milieu, du centre. Ce que le texte dit : wasaṭ est immédiatement défini par la fonction qui lui est assignée — li-takūnū shuhadāʾa ʿalā l-nās, pour que vous soyez témoins sur les gens. La centralité est définie par cette fonction, non par ses extrémités nommées : c'est parce qu'on est au centre qu'on peut témoigner sur l'ensemble.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لِنَعْلَمَ</span><span class="lex-trl">li-naʿlama</span></dt>
+<dd>racine ʿ-l-m : ici, une fonction de discernement (voir également S.2:154, sur l'axe m-w-t / ḥ-y-y). Le changement de qibla est présenté comme un critère qui rend visible (li-naʿlama) qui suit le rasūl et qui s'en détourne — non un test arbitraire.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -241,9 +377,22 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Nous voyons bien le tournoiement de ton visage vers le ciel — Nous t'orienterons certes vers une qibla qui te satisfasse — oriente donc ton visage vers le côté du Masjid Ḥarām — et où que vous soyez, orientez vos visages vers son côté — et ceux à qui le Kitāb a été donné savent bien que c'est al-ḥaqq venant de leur Seigneur — et Allaah n'est pas inattentif à ce qu'ils font."
 %}
 
-**Notes lexicales**
-
-تَقَلُّب taqallub — racine q-l-b, forme V (tafaʿʿul). Ibn Fāris (Maqāyīs) : aṣlun yadullu ʿalā qalbi l-shayʾi wa-taḥwīlihi — un sens fondamental de retournement et de transformation d'une chose dans sa direction. La forme V ajoute la progressivité et la répétition : l'action ne se produit pas une fois mais s'inscrit dans une insistance répétée — le mouvement du visage vers le ciel est décrit comme réitéré, non ponctuel. تَرْضَىٰهَا tarḍāhā — racine r-ḍ-w : la satisfaction, l'assentiment. Ce que le texte dit : la nouvelle qibla est qualifiée par la satisfaction qu'elle procure, non par un critère géographique énoncé pour lui-même.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَقَلُّب</span><span class="lex-trl">taqallub</span></dt>
+<dd>racine q-l-b, forme V (tafaʿʿul). Ibn Fāris (Maqāyīs) : aṣlun yadullu ʿalā qalbi l-shayʾi wa-taḥwīlihi — un sens fondamental de retournement et de transformation d'une chose dans sa direction. La forme V ajoute la progressivité et la répétition : l'action ne se produit pas une fois mais s'inscrit dans une insistance répétée — le mouvement du visage vers le ciel est décrit comme réitéré, non ponctuel.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَرْضَىٰهَا</span><span class="lex-trl">tarḍāhā</span></dt>
+<dd>racine r-ḍ-w : la satisfaction, l'assentiment.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la nouvelle qibla est qualifiée par la satisfaction qu'elle procure, non par un critère géographique énoncé pour lui-même.</p>
+</div>
+</div>
 
 ---
 
@@ -256,9 +405,22 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Même si tu apportais à ceux à qui le Kitāb a été donné toute āya, ils ne suivraient pas ta qibla — et tu ne suis pas leur qibla, et les uns ne suivent pas la qibla des autres — et si tu suivais leurs ahwāʾ après que la connaissance te soit venue, tu serais alors assurément parmi les ẓālimūn."
 %}
 
-**Notes lexicales**
-
-أَتَيْتَ … بِ atayta … bi- — atā bi- : venir avec, apporter quelque chose — la préposition bi est instrumentale. Bi-kulli āyatin : en apportant quelque āya que ce soit — l'accent porte sur l'inutilité de n'importe quel signe pris isolément, non sur leur somme. أَهْوَاء ahwāʾ — pluriel de hawā, racine h-w-y : tomber, déchoir vers le bas. L'hawā est ce qui attire vers le bas, ce que l'être suit quand il n'est plus guidé par la connaissance (ʿilm). Ce que le texte dit : la divergence entre les groupes eux-mêmes (wa-mā baʿḍuhum bi-tābiʿin qiblata baʿḍ) est constatée comme un fait — la qibla n'est pas ce qui les unifie entre eux non plus.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَتَيْتَ … بِ</span><span class="lex-trl">atayta … bi-</span></dt>
+<dd>atā bi- : venir avec, apporter quelque chose — la préposition bi est instrumentale. Bi-kulli āyatin : en apportant quelque āya que ce soit — l'accent porte sur l'inutilité de n'importe quel signe pris isolément, non sur leur somme.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَهْوَاء</span><span class="lex-trl">ahwāʾ</span></dt>
+<dd>pluriel de hawā, racine h-w-y : tomber, déchoir vers le bas. L'hawā est ce qui attire vers le bas, ce que l'être suit quand il n'est plus guidé par la connaissance (ʿilm).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la divergence entre les groupes eux-mêmes (wa-mā baʿḍuhum bi-tābiʿin qiblata baʿḍ) est constatée comme un fait — la qibla n'est pas ce qui les unifie entre eux non plus.</p>
+</div>
+</div>
 
 ---
 
@@ -271,9 +433,19 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Ceux à qui Nous avons donné le Kitāb le reconnaissent comme ils reconnaissent leurs propres fils — et un groupe d'entre eux dissimule certes al-ḥaqq, tout en sachant."
 %}
 
-**Notes lexicales**
-
-يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُم yaʿrifūnahu ka-mā yaʿrifūna abnāʾahum — racine ʿ-r-f : la reconnaissance directe, sans besoin d'inférence — la comparaison avec la reconnaissance des propres fils souligne l'immédiateté et la certitude de cette connaissance, non une simple probabilité. وَهُمْ يَعْلَمُونَ wa-hum yaʿlamūn — proposition circonstancielle qui exclut l'ignorance comme excuse : la dissimulation (kitmān, déjà thématisée en S.2:140) est accompagnée d'un savoir conscient, non d'une méprise.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَآءَهُم</span><span class="lex-trl">yaʿrifūnahu ka-mā yaʿrifūna abnāʾahum</span></dt>
+<dd>racine ʿ-r-f : la reconnaissance directe, sans besoin d'inférence — la comparaison avec la reconnaissance des propres fils souligne l'immédiateté et la certitude de cette connaissance, non une simple probabilité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَهُمْ يَعْلَمُونَ</span><span class="lex-trl">wa-hum yaʿlamūn</span></dt>
+<dd>proposition circonstancielle qui exclut l'ignorance comme excuse : la dissimulation (kitmān, déjà thématisée en S.2:140) est accompagnée d'un savoir conscient, non d'une méprise.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -286,9 +458,15 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Al-ḥaqq vient de ton Seigneur — ne sois donc en aucun cas parmi les mumtarīn."
 %}
 
-**Notes lexicales**
-
-الْمُمْتَرِين al-mumtarīn — racine m-r-y, forme VIII : douter, mettre en doute activement. Verset le plus bref du passage, structurellement lié à S.2:144 (déjà « al-ḥaqqu min rabbihim ») et à S.2:149 (« la-l-ḥaqqu min rabbik ») : la triple affirmation de al-ḥaqq encadre le passage de la qibla comme un principe qui ne dépend pas de la réaction des gens du Kitāb.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمُمْتَرِين</span><span class="lex-trl">al-mumtarīn</span></dt>
+<dd>racine m-r-y, forme VIII : douter, mettre en doute activement. Verset le plus bref du passage, structurellement lié à S.2:144 (déjà « al-ḥaqqu min rabbihim ») et à S.2:149 (« la-l-ḥaqqu min rabbik ») : la triple affirmation de al-ḥaqq encadre le passage de la qibla comme un principe qui ne dépend pas de la réaction des gens du Kitāb.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -301,9 +479,18 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    trad="Et à chacun une wijha vers laquelle il se tourne — rivalisez donc dans les khayrāt — où que vous soyez, Allaah vous rassemblera tous — Allaah est capable de toute chose."
 %}
 
-**Notes lexicales**
-
-وِجْهَة wijha — racine w-j-h : la direction vers laquelle on tourne son visage (voir la note générale sur wajhu llāh). Ce que le texte dit : la diversité d'orientations (wijhāt) entre les communautés est un fait posé sans jugement direct ici — la réponse recommandée à cette diversité n'est pas la controverse sur la direction, mais la compétition (istibāq) dans les œuvres bonnes (khayrāt).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">وِجْهَة</span><span class="lex-trl">wijha</span></dt>
+<dd>racine w-j-h : la direction vers laquelle on tourne son visage (voir la note générale sur wajhu llāh).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la diversité d'orientations (wijhāt) entre les communautés est un fait posé sans jugement direct ici — la réponse recommandée à cette diversité n'est pas la controverse sur la direction, mais la compétition (istibāq) dans les œuvres bonnes (khayrāt).</p>
+</div>
+</div>
 
 ---
 
@@ -331,9 +518,20 @@ Première des trois occurrences de l'injonction qibla après le verset-pivot S.2
    trad="Et d'où que tu sortes, oriente ton visage vers le côté du Masjid Ḥarām — et où que vous soyez, orientez vos visages vers son côté, afin qu'il n'y ait pas d'argument des gens contre vous, sauf ceux d'entre eux qui ont commis le ẓulm — ne les craignez donc pas, et craignez-Moi — et afin que Je complète Mon bienfait sur vous, et afin que vous soyez guidés."
 %}
 
-**Notes lexicales**
-
-Observation structurelle : l'injonction de la qibla est répétée trois fois (S.2:144, 149, 150) avec des finalités distinctes et complémentaires — une qibla qui satisfait (144), la confirmation qu'elle est al-ḥaqq (149), et l'absence d'argument valide contre les croyants, assortie de l'achèvement du bienfait (150). La répétition coranique n'est pas une redondance mais un approfondissement progressif. حُجَّة ḥujja — racine ḥ-j-j (voir S.2:139) : l'argument dirigé contre un adversaire. وَلَعَلَّكُمْ تَهْتَدُونَ wa-laʿallakum tahtadūn — laʿalla porte ici un sens finaliste déclaré : l'achèvement du bienfait est en vue de (afin que) la guidance, non laissé à une simple éventualité.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<p class="notes-lexicales__intro">Observation structurelle : l'injonction de la qibla est répétée trois fois (S.2:144, 149, 150) avec des finalités distinctes et complémentaires — une qibla qui satisfait (144), la confirmation qu'elle est al-ḥaqq (149), et l'absence d'argument valide contre les croyants, assortie de l'achèvement du bienfait (150). La répétition coranique n'est pas une redondance mais un approfondissement progressif.</p>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">حُجَّة</span><span class="lex-trl">ḥujja</span></dt>
+<dd>racine ḥ-j-j (voir S.2:139) : l'argument dirigé contre un adversaire.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَلَعَلَّكُمْ تَهْتَدُونَ</span><span class="lex-trl">wa-laʿallakum tahtadūn</span></dt>
+<dd>laʿalla porte ici un sens finaliste déclaré : l'achèvement du bienfait est en vue de (afin que) la guidance, non laissé à une simple éventualité.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -348,9 +546,19 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Tout comme Nous avons envoyé parmi vous un rasūl issu de vous, qui récite sur vous Nos āyāt, vous purifie-et-fait-croître, vous enseigne le Kitāb et la ḥikma, et vous enseigne ce que vous ne saviez pas."
 %}
 
-**Notes lexicales**
-
-يُزَكِّيكُمْ yuzakkīkum — racine z-k-w : Ibn Fāris (Maqāyīs) : croissance et pureté simultanément. Ce que le texte dit : les deux sens coexistent sans se résoudre l'un dans l'autre — le rasūl agit sur une double dimension à la fois. الْحِكْمَة al-ḥikma — racine ḥ-k-m : empêcher, contenir, tenir ferme. La ḥikma est la faculté qui empêche l'erreur et maintient les choses dans leur ordre correct — citée aux côtés du Kitāb comme une compétence distincte de la simple connaissance du texte.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يُزَكِّيكُمْ</span><span class="lex-trl">yuzakkīkum</span></dt>
+<dd>racine z-k-w : Ibn Fāris (Maqāyīs) : croissance et pureté simultanément. Ce que le texte dit : les deux sens coexistent sans se résoudre l'un dans l'autre — le rasūl agit sur une double dimension à la fois.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْحِكْمَة</span><span class="lex-trl">al-ḥikma</span></dt>
+<dd>racine ḥ-k-m : empêcher, contenir, tenir ferme. La ḥikma est la faculté qui empêche l'erreur et maintient les choses dans leur ordre correct — citée aux côtés du Kitāb comme une compétence distincte de la simple connaissance du texte.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -363,9 +571,18 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Faites donc dhikr de Moi, Je ferai dhikr de vous — et soyez reconnaissants envers Moi, et ne faites pas kufr envers Moi."
 %}
 
-**Notes lexicales**
-
-ذَكَرَ / اذْكُرُونِي dhakara / dhkurūnī — racine dh-k-r. Al-Farāhīdī (Kitāb al-ʿAyn) établit deux dimensions indissociables : penser à Allaah intérieurement (al-dhikr bi-l-qalb) et Le mentionner oralement (al-dhikr bi-l-lisān), toutes deux définies comme ḍidd al-nisyān — le contraire de l'oubli. Ibn Fāris (Maqāyīs) précise l'axe central : ḥifẓ al-shayʾ wa-istiḥḍāruhu — retenir une chose et la convoquer activement dans le présent. Ce que le texte dit : la réciprocité est directe et symétrique (adhkurkum répond à udhkurūnī) — non une promesse conditionnée par un délai.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ذَكَرَ / اذْكُرُونِي</span><span class="lex-trl">dhakara / dhkurūnī</span></dt>
+<dd>racine dh-k-r. Al-Farāhīdī (Kitāb al-ʿAyn) établit deux dimensions indissociables : penser à Allaah intérieurement (al-dhikr bi-l-qalb) et Le mentionner oralement (al-dhikr bi-l-lisān), toutes deux définies comme ḍidd al-nisyān — le contraire de l'oubli. Ibn Fāris (Maqāyīs) précise l'axe central : ḥifẓ al-shayʾ wa-istiḥḍāruhu — retenir une chose et la convoquer activement dans le présent.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la réciprocité est directe et symétrique (adhkurkum répond à udhkurūnī) — non une promesse conditionnée par un délai.</p>
+</div>
+</div>
 
 ---
 
@@ -378,9 +595,23 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Ô vous qui avez cru, cherchez soutien dans le ṣabr et la ṣalāt — Allaah est avec les ṣābirīn."
 %}
 
-**Notes lexicales**
-
-اسْتَعِينُوا staʿīnū — racine ʿ-w-n, forme X : chercher soutien activement. Le soutien (ʿawn) est cherché auprès du ṣabr et de la ṣalāt — deux pratiques actives, non des états passifs. صَبْر ṣabr — racine ṣ-b-r : Ibn Fāris (Maqāyīs) : la tenue ferme, la contention face à la pression — non simplement « patience » au sens de résignation passive, mais une retenue active contre ce qui tente de faire déborder. الصَّلَاة al-ṣalāt — conservée en translittération, terme sans équivalent français fidèle.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">اسْتَعِينُوا</span><span class="lex-trl">staʿīnū</span></dt>
+<dd>racine ʿ-w-n, forme X : chercher soutien activement. Le soutien (ʿawn) est cherché auprès du ṣabr et de la ṣalāt — deux pratiques actives, non des états passifs.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">صَبْر</span><span class="lex-trl">ṣabr</span></dt>
+<dd>racine ṣ-b-r : Ibn Fāris (Maqāyīs) : la tenue ferme, la contention face à la pression — non simplement « patience » au sens de résignation passive, mais une retenue active contre ce qui tente de faire déborder.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الصَّلَاة</span><span class="lex-trl">al-ṣalāt</span></dt>
+<dd>conservée en translittération, terme sans équivalent français fidèle.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -393,9 +624,18 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Et ne dites pas de ceux qui sont tués dans la voie d'Allaah : « ils sont amwāt » — au contraire, ils sont aḥyāʾ, mais vous ne percevez pas."
 %}
 
-**Notes lexicales**
-
-أَمْوَات / أَحْيَاء amwāt / aḥyāʾ — racines m-w-t et ḥ-y-y. Al-Farāhīdī (Kitāb al-ʿAyn) : la racine m-w-t est ḍidd al-ḥayāh — l'opposé de la vie — et dhahāb al-quwwa, la disparition de la force active. Ibn Fāris y voit l'axe du sukūn : l'immobilité, la cessation du mouvement vital. Ibn Manẓūr ajoute al-khumūl : la dormance, l'état de non-activité. Ce que le texte dit : la négation porte sur la qualification (« ne dites pas ») — non sur un fait physiologique observable, mais sur une réalité que la perception ordinaire (lā tashʿurūn) ne saisit pas.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَمْوَات / أَحْيَاء</span><span class="lex-trl">amwāt / aḥyāʾ</span></dt>
+<dd>racines m-w-t et ḥ-y-y. Al-Farāhīdī (Kitāb al-ʿAyn) : la racine m-w-t est ḍidd al-ḥayāh — l'opposé de la vie — et dhahāb al-quwwa, la disparition de la force active. Ibn Fāris y voit l'axe du sukūn : l'immobilité, la cessation du mouvement vital. Ibn Manẓūr ajoute al-khumūl : la dormance, l'état de non-activité.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la négation porte sur la qualification (« ne dites pas ») — non sur un fait physiologique observable, mais sur une réalité que la perception ordinaire (lā tashʿurūn) ne saisit pas.</p>
+</div>
+</div>
 
 ---
 
@@ -408,9 +648,19 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Nous vous éprouverons assurément par une part de peur et de faim, et une perte de biens, d'êtres et de fruits — annonce la bonne nouvelle aux ṣābirīn."
 %}
 
-**Notes lexicales**
-
-لَنَبْلُوَنَّكُم la-nabluwannakum — racine b-l-w : mettre à l'épreuve pour révéler une réalité déjà présente, non pour créer une qualité nouvelle. Double confirmation (lām + nūn de renforcement) : l'épreuve est présentée comme certaine. بَشَّرَ bashshara — racine b-sh-r : la peau, le visage — porte structurellement la bonne nouvelle, ce qui se lit sur le visage avant d'être dit. Forme II intensive. Dans le Coran, bashshara est systématiquement opposé à andhara (avertir d'un danger) comme les deux pôles de la parole du rasūl. Le contenu de cette bonne nouvelle n'est pas donné dans ce verset — il vient en S.2:157 : le bashshir est une ouverture, une promesse suspendue à sa clôture.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">لَنَبْلُوَنَّكُم</span><span class="lex-trl">la-nabluwannakum</span></dt>
+<dd>racine b-l-w : mettre à l'épreuve pour révéler une réalité déjà présente, non pour créer une qualité nouvelle. Double confirmation (lām + nūn de renforcement) : l'épreuve est présentée comme certaine.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَشَّرَ</span><span class="lex-trl">bashshara</span></dt>
+<dd>racine b-sh-r : la peau, le visage — porte structurellement la bonne nouvelle, ce qui se lit sur le visage avant d'être dit. Forme II intensive. Dans le Coran, bashshara est systématiquement opposé à andhara (avertir d'un danger) comme les deux pôles de la parole du rasūl. Le contenu de cette bonne nouvelle n'est pas donné dans ce verset — il vient en S.2:157 : le bashshir est une ouverture, une promesse suspendue à sa clôture.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -423,9 +673,23 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Ceux qu'une muṣība atteint disent : « Nous appartenons à Allaah et c'est vers Lui que nous revenons. »"
 %}
 
-**Notes lexicales**
-
-مُصِيبَة muṣība — racine ṣ-w-b : ce qui atteint, ce qui touche juste. Ibn Fāris (Maqāyīs) : l'atteinte précise, la flèche qui trouve sa cible. La muṣība est ce qui atteint directement, personnellement — non un événement lointain. إِنَّا لِلَّهِ innā li-llāh — lām d'appartenance : nous sommes à Allaah, nous Lui appartenons. Affirmation d'appartenance ontologique, non pas « nous acceptons ce qu'Allaah décide » mais « nous sommes de Lui ». رَاجِعُون rājiʿūn — racine r-j-ʿ : le retour vers un point d'origine, faisant écho au vocabulaire de la tawba (S.2:160) sans s'y confondre.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مُصِيبَة</span><span class="lex-trl">muṣība</span></dt>
+<dd>racine ṣ-w-b : ce qui atteint, ce qui touche juste. Ibn Fāris (Maqāyīs) : l'atteinte précise, la flèche qui trouve sa cible. La muṣība est ce qui atteint directement, personnellement — non un événement lointain.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِنَّا لِلَّهِ</span><span class="lex-trl">innā li-llāh</span></dt>
+<dd>lām d'appartenance : nous sommes à Allaah, nous Lui appartenons. Affirmation d'appartenance ontologique, non pas « nous acceptons ce qu'Allaah décide » mais « nous sommes de Lui ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رَاجِعُون</span><span class="lex-trl">rājiʿūn</span></dt>
+<dd>racine r-j-ʿ : le retour vers un point d'origine, faisant écho au vocabulaire de la tawba (S.2:160) sans s'y confondre.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -438,9 +702,15 @@ Observation structurelle : l'injonction de la qibla est répétée trois fois (S
    trad="Sur ceux-là : des ṣalawāt de leur Seigneur et une raḥma — et ce sont eux les muhtadūn."
 %}
 
-**Notes lexicales**
-
-صَلَوَات ṣalawāt — racine ṣ-l-w. Al-Farāhīdī (Kitāb al-ʿAyn) : al-ṣalā, la région lombaire, le bas du dos, siège de l'élan et du soutien physique. Ce que l'on peut dire lorsqu'on parle d'Allaah sous ce terme : un soutien actif, une propulsion accordée. Les ṣalawāt venant du Seigneur sont un soutien réel accordé aux ṣābirīn — non une prière rituelle qu'Allaah accomplirait. Attribuer à Allaah un acte rituel conçu pour les créatures constituerait un anthropomorphisme que la racine ne porte pas et que laysa ka-mithlihi shayʾ (S.42:11) exclut. Ce verset clôt le bloc en répondant explicitement à la promesse suspendue de S.2:155 (wa-bashshiri l-ṣābirīn) : le contenu de la bonne nouvelle est ce soutien et cette raḥma.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">صَلَوَات</span><span class="lex-trl">ṣalawāt</span></dt>
+<dd>racine ṣ-l-w. Al-Farāhīdī (Kitāb al-ʿAyn) : al-ṣalā, la région lombaire, le bas du dos, siège de l'élan et du soutien physique. Ce que l'on peut dire lorsqu'on parle d'Allaah sous ce terme : un soutien actif, une propulsion accordée. Les ṣalawāt venant du Seigneur sont un soutien réel accordé aux ṣābirīn — non une prière rituelle qu'Allaah accomplirait. Attribuer à Allaah un acte rituel conçu pour les créatures constituerait un anthropomorphisme que la racine ne porte pas et que laysa ka-mithlihi shayʾ (S.42:11) exclut. Ce verset clôt le bloc en répondant explicitement à la promesse suspendue de S.2:155 (wa-bashshiri l-ṣābirīn) : le contenu de la bonne nouvelle est ce soutien et cette raḥma.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

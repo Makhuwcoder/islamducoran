@@ -29,11 +29,23 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand ton *Rabb* dit aux *malāʾika* : « Je vais établir sur la terre un *khalīfa* » — ils dirent : « Vas-Tu y établir des êtres qui y répandront la corruption et verseront le sang, alors que nous accomplissons le *tasbīḥ* en Ta *ḥamd* et Te sanctifions ? » — Il dit : « Je sais ce que vous ne savez pas. »"
 %}
 
-**Notes lexicales**
-
-- **khalīfa** — racine *kh-l-f* : celui qui vient après, qui succède, qui représente. *Inférence* : le *khalīfa* est souvent interprété comme « vicaire de Dieu sur terre ». Le texte dit seulement *khalīfa fī l-arḍ* — un successeur/représentant sur la terre. La nature précise de cette succession n'est pas explicitée.
-- **malāʾika** — racine *l-ʾ-k* : les envoyés, ceux qui portent un message. Conservé en translittération.
-- **man yufsidu fīhā** — *man* : pronom collectif englobant une catégorie, non un individu. Les *malāʾika* anticipent un comportement général. Le texte dit : *un être qui répandrait la corruption*. Non-dit : que tous les humains corrompent.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">khalīfa</span></dt>
+<dd>racine *kh-l-f* : celui qui vient après, qui succède, qui représente. *Inférence* : le *khalīfa* est souvent interprété comme « vicaire de Dieu sur terre ». Le texte dit seulement *khalīfa fī l-arḍ* — un successeur/représentant sur la terre. La nature précise de cette succession n'est pas explicitée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">malāʾika</span></dt>
+<dd>racine *l-ʾ-k* : les envoyés, ceux qui portent un message. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">man yufsidu fīhā</span></dt>
+<dd>*man* : pronom collectif englobant une catégorie, non un individu. Les *malāʾika* anticipent un comportement général. Le texte dit : *un être qui répandrait la corruption*. Non-dit : que tous les humains corrompent.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -53,9 +65,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ils dirent : « *Subḥānaka* — nulle connaissance pour nous sinon ce que Tu nous as enseigné — Tu es *al-ʿalīmu l-ḥakīm*. »"
 %}
 
-**Note lexicale**
-
-- **subḥāna** — racine *s-b-ḥ* : nager, se mouvoir librement dans un vaste espace. *Subḥāna llāh* : ce que l'on peut dire lorsqu'on parle d'Allaah comme entièrement dégagé de toute limitation, entièrement au-delà de toute imperfection. Non traduit : « gloire à » introduit une connotation de laudatio étrangère à la racine.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">subḥāna</span></dt>
+<dd>racine *s-b-ḥ* : nager, se mouvoir librement dans un vaste espace. *Subḥāna llāh* : ce que l'on peut dire lorsqu'on parle d'Allaah comme entièrement dégagé de toute limitation, entièrement au-delà de toute imperfection. Non traduit : « gloire à » introduit une connotation de laudatio étrangère à la.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:33"
@@ -82,9 +100,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Nous dîmes : « Ô Ādam, demeure toi et ton épouse dans la *janna* et mangez-en librement où vous voudrez — mais n'approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »"
 %}
 
-**Note lexicale**
-
-- **ẓālimīn** — racine *ẓ-l-m* : obscurité, déplacement d'une chose hors de sa place juste. Al-Farāhīdī : *waḍʿ al-shayʾ fī ghayri mawḍiʿihi* — placer une chose là où elle n'a pas sa place. Non simplement « injustes » : le *ẓulm* est un désordre ontologique, un déséquilibre.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ẓālimīn</span></dt>
+<dd>racine *ẓ-l-m* : obscurité, déplacement d'une chose hors de sa place juste. Al-Farāhīdī : *waḍʿ al-shayʾ fī ghayri mawḍiʿihi* — placer une chose là où elle n'a pas sa place. Non simplement « injustes » : le *ẓulm* est un désordre ontologique, un déséquilibre.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:36"
@@ -100,9 +124,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Alors Ādam reçut de son *Rabb* des *kalimāt*, et Il (*Allaah*) accueillit son retour — Il est *at-Tawwāb*, le *raḥīm*."
 %}
 
-**Note lexicale**
-
-- **at-Tawwāb** — racine *t-w-b* : revenir, retourner. *Tawwāb* : forme d'intensité — Ce qui accueille sans cesse le retour, Ce vers qui le retour est toujours possible. Non « le Très-Repentant » (attribut du croyant) mais *at-Tawwāb* d'Allaah : Ce qui accueille le retour du serviteur.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">at-Tawwāb</span></dt>
+<dd>racine *t-w-b* : revenir, retourner. *Tawwāb* : forme d'intensité — Ce qui accueille sans cesse le retour, Ce vers qui le retour est toujours possible. Non « le Très-Repentant » (attribut du croyant) mais *at-Tawwāb* d'Allaah : Ce qui accueille le retour du serviteur.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:38–39"
@@ -138,9 +168,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et cherchez appui dans le *ṣabr* et la *ṣalāt* — c'est certes lourd, sauf pour les *khāshiʿīn* : ceux qui ont la certitude intérieure qu'ils rencontreront leur *Rabb* et que c'est vers Lui qu'ils retourneront. — Ô descendants d'Isrāʾīl, rappelez-vous Mon bienfait dont Je vous ai comblés et que Je vous ai distingués au-dessus des *ʿālamīn*. — Et prémunissez-vous pour un Jour où nulle âme ne s'acquittera pour une autre de quoi que ce soit, nulle *shafāʿa* ne sera acceptée, nulle rançon ne sera prise, et ils ne seront pas secourus."
 %}
 
-**Note lexicale**
-
-- **shafāʿa** — racine *sh-f-ʿ* : al-Farāhīdī — *al-izdiwāj*, le fait de se joindre par deux, de former une paire. Non pas « intercession » au sens d'une plaidoirie qui arracherait une décision : le texte dit ici que nulle *shafāʿa* ne sera acceptée (*yuqbal*) en ce Jour. → Voir l'étude dédiée [La *shafāʿa* dans le Coran](/etudes/shafaa/).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">shafāʿa</span></dt>
+<dd>racine *sh-f-ʿ* : al-Farāhīdī — *al-izdiwāj*, le fait de se joindre par deux, de former une paire. Non pas « intercession » au sens d'une plaidoirie qui arracherait une décision : le texte dit ici que nulle *shafāʿa* ne sera acceptée (*yuqbal*) en ce Jour. → Voir l'étude dédiée [La *shafāʿa* dans le Coran](/etudes/shafaa/).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -163,9 +199,15 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout}
 **Correction rétroactive (2026-09-17).** Les deux occurrences de *laʿalla* de ce verset étaient rendues de façon modale (« peut-être »). Lecture finaliste uniforme désormais retenue — voir la note sous S2:21 (Bloc I) et l'étude [*Ṣiyām*](/etudes/siyam/).
 
-**Note lexicale**
-
-- **al-furqān** — racine *f-r-q* : ce qui sépare, ce qui distingue, le critère de discernement. Ibn Fāris : *al-faṣl bayna sh-shayʾayn* — la séparation entre deux choses. Distinct du *kitāb* : le *furqān* est le pouvoir de discerner le vrai du faux. Conservé en translittération.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">al-furqān</span></dt>
+<dd>racine *f-r-q* : ce qui sépare, ce qui distingue, le critère de discernement. Ibn Fāris : *al-faṣl bayna sh-shayʾayn* — la séparation entre deux choses. Distinct du *kitāb* : le *furqān* est le pouvoir de discerner le vrai du faux. Conservé en translittération.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:54–56"
@@ -174,9 +216,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand Mūsā dit à son peuple : « Ô mon peuple, vous vous êtes causé le *ẓulm* à vous-mêmes en prenant le *ʿijl* — revenez vers votre *Bāriʾ* et tuez-vous les uns les autres — cela est meilleur pour vous auprès de votre *Bāriʾ* » — et Il accueillit votre retour — Il est *at-Tawwāb*, le *raḥīm*."
 %}
 
-**Note lexicale**
-
-- **bāriʾ** — racine *b-r-ʾ* : créer en séparant, en dégageant de la matière brute. Ibn Fāris : *al-khalq ʿalā ghayri mithāl* — créer sans modèle préalable. Ce que l'on peut dire lorsqu'on parle d'Allaah comme Bāriʾ : Ce qui crée en distinguant, en dégageant la forme de la matière.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">bāriʾ</span></dt>
+<dd>racine *b-r-ʾ* : créer en séparant, en dégageant de la matière brute. Ibn Fāris : *al-khalq ʿalā ghayri mithāl* — créer sans modèle préalable. Ce que l'on peut dire lorsqu'on parle d'Allaah comme Bāriʾ : Ce qui crée en distinguant, en dégageant la forme de la matière.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:57–61"

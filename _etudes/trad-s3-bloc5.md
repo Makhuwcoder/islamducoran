@@ -43,7 +43,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> أَضْعَـٰفًا مُّضَـٰعَفَةً aḍʿāfan muḍāʿafatan — racine ḍ-ʿ-f (redoublement/multiplication) répétée deux fois par intensification — des multiples redoublés, sans que ce verset ne fixe de proportion chiffrée précise (voir l'étude dédiée pour l'analyse complète du seuil). ٱلْكَـٰظِمِينَ ٱلْغَيْظَ al-kāẓimīna l-ghayẓ — racine k-ẓ-m : contenir, retenir en soi sans laisser sortir — image d'une outre fermée. فَـٰحِشَة fāḥisha — racine f-ḥ-sh : ce qui dépasse la mesure convenable, déjà rencontré. يُصِرُّوا۟ yuṣirrū — racine ṣ-r-r : persister avec insistance, refuser de lâcher prise — distinct de la simple répétition. Ce que le texte dit : le pardon suit une reconnaissance immédiate (dhikr d'Allaah) et une absence de persistance délibérée, non une condition de perfection préalable.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَضْعَـٰفًا مُّضَـٰعَفَةً</span><span class="lex-trl">aḍʿāfan muḍāʿafatan</span></dt>
+<dd>racine ḍ-ʿ-f (redoublement/multiplication) répétée deux fois par intensification — des multiples redoublés, sans que ce verset ne fixe de proportion chiffrée précise (voir l'étude dédiée pour l'analyse complète du seuil).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْكَـٰظِمِينَ ٱلْغَيْظَ</span><span class="lex-trl">al-kāẓimīna l-ghayẓ</span></dt>
+<dd>racine k-ẓ-m : contenir, retenir en soi sans laisser sortir — image d'une outre fermée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَـٰحِشَة</span><span class="lex-trl">fāḥisha</span></dt>
+<dd>racine f-ḥ-sh : ce qui dépasse la mesure convenable,.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُصِرُّوا۟</span><span class="lex-trl">yuṣirrū</span></dt>
+<dd>racine ṣ-r-r : persister avec insistance, refuser de lâcher prise — distinct de la simple répétition.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> le pardon suit une reconnaissance immédiate (dhikr d'Allaah) et une absence de persistance délibérée, non une condition de perfection préalable.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -64,7 +85,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> سُنَنٌ sunan — racine s-n-n : des voies/pratiques constantes, un cours régulier des événements — pluriel de <em>sunna</em>, ici appliqué à un ordre observable dans l'histoire, non à une prescription rituelle. بَيَانٌ bayān — racine b-y-n, forme nominale directe : une déclaration rendue manifeste. Troisième occurrence de cette racine dans la sourate (après <em>yubayyinu</em> S3:103 et <em>bayyannā</em> S3:118) — fil de la clarification continûment tissé à travers le bloc. ٱلْأَعْلَوْنَ al-aʿlawna — racine ʿ-l-w, comparatif : les plus élevés. <strong>Précision méthodologique</strong> : la règle de ce site qui proscrit de traduire <em>al-Aʿlā</em> par « Le Très-Haut » lorsqu'il s'agit d'Allaah, pour éviter toute connotation spatiale appliquée au Créateur, ne s'applique pas ici — ce verset qualifie les croyants eux-mêmes, non Allaah, et la connotation de préséance/prévalence est parfaitement appropriée dans ce contexte humain. Ce que le texte dit : la supériorité affirmée est conditionnée (« si vous êtes muʾminūn »), non acquise de façon inconditionnelle.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">سُنَنٌ</span><span class="lex-trl">sunan</span></dt>
+<dd>racine s-n-n : des voies/pratiques constantes, un cours régulier des événements — pluriel de <em>sunna</em>, ici appliqué à un ordre observable dans l'histoire, non à une prescription rituelle.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَيَانٌ</span><span class="lex-trl">bayān</span></dt>
+<dd>racine b-y-n, forme nominale directe : une déclaration rendue manifeste. Troisième occurrence de cette racine dans la sourate (après <em>yubayyinu</em> S3:103 et <em>bayyannā</em> S3:118) — fil de la clarification continûment tissé à travers le bloc.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْأَعْلَوْنَ</span><span class="lex-trl">al-aʿlawna</span></dt>
+<dd>racine ʿ-l-w, comparatif : les plus élevés. <strong>Précision méthodologique</strong> : la règle de ce site qui proscrit de traduire <em>al-Aʿlā</em> par « Le Très-Haut » lorsqu'il s'agit d'Allaah, pour éviter toute connotation spatiale appliquée au Créateur, ne s'applique pas ici — ce verset qualifie les croyants eux-mêmes, non Allaah, et la connotation de préséance/prévalence est parfaitement appropriée dans ce contexte humain.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la supériorité affirmée est conditionnée (« si vous êtes muʾminūn »), non acquise de façon inconditionnelle.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -103,7 +141,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> مُحَمَّدٌ Muḥammad — voir l'étude dédiée <a href="/etudes/nabi-muhammad-coran/">Le Nabī Muḥammad dans le Coran</a> pour un traitement complet des occurrences de ce nom. ٱنقَلَبْتُمْ ʿalā aʿqābikum inqalabtum — littéralement « retourner sur ses talons » : revenir en arrière, abandonner une position tenue. كِتَـٰبًا مُّؤَجَّلًا kitāban muʾajjalan — racine ʾ-j-l : un terme fixé, une échéance déterminée à l'avance. ثَوَاب thawāb — racine th-w-b : ce qui revient en retour, la rétribution. Ce que le texte dit : la mort d'un rasūl, y compris Muḥammad lui-même, ne constitue pas une atteinte à la validité du message ni un motif d'abandon ; la mort de toute nafs est soumise à un terme fixé, indépendant des circonstances du combat.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مُحَمَّدٌ</span><span class="lex-trl">Muḥammad</span></dt>
+<dd>voir l'étude dédiée <a href="/etudes/nabi-muhammad-coran/">Le Nabī Muḥammad dans le Coran</a> pour un traitement complet des occurrences de ce nom.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱنقَلَبْتُمْ</span><span class="lex-trl">ʿalā aʿqābikum inqalabtum</span></dt>
+<dd>littéralement « retourner sur ses talons » : revenir en arrière, abandonner une position tenue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كِتَـٰبًا مُّؤَجَّلًا</span><span class="lex-trl">kitāban muʾajjalan</span></dt>
+<dd>racine ʾ-j-l : un terme fixé, une échéance déterminée à l'avance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ثَوَاب</span><span class="lex-trl">thawāb</span></dt>
+<dd>racine th-w-b : ce qui revient en retour, la rétribution.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la mort d'un rasūl, y compris Muḥammad lui-même, ne constitue pas une atteinte à la validité du message ni un motif d'abandon ; la mort de toute nafs est soumise à un terme fixé, indépendant des circonstances du combat.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -117,7 +176,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> رِبِّيُّونَ ribbiyyūn — racine r-b-b, même famille que <em>rabbāniyyīn</em> (S3:79) : lecture double possible — soit « multitudes nombreuses », soit « hommes attachés à leur Seigneur » — **non-dit** sur laquelle de ces deux nuances domine ici ; conservé translittéré. وَهَنُوا۟ / ضَعُفُوا۟ / ٱسْتَكَانُوا۟ wahanū / ḍaʿufū / stakānū — trois verbes proches en gradation (faiblir, s'affaiblir, se résigner par abattement) — accumulation rhétorique niant toute forme de reddition. إِسْرَاف isrāf — racine s-r-f : le débordement, l'excès au-delà de la mesure — déjà connu dans un autre contexte (dépense). Ce que le texte dit : l'invocation rapportée ne comporte aucune demande de victoire immédiate inconditionnelle, mais associe le pardon des fautes, l'affermissement et le secours dans un même mouvement.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رِبِّيُّونَ</span><span class="lex-trl">ribbiyyūn</span></dt>
+<dd>racine r-b-b, même famille que <em>rabbāniyyīn</em> (S3:79) : lecture double possible — soit « multitudes nombreuses », soit « hommes attachés à leur Seigneur » — **non-dit** sur laquelle de ces deux nuances domine ici ; conservé translittéré.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَهَنُوا۟ / ضَعُفُوا۟ / ٱسْتَكَانُوا۟</span><span class="lex-trl">wahanū / ḍaʿufū / stakānū</span></dt>
+<dd>trois verbes proches en gradation (faiblir, s'affaiblir, se résigner par abattement) — accumulation rhétorique niant toute forme de reddition.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِسْرَاف</span><span class="lex-trl">isrāf</span></dt>
+<dd>racine s-r-f : le débordement, l'excès au-delà de la mesure — dans un autre contexte (dépense).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'invocation rapportée ne comporte aucune demande de victoire immédiate inconditionnelle, mais associe le pardon des fautes, l'affermissement et le secours dans un même mouvement.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 

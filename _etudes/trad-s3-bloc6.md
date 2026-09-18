@@ -26,7 +26,17 @@ methode: "Dit / Non-dit / Inférence"
 
 <div class="notes-lexicales">
 <p><strong>Note lexicale — k-f-r.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Aucun marqueur contextuel de refus délibéré après reconnaissance n'accompagne les occurrences de ce bloc (S3:149, S3:151, S3:156, S3:178) — la forme reste translittérée (*kāfirūn*), conformément à la règle méthodologique par défaut.</p>
-<p><strong>Notes lexicales.</strong> يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ yaruddūkum ʿalā aʿqābikum — « vous faire retourner sur vos talons » : même image que <em>yanqalib ʿalā ʿaqibayhi</em> (S3:144), reprise trois fois dans ce même segment de la sourate — abandon d'une position tenue. مَوْلَىٰ mawlā — racine w-l-y : ce qui est proche au point de prendre en charge — protecteur, allié, celui vers qui l'on se tourne ; même famille racinale que <em>tawallaw</em> (S3:155) et <em>awliyāʾ</em> (S3:175) plus loin dans ce bloc — le champ sémantique de la racine w-l-y (proximité qui engage) traverse tout ce passage, appliqué tour à tour à Allaah, aux croyants qui se détournent, et au Shayṭān.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ</span><span class="lex-trl">yaruddūkum ʿalā aʿqābikum</span></dt>
+<dd>« vous faire retourner sur vos talons » : même image que <em>yanqalib ʿalā ʿaqibayhi</em> (S3:144), reprise trois fois dans ce même segment de la sourate — abandon d'une position tenue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَوْلَىٰ</span><span class="lex-trl">mawlā</span></dt>
+<dd>racine w-l-y : ce qui est proche au point de prendre en charge — protecteur, allié, celui vers qui l'on se tourne ; même famille racinale que <em>tawallaw</em> (S3:155) et <em>awliyāʾ</em> (S3:175) plus loin dans ce bloc — le champ sémantique de la racine w-l-y (proximité qui engage) traverse tout ce passage, appliqué tour à tour à Allaah, aux croyants qui se détournent, et au Shayṭān.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -47,7 +57,36 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱلرُّعْبَ al-ruʿb — racine r-ʿ-b : l'effroi qui saisit, la peur violente — distinct de <em>khawf</em> (crainte en général) et de <em>khashya</em> (crainte révérencielle) déjà rencontrés ; ici une frayeur précise jetée dans les cœurs. سُلْطَـٰنًا sulṭānan — racine s-l-ṭ : une force qui s'impose, une autorité/preuve qui domine — l'association à Allaah se fait « sans sulṭān descendu », c'est-à-dire sans fondement qui s'impose comme une évidence. تَحُسُّونَهُم taḥussūnahum — racine ḥ-s-s : sens de base, percevoir par les sens, sentir ; en contexte de combat, sens dérivé attesté : frapper, abattre en nombre. فَشِلْتُمْ fashiltum — racine f-sh-l : faiblir, perdre courage jusqu'à l'échec. تَنَـٰزَعْتُمْ tanāzaʿtum — racine n-z-ʿ : s'arracher mutuellement une chose, ici au sens de se disputer, tirer chacun de son côté. صَرَفَكُمْ ṣarafakum — racine ṣ-r-f : détourner, faire dévier d'une trajectoire. Ce que le texte dit : la défaite relative qui a suivi n'est pas présentée comme un abandon d'Allaah, mais comme la conséquence d'un enchaînement précis (affaiblissement, dispute, désobéissance) suivi d'un détournement à but éprouvant, puis d'un pardon explicite.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلرُّعْبَ</span><span class="lex-trl">al-ruʿb</span></dt>
+<dd>racine r-ʿ-b : l'effroi qui saisit, la peur violente — distinct de <em>khawf</em> (crainte en général) et de <em>khashya</em> (crainte révérencielle) ; ici une frayeur précise jetée dans les cœurs.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سُلْطَـٰنًا</span><span class="lex-trl">sulṭānan</span></dt>
+<dd>racine s-l-ṭ : une force qui s'impose, une autorité/preuve qui domine — l'association à Allaah se fait « sans sulṭān descendu », c'est-à-dire sans fondement qui s'impose comme une évidence.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَحُسُّونَهُم</span><span class="lex-trl">taḥussūnahum</span></dt>
+<dd>racine ḥ-s-s : sens de base, percevoir par les sens, sentir ; en contexte de combat, sens dérivé attesté : frapper, abattre en nombre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَشِلْتُمْ</span><span class="lex-trl">fashiltum</span></dt>
+<dd>racine f-sh-l : faiblir, perdre courage jusqu'à l'échec.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَنَـٰزَعْتُمْ</span><span class="lex-trl">tanāzaʿtum</span></dt>
+<dd>racine n-z-ʿ : s'arracher mutuellement une chose, ici au sens de se disputer, tirer chacun de son côté.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">صَرَفَكُمْ</span><span class="lex-trl">ṣarafakum</span></dt>
+<dd>racine ṣ-r-f : détourner, faire dévier d'une trajectoire.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la défaite relative qui a suivi n'est pas présentée comme un abandon d'Allaah, mais comme la conséquence d'un enchaînement précis (affaiblissement, dispute, désobéissance) suivi d'un détournement à but éprouvant, puis d'un pardon explicite.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -77,7 +116,33 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> أَمَنَةً نُّعَاسًا amanatan nuʿāsan — un apaisement (racine ʾ-m-n, sécurité) prenant la forme d'un assoupissement (racine n-ʿ-s) — deux racines juxtaposées pour préciser la nature de la faveur descendue. تُصْعِدُونَ tuṣʿidūna — racine ṣ-ʿ-d : monter, gravir ; en contexte de fuite sur un terrain, s'éloigner en hauteur — sens dérivé de fuite. لَبَرَزَ la-baraza — racine b-r-z : sortir à découvert, se manifester à l'air libre. مَضَاجِعِ maḍājiʿ — racine ḍ-j-ʿ : lieux où l'on s'allonge — ici, lieu de chute. تَوَلَّوْا۟ tawallaw — même racine w-l-y que <em>mawlā</em> (S3:150) : se détourner, littéralement « se retirer de la proximité qui engageait ». ٱسْتَزَلَّهُمُ istazallahum — racine z-l-l : faire glisser, faire chuter — le Shayṭān est présenté comme cause du glissement, non comme cause de l'acquis initial (« bi-baʿḍi mā kasabū » : à cause d'une partie de ce qu'ils avaient acquis) — l'articulation entre la responsabilité propre et l'instigation reste, dans ce seul verset, non tranchée entre les deux facteurs.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَمَنَةً نُّعَاسًا</span><span class="lex-trl">amanatan nuʿāsan</span></dt>
+<dd>un apaisement (racine ʾ-m-n, sécurité) prenant la forme d'un assoupissement (racine n-ʿ-s) — deux racines juxtaposées pour préciser la nature de la faveur descendue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُصْعِدُونَ</span><span class="lex-trl">tuṣʿidūna</span></dt>
+<dd>racine ṣ-ʿ-d : monter, gravir ; en contexte de fuite sur un terrain, s'éloigner en hauteur — sens dérivé de fuite.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَبَرَزَ</span><span class="lex-trl">la-baraza</span></dt>
+<dd>racine b-r-z : sortir à découvert, se manifester à l'air libre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَضَاجِعِ</span><span class="lex-trl">maḍājiʿ</span></dt>
+<dd>racine ḍ-j-ʿ : lieux où l'on s'allonge — ici, lieu de chute.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَوَلَّوْا۟</span><span class="lex-trl">tawallaw</span></dt>
+<dd>même racine w-l-y que <em>mawlā</em> (S3:150) : se détourner, littéralement « se retirer de la proximité qui engageait ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱسْتَزَلَّهُمُ</span><span class="lex-trl">istazallahum</span></dt>
+<dd>racine z-l-l : faire glisser, faire chuter — le Shayṭān est présenté comme cause du glissement, non comme cause de l'acquis initial (« bi-baʿḍi mā kasabū » : à cause d'une partie de ce qu'ils avaient acquis) — l'articulation entre la responsabilité propre et l'instigation reste, dans ce seul verset, non tranchée entre les deux facteurs.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -98,7 +163,21 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> حَسْرَةً ḥasratan — racine ḥ-s-r, déjà rencontrée S2:167 : le regret amer qui dépouille. يُحْىِۦ وَيُمِيتُ yuḥyī wa-yumīt — formule appariant les racines ḥ-y-y et m-w-t : Ce que le texte dit est un principe de causalité unique de la vie et de la mort, opposé à l'idée implicite reprochée aux kāfirūn selon laquelle rester ou partir changerait l'issue. تُحْشَرُونَ tuḥsharūn — racine ḥ-sh-r : rassembler en un lieu unique, sens déjà rencontré à propos du jugement dernier.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">حَسْرَةً</span><span class="lex-trl">ḥasratan</span></dt>
+<dd>racine ḥ-s-r, S2:167 : le regret amer qui dépouille.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُحْىِۦ وَيُمِيتُ</span><span class="lex-trl">yuḥyī wa-yumīt</span></dt>
+<dd>formule appariant les racines ḥ-y-y et m-w-t : Ce que le texte dit est un principe de causalité unique de la vie et de la mort, opposé à l'idée implicite reprochée aux kāfirūn selon laquelle rester ou partir changerait l'issue.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُحْشَرُونَ</span><span class="lex-trl">tuḥsharūn</span></dt>
+<dd>racine ḥ-sh-r : rassembler en un lieu unique, sens à propos du jugement dernier.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -112,7 +191,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> لِنتَ linta — racine l-y-n : être doux, souple. Ce verset qualifie le rasūl, non Allaah — la règle du site excluant les adjectifs à connotation humaine pour désigner Allaah ne concerne pas cette occurrence. فَظًّا غَلِيظَ ٱلْقَلْبِ fażżan ghalīẓa l-qalb — rudesse (f-ẓ-ẓ) et dureté du cœur (gh-l-ẓ) — image opposée à <em>linta</em>. شَاوِرْهُمْ shāwirhum — racine sh-w-r : consulter, extraire un avis (comme on extrait le miel) — la consultation (shūrā) est ici une injonction directe adressée au rasūl lui-même. تَوَكَّلْ / ٱلْمُتَوَكِّلِينَ tawakkal / al-mutawakkilīn — racine w-k-l : confier une affaire à un mandataire, s'en remettre — même racine que <em>al-wakīl</em> (S3:173, plus loin dans ce bloc). Ce que le texte dit : la consultation précède la décision, laquelle est suivie du tawakkul — un ordre séquentiel précis (consulter, puis décider, puis s'en remettre), non une confusion des trois étapes.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">لِنتَ</span><span class="lex-trl">linta</span></dt>
+<dd>racine l-y-n : être doux, souple. Ce verset qualifie le rasūl, non Allaah — la règle du site excluant les adjectifs à connotation humaine pour désigner Allaah ne concerne pas cette occurrence.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَظًّا غَلِيظَ ٱلْقَلْبِ</span><span class="lex-trl">fażżan ghalīẓa l-qalb</span></dt>
+<dd>rudesse (f-ẓ-ẓ) et dureté du cœur (gh-l-ẓ) — image opposée à <em>linta</em>.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">شَاوِرْهُمْ</span><span class="lex-trl">shāwirhum</span></dt>
+<dd>racine sh-w-r : consulter, extraire un avis (comme on extrait le miel) — la consultation (shūrā) est ici une injonction directe adressée au rasūl lui-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَوَكَّلْ / ٱلْمُتَوَكِّلِينَ</span><span class="lex-trl">tawakkal / al-mutawakkilīn</span></dt>
+<dd>racine w-k-l : confier une affaire à un mandataire, s'en remettre — même racine que <em>al-wakīl</em> (S3:173, plus loin dans ce bloc).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la consultation précède la décision, laquelle est suivie du tawakkul — un ordre séquentiel précis (consulter, puis décider, puis s'en remettre), non une confusion des trois étapes.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -131,7 +231,21 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يَخْذُلْكُمْ yakhdhulkum — racine kh-dh-l : abandonner, laisser sans secours — opposé exact de <em>naṣr</em> dans le même verset. غُلَّ ghulla / ghalla — racine gh-l-l : soustraire furtivement, détourner ce qui devrait revenir à la collectivité — même racine que <em>ghill</em> (rancœur tapie, non rencontrée dans ce bloc) : le sens commun de la racine est ce qui circule caché, sous la surface, qu'il s'agisse d'un bien détourné ou d'un ressentiment dissimulé. تُوَفَّىٰ tuwaffā — racine w-f-y, <strong>sens de base</strong> ici : donner/recevoir en totalité, parachever une remise — à distinguer du sens dérivé euphémique pour la mort (<em>yutawaffawna</em>, S2:234, S2:240 ; <em>mutawaffīka</em>, S3:55, cf. note de vigilance dédiée) : ici, aucune connotation de mort, seulement l'idée d'une rétribution rendue complète.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَخْذُلْكُمْ</span><span class="lex-trl">yakhdhulkum</span></dt>
+<dd>racine kh-dh-l : abandonner, laisser sans secours — opposé exact de <em>naṣr</em> dans le même verset.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غُلَّ</span><span class="lex-trl">ghulla / ghalla</span></dt>
+<dd>racine gh-l-l : soustraire furtivement, détourner ce qui devrait revenir à la collectivité — même racine que <em>ghill</em> (rancœur tapie, non rencontrée dans ce bloc) : le sens commun de la racine est ce qui circule caché, sous la surface, qu'il s'agisse d'un bien détourné ou d'un ressentiment dissimulé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُوَفَّىٰ</span><span class="lex-trl">tuwaffā</span></dt>
+<dd>racine w-f-y, <strong>sens de base</strong> ici : donner/recevoir en totalité, parachever une remise — à distinguer du sens dérivé euphémique pour la mort (<em>yutawaffawna</em>, S2:234, S2:240 ; <em>mutawaffīka</em>, S3:55, cf. note de vigilance dédiée) : ici, aucune connotation de mort, seulement l'idée d'une rétribution rendue complète.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -152,7 +266,33 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> بَآءَ bāʾa — racine b-w-ʾ : revenir se loger dans un état, s'y installer — « revenir chargé d'un courroux » au sens de s'y établir. دَرَجَـٰتٌ darajāt — racine d-r-j, déjà rencontrée S2:228 avec une note de non-généralisation circonscrivant le contexte : ici, l'emploi est distinct, un principe général de hiérarchie des situations devant Allaah selon ce qui est suivi (agrément ou courroux). مَنَّ manna — racine m-n-n : accorder une faveur ; homographe du terme désignant la manne alimentaire (S2:57), sans lien de sens entre les deux emplois. يُزَكِّيهِمْ yuzakkīhim — racine z-k-w : faire croître en pureté — même racine que <em>zakāt</em>, l'action de purifier/faire croître transposée ici à la personne elle-même. ٱلْحِكْمَةَ al-ḥikma — racine ḥ-k-m : ce qui retient de l'erreur, comme le mors retient la monture — même racine que <em>ḥukm</em> (jugement, gouvernance). ضَلَـٰلٍ مُّبِينٍ ḍalālin mubīn — <em>mubīn</em>, racine b-y-n, même famille que le fil de la clarification (bayān) déjà noté à plusieurs reprises dans la sourate — ici au sens adjectival très fréquent de « manifeste, clair », sans qu'il faille y lire systématiquement un rappel volontaire du fil.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">بَآءَ</span><span class="lex-trl">bāʾa</span></dt>
+<dd>racine b-w-ʾ : revenir se loger dans un état, s'y installer — « revenir chargé d'un courroux » au sens de s'y établir.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">دَرَجَـٰتٌ</span><span class="lex-trl">darajāt</span></dt>
+<dd>racine d-r-j, S2:228 avec une note de non-généralisation circonscrivant le contexte : ici, l'emploi est distinct, un principe général de hiérarchie des situations devant Allaah selon ce qui est suivi (agrément ou courroux).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَنَّ</span><span class="lex-trl">manna</span></dt>
+<dd>racine m-n-n : accorder une faveur ; homographe du terme désignant la manne alimentaire (S2:57), sans lien de sens entre les deux emplois.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُزَكِّيهِمْ</span><span class="lex-trl">yuzakkīhim</span></dt>
+<dd>racine z-k-w : faire croître en pureté — même racine que <em>zakāt</em>, l'action de purifier/faire croître transposée ici à la personne elle-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْحِكْمَةَ</span><span class="lex-trl">al-ḥikma</span></dt>
+<dd>racine ḥ-k-m : ce qui retient de l'erreur, comme le mors retient la monture — même racine que <em>ḥukm</em> (jugement, gouvernance).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ضَلَـٰلٍ مُّبِينٍ</span><span class="lex-trl">ḍalālin mubīn</span></dt>
+<dd><em>mubīn</em>, racine b-y-n, même famille que le fil de la clarification (bayān) déjà noté à plusieurs reprises dans la sourate — ici au sens adjectival très fréquent de « manifeste, clair », sans qu'il faille y lire systématiquement un rappel volontaire du fil.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -164,7 +304,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> مُّصِيبَةٌ muṣība — racine ṣ-w-b : ce qui atteint, frappe droit au but. مِّثْلَيْهَا mithlayhā — le double, litt. « ses deux pareilles » — un rappel arithmétique implicite au ratio déjà mentionné en S3:152 (« une blessure semblable a atteint l'autre camp », S3:140). مِنْ عِندِ أَنفُسِكُمْ min ʿindi anfusikum — « de vous-mêmes » : Ce que le texte dit rattache directement le malheur subi à un enchaînement de causes humaines déjà détaillé en S3:152 (faiblesse, dispute, désobéissance), sans contredire par ailleurs que « tout vient d'Allaah » — la sourate n'oppose pas les deux registres de causalité (cf. la question symétrique posée en S4:78, hors de ce bloc).</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مُّصِيبَةٌ</span><span class="lex-trl">muṣība</span></dt>
+<dd>racine ṣ-w-b : ce qui atteint, frappe droit au but.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مِّثْلَيْهَا</span><span class="lex-trl">mithlayhā</span></dt>
+<dd>le double, litt. « ses deux pareilles » — un rappel arithmétique implicite au ratio déjà mentionné en S3:152 (« une blessure semblable a atteint l'autre camp », S3:140).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مِنْ عِندِ أَنفُسِكُمْ</span><span class="lex-trl">min ʿindi anfusikum</span></dt>
+<dd>« de vous-mêmes » :</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> rattache directement le malheur subi à un enchaînement de causes humaines déjà détaillé en S3:152 (faiblesse, dispute, désobéissance), sans contredire par ailleurs que « tout vient d'Allaah » — la sourate n'oppose pas les deux registres de causalité (cf. la question symétrique posée en S4:78, hors de ce bloc).</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -189,7 +346,20 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> وَقَعَدُوا۟ qaʿadū — racine q-ʿ-d : s'asseoir, rester en place — opposé implicite à ceux qui sont sortis combattre. فَٱدْرَءُوا۟ fa-drāʾū — racine d-r-ʾ : repousser, écarter par un mouvement contraire. Ce que le texte dit : la réponse ne discute pas la prémisse (obéir aurait-il changé l'issue) mais la renvoie à son incohérence logique — si l'obéissance évitait la mort, que ceux qui le prétendent l'évitent eux-mêmes.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">وَقَعَدُوا۟</span><span class="lex-trl">qaʿadū</span></dt>
+<dd>racine q-ʿ-d : s'asseoir, rester en place — opposé implicite à ceux qui sont sortis combattre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَٱدْرَءُوا۟</span><span class="lex-trl">fa-drāʾū</span></dt>
+<dd>racine d-r-ʾ : repousser, écarter par un mouvement contraire.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la réponse ne discute pas la prémisse (obéir aurait-il changé l'issue) mais la renvoie à son incohérence logique — si l'obéissance évitait la mort, que ceux qui le prétendent l'évitent eux-mêmes.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -214,7 +384,21 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> ٱسْتَجَابُوا۟ istajābū — racine j-w-b, la même que le titre déjà validé de la Sourate 2, <em>Al-Ijāba</em> (La Réponse) : ici appliqué directement aux croyants qui répondent, en écho lexical direct avec ce titre. حَسْبُنَا ḥasbunā — racine ḥ-s-b : ce qui suffit, ce qui compte comme assez. ٱلْوَكِيلُ al-wakīl — racine w-k-l, même racine que <em>tawakkul</em> (S3:159–160) : celui à qui l'on confie une affaire en toute confiance.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱسْتَجَابُوا۟</span><span class="lex-trl">istajābū</span></dt>
+<dd>racine j-w-b, la même que le titre de la Sourate 2, <em>Al-Ijāba</em> (La Réponse) : ici appliqué directement aux croyants qui répondent, en écho lexical direct avec ce titre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَسْبُنَا</span><span class="lex-trl">ḥasbunā</span></dt>
+<dd>racine ḥ-s-b : ce qui suffit, ce qui compte comme assez.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْوَكِيلُ</span><span class="lex-trl">al-wakīl</span></dt>
+<dd>racine w-k-l, même racine que <em>tawakkul</em> (S3:159–160) : celui à qui l'on confie une affaire en toute confiance.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -226,7 +410,20 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> أَوْلِيَآءَهُۥ awliyāʾahu — racine w-l-y, encore : les alliés du Shayṭān, en écho direct à <em>mawlā</em> (S3:150) et <em>tawallaw</em> (S3:155) — la même racine parcourt, sur l'ensemble du bloc, trois pôles opposés (Allaah comme mawlā, ceux qui se détournent, les alliés du Shayṭān). يُخَوِّفُ yukhawwifu — racine kh-w-f : faire craindre, instiller la peur — Ce que le texte dit : la peur suscitée n'a de prise que sur ceux qui la lui accordent, le verset renvoyant explicitement à une crainte due à Allaah seul en alternative.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَوْلِيَآءَهُۥ</span><span class="lex-trl">awliyāʾahu</span></dt>
+<dd>racine w-l-y, encore : les alliés du Shayṭān, en écho direct à <em>mawlā</em> (S3:150) et <em>tawallaw</em> (S3:155) — la même racine parcourt, sur l'ensemble du bloc, trois pôles opposés (Allaah comme mawlā, ceux qui se détournent, les alliés du Shayṭān).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُخَوِّفُ</span><span class="lex-trl">yukhawwifu</span></dt>
+<dd>racine kh-w-f : faire craindre, instiller la peur —</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la peur suscitée n'a de prise que sur ceux qui la lui accordent, le verset renvoyant explicitement à une crainte due à Allaah seul en alternative.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -247,7 +444,25 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يُسَـٰرِعُونَ yusāriʿūna — même racine s-r-ʿ que <em>sāriʿū</em> (S3:133, « hâtez-vous vers un pardon ») : la même hâte, ici tournée vers le kufr plutôt que vers le pardon — un contraste rhétorique voulu à l'échelle du bloc. حَظًّا ḥaẓẓan — racine ḥ-ẓ-ẓ : une part, un lot attribué. ٱشْتَرَوُا۟ ishtarawu — racine sh-r-y, déjà rencontrée S2:207 (« se donner tout entier ») : ici, l'image inverse d'une transaction — échanger l'īmān contre le kufr, une opération de perte volontaire. نُمْلِى numlī — racine m-l-w/m-l-y : prolonger, allonger un délai — sens concret de « donner du mou », de la longueur (comme une corde qu'on laisse filer), distinct de toute idée de faveur ou de rétribution positive : le délai accordé n'est pas en lui-même un bienfait.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يُسَـٰرِعُونَ</span><span class="lex-trl">yusāriʿūna</span></dt>
+<dd>même racine s-r-ʿ que <em>sāriʿū</em> (S3:133, « hâtez-vous vers un pardon ») : la même hâte, ici tournée vers le kufr plutôt que vers le pardon — un contraste rhétorique voulu à l'échelle du bloc.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَظًّا</span><span class="lex-trl">ḥaẓẓan</span></dt>
+<dd>racine ḥ-ẓ-ẓ : une part, un lot attribué.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱشْتَرَوُا۟</span><span class="lex-trl">ishtarawu</span></dt>
+<dd>racine sh-r-y, S2:207 (« se donner tout entier ») : ici, l'image inverse d'une transaction — échanger l'īmān contre le kufr, une opération de perte volontaire.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نُمْلِى</span><span class="lex-trl">numlī</span></dt>
+<dd>racine m-l-w/m-l-y : prolonger, allonger un délai — sens concret de « donner du mou », de la longueur (comme une corde qu'on laisse filer), distinct de toute idée de faveur ou de rétribution positive : le délai accordé n'est pas en lui-même un bienfait.</dd>
+</div>
+</dl>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -272,7 +487,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يَبْخَلُونَ yabkhalūn — racine b-kh-l : retenir par avarice ce qui devrait être donné. سَيُطَوَّقُونَ sa-yuṭawwaqūn — racine ṭ-w-q : mettre un collier, un anneau autour du cou — image concrète de ce qui a été retenu, porté ensuite comme une marque visible. مِيرَٰثُ mīrāth — racine w-r-th : ce qui revient en héritage. Ce que le texte dit : la faveur reçue et retenue par avarice n'est pas neutralisée mais devient, au jour de la résurrection, une marque portée par celui qui l'a retenue — le texte clôt ainsi le bloc sur l'idée que rien de ce qui a été donné n'échappe, en dernier ressort, au retour à Allaah, seul héritier ultime des cieux et de la terre.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَبْخَلُونَ</span><span class="lex-trl">yabkhalūn</span></dt>
+<dd>racine b-kh-l : retenir par avarice ce qui devrait être donné.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَيُطَوَّقُونَ</span><span class="lex-trl">sa-yuṭawwaqūn</span></dt>
+<dd>racine ṭ-w-q : mettre un collier, un anneau autour du cou — image concrète de ce qui a été retenu, porté ensuite comme une marque visible.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مِيرَٰثُ</span><span class="lex-trl">mīrāth</span></dt>
+<dd>racine w-r-th : ce qui revient en héritage.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la faveur reçue et retenue par avarice n'est pas neutralisée mais devient, au jour de la résurrection, une marque portée par celui qui l'a retenue — le texte clôt ainsi le bloc sur l'idée que rien de ce qui a été donné n'échappe, en dernier ressort, au retour à Allaah, seul héritier ultime des cieux et de la terre.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 

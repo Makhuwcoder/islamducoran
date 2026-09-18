@@ -30,9 +30,31 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ô vous qui avez cru, dépensez de ce que Nous vous avons octroyé, avant que ne vienne un jour où il n'y a ni négoce, ni lien d'amitié, ni shafāʿa. Et les kāfirūn sont eux les ẓālimūn."
 %}
 
-**Notes lexicales**
-
-رَزَقْنَاكُم razaqnākum — déjà validé (r-z-q, S2:212 : ce qui est octroyé comme part de vie). بَيْع bayʿ — transaction, négoce — racine b-y-ʿ. خُلَّة khulla — racine kh-l-l : le lien d'amitié intime, l'entrelacement d'une relation de proximité. شَفَاعَة shafāʿa — déjà validée (sh-f-ʿ, S2:48, S2:123) : conservée en translittération. Ce que le texte dit : un appel à la dépense anticipée, adossé à la description d'un jour où trois recours habituels — l'échange, l'amitié, l'intercession — sont absents. Ce que le texte ne dit pas : il ne détaille pas ici les modalités de cette absence.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَزَقْنَاكُم</span><span class="lex-trl">razaqnākum</span></dt>
+<dd>(r-z-q, S2:212 : ce qui est octroyé comme part de vie).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَيْع</span><span class="lex-trl">bayʿ</span></dt>
+<dd>transaction, négoce — racine b-y-ʿ.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خُلَّة</span><span class="lex-trl">khulla</span></dt>
+<dd>racine kh-l-l : le lien d'amitié intime, l'entrelacement d'une relation de proximité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">شَفَاعَة</span><span class="lex-trl">shafāʿa</span></dt>
+<dd>(sh-f-ʿ, S2:48, S2:123) : conservée en translittération.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> un appel à la dépense anticipée, adossé à la description d'un jour où trois recours habituels — l'échange, l'amitié, l'intercession — sont absents.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne détaille pas ici les modalités de cette absence.</p>
+</div>
+</div>
 
 ---
 
@@ -45,9 +67,51 @@ methode: "Dit / Non-dit / Inférence"
    trad="Allaah — nul ilāh que Lui, al-Ḥayy, al-Qayyūm. Ni somnolence ni sommeil ne Le saisissent. À Lui ce qui est dans les cieux et ce qui est sur la terre. Qui est celui qui intercède auprès de Lui, sinon par Sa permission ? Il connaît ce qui est devant eux et ce qui est derrière eux. Et ils n'embrassent rien de Sa connaissance, sinon ce qu'Il a voulu. Son kursī s'étend sur les cieux et la terre, et leur préservation ne Lui pèse pas. Et Il est al-ʿAliyy, al-ʿAẓīm."
 %}
 
-**Notes lexicales**
-
-الْحَيّ al-Ḥayy — racine ḥ-y-y déjà validée : mouvement, animation — ce qui vit d'une vie qui ne cesse pas. الْقَيُّوم al-Qayyūm — racine q-w-m (déjà rencontrée, *yawm al-qiyāma*) au sens intensif : ce qui se tient par Soi-même et fait subsister toute chose — forme d'intensité (*fayʿūl*) marquant l'autosuffisance et le soutien continu apporté à ce qui existe. سِنَة / نَوْم sina / nawm — la somnolence et le sommeil, deux états distincts et hiérarchisés par le texte lui-même (la somnolence précédant le sommeil). **Note de vigilance.** Le texte nie ces deux états d'Allaah par une formule négative explicite — il ne s'agit donc pas d'une addition anthropomorphique du traducteur mais d'une négation posée par le texte lui-même, dont la fonction est d'exclure toute limitation comparable à celle des êtres vivants créés. يَشْفَعُ ... إِلَّا بِإِذْنِه yashfaʿu... illā bi-idhnihi — déjà en écho avec *shafāʿa* (S2:48, S2:123, S2:254) : toute intercession est subordonnée à une permission. مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ mā bayna aydīhim wa-mā khalfahum — littéralement « ce qui est entre leurs mains et ce qui est derrière eux ». **Note de vigilance méthodologique.** Cette expression n'est pas lue ici dans un sens spatial appliqué à Allaah — elle qualifie l'objet de Sa connaissance à l'égard des créatures (« eux », pronom pluriel humain), au sens de ce qui est immédiat/manifeste pour elles et ce qui est postérieur/cela qui les suit, un couple d'orientation temporelle courant dans l'usage arabe classique, non une description d'un positionnement physique d'Allaah Lui-même. يُحِيطُونَ yuḥīṭūna — déjà validé (ḥ-w-ṭ, S2:19 : encercler sans échappatoire) — ici au sens d'embrasser, cerner intégralement une connaissance : les créatures n'embrassent de la connaissance d'Allaah que ce qu'Il a voulu leur laisser atteindre. كُرْسِيّ kursiyy — racine k-r-s : rassembler, agencer solidement. **Point lexical majeur, non tranché ici.** Le sens exact de *kursī* dans ce verset a fait l'objet, dès les lexicographes et exégètes anciens, de lectures distinctes : les uns y voient un objet concret (un siège, dans la lignée du sens le plus courant du mot), les autres y voient une métaphore de la portée du savoir ou de la souveraineté d'Allaah. La méthode ne tranche pas arbitrairement entre ces lectures : le terme est conservé en translittération, et aucune image figurative (trône matériel, forme, dimension) n'est ajoutée à ce que le texte énonce — le texte dit seulement que ce kursī « s'étend » (*wasiʿa*, déjà validé, w-s-ʿ) sur les cieux et la terre. يَئُودُهُ yaʾūduhu — racine ʾ-w-d : peser, accabler, faire ployer sous une charge. **Note de vigilance.** Le texte nie explicitement que la préservation des cieux et de la terre pèse sur Allaah — négation posée par le texte, non une addition. الْعَلِيّ al-ʿAliyy / الْعَظِيم al-ʿAẓīm — racines ʿ-l-w (élévation) et ʿ-ẓ-m (grandeur, magnitude). **Règle du projet appliquée avec la plus grande rigueur.** Conformément à la règle méthodologique retenue pour ce site, *al-ʿAliyy* n'est jamais rendu par « le Très-Haut » — cette traduction importe une connotation d'espace et de lieu qu'aucune formulation française équivalente ne permet d'effacer avec certitude. Les deux noms sont donc conservés en translittération : l'élévation désignée par ʿ-l-w est une élévation de rang, de souveraineté et de portée — non une position dans l'espace — cohérente avec le principe *laysa ka-mithlihi shayʾ* (S.42:11, hors bloc) déjà cité dans la banque lexicale de ce site à propos de *stawā* (S2:29). Ce que le texte dit : une déclaration de l'unicité d'Allaah, de Sa permanence, de l'étendue de ce qui Lui appartient, du caractère conditionné de toute intercession, des limites de la connaissance humaine à Son égard, et de l'étendue de Son kursī, sans que Sa préservation de toute chose ne Lui pèse. Ce que le texte ne dit pas : il ne décrit ni la forme, ni la nature, ni la localisation du kursī — ce point reste, dans le texte lui-même, un non-dit que la méthode ne comble pas.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْحَيّ</span><span class="lex-trl">al-Ḥayy</span></dt>
+<dd>racine ḥ-y-y : mouvement, animation — ce qui vit d'une vie qui ne cesse pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْقَيُّوم</span><span class="lex-trl">al-Qayyūm</span></dt>
+<dd>racine q-w-m (*yawm al-qiyāma*) au sens intensif : ce qui se tient par Soi-même et fait subsister toute chose — forme d'intensité (*fayʿūl*) marquant l'autosuffisance et le soutien continu apporté à ce qui existe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سِنَة / نَوْم</span><span class="lex-trl">sina / nawm</span></dt>
+<dd>la somnolence et le sommeil, deux états distincts et hiérarchisés par le texte lui-même (la somnolence précédant le sommeil). **Note de vigilance.** Le texte nie ces deux états d'Allaah par une formule négative explicite — il ne s'agit donc pas d'une addition anthropomorphique du traducteur mais d'une négation posée par le texte lui-même, dont la fonction est d'exclure toute limitation comparable à celle des êtres vivants créés. يَشْفَعُ...</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِلَّا بِإِذْنِه</span><span class="lex-trl">yashfaʿu... illā bi-idhnihi</span></dt>
+<dd>déjà en écho avec *shafāʿa* (S2:48, S2:123, S2:254) : toute intercession est subordonnée à une permission.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ</span><span class="lex-trl">mā bayna aydīhim wa-mā khalfahum</span></dt>
+<dd>littéralement « ce qui est entre leurs mains et ce qui est derrière eux ». **Note de vigilance méthodologique.** Cette expression n'est pas lue ici dans un sens spatial appliqué à Allaah — elle qualifie l'objet de Sa connaissance à l'égard des créatures (« eux », pronom pluriel humain), au sens de ce qui est immédiat/manifeste pour elles et ce qui est postérieur/cela qui les suit, un couple d'orientation temporelle courant dans l'usage arabe classique, non une description d'un positionnement physique d'Allaah Lui-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُحِيطُونَ</span><span class="lex-trl">yuḥīṭūna</span></dt>
+<dd>(ḥ-w-ṭ, S2:19 : encercler sans échappatoire) — ici au sens d'embrasser, cerner intégralement une connaissance : les créatures n'embrassent de la connaissance d'Allaah que ce qu'Il a voulu leur laisser atteindre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كُرْسِيّ</span><span class="lex-trl">kursiyy</span></dt>
+<dd>racine k-r-s : rassembler, agencer solidement. **Point lexical majeur, non tranché ici.** Le sens exact de *kursī* dans ce verset a fait l'objet, dès les lexicographes et exégètes anciens, de lectures distinctes : les uns y voient un objet concret (un siège, dans la lignée du sens le plus courant du mot), les autres y voient une métaphore de la portée du savoir ou de la souveraineté d'Allaah. La méthode ne tranche pas arbitrairement entre ces lectures : le terme est conservé en translittération, et aucune image figurative (trône matériel, forme, dimension) n'est ajoutée à ce que le texte énonce — le texte dit seulement que ce kursī « s'étend » (*wasiʿa*, , w-s-ʿ) sur les cieux et la terre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَئُودُهُ</span><span class="lex-trl">yaʾūduhu</span></dt>
+<dd>racine ʾ-w-d : peser, accabler, faire ployer sous une charge. **Note de vigilance.** Le texte nie explicitement que la préservation des cieux et de la terre pèse sur Allaah — négation posée par le texte, non une addition.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعَلِيّ / الْعَظِيم</span><span class="lex-trl">al-ʿAliyy / al-ʿAẓīm</span></dt>
+<dd>racines ʿ-l-w (élévation) et ʿ-ẓ-m (grandeur, magnitude). **Règle du projet appliquée avec la plus grande rigueur.** Conformément à la règle méthodologique retenue pour ce site, *al-ʿAliyy* n'est jamais rendu par « le Très-Haut » — cette traduction importe une connotation d'espace et de lieu qu'aucune formulation française équivalente ne permet d'effacer avec certitude. Les deux noms sont donc conservés en translittération : l'élévation désignée par ʿ-l-w est une élévation de rang, de souveraineté et de portée — non une position dans l'espace — cohérente avec le principe *laysa ka-mithlihi shayʾ* (S.42:11, hors bloc) déjà cité dans la banque lexicale de ce site à propos de *stawā* (S2:29).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une déclaration de l'unicité d'Allaah, de Sa permanence, de l'étendue de ce qui Lui appartient, du caractère conditionné de toute intercession, des limites de la connaissance humaine à Son égard, et de l'étendue de Son kursī, sans que Sa préservation de toute chose ne Lui pèse.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne décrit ni la forme, ni la nature, ni la localisation du kursī — ce point reste, dans le texte lui-même, un non-dit que la méthode ne comble pas.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -69,9 +133,59 @@ methode: "Dit / Non-dit / Inférence"
    trad="Allaah est al-Walī de ceux qui ont cru — Il les fait sortir des ẓulumāt vers le nūr. Et ceux qui sont kāfirūn, leurs awliyāʾ sont le ṭāghūt — ils les font sortir du nūr vers les ẓulumāt. Ceux-là sont les compagnons du Feu, ils y demeurent fixement."
 %}
 
-**Notes lexicales**
-
-لَا إِكْرَاه lā ikrāha — racine k-r-h, déjà rencontrée (S2:216 : ce qui pèse, contraint) — négation catégorique de toute contrainte, portant précisément sur le dīn. الدِّين al-dīn — conservé en translittération, conformément à la règle méthodologique du projet. تَبَيَّنَ tabayyana — déjà validé (b-y-n, S2:159, S2:174 : ce qui est distinct par soi-même) : le rushd et l'égarement se sont distingués l'un de l'autre, de façon manifeste. الرُّشْد / الْغَيّ al-rushd / al-ghayy — déjà partiellement validé (r-sh-d, S2:186 : droiture confirmée une fois la voie engagée) ; *al-ghayy* : l'égarement actif, distinct de *ḍalāla* déjà rencontré (S2:175, S2:198). الطَّاغُوت al-ṭāghūt — même racine que *ṭughyān* déjà validée (ṭ-gh-y, S2:15 : dépassement des limites, débordement) — désignation générique de ce qui pousse au débordement hors de la juste mesure, non un nom propre. Conservé en translittération. يَكْفُرْ بِالطَّاغُوت yakfur bi-l-ṭāghūt — racine k-f-r (voir la règle méthodologique validée dans la banque lexicale, et l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/)) : construction *kafara bi-* dont l'objet nommé est explicitement une fausse divinité, non le ḥaqq ou les āyāt d'Allaah — rendue ici par un verbe français direct, « renier », plutôt que par la translittération par défaut réservée au kufr envers ce qui devrait être reconnu. اسْتَمْسَكَ stamsaka — forme X de m-s-k (déjà rencontrée, S2:229 : saisir et maintenir) : saisir fermement pour soi. الْعُرْوَة الْوُثْقَىٰ al-ʿurwatu l-wuthqā — l'anse (ʿ-r-w) la plus sûre (w-th-q : fiabilité, solidité) : image d'un point d'accroche qui ne cède pas. انْفِصَام infiṣām — racine f-ṣ-m : rupture, fracture — niée ici de façon catégorique. وَلِيّ Walī — racine w-l-y déjà rencontrée en sens dérivé (S2:205, se détourner) ; ici au sens premier de proximité protectrice qui accompagne et fait sortir. ظُلُمَات / نُور ẓulumāt / nūr — les ténèbres (de la même famille radicale que *ẓulm*, l'Ibn Fāris rattachant les deux sens à l'idée de ce qui est placé hors de sa juste visibilité) et la lumière (n-w-r : clarté). Ce que le texte dit : une négation catégorique de la contrainte en matière de dīn, adossée à la distinction déjà manifeste entre rushd et égarement, et une opposition entre la wilāya d'Allaah menant vers le nūr et celle du ṭāghūt menant vers les ẓulumāt. Ce que le texte ne dit pas : il ne précise pas ici le périmètre d'application de cette absence de contrainte au-delà de l'énoncé lui-même — sa portée dans d'autres contextes juridiques n'est pas traitée par ce seul verset.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا إِكْرَاه</span><span class="lex-trl">lā ikrāha</span></dt>
+<dd>racine k-r-h, (S2:216 : ce qui pèse, contraint) — négation catégorique de toute contrainte, portant précisément sur le dīn.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الدِّين</span><span class="lex-trl">al-dīn</span></dt>
+<dd>conservé en translittération, conformément à la règle méthodologique du projet.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَبَيَّنَ</span><span class="lex-trl">tabayyana</span></dt>
+<dd>(b-y-n, S2:159, S2:174 : ce qui est distinct par soi-même) : le rushd et l'égarement se sont distingués l'un de l'autre, de façon manifeste.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الرُّشْد / الْغَيّ</span><span class="lex-trl">al-rushd / al-ghayy</span></dt>
+<dd>déjà partiellement validé (r-sh-d, S2:186 : droiture confirmée une fois la voie engagée) ; *al-ghayy* : l'égarement actif, distinct de *ḍalāla* (S2:175, S2:198).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الطَّاغُوت</span><span class="lex-trl">al-ṭāghūt</span></dt>
+<dd>même racine que *ṭughyān* (ṭ-gh-y, S2:15 : dépassement des limites, débordement) — désignation générique de ce qui pousse au débordement hors de la juste mesure, non un nom propre. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَكْفُرْ بِالطَّاغُوت</span><span class="lex-trl">yakfur bi-l-ṭāghūt</span></dt>
+<dd>racine k-f-r (voir la règle méthodologique validée dans la banque lexicale, et l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/)) : construction *kafara bi-* dont l'objet nommé est explicitement une fausse divinité, non le ḥaqq ou les āyāt d'Allaah — rendue ici par un verbe français direct, « renier », plutôt que par la translittération par défaut réservée au kufr envers ce qui devrait être reconnu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اسْتَمْسَكَ</span><span class="lex-trl">stamsaka</span></dt>
+<dd>forme X de m-s-k (S2:229 : saisir et maintenir) : saisir fermement pour soi.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعُرْوَة الْوُثْقَىٰ</span><span class="lex-trl">al-ʿurwatu l-wuthqā</span></dt>
+<dd>l'anse (ʿ-r-w) la plus sûre (w-th-q : fiabilité, solidité) : image d'un point d'accroche qui ne cède pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">انْفِصَام</span><span class="lex-trl">infiṣām</span></dt>
+<dd>racine f-ṣ-m : rupture, fracture — niée ici de façon catégorique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">وَلِيّ</span><span class="lex-trl">Walī</span></dt>
+<dd>racine w-l-y en sens dérivé (S2:205, se détourner) ; ici au sens premier de proximité protectrice qui accompagne et fait sortir.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ظُلُمَات / نُور</span><span class="lex-trl">ẓulumāt / nūr</span></dt>
+<dd>les ténèbres (de la même famille radicale que *ẓulm*, l'Ibn Fāris rattachant les deux sens à l'idée de ce qui est placé hors de sa juste visibilité) et la lumière (n-w-r : clarté).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une négation catégorique de la contrainte en matière de dīn, adossée à la distinction déjà manifeste entre rushd et égarement, et une opposition entre la wilāya d'Allaah menant vers le nūr et celle du ṭāghūt menant vers les ẓulumāt.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise pas ici le périmètre d'application de cette absence de contrainte au-delà de l'énoncé lui-même — sa portée dans d'autres contextes juridiques n'est pas traitée par ce seul verset.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -100,9 +214,67 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand Ibrāhīm dit : « Mon Rabb, montre-moi comment Tu fais revivre les morts » — Il dit : « N'as-tu donc pas cru ? » — il dit : « Si — mais pour que mon cœur trouve son assise. » Il dit : « Prends quatre oiseaux, apprivoise-les vers toi, puis place sur chaque montagne une part d'entre eux, puis appelle-les — ils te viendront avec empressement. Et sache qu'Allaah est al-ʿAzīz, al-Ḥakīm. »"
 %}
 
-**Notes lexicales**
-
-حَاجَّ ḥājja — déjà validé (ḥ-j-j, S2:139 : orienter une démonstration contre un adversaire pour l'écarter). يُحْيِي وَيُمِيت yuḥyī wa-yumīt — déjà validé (ḥ-y-y/m-w-t). فَبُهِتَ fa-buhita — racine b-h-t : la stupéfaction qui coupe court à toute réplique. خَاوِيَة khāwiya — racine kh-w-y : vide, désert. عُرُوش ʿurūsh — pluriel de *ʿarsh* au sens ici de charpentes, toitures effondrées — même forme radicale que le mot désignant ailleurs un trône, mais sens contextuel distinct, déterminé par l'image de la ruine décrite. لَبِثْتَ labithta — racine l-b-th : demeurer, séjourner. لَمْ يَتَسَنَّه lam yatasannah — racine s-n-h/s-n-w : l'altération produite par le passage des années — niée ici. نُنشِزُهَا nunshizuhā — racine n-sh-z : redresser, faire se dresser à nouveau ce qui était disloqué. نَكْسُوهَا laḥman naksūhā laḥman — déjà validé (k-s-w, S2:233) : revêtir de chair. لِيَطْمَئِنَّ قَلْبِي li-yaṭmaʾinna qalbī — racine ṭ-m-ʾ-n : l'assise, la stabilité du cœur — champ voisin de *sakīna* (S2:248) mais racine distincte. فَصُرْهُنَّ fa-ṣurhunna — racine ṣ-w-r : **double lecture lexicale rapportée par les classiques**, soit « apprivoise-les, incline-les vers toi », soit « découpe-les » — la méthode retient la première lecture comme la plus courante chez les lexicographes cités, sans exclure catégoriquement la seconde. جُزْءًا juzʾan — racine j-z-ʾ : une part, une fraction. قَدِير qadīr — racine q-d-r : capacité déterminante, pouvoir d'établir la mesure des choses. Ce que le texte dit : deux démonstrations distinctes de la vivification par Allaah — l'une par l'argument du soleil face à un roi qui revendiquait un pouvoir de vie et de mort, l'autre par l'expérience vécue d'une mort de cent ans puis d'un retour à la vie — suivies d'une demande similaire d'Ibrāhīm, satisfaite non par doute mais par désir d'assise du cœur. Ce que le texte ne dit pas : il ne nomme ni le roi de S2:258 ni le passant de S2:259 — ces identifications relèvent d'élaborations extérieures au texte.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">حَاجَّ</span><span class="lex-trl">ḥājja</span></dt>
+<dd>(ḥ-j-j, S2:139 : orienter une démonstration contre un adversaire pour l'écarter).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُحْيِي وَيُمِيت</span><span class="lex-trl">yuḥyī wa-yumīt</span></dt>
+<dd>(ḥ-y-y/m-w-t).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَبُهِتَ</span><span class="lex-trl">fa-buhita</span></dt>
+<dd>racine b-h-t : la stupéfaction qui coupe court à toute réplique.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خَاوِيَة</span><span class="lex-trl">khāwiya</span></dt>
+<dd>racine kh-w-y : vide, désert.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عُرُوش</span><span class="lex-trl">ʿurūsh</span></dt>
+<dd>pluriel de *ʿarsh* au sens ici de charpentes, toitures effondrées — même forme radicale que le mot désignant ailleurs un trône, mais sens contextuel distinct, déterminé par l'image de la ruine décrite.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَبِثْتَ</span><span class="lex-trl">labithta</span></dt>
+<dd>racine l-b-th : demeurer, séjourner.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَمْ يَتَسَنَّه</span><span class="lex-trl">lam yatasannah</span></dt>
+<dd>racine s-n-h/s-n-w : l'altération produite par le passage des années — niée ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نُنشِزُهَا</span><span class="lex-trl">nunshizuhā</span></dt>
+<dd>racine n-sh-z : redresser, faire se dresser à nouveau ce qui était disloqué.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَكْسُوهَا</span><span class="lex-trl">laḥman naksūhā laḥman</span></dt>
+<dd>(k-s-w, S2:233) : revêtir de chair.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لِيَطْمَئِنَّ قَلْبِي</span><span class="lex-trl">li-yaṭmaʾinna qalbī</span></dt>
+<dd>racine ṭ-m-ʾ-n : l'assise, la stabilité du cœur — champ voisin de *sakīna* (S2:248) mais racine distincte.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَصُرْهُنَّ</span><span class="lex-trl">fa-ṣurhunna</span></dt>
+<dd>racine ṣ-w-r : **double lecture lexicale rapportée par les classiques**, soit « apprivoise-les, incline-les vers toi », soit « découpe-les » — la méthode retient la première lecture comme la plus courante chez les lexicographes cités, sans exclure catégoriquement la seconde.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">جُزْءًا</span><span class="lex-trl">juzʾan</span></dt>
+<dd>racine j-z-ʾ : une part, une fraction.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قَدِير</span><span class="lex-trl">qadīr</span></dt>
+<dd>racine q-d-r : capacité déterminante, pouvoir d'établir la mesure des choses.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> deux démonstrations distinctes de la vivification par Allaah — l'une par l'argument du soleil face à un roi qui revendiquait un pouvoir de vie et de mort, l'autre par l'expérience vécue d'une mort de cent ans puis d'un retour à la vie — suivies d'une demande similaire d'Ibrāhīm, satisfaite non par doute mais par désir d'assise du cœur.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne nomme ni le roi de S2:258 ni le passant de S2:259 — ces identifications relèvent d'élaborations extérieures au texte.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -152,9 +324,71 @@ methode: "Dit / Non-dit / Inférence"
    trad="L'un de vous aimerait-il avoir un jardin de palmiers et de vignes, sous lequel coulent les rivières, où il a de tout fruit — et que la vieillesse l'atteigne, alors qu'il a une descendance affaiblie, et qu'un tourbillon porteur de feu atteigne ce jardin et le consume ? Ainsi Allaah vous explicite les āyāt, afin que vous réfléchissiez."
 %}
 
-**Notes lexicales**
-
-أَنبَتَتْ anbatat — racine n-b-t : faire germer, pousser. يُضَاعِفُ yuḍāʿifu — déjà validé (ḍ-ʿ-f, S2:245). لَا يُتْبِعُونَ ... مَنًّا وَلَا أَذًى lā yutbiʿūna... mannan wa-lā adhā — مَنّ mann, même racine que *al-mann* déjà rencontré au sens positif (S2:57, la manne) mais employé ici en sens dérivé et négatif : rappeler avec insistance un bienfait accordé, en écraser le bénéficiaire — l'inverse du don gratuit. أَذًى adhā — déjà validé (S2:222). غَنِيّ Ghaniyy — racine gh-n-y : l'autosuffisance, l'absence de besoin — conservé en translittération, cohérent avec l'ensemble des noms déjà traités de la même manière. تُبْطِلُوا tubṭilū — racine b-ṭ-l : rendre vain, nul. رِئَاء riʾāʾ — racine r-ʾ-y (voir) : agir pour être vu. صَفْوَان / تُرَاب / وَابِل / صَلْد ṣafwān / turāb / wābil / ṣald — un roc lisse, la poussière, une pluie battante, une surface dénudée et dure : quatre termes concrets composant l'image d'une apparence de fertilité sans profondeur réelle. رَبْوَة rabwa — racine r-b-w : une hauteur, une élévation de terrain. تَثْبِيتًا مِّنْ أَنفُسِهِم tathbītan min anfusihim — déjà validé (th-b-t, S2:250) : un affermissement intérieur, non extérieur — condition ajoutée à l'agrément recherché. طَلّ ṭall — la pluie fine, la rosée abondante — alternative suffisante à la pluie battante dans cette seconde parabole, contrairement à la première où son absence laissait le roc nu. الْكِبَر al-kibar — même racine que *takbīr* déjà validée (k-b-r, S2:185 : proclamer la grandeur), ici au sens dérivé de la vieillesse, l'âge avancé. ضُعَفَاء ḍuʿafāʾ — pluriel de *ḍaʿīf*, faible — même racine que *ḍiʿf/yuḍāʿifu* (multiplier) rencontrée plus haut dans ce même bloc : l'arabe classique fait porter à une seule racine les deux notions opposées de redoublement et d'affaiblissement selon la forme employée — remarque lexicale, non contradiction. إِعْصَار iʿṣār — racine ʿ-ṣ-r : le tourbillon, ce qui tord et presse violemment. Ce que le texte dit : une série de six images concrètes organisant une hiérarchie de la dépense — multipliée sans réserve (S2:261), préservée du mann et du tort (S2:262–263), annulée par l'ostentation (S2:264), fructifiant malgré les aléas quand elle vise l'agrément d'Allaah (S2:265), et enfin une image d'anéantissement final servant d'avertissement (S2:266). Ce que le texte ne dit pas : il ne quantifie ni ne date ces paraboles — leur portée reste générale, sans application à un cas ou une personne nommés.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَنبَتَتْ</span><span class="lex-trl">anbatat</span></dt>
+<dd>racine n-b-t : faire germer, pousser.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُضَاعِفُ</span><span class="lex-trl">yuḍāʿifu</span></dt>
+<dd>(ḍ-ʿ-f, S2:245). لَا يُتْبِعُونَ...</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَنًّا وَلَا أَذًى</span><span class="lex-trl">lā yutbiʿūna... mannan wa-lā adhā</span></dt>
+<dd>مَنّ mann, même racine que *al-mann* au sens positif (S2:57, la manne) mais employé ici en sens dérivé et négatif : rappeler avec insistance un bienfait accordé, en écraser le bénéficiaire — l'inverse du don gratuit.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَذًى</span><span class="lex-trl">adhā</span></dt>
+<dd>(S2:222).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">غَنِيّ</span><span class="lex-trl">Ghaniyy</span></dt>
+<dd>racine gh-n-y : l'autosuffisance, l'absence de besoin — conservé en translittération, cohérent avec l'ensemble des noms déjà traités de la même manière.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُبْطِلُوا</span><span class="lex-trl">tubṭilū</span></dt>
+<dd>racine b-ṭ-l : rendre vain, nul.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رِئَاء</span><span class="lex-trl">riʾāʾ</span></dt>
+<dd>racine r-ʾ-y (voir) : agir pour être vu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">صَفْوَان / تُرَاب / وَابِل / صَلْد</span><span class="lex-trl">ṣafwān / turāb / wābil / ṣald</span></dt>
+<dd>un roc lisse, la poussière, une pluie battante, une surface dénudée et dure : quatre termes concrets composant l'image d'une apparence de fertilité sans profondeur réelle.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبْوَة</span><span class="lex-trl">rabwa</span></dt>
+<dd>racine r-b-w : une hauteur, une élévation de terrain.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَثْبِيتًا مِّنْ أَنفُسِهِم</span><span class="lex-trl">tathbītan min anfusihim</span></dt>
+<dd>(th-b-t, S2:250) : un affermissement intérieur, non extérieur — condition ajoutée à l'agrément recherché.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">طَلّ</span><span class="lex-trl">ṭall</span></dt>
+<dd>la pluie fine, la rosée abondante — alternative suffisante à la pluie battante dans cette seconde parabole, contrairement à la première où son absence laissait le roc nu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْكِبَر</span><span class="lex-trl">al-kibar</span></dt>
+<dd>même racine que *takbīr* (k-b-r, S2:185 : proclamer la grandeur), ici au sens dérivé de la vieillesse, l'âge avancé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ضُعَفَاء</span><span class="lex-trl">ḍuʿafāʾ</span></dt>
+<dd>pluriel de *ḍaʿīf*, faible — même racine que *ḍiʿf/yuḍāʿifu* (multiplier) rencontrée plus haut dans ce même bloc : l'arabe classique fait porter à une seule racine les deux notions opposées de redoublement et d'affaiblissement selon la forme employée — remarque lexicale, non contradiction.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">إِعْصَار</span><span class="lex-trl">iʿṣār</span></dt>
+<dd>racine ʿ-ṣ-r : le tourbillon, ce qui tord et presse violemment.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une série de six images concrètes organisant une hiérarchie de la dépense — multipliée sans réserve (S2:261), préservée du mann et du tort (S2:262–263), annulée par l'ostentation (S2:264), fructifiant malgré les aléas quand elle vise l'agrément d'Allaah (S2:265), et enfin une image d'anéantissement final servant d'avertissement (S2:266).</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne quantifie ni ne date ces paraboles — leur portée reste générale, sans application à un cas ou une personne nommés.</p>
+</div>
+</div>
 
 ---
 

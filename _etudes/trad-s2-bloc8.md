@@ -32,9 +32,31 @@ methode: "Dit / Non-dit / Inférence"
    trad="Lorsque vous vous êtes acquittés de vos manāsik, convoquez Allaah dans le dhikr comme vous convoquez vos pères, ou d'un dhikr plus intense encore. Or parmi les gens, il en est qui dit : « Notre Seigneur, accorde-nous en ce bas monde » — et il n'a, dans l'au-delà, aucune part."
 %}
 
-**Notes lexicales**
-
-مَنَاسِك manāsik — même racine que *nusuk* (S2:196, offrande substitutive) : n-s-k désigne l'acte de dévotion rituelle accompli selon une forme fixée. Conservé en translittération. ذِكْر dhikr — racine dh-k-r déjà validée (S2:152) : retenir et convoquer activement dans le présent, non un simple souvenir passif. Le texte compare l'intensité requise à celle, spontanée et répétée, avec laquelle on évoquait ses pères — comparatif d'intensité, non de nature. الدُّنْيَا al-dunyā / الْآخِرَة al-ākhira — d-n-w : ce qui est proche, immédiatement accessible ; ʾ-kh-r : ce qui vient après, en dernier. Deux repères temporels relatifs, non deux mondes ontologiquement décrits par le texte à ce stade. خَلَاق khalāq — racine kh-l-q au sens de part/lot mesuré (Ibn Manẓūr : *naṣīb, ḥaẓẓ*) — distinct du même radical au sens de « créer ». Ce que le texte dit : celui qui ne demande que ce bas monde n'a, dans l'au-delà, aucune part. Ce que le texte ne dit pas : il ne dit pas que cette demande est interdite — il en décrit seulement l'issue.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">مَنَاسِك</span><span class="lex-trl">manāsik</span></dt>
+<dd>même racine que *nusuk* (S2:196, offrande substitutive) : n-s-k désigne l'acte de dévotion rituelle accompli selon une forme fixée. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ذِكْر</span><span class="lex-trl">dhikr</span></dt>
+<dd>racine dh-k-r (S2:152) : retenir et convoquer activement dans le présent, non un simple souvenir passif. Le texte compare l'intensité requise à celle, spontanée et répétée, avec laquelle on évoquait ses pères — comparatif d'intensité, non de nature.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الدُّنْيَا / الْآخِرَة</span><span class="lex-trl">al-dunyā / al-ākhira</span></dt>
+<dd>d-n-w : ce qui est proche, immédiatement accessible ; ʾ-kh-r : ce qui vient après, en dernier. Deux repères temporels relatifs, non deux mondes ontologiquement décrits par le texte à ce stade.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خَلَاق</span><span class="lex-trl">khalāq</span></dt>
+<dd>racine kh-l-q au sens de part/lot mesuré (Ibn Manẓūr : *naṣīb, ḥaẓẓ*) — distinct du même radical au sens de « créer ».</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> celui qui ne demande que ce bas monde n'a, dans l'au-delà, aucune part.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne dit pas que cette demande est interdite — il en décrit seulement l'issue.</p>
+</div>
+</div>
 
 ---
 
@@ -61,9 +83,35 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et convoquez Allaah durant des jours comptés. Quiconque se hâte en deux jours, nulle faute sur lui ; quiconque retarde, nulle faute sur lui non plus — pour qui s'est constitué une taqwā. Constituez-vous une taqwā envers Allaah, et sachez que c'est vers Lui que vous serez rassemblés."
 %}
 
-**Notes lexicales**
-
-حَسَنَة ḥasana — racine ḥ-s-n déjà validée (S2:178, S2:195 : excellence dans l'acte) — ici au sens de ce qui est bon/excellent comme état reçu, non plus seulement comme acte accompli. La seconde demande ne renonce pas à ce bas monde : elle y ajoute l'au-delà, sans exclusive. نَصِيب naṣīb — part attribuée, de même champ que *khalāq* (S2:200) mais racine distincte (n-ṣ-b : ce qui est fixé, dressé, attribué en lot). حِسَاب ḥisāb — racine ḥ-s-b : le compte, le calcul exact. *Sarīʿ al-ḥisāb* : ce qui établit le compte sans délai ni lenteur — non une rapidité au sens de précipitation, mais l'absence d'attente entre l'acte et son évaluation. تَعَجَّل taʿajjala / تَأَخَّر taʾakhkhara — se hâter / différer : le texte égalise explicitement les deux options (« nulle faute » dans les deux cas), la condition posée n'étant pas le choix du délai mais *li-mani ttaqā* — pour qui s'est constitué une taqwā. حُشِرَ ḥushira — racine ḥ-sh-r : rassembler, ramener en un lieu unique. Ce que le texte dit : deux formes de dhikr sont demandées — comparé à celui des pères après le ḥajj, et un dhikr calendaire sur des jours comptés, avec une liberté de délai encadrée par la taqwā. Ce que le texte ne dit pas : il ne détaille ni la forme précise de ce dhikr calendaire ni le nombre exact de ces jours comptés au-delà de la fourchette de deux ou plus qu'il laisse entendre.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">حَسَنَة</span><span class="lex-trl">ḥasana</span></dt>
+<dd>racine ḥ-s-n (S2:178, S2:195 : excellence dans l'acte) — ici au sens de ce qui est bon/excellent comme état reçu, non plus seulement comme acte accompli. La seconde demande ne renonce pas à ce bas monde : elle y ajoute l'au-delà, sans exclusive.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نَصِيب</span><span class="lex-trl">naṣīb</span></dt>
+<dd>part attribuée, de même champ que *khalāq* (S2:200) mais racine distincte (n-ṣ-b : ce qui est fixé, dressé, attribué en lot).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حِسَاب</span><span class="lex-trl">ḥisāb</span></dt>
+<dd>racine ḥ-s-b : le compte, le calcul exact. *Sarīʿ al-ḥisāb* : ce qui établit le compte sans délai ni lenteur — non une rapidité au sens de précipitation, mais l'absence d'attente entre l'acte et son évaluation.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَعَجَّل / تَأَخَّر</span><span class="lex-trl">taʿajjala / taʾakhkhara</span></dt>
+<dd>se hâter / différer : le texte égalise explicitement les deux options (« nulle faute » dans les deux cas), la condition posée n'étant pas le choix du délai mais *li-mani ttaqā* — pour qui s'est constitué une taqwā.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حُشِرَ</span><span class="lex-trl">ḥushira</span></dt>
+<dd>racine ḥ-sh-r : rassembler, ramener en un lieu unique.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> deux formes de dhikr sont demandées — comparé à celui des pères après le ḥajj, et un dhikr calendaire sur des jours comptés, avec une liberté de délai encadrée par la taqwā.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne détaille ni la forme précise de ce dhikr calendaire ni le nombre exact de ces jours comptés au-delà de la fourchette de deux ou plus qu'il laisse entendre.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -101,9 +149,55 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et parmi les gens, il en est qui se donne tout entier, en quête de l'agrément d'Allaah. Et Allaah est al-Raʾūf envers les serviteurs."
 %}
 
-**Notes lexicales**
-
-يُعْجِبُكَ yuʿjibuka — racine ʿ-j-b : susciter l'admiration, séduire par l'apparence. La séduction porte sur la parole (*qawluhu*), non sur les actes — distinction que le verset suivant creuse. أَلَدُّ الْخِصَام aladdu l-khiṣām — racine l-d-d (Lisān : *shadīd al-khiṣām*, âpreté irréductible dans la contestation) : superlatif d'opposition, non de simple désaccord. تَوَلَّىٰ tawallā — forme V de w-l-y : se détourner, tourner le dos — sens distinct de la wilāya (proximité protectrice) rencontrée ailleurs sur la même racine ; le contexte seul détermine le sens. سَعَىٰ saʿā — mouvement empressé vers un but ; ici orienté vers *li-yufsida*, la corruption de l'ordre. فَسَاد fasād — racine f-s-d : sortie de l'état d'équilibre, dérèglement — opposé exact de *ṣalāḥ* (S2:11, S2:160 déjà rencontré). الْحَرْث وَالنَّسْل al-ḥarth wa-l-nasl — la culture (ce que la terre porte) et la descendance (ce qui se propage par filiation) : le texte associe l'anéantissement des ressources vivrières et celui de la lignée comme les deux effets concrets de la corruption de l'ordre, sans préciser par quel moyen. الْعِزَّة al-ʿizza — racine ʿ-z-z : fermeté inaccessible à toute atteinte ; appliquée ici à un humain, elle devient obstination fermée sur elle-même — *akhadhathu l-ʿizzatu bi-l-ithm*, littéralement « l'ʿizza le saisit dans la faute ». الْمِهَاد al-mihād — racine m-h-d : surface aplanie, préparée pour s'y étendre ; *biʾsa l-mihād* retourne ironiquement l'image du lit de repos en couche de châtiment. يَشْرِي yashrī — racine sh-r-y : transaction d'échange ; ici au sens de céder totalement, sans réserve — *yashrī nafsahu* : il se donne lui-même en échange. رَءُوف Raʾūf — racine r-ʾ-f (Ibn Fāris : intensité au sein de la *raḥma*, la matrice qui enveloppe et protège). **Note de vigilance méthodologique** : ce terme n'est jamais rendu par « doux », « tendre » ou « affectueux » — adjectifs qui importent une connotation de sentiment humain proscrite pour tout ce qui se dit d'Allaah dans ce projet. Conservé en translittération, rattaché au champ déjà validé de r-ḥ-m (S2:163). Ce que le texte dit : deux figures strictement opposées — celle dont la parole plaît mais dont l'action corrompt, et celle qui se donne intégralement pour l'agrément d'Allaah. Ce que le texte ne dit pas : il ne nomme personne — ni la première figure, ni un contexte historique précis pour l'une ou l'autre.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يُعْجِبُكَ</span><span class="lex-trl">yuʿjibuka</span></dt>
+<dd>racine ʿ-j-b : susciter l'admiration, séduire par l'apparence. La séduction porte sur la parole (*qawluhu*), non sur les actes — distinction que le verset suivant creuse.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَلَدُّ الْخِصَام</span><span class="lex-trl">aladdu l-khiṣām</span></dt>
+<dd>racine l-d-d (Lisān : *shadīd al-khiṣām*, âpreté irréductible dans la contestation) : superlatif d'opposition, non de simple désaccord.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَوَلَّىٰ</span><span class="lex-trl">tawallā</span></dt>
+<dd>forme V de w-l-y : se détourner, tourner le dos — sens distinct de la wilāya (proximité protectrice) rencontrée ailleurs sur la même; le contexte seul détermine le sens.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">سَعَىٰ</span><span class="lex-trl">saʿā</span></dt>
+<dd>mouvement empressé vers un but ; ici orienté vers *li-yufsida*, la corruption de l'ordre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَسَاد</span><span class="lex-trl">fasād</span></dt>
+<dd>racine f-s-d : sortie de l'état d'équilibre, dérèglement — opposé exact de *ṣalāḥ* (S2:11, S2:160 ).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْحَرْث وَالنَّسْل</span><span class="lex-trl">al-ḥarth wa-l-nasl</span></dt>
+<dd>la culture (ce que la terre porte) et la descendance (ce qui se propage par filiation) : le texte associe l'anéantissement des ressources vivrières et celui de la lignée comme les deux effets concrets de la corruption de l'ordre, sans préciser par quel moyen.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعِزَّة</span><span class="lex-trl">al-ʿizza</span></dt>
+<dd>racine ʿ-z-z : fermeté inaccessible à toute atteinte ; appliquée ici à un humain, elle devient obstination fermée sur elle-même — *akhadhathu l-ʿizzatu bi-l-ithm*, littéralement « l'ʿizza le saisit dans la faute ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمِهَاد</span><span class="lex-trl">al-mihād</span></dt>
+<dd>racine m-h-d : surface aplanie, préparée pour s'y étendre ; *biʾsa l-mihād* retourne ironiquement l'image du lit de repos en couche de châtiment.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَشْرِي</span><span class="lex-trl">yashrī</span></dt>
+<dd>racine sh-r-y : transaction d'échange ; ici au sens de céder totalement, sans réserve — *yashrī nafsahu* : il se donne lui-même en échange.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">رَءُوف</span><span class="lex-trl">Raʾūf</span></dt>
+<dd>racine r-ʾ-f (Ibn Fāris : intensité au sein de la *raḥma*, la matrice qui enveloppe et protège). **Note de vigilance méthodologique** : ce terme n'est jamais rendu par « doux », « tendre » ou « affectueux » — adjectifs qui importent une connotation de sentiment humain proscrite pour tout ce qui se dit d'Allaah dans ce projet. Conservé en translittération, rattaché au champ de r-ḥ-m (S2:163).</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> deux figures strictement opposées — celle dont la parole plaît mais dont l'action corrompt, et celle qui se donne intégralement pour l'agrément d'Allaah.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne nomme personne — ni la première figure, ni un contexte historique précis pour l'une ou l'autre.</p>
+</div>
+</div>
 
 ---
 
@@ -130,9 +224,47 @@ methode: "Dit / Non-dit / Inférence"
    trad="N'attendent-ils sinon qu'Allaah leur vienne dans des ombres de nuées, avec les malāʾika, et que l'affaire soit tranchée ? Et c'est vers Allaah que les affaires font retour."
 %}
 
-**Notes lexicales**
-
-السِّلْم al-silm — racine s-l-m : intégrité, absence de fracture ou de brèche — même famille que *islām* mais nom distinct désignant ici l'état d'engagement sans réserve. Conservé en translittération plutôt que rendu par « paix » (sens trop restrictif) ou « islam » (anachronisme de majuscule). كَافَّة kāffatan — racine k-f-f : ce qui contient et embrasse l'ensemble sans reste — « dans sa totalité », non « tous ensemble » (le texte qualifie *al-silm*, non les croyants). خُطُوَات khuṭuwāt — déjà validé (S2:168) : le pas, l'enjambée — progression graduelle, non un saut. زَلَلْتُم zalaltum — racine z-l-l : perte d'appui, faux pas — distinct d'une faute délibérée. الْبَيِّنَات al-bayyināt — déjà validé (S2:159, S2:174) : ce qui est distinct, visible par soi-même. ظُلَل ẓulal / الْغَمَام al-ghamām — ombres portées par des nuées : le texte emploie une image de manifestation encore attendue, sans la décrire davantage. قُضِيَ الْأَمْر quḍiya l-amr — racine q-ḍ-y (déjà rencontrée S2:200, « s'acquitter de ») : ici au sens de trancher, mener à un terme définitif. تُرْجَع turjaʿu — déjà validé (r-j-ʿ, S2:156) : retour vers un point d'origine — ici, toute affaire vers Allaah. Ce que le texte dit : l'entrée dans al-silm doit être sans réserve, et le trébuchement après clarté n'annule pas la qualification d'ʿAzīz/Ḥakīm. Ce que le texte ne dit pas : la nature exacte de la venue décrite en S2:210 n'est pas précisée au-delà de l'image donnée — aucune inférence supplémentaire n'est ajoutée ici.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">السِّلْم</span><span class="lex-trl">al-silm</span></dt>
+<dd>racine s-l-m : intégrité, absence de fracture ou de brèche — même famille que *islām* mais nom distinct désignant ici l'état d'engagement sans réserve. Conservé en translittération plutôt que rendu par « paix » (sens trop restrictif) ou « islam » (anachronisme de majuscule).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَافَّة</span><span class="lex-trl">kāffatan</span></dt>
+<dd>racine k-f-f : ce qui contient et embrasse l'ensemble sans reste — « dans sa totalité », non « tous ensemble » (le texte qualifie *al-silm*, non les croyants).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">خُطُوَات</span><span class="lex-trl">khuṭuwāt</span></dt>
+<dd>(S2:168) : le pas, l'enjambée — progression graduelle, non un saut.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">زَلَلْتُم</span><span class="lex-trl">zalaltum</span></dt>
+<dd>racine z-l-l : perte d'appui, faux pas — distinct d'une faute délibérée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْبَيِّنَات</span><span class="lex-trl">al-bayyināt</span></dt>
+<dd>(S2:159, S2:174) : ce qui est distinct, visible par soi-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ظُلَل / الْغَمَام</span><span class="lex-trl">ẓulal / al-ghamām</span></dt>
+<dd>ombres portées par des nuées : le texte emploie une image de manifestation encore attendue, sans la décrire davantage.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قُضِيَ الْأَمْر</span><span class="lex-trl">quḍiya l-amr</span></dt>
+<dd>racine q-ḍ-y (S2:200, « s'acquitter de ») : ici au sens de trancher, mener à un terme définitif.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُرْجَع</span><span class="lex-trl">turjaʿu</span></dt>
+<dd>(r-j-ʿ, S2:156) : retour vers un point d'origine — ici, toute affaire vers Allaah.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'entrée dans al-silm doit être sans réserve, et le trébuchement après clarté n'annule pas la qualification d'ʿAzīz/Ḥakīm.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> la nature exacte de la venue décrite en S2:210 n'est pas précisée au-delà de l'image donnée — aucune inférence supplémentaire n'est ajoutée ici.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -149,9 +281,31 @@ methode: "Dit / Non-dit / Inférence"
    trad="Interroge les Banī Isrāʾīl : combien Nous leur avons donné d'āyāt bayyina ! Et quiconque substitue au bienfait d'Allaah, après qu'il lui est venu, alors Allaah est shadīd al-ʿiqāb."
 %}
 
-**Notes lexicales**
-
-آيَة بَيِّنَة āyatun bayyinah — signe manifeste, de la même famille que *al-bayyināt* déjà rencontré. يُبَدِّل yubaddil — déjà validé (b-d-l, S2:181) : substituer. نِعْمَة niʿma — le bienfait reçu, déjà rencontré au pluriel (S2:47). شَدِيدُ الْعِقَاب shadīdu l-ʿiqāb — l'intensité de la rétribution consécutive — racine ʿ-q-b : ce qui suit et sanctionne en conséquence directe. Ce que le texte dit : une invitation à interroger, et une mise en garde générale sur la substitution du bienfait reçu. Ce que le texte ne dit pas : il ne détaille ici ni la nature des āyāt données, ni la substitution elle-même — le silence est un silence.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">آيَة بَيِّنَة</span><span class="lex-trl">āyatun bayyinah</span></dt>
+<dd>signe manifeste, de la même famille que *al-bayyināt*.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُبَدِّل</span><span class="lex-trl">yubaddil</span></dt>
+<dd>(b-d-l, S2:181) : substituer.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">نِعْمَة</span><span class="lex-trl">niʿma</span></dt>
+<dd>le bienfait reçu, au pluriel (S2:47).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">شَدِيدُ الْعِقَاب</span><span class="lex-trl">shadīdu l-ʿiqāb</span></dt>
+<dd>l'intensité de la rétribution consécutive — racine ʿ-q-b : ce qui suit et sanctionne en conséquence directe.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une invitation à interroger, et une mise en garde générale sur la substitution du bienfait reçu.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne détaille ici ni la nature des āyāt données, ni la substitution elle-même — le silence est un silence.</p>
+</div>
+</div>
 
 ---
 
@@ -178,9 +332,67 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ou bien avez-vous estimé que vous entreriez dans la janna sans que ne vous vienne l'équivalent de ce qu'ont connu ceux qui sont passés avant vous ? La détresse et le dommage les ont atteints, et ils ont été ébranlés — jusqu'à ce que le rasūl et ceux qui avaient cru avec lui disent : « Quand donc le secours d'Allaah ? » — En vérité, le secours d'Allaah est proche."
 %}
 
-**Notes lexicales**
-
-زُيِّنَ zuyyina — racine z-y-n : parer, embellir à la vue. Forme passive : **note de vigilance dit/non-dit.** Le texte ne nomme pas l'agent de cette parure — ni le monde lui-même, ni le shayṭān déjà mentionné en S2:208, ni Allaah. L'attribution reste non spécifiée dans ce verset précis ; aucune inférence n'y est ajoutée ici. يَسْخَرُون yaskharūn — racine s-kh-r : tourner en dérision — sens dérivé distinct de *musakhkhar* (S2:164, assujetti/mis au service), même racine, deux sens contextuels. يَوْمَ الْقِيَامَة yawma l-qiyāmah — racine q-w-m : le jour où l'on se dresse, se tient debout — l'action de se lever est portée par le mot lui-même. أُمَّةً وَاحِدَة ummatan wāḥidah — une communauté unique : le texte situe une unité première des gens, avant l'envoi des nabī-s — sans en préciser la nature (croyance commune ? absence de divergence ? le texte ne le dit pas). بَعَثَ baʿatha — racine b-ʿ-th : mettre en mouvement depuis un état de repos, susciter. مُبَشِّرِين / مُنذِرِين mubashshirīn / mundhirīn — b-sh-r (annonce qui se manifeste, littéralt liée à la surface visible/la peau) et n-dh-r (alerter d'un danger à venir) : les deux fonctions associées aux nabī-s. اخْتَلَفُوا khtalafū — racine kh-l-f (déjà validée au sens de succession, S2:30) au sens dérivé de divergence, désaccord — ce qui « vient en position différente ». بَغْيًا baghyan — déjà validé (b-gh-y, S2:173) : convoitise active — ici, rivalité par convoitise entre ceux à qui le Kitāb avait été donné, non une divergence de bonne foi. صِرَاط ṣirāṭ — la voie qui mène droit au but, sans détour — *mustaqīm* : rectiligne, sans écart. حَسِبْتُم ḥasibtum — racine ḥ-s-b : calculer, estimer par supputation. مَثَل mathal — cas semblable, analogue — ici l'ensemble des épreuves déjà traversées par les générations antérieures. الْبَأْسَاء / الضَّرَّاء al-baʾsāʾu / al-ḍarrāʾ — détresse violente / dommage qui nuit : deux registres d'épreuve associés. زُلْزِلُوا zulzilū — réduplication de z-l-l : ébranlement répété, secousse profonde. Ce que le texte dit : l'épreuve a atteint jusqu'au rasūl et ceux qui croyaient avec lui, au point qu'ils s'interrogent eux-mêmes sur le moment du secours — et la réponse donnée est la proximité de ce secours, non son absence. Ce que le texte ne dit pas : il ne précise ni la durée de l'épreuve ni sa forme exacte au-delà de *baʾsāʾ* et *ḍarrāʾ*.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">زُيِّنَ</span><span class="lex-trl">zuyyina</span></dt>
+<dd>racine z-y-n : parer, embellir à la vue. Forme passive : **note de vigilance dit/non-dit.** Le texte ne nomme pas l'agent de cette parure — ni le monde lui-même, ni le shayṭān déjà mentionné en S2:208, ni Allaah. L'attribution reste non spécifiée dans ce verset précis ; aucune inférence n'y est ajoutée ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَسْخَرُون</span><span class="lex-trl">yaskharūn</span></dt>
+<dd>racine s-kh-r : tourner en dérision — sens dérivé distinct de *musakhkhar* (S2:164, assujetti/mis au service), même, deux sens contextuels.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَوْمَ الْقِيَامَة</span><span class="lex-trl">yawma l-qiyāmah</span></dt>
+<dd>racine q-w-m : le jour où l'on se dresse, se tient debout — l'action de se lever est portée par le mot lui-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أُمَّةً وَاحِدَة</span><span class="lex-trl">ummatan wāḥidah</span></dt>
+<dd>une communauté unique : le texte situe une unité première des gens, avant l'envoi des nabī-s — sans en préciser la nature (croyance commune ? absence de divergence ? le texte ne le dit pas).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَعَثَ</span><span class="lex-trl">baʿatha</span></dt>
+<dd>racine b-ʿ-th : mettre en mouvement depuis un état de repos, susciter.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُبَشِّرِين / مُنذِرِين</span><span class="lex-trl">mubashshirīn / mundhirīn</span></dt>
+<dd>b-sh-r (annonce qui se manifeste, littéralt liée à la surface visible/la peau) et n-dh-r (alerter d'un danger à venir) : les deux fonctions associées aux nabī-s.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اخْتَلَفُوا</span><span class="lex-trl">khtalafū</span></dt>
+<dd>racine kh-l-f (au sens de succession, S2:30) au sens dérivé de divergence, désaccord — ce qui « vient en position différente ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بَغْيًا</span><span class="lex-trl">baghyan</span></dt>
+<dd>(b-gh-y, S2:173) : convoitise active — ici, rivalité par convoitise entre ceux à qui le Kitāb avait été donné, non une divergence de bonne foi.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">صِرَاط</span><span class="lex-trl">ṣirāṭ</span></dt>
+<dd>la voie qui mène droit au but, sans détour — *mustaqīm* : rectiligne, sans écart.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَسِبْتُم</span><span class="lex-trl">ḥasibtum</span></dt>
+<dd>racine ḥ-s-b : calculer, estimer par supputation.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مَثَل</span><span class="lex-trl">mathal</span></dt>
+<dd>cas semblable, analogue — ici l'ensemble des épreuves déjà traversées par les générations antérieures.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْبَأْسَاء / الضَّرَّاء</span><span class="lex-trl">al-baʾsāʾu / al-ḍarrāʾ</span></dt>
+<dd>détresse violente / dommage qui nuit : deux registres d'épreuve associés.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">زُلْزِلُوا</span><span class="lex-trl">zulzilū</span></dt>
+<dd>réduplication de z-l-l : ébranlement répété, secousse profonde.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'épreuve a atteint jusqu'au rasūl et ceux qui croyaient avec lui, au point qu'ils s'interrogent eux-mêmes sur le moment du secours — et la réponse donnée est la proximité de ce secours, non son absence.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise ni la durée de l'épreuve ni sa forme exacte au-delà de *baʾsāʾ* et *ḍarrāʾ*.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -195,9 +407,31 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ils t'interrogent : que faut-il dépenser ? Dis : ce que vous dépensez de bien va aux deux parents, aux proches, aux yatāmā, aux masākīn et au fils de la route. Et quel que soit le bien que vous fassiez, Allaah en est connaissant."
 %}
 
-**Notes lexicales**
-
-أَنفَقْتُم anfaqtum — déjà validé (n-f-q, S2:3, S2:195) : dépenser, faire sortir de son bien. الْيَتَامَىٰ al-yatāmā — racine y-t-m : l'état de solitude par rupture du lien de filiation paternelle. الْمَسَاكِين al-masākīn — racine s-k-n : l'immobilité, l'arrêt — ceux que le besoin fixe, réduit dans leur capacité de mouvement/action ; distinct du pauvre au sens général. ابْنُ السَّبِيل ibnu l-sabīl — littéralement « le fils de la route » — celui que le chemin parcouru rattache à une condition de dénuement passager, le voyageur dans le besoin. Ce que le texte dit : une hiérarchie de destinataires est donnée pour la dépense — parents, proches, orphelins, indigents, voyageurs. Ce que le texte ne dit pas : il ne fixe ici ni montant ni proportion — cette question reste, à ce stade du texte, sans quantification précisée.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">أَنفَقْتُم</span><span class="lex-trl">anfaqtum</span></dt>
+<dd>(n-f-q, S2:3, S2:195) : dépenser, faire sortir de son bien.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْيَتَامَىٰ</span><span class="lex-trl">al-yatāmā</span></dt>
+<dd>racine y-t-m : l'état de solitude par rupture du lien de filiation paternelle.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَسَاكِين</span><span class="lex-trl">al-masākīn</span></dt>
+<dd>racine s-k-n : l'immobilité, l'arrêt — ceux que le besoin fixe, réduit dans leur capacité de mouvement/action ; distinct du pauvre au sens général.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ابْنُ السَّبِيل</span><span class="lex-trl">ibnu l-sabīl</span></dt>
+<dd>littéralement « le fils de la route » — celui que le chemin parcouru rattache à une condition de dénuement passager, le voyageur dans le besoin.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une hiérarchie de destinataires est donnée pour la dépense — parents, proches, orphelins, indigents, voyageurs.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne fixe ici ni montant ni proportion — cette question reste, à ce stade du texte, sans quantification précisée.</p>
+</div>
+</div>
 
 ---
 
@@ -224,9 +458,59 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui ont cru, et ceux qui ont émigré et déployé leur jahd sur la voie d'Allaah — ceux-là espèrent la raḥma d'Allaah. Et Allaah est al-Ghafūr, al-Raḥīm."
 %}
 
-**Notes lexicales**
-
-قِتَال qitāl — déjà traité en profondeur au Bloc VII (S2:190–194) : le combat armé effectif, jamais élargi à une lutte spirituelle ou morale par ce seul terme. كُرْه kurh — racine k-r-h : ce qui pèse, contraint, déplaît — la répulsion elle-même est nommée par le texte, sans être minimisée. الشَّهْر الْحَرَام al-shahru l-ḥarām — le mois protégé, mis à part (ḥ-r-m, déjà validé S2:194). صَدّ ṣadd — racine ṣ-d-d : détourner, barrer l'accès — déjà rencontré dans la problématique méthodologique du site (*al-ṣadd ʿan sabīli llāh*). كُفْر kufr — racine k-f-r, voir l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a> : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu — sens qui se décline selon le contexte en ingratitude, refus délibéré après reconnaissance, ou incroyance générale. Ici, forme nominale (*kufrun bihi*, masdar) : le kufr envers Lui, conservé translittéré faute d'un mot français unique couvrant ces trois dimensions — voir la note méthodologique dédiée dans la banque lexicale. الْفِتْنَة al-fitna — déjà validée (f-t-n, S2:191, S2:193) : l'épreuve par le feu qui révèle une nature, le trouble qui égare — le texte la déclare *akbar mina l-qatl*, plus grave que le fait même de tuer : comparaison explicite du texte lui-même, non une inférence du traducteur. يَرْتَدِد yartadid — forme du même radical que *radda* (faire revenir) : faire retour hors de son dīn — le texte nomme l'acte et sa conséquence (l'annulation des œuvres) sans détailler la procédure qui s'ensuit dans le monde des vivants ; ce point, débattu en dehors du texte lui-même, reste un non-dit ici. حَبِطَتْ ḥabiṭat — racine ḥ-b-ṭ (Lisān : l'annulation, la dissolution d'une substance qui se vide) — les œuvres perdent leur portée. هَاجَرُوا hājarū — racine h-j-r : rupture, abandon d'un lieu. جَاهَدُوا jāhadū — racine j-h-d : déployer sa pleine capacité contre une résistance — *jāhadū fī sabīli llāh*, sur la voie d'Allaah, sans préciser ici la forme exacte de ce jahd (armée ou non — le contexte immédiat, qui suit trois versets sur le qitāl, oriente la lecture sans l'imposer explicitement par le seul terme). يَرْجُون yarjūn — attente tournée vers un espoir, non une certitude acquise. Ce que le texte dit : le qitāl est prescrit malgré la répulsion qu'il inspire, la fitna est déclarée plus grave que le fait de tuer, et l'espérance de la raḥma est réservée à la foi conjuguée à l'émigration et au jahd. Ce que le texte ne dit pas : il ne définit pas ici les conditions concrètes de déclenchement du qitāl au-delà de ce qui a déjà été établi au Bloc VII (S2:190 : contre ceux qui combattent, sans transgression).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">قِتَال</span><span class="lex-trl">qitāl</span></dt>
+<dd>déjà traité en profondeur au Bloc VII (S2:190–194) : le combat armé effectif, jamais élargi à une lutte spirituelle ou morale par ce seul terme.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كُرْه</span><span class="lex-trl">kurh</span></dt>
+<dd>racine k-r-h : ce qui pèse, contraint, déplaît — la répulsion elle-même est nommée par le texte, sans être minimisée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الشَّهْر الْحَرَام</span><span class="lex-trl">al-shahru l-ḥarām</span></dt>
+<dd>le mois protégé, mis à part (ḥ-r-m, S2:194).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">صَدّ</span><span class="lex-trl">ṣadd</span></dt>
+<dd>racine ṣ-d-d : détourner, barrer l'accès — dans la problématique méthodologique du site (*al-ṣadd ʿan sabīli llāh*).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كُفْر</span><span class="lex-trl">kufr</span></dt>
+<dd>racine k-f-r, voir l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a> : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu — sens qui se décline selon le contexte en ingratitude, refus délibéré après reconnaissance, ou incroyance générale. Ici, forme nominale (*kufrun bihi*, masdar) : le kufr envers Lui, conservé translittéré faute d'un mot français unique couvrant ces trois dimensions — voir la note méthodologique dédiée dans la banque lexicale.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْفِتْنَة</span><span class="lex-trl">al-fitna</span></dt>
+<dd>(f-t-n, S2:191, S2:193) : l'épreuve par le feu qui révèle une nature, le trouble qui égare — le texte la déclare *akbar mina l-qatl*, plus grave que le fait même de tuer : comparaison explicite du texte lui-même, non une inférence du traducteur.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَرْتَدِد</span><span class="lex-trl">yartadid</span></dt>
+<dd>forme du même radical que *radda* (faire revenir) : faire retour hors de son dīn — le texte nomme l'acte et sa conséquence (l'annulation des œuvres) sans détailler la procédure qui s'ensuit dans le monde des vivants ; ce point, débattu en dehors du texte lui-même, reste un non-dit ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَبِطَتْ</span><span class="lex-trl">ḥabiṭat</span></dt>
+<dd>racine ḥ-b-ṭ (Lisān : l'annulation, la dissolution d'une substance qui se vide) — les œuvres perdent leur portée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">هَاجَرُوا</span><span class="lex-trl">hājarū</span></dt>
+<dd>racine h-j-r : rupture, abandon d'un lieu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">جَاهَدُوا</span><span class="lex-trl">jāhadū</span></dt>
+<dd>racine j-h-d : déployer sa pleine capacité contre une résistance — *jāhadū fī sabīli llāh*, sur la voie d'Allaah, sans préciser ici la forme exacte de ce jahd (armée ou non — le contexte immédiat, qui suit trois versets sur le qitāl, oriente la lecture sans l'imposer explicitement par le seul terme).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَرْجُون</span><span class="lex-trl">yarjūn</span></dt>
+<dd>attente tournée vers un espoir, non une certitude acquise.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> le qitāl est prescrit malgré la répulsion qu'il inspire, la fitna est déclarée plus grave que le fait de tuer, et l'espérance de la raḥma est réservée à la foi conjuguée à l'émigration et au jahd.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne définit pas ici les conditions concrètes de déclenchement du qitāl au-delà de ce qui a déjà été établi au Bloc VII (S2:190 : contre ceux qui combattent, sans transgression).</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -248,9 +532,43 @@ methode: "Dit / Non-dit / Inférence"
    trad="Sur ce bas monde et l'au-delà. Et ils t'interrogent sur les yatāmā. Dis : rectifier leur condition est un bien. Et si vous mêlez vos affaires aux leurs, ils sont vos frères — Allaah distingue celui qui corrompt l'ordre de celui qui le rectifie. Et si Allaah avait voulu, Il vous aurait mis en épreuve jusqu'à la rupture. En vérité, Allaah est al-ʿAzīz, al-Ḥakīm."
 %}
 
-**Notes lexicales**
-
-الْخَمْر al-khamr — racine kh-m-r : recouvrement, obscurcissement — ce qui voile la raison. Conservé en translittération. الْمَيْسِر al-maysir — racine y-s-r (la facilité) : gain obtenu sans effort proportionné, par tirage au sort — pratique de partage aléatoire de viande et jeu d'argent dans le contexte visé. **Note de dit/non-dit majeure.** Ce verset ne prononce pas d'interdiction (*ḥarām/lā yaḥillu*) : il établit une balance — faute grave d'un côté, bénéfices réels de l'autre — et conclut que la faute l'emporte sur le bénéfice. L'interdiction formelle du khamr, si elle est établie ailleurs dans le corpus coranique (S5:90–91, hors de ce bloc), n'est pas le contenu de ce verset précis ; le confondre avec lui serait ajouter au texte ce qu'il ne dit pas ici. الْعَفْو al-ʿafw — **même racine que ʿ-f-w déjà validée (S2:178, S2:187 : effacer, lever ce qui pesait), mais sens dérivé distinct ici** : non le pardon, mais le surplus qui reste disponible une fois les besoins propres couverts — Ibn Fāris rattache les deux sens à une racine commune de ce qui « dépasse » et peut donc être cédé sans dommage. لَعَلَّكُمْ تَتَفَكَّرُون laʿallakum tatafakkarūn — *laʿalla* + subjonctif, lecture finaliste uniforme retenue par la méthode (voir Bloc VII, banque lexicale) : « afin que vous réfléchissiez ». الْيَتَامَىٰ al-yatāmā — déjà rencontré en S2:215. تُخَالِطُوهُمْ tukhāliṭūhum — racine kh-l-ṭ : fusionner, mêler les affaires/ressources. لَأَعْنَتَكُمْ la-aʿnatakum — racine ʿ-n-t (Ibn Fāris : la difficulté qui va jusqu'à la rupture, image de l'os qui se brise après une fracture mal réduite) — Allaah aurait pu imposer une charge insoutenable ; le texte affirme que ce n'est pas le cas retenu. Ce que le texte dit : une balance explicite entre faute et bénéfice pour le khamr et le maysir, une définition du surplus disponible comme objet de la dépense, et une orientation claire sur le mélange des affaires avec les orphelins — le bien, non la seule prudence de séparation totale. Ce que le texte ne dit pas : il ne prononce pas ici l'interdiction formelle du khamr — ce point relève d'un autre verset, hors de ce bloc.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْخَمْر</span><span class="lex-trl">al-khamr</span></dt>
+<dd>racine kh-m-r : recouvrement, obscurcissement — ce qui voile la raison. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَيْسِر</span><span class="lex-trl">al-maysir</span></dt>
+<dd>racine y-s-r (la facilité) : gain obtenu sans effort proportionné, par tirage au sort — pratique de partage aléatoire de viande et jeu d'argent dans le contexte visé. **Note de dit/non-dit majeure.** Ce verset ne prononce pas d'interdiction (*ḥarām/lā yaḥillu*) : il établit une balance — faute grave d'un côté, bénéfices réels de l'autre — et conclut que la faute l'emporte sur le bénéfice. L'interdiction formelle du khamr, si elle est établie ailleurs dans le corpus coranique (S5:90–91, hors de ce bloc), n'est pas le contenu de ce verset précis ; le confondre avec lui serait ajouter au texte ce qu'il ne dit pas ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْعَفْو</span><span class="lex-trl">al-ʿafw</span></dt>
+<dd>**même racine que ʿ-f-w (S2:178, S2:187 : effacer, lever ce qui pesait), mais sens dérivé distinct ici** : non le pardon, mais le surplus qui reste disponible une fois les besoins propres couverts — Ibn Fāris rattache les deux sens à une racine commune de ce qui « dépasse » et peut donc être cédé sans dommage.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَعَلَّكُمْ تَتَفَكَّرُون</span><span class="lex-trl">laʿallakum tatafakkarūn</span></dt>
+<dd>*laʿalla* + subjonctif, lecture finaliste uniforme retenue par la méthode (voir Bloc VII, banque lexicale) : « afin que vous réfléchissiez ».</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْيَتَامَىٰ</span><span class="lex-trl">al-yatāmā</span></dt>
+<dd>en S2:215.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تُخَالِطُوهُمْ</span><span class="lex-trl">tukhāliṭūhum</span></dt>
+<dd>racine kh-l-ṭ : fusionner, mêler les affaires/ressources.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَأَعْنَتَكُمْ</span><span class="lex-trl">la-aʿnatakum</span></dt>
+<dd>racine ʿ-n-t (Ibn Fāris : la difficulté qui va jusqu'à la rupture, image de l'os qui se brise après une fracture mal réduite) — Allaah aurait pu imposer une charge insoutenable ; le texte affirme que ce n'est pas le cas retenu.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une balance explicite entre faute et bénéfice pour le khamr et le maysir, une définition du surplus disponible comme objet de la dépense, et une orientation claire sur le mélange des affaires avec les orphelins — le bien, non la seule prudence de séparation totale.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne prononce pas ici l'interdiction formelle du khamr — ce point relève d'un autre verset, hors de ce bloc.</p>
+</div>
+</div>
 
 ---
 
@@ -263,9 +581,43 @@ methode: "Dit / Non-dit / Inférence"
    trad="N'épousez pas les femmes mushrikāt tant qu'elles n'ont pas cru — une servante croyante vaut mieux qu'une femme mushrika, même si celle-ci vous séduit. Et ne faites pas épouser les hommes mushrikīn tant qu'ils n'ont pas cru — un serviteur croyant vaut mieux qu'un homme mushrik, même s'il vous séduit. Ceux-là appellent vers le Feu, alors qu'Allaah appelle vers la janna et la maghfira, par Sa permission — et Il explicite Ses āyāt aux gens, afin qu'ils se souviennent."
 %}
 
-**Notes lexicales**
-
-تَنكِحُوا tankiḥū — racine n-k-ḥ : contracter le lien du mariage. الْمُشْرِكَات / الْمُشْرِكِين al-mushrikāt / al-mushrikīn — participes de sh-r-k (déjà connu du corpus via *andād*, S2:22 : mettre en équivalence de rang) : celles et ceux qui associent une mise en équivalence à Allaah. أَمَة / عَبْد ama / ʿabd — servante/serviteur au sens du statut servile reconnu par le texte dans son contexte social propre. **Note de dit/non-dit.** Le texte pose une comparaison de valeur (*khayr*) entre un statut social inférieur assorti de la foi, et un statut social supérieur assorti du shirk — il ne légifère pas ici sur l'institution servile elle-même, dont le traitement fait l'objet d'une étude lexicale indépendante sur ce site. أَعْجَبَتْكُمْ/أَعْجَبَكُمْ aʿjabat-/aʿjaba- — même racine que *yuʿjibuka* (S2:204) : ce qui séduit par l'apparence, ici la personne elle-même plutôt que sa parole. يَدْعُونَ / يَدْعُو yadʿūna / yadʿū — déjà validé (d-ʿ-w, S2:186) : appeler, orienter un appel vers une destination. الْمَغْفِرَة al-maghfira — déjà validé (gh-f-r). لَعَلَّهُمْ يَتَذَكَّرُون laʿallahum yatadhakkarūn — lecture finaliste uniforme : « afin qu'ils se souviennent » — forme V de dh-k-r, se rappeler activement, nuancée par rapport au simple *dhikr* déjà rencontré. Ce que le texte dit : une restriction du mariage conditionnée à la foi, justifiée par une comparaison explicite de valeur entre statut social et foi. Ce que le texte ne dit pas : il ne précise pas ici le périmètre exact de *mushrikāt/mushrikīn* au-delà du terme lui-même — la question de savoir si ce périmètre recoupe ou non celui des gens du Livre, traités ailleurs dans le corpus (S5:5, hors bloc), n'est pas tranchée par ce seul verset.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَنكِحُوا</span><span class="lex-trl">tankiḥū</span></dt>
+<dd>racine n-k-ḥ : contracter le lien du mariage.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمُشْرِكَات / الْمُشْرِكِين</span><span class="lex-trl">al-mushrikāt / al-mushrikīn</span></dt>
+<dd>participes de sh-r-k (du corpus via *andād*, S2:22 : mettre en équivalence de rang) : celles et ceux qui associent une mise en équivalence à Allaah.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَمَة / عَبْد</span><span class="lex-trl">ama / ʿabd</span></dt>
+<dd>servante/serviteur au sens du statut servile reconnu par le texte dans son contexte social propre. **Note de dit/non-dit.** Le texte pose une comparaison de valeur (*khayr*) entre un statut social inférieur assorti de la foi, et un statut social supérieur assorti du shirk — il ne légifère pas ici sur l'institution servile elle-même, dont le traitement fait l'objet d'une étude lexicale indépendante sur ce site.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَعْجَبَتْكُمْ/أَعْجَبَكُمْ</span><span class="lex-trl">aʿjabat-/aʿjaba-</span></dt>
+<dd>même racine que *yuʿjibuka* (S2:204) : ce qui séduit par l'apparence, ici la personne elle-même plutôt que sa parole.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَدْعُونَ / يَدْعُو</span><span class="lex-trl">yadʿūna / yadʿū</span></dt>
+<dd>(d-ʿ-w, S2:186) : appeler, orienter un appel vers une destination.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَغْفِرَة</span><span class="lex-trl">al-maghfira</span></dt>
+<dd>(gh-f-r).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَعَلَّهُمْ يَتَذَكَّرُون</span><span class="lex-trl">laʿallahum yatadhakkarūn</span></dt>
+<dd>lecture finaliste uniforme : « afin qu'ils se souviennent » — forme V de dh-k-r, se rappeler activement, nuancée par rapport au simple *dhikr*.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une restriction du mariage conditionnée à la foi, justifiée par une comparaison explicite de valeur entre statut social et foi.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne précise pas ici le périmètre exact de *mushrikāt/mushrikīn* au-delà du terme lui-même — la question de savoir si ce périmètre recoupe ou non celui des gens du Livre, traités ailleurs dans le corpus (S5:5, hors bloc), n'est pas tranchée par ce seul verset.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -289,9 +641,43 @@ methode: "Dit / Non-dit / Inférence"
    trad="Vos femmes sont un ḥarth pour vous — venez donc à votre ḥarth comme vous le voulez, et avancez pour vous-mêmes. Constituez-vous une taqwā envers Allaah, et sachez que vous Le rencontrerez. Et annonce aux muʾminīn."
 %}
 
-**Notes lexicales**
-
-الْمَحِيض al-maḥīḍ — racine ḥ-y-ḍ : le flux, l'écoulement ; *maḥīḍ* désigne l'état/le temps de ce flux. أَذًى adhan — racine ʾ-dh-y : ce qui incommode, gêne — **note de dit/non-dit centrale.** Le texte qualifie le maḥīḍ d'*adhan*, une gêne, et non d'impureté rituelle (*najas*) — cette dernière notion, si elle existe dans l'élaboration juridique postérieure, n'est pas le mot employé ici. La restriction porte sur le rapprochement intime (*lā taqrabūhunna*), non sur tout contact. اعْتَزِلُوا ʿtazilū — forme VIII de ʿ-z-l : se tenir à l'écart, opérer une mise à distance délibérée. يَطْهُرْن / تَطَهَّرْن yaṭhurna / taṭahharna — **deux verbes distincts du même radical ṭ-h-r**, non interchangeables dans le texte lui-même : *yaṭhurna* (forme I) — la cessation du flux ; *taṭahharna* (forme V, réflexive-intensive) — l'accomplissement actif de la purification. Le texte pose une condition en deux temps : d'abord la cessation, puis l'acte de purification, avant l'autorisation de rapprochement. حَرْث ḥarth — racine ḥ-r-th : le travail de la terre en vue d'une récolte. **Note méthodologique appuyée.** L'image du *ḥarth* désigne, par métaphore agricole, la fonction procréative et relationnelle du rapport conjugal — non une désignation générale et objectivante de la femme. Le lien intra-textuel immédiat le confirme : le verset enchaîne aussitôt sur *wa-qaddimū li-anfusikum*, « avancez pour vous-mêmes » (orientez cet acte vers un avenir qui vous engage), puis sur le rappel de la taqwā et de la rencontre avec Allaah — un cadre qui inscrit l'acte dans une responsabilité, non dans une licence sans portée. أَنَّىٰ شِئْتُمْ annā shiʾtum — « comme/par où vous voulez » : le texte ouvre une liberté de manière sur le terrain licite qu'il vient de délimiter (hors maḥīḍ), sans détailler au-delà de cette ouverture — ce que le texte ne précise pas reste un non-dit, non une invitation implicite à autre chose que ce terrain. مُلَاقُوه mulāqūhu — racine l-q-y : la rencontre à venir, directe. Ce que le texte dit : une restriction précise et limitée dans le temps du maḥīḍ, fondée sur la gêne qu'il constitue, suivie d'une ouverture de liberté dans le cadre licite du rapport conjugal, adossée à un rappel de responsabilité (taqwā, rencontre avec Allaah). Ce que le texte ne dit pas : il ne qualifie le maḥīḍ ni d'impureté rituelle ni de faute — et il ne détaille aucune modalité du rapport conjugal au-delà de l'ouverture *annā shiʾtum*.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">الْمَحِيض</span><span class="lex-trl">al-maḥīḍ</span></dt>
+<dd>racine ḥ-y-ḍ : le flux, l'écoulement ; *maḥīḍ* désigne l'état/le temps de ce flux.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَذًى</span><span class="lex-trl">adhan</span></dt>
+<dd>racine ʾ-dh-y : ce qui incommode, gêne — **note de dit/non-dit centrale.** Le texte qualifie le maḥīḍ d'*adhan*, une gêne, et non d'impureté rituelle (*najas*) — cette dernière notion, si elle existe dans l'élaboration juridique postérieure, n'est pas le mot employé ici. La restriction porte sur le rapprochement intime (*lā taqrabūhunna*), non sur tout contact.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اعْتَزِلُوا</span><span class="lex-trl">ʿtazilū</span></dt>
+<dd>forme VIII de ʿ-z-l : se tenir à l'écart, opérer une mise à distance délibérée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يَطْهُرْن / تَطَهَّرْن</span><span class="lex-trl">yaṭhurna / taṭahharna</span></dt>
+<dd>**deux verbes distincts du même radical ṭ-h-r**, non interchangeables dans le texte lui-même : *yaṭhurna* (forme I) — la cessation du flux ; *taṭahharna* (forme V, réflexive-intensive) — l'accomplissement actif de la purification. Le texte pose une condition en deux temps : d'abord la cessation, puis l'acte de purification, avant l'autorisation de rapprochement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَرْث</span><span class="lex-trl">ḥarth</span></dt>
+<dd>racine ḥ-r-th : le travail de la terre en vue d'une récolte. **Note méthodologique appuyée.** L'image du *ḥarth* désigne, par métaphore agricole, la fonction procréative et relationnelle du rapport conjugal — non une désignation générale et objectivante de la femme. Le lien intra-textuel immédiat le confirme : le verset enchaîne aussitôt sur *wa-qaddimū li-anfusikum*, « avancez pour vous-mêmes » (orientez cet acte vers un avenir qui vous engage), puis sur le rappel de la taqwā et de la rencontre avec Allaah — un cadre qui inscrit l'acte dans une responsabilité, non dans une licence sans portée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">أَنَّىٰ شِئْتُمْ</span><span class="lex-trl">annā shiʾtum</span></dt>
+<dd>« comme/par où vous voulez » : le texte ouvre une liberté de manière sur le terrain licite qu'il vient de délimiter (hors maḥīḍ), sans détailler au-delà de cette ouverture — ce que le texte ne précise pas reste un non-dit, non une invitation implicite à autre chose que ce terrain.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُلَاقُوه</span><span class="lex-trl">mulāqūhu</span></dt>
+<dd>racine l-q-y : la rencontre à venir, directe.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> une restriction précise et limitée dans le temps du maḥīḍ, fondée sur la gêne qu'il constitue, suivie d'une ouverture de liberté dans le cadre licite du rapport conjugal, adossée à un rappel de responsabilité (taqwā, rencontre avec Allaah).</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne qualifie le maḥīḍ ni d'impureté rituelle ni de faute — et il ne détaille aucune modalité du rapport conjugal au-delà de l'ouverture *annā shiʾtum*.</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 
@@ -327,9 +713,59 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et s'ils résolvent fermement le ṭalāq, alors Allaah est al-Samīʿ, al-ʿAlīm."
 %}
 
-**Notes lexicales**
-
-عُرْضَة ʿurḍa — racine ʿ-r-ḍ : ce qui s'expose transversalement, fait obstacle — *ʿurḍatan li-aymānikum* : un obstacle interposé au moyen de vos serments, pour se dispenser d'agir bien. الْبِرّ al-birr — déjà validé (S2:177, S2:189) : translittéré, jamais réduit à « vertu » seule. اللَّغْو al-laghw — racine l-gh-w : la parole vide de portée, non délibérée — distincte du serment engageant sciemment prononcé. يُؤَاخِذُ yuʾākhidhu — racine ʾ-kh-dh : saisir, tenir pour responsable en vue d'une rétribution. كَسَبَتْ قُلُوبُكُمْ kasabat qulūbukum — déjà validé (k-s-b) : ce que les cœurs ont acquis par leur intention délibérée — le texte distingue explicitement le serment involontaire (*laghw*) de l'engagement du cœur. حَلِيم Ḥalīm — racine ḥ-l-m (Farāhīdī : *imhāl*, non ignorance) : ce qui diffère et retient sa rétribution malgré la capacité d'agir immédiatement. **Note de vigilance méthodologique**, identique à celle déjà posée pour *Raʾūf* (S2:207) : ce terme n'est pas rendu par « indulgent » ou « patient » au sens d'une disposition affective humaine, mais conservé en translittération, rattaché à la définition lexicographique de la retenue différée. يُؤْلُون yuʾlūna — racine ʾ-l-y : jurer un vœu d'abstention — *īlāʾ* : le vœu spécifique de s'écarter de l'épouse. تَرَبُّص tarabbuṣ — racine r-b-ṣ : attente en suspens, délai observé avant décision. فَاءُوا fāʾū — racine f-ʾ-w : revenir après un écart, faire retour sur son vœu. عَزَمُوا ʿazamū — racine ʿ-z-m : résoudre avec fermeté, arrêter une décision. الطَّلَاق al-ṭalāq — racine ṭ-l-q : délier, rendre libre le lien noué — introduit ici par la seule mention de l'intention ferme, avant que le bloc suivant n'en détaille le régime. Ce que le texte dit : les serments ne doivent pas servir de prétexte à l'abstention du bien, seule l'intention délibérée du cœur engage la responsabilité, et un délai de quatre mois est fixé pour le vœu d'īlāʾ avant que la décision — retour ou ṭalāq — ne soit actée. Ce que le texte ne dit pas : il ne détaille pas encore ici le régime du ṭalāq lui-même — matière du bloc suivant (S2:228 et suivants).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">عُرْضَة</span><span class="lex-trl">ʿurḍa</span></dt>
+<dd>racine ʿ-r-ḍ : ce qui s'expose transversalement, fait obstacle — *ʿurḍatan li-aymānikum* : un obstacle interposé au moyen de vos serments, pour se dispenser d'agir bien.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الْبِرّ</span><span class="lex-trl">al-birr</span></dt>
+<dd>(S2:177, S2:189) : translittéré, jamais réduit à « vertu » seule.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">اللَّغْو</span><span class="lex-trl">al-laghw</span></dt>
+<dd>racine l-gh-w : la parole vide de portée, non délibérée — distincte du serment engageant sciemment prononcé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُؤَاخِذُ</span><span class="lex-trl">yuʾākhidhu</span></dt>
+<dd>racine ʾ-kh-dh : saisir, tenir pour responsable en vue d'une rétribution.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَسَبَتْ قُلُوبُكُمْ</span><span class="lex-trl">kasabat qulūbukum</span></dt>
+<dd>(k-s-b) : ce que les cœurs ont acquis par leur intention délibérée — le texte distingue explicitement le serment involontaire (*laghw*) de l'engagement du cœur.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَلِيم</span><span class="lex-trl">Ḥalīm</span></dt>
+<dd>racine ḥ-l-m (Farāhīdī : *imhāl*, non ignorance) : ce qui diffère et retient sa rétribution malgré la capacité d'agir immédiatement. **Note de vigilance méthodologique**, identique à celle déjà posée pour *Raʾūf* (S2:207) : ce terme n'est pas rendu par « indulgent » ou « patient » au sens d'une disposition affective humaine, mais conservé en translittération, rattaché à la définition lexicographique de la retenue différée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُؤْلُون</span><span class="lex-trl">yuʾlūna</span></dt>
+<dd>racine ʾ-l-y : jurer un vœu d'abstention — *īlāʾ* : le vœu spécifique de s'écarter de l'épouse.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَرَبُّص</span><span class="lex-trl">tarabbuṣ</span></dt>
+<dd>racine r-b-ṣ : attente en suspens, délai observé avant décision.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">فَاءُوا</span><span class="lex-trl">fāʾū</span></dt>
+<dd>racine f-ʾ-w : revenir après un écart, faire retour sur son vœu.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">عَزَمُوا</span><span class="lex-trl">ʿazamū</span></dt>
+<dd>racine ʿ-z-m : résoudre avec fermeté, arrêter une décision.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">الطَّلَاق</span><span class="lex-trl">al-ṭalāq</span></dt>
+<dd>racine ṭ-l-q : délier, rendre libre le lien noué — introduit ici par la seule mention de l'intention ferme, avant que le bloc suivant n'en détaille le régime.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> les serments ne doivent pas servir de prétexte à l'abstention du bien, seule l'intention délibérée du cœur engage la responsabilité, et un délai de quatre mois est fixé pour le vœu d'īlāʾ avant que la décision — retour ou ṭalāq — ne soit actée.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> il ne détaille pas encore ici le régime du ṭalāq lui-même — matière du bloc suivant (S2:228 et suivants).</p>
+</div>
+</div>
 
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 

@@ -43,12 +43,27 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ce Livre — nul doute en lui — est un guide pour les *muttaqīn*."
 %}
 
-**Notes lexicales**
-
-- **dhālika** — déictique de distance : « celui-là », désignant quelque chose d'éminent, placé au rang de référence absolue. *Inférence* : certains commentateurs voient dans la distance déictique une allusion au Coran récité avant d'être écrit. Le texte ne le dit pas.
-- **lā rayba fīhi** — *rayb* : le doute qui trouble, l'inquiétude qui vacille. Distinct du *shakk* (doute intellectuel neutre). *Lā rayba fīhi* : nul trouble, nulle vacillation en lui.
-- **hudan** — *h-d-y* : une guidance concrète, non une vague orientation. Le *hudā* est un guide actif.
-- **al-muttaqīn** — racine *w-q-y* : ceux qui se constituent une protection, une mise à l'abri. Non simplement « les pieux » : la racine désigne une action active de protection de soi par Allaah.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">dhālika</span></dt>
+<dd>déictique de distance : « celui-là », désignant quelque chose d'éminent, placé au rang de référence absolue. *Inférence* : certains commentateurs voient dans la distance déictique une allusion au Coran récité avant d'être écrit. Le texte ne le dit pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">lā rayba fīhi</span></dt>
+<dd>*rayb* : le doute qui trouble, l'inquiétude qui vacille. Distinct du *shakk* (doute intellectuel neutre). *Lā rayba fīhi* : nul trouble, nulle vacillation en lui.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">hudan</span></dt>
+<dd>*h-d-y* : une guidance concrète, non une vague orientation. Le *hudā* est un guide actif.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">al-muttaqīn</span></dt>
+<dd>racine *w-q-y* : ceux qui se constituent une protection, une mise à l'abri. Non simplement « les pieux » : la racine désigne une action active de protection de soi par Allaah.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -61,11 +76,23 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui croient au *ghayb*, établissent la *ṣalāt*, et dépensent de ce dont Nous les avons pourvus."
 %}
 
-**Notes lexicales**
-
-- **al-ghayb** — racine *gh-y-b* : ce qui est absent de la perception, ce qui échappe aux sens. Non « l'invisible » au sens mystique : tout ce qui n'est pas accessible à la perception directe.
-- **yuqīmūna ṣ-ṣalāt** — *aqāma* : établir, dresser, maintenir en station. Non simplement « prier » : *aqāma* désigne une action pérenne, structurée, tenue droite. *Ṣalāt* conservé en translittération.
-- **mimmā razaqnāhum yunfiqūn** — dépenser *de ce dont Nous les avons pourvus* : le *rizq* (provision) vient d'Allaah ; la dépense est un retour de ce qui a été reçu. Aucune restriction quantitative n'est posée par le texte.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">al-ghayb</span></dt>
+<dd>racine *gh-y-b* : ce qui est absent de la perception, ce qui échappe aux sens. Non « l'invisible » au sens mystique : tout ce qui n'est pas accessible à la perception directe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">yuqīmūna ṣ-ṣalāt</span></dt>
+<dd>*aqāma* : établir, dresser, maintenir en station. Non simplement « prier » : *aqāma* désigne une action pérenne, structurée, tenue droite. *Ṣalāt* conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">mimmā razaqnāhum yunfiqūn</span></dt>
+<dd>dépenser *de ce dont Nous les avons pourvus* : le *rizq* (provision) vient d'Allaah ; la dépense est un retour de ce qui a été reçu. Aucune restriction quantitative n'est posée par le texte.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -78,9 +105,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et ceux qui croient en ce qui t'a été révélé et en ce qui a été révélé avant toi, et qui ont la certitude de l'*ākhira*."
 %}
 
-**Note lexicale**
-
-- **yūqinūn** — racine *y-q-n* : la *yaqīn* est la certitude ancrée, sans fissure. Supérieure au *ʿilm* (connaissance) : c'est une certitude de l'être, non seulement de l'intellect. Traduit par « certitude » — adéquat.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yūqinūn</span></dt>
+<dd>racine *y-q-n* : la *yaqīn* est la certitude ancrée, sans fissure. Supérieure au *ʿilm* (connaissance) : c'est une certitude de l'être, non seulement de l'intellect. Traduit par « certitude » — adéquat.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -93,9 +126,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux-là sont sur une guidance venant de leur Seigneur, et ceux-là sont les *mufliḥūn*."
 %}
 
-**Note lexicale**
-
-- **mufliḥūn** — racine *f-l-ḥ* : ceux qui fendent, qui ouvrent un passage, qui réussissent en surmontant l'obstacle. Le *falāḥ* est une réussite active, non passive. Conservé en translittération : « les bienheureux » ou « les prospères » ne rendent pas l'idée d'une réussite qui brise une résistance.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">mufliḥūn</span></dt>
+<dd>racine *f-l-ḥ* : ceux qui fendent, qui ouvrent un passage, qui réussissent en surmontant l'obstacle. Le *falāḥ* est une réussite active, non passive. Conservé en translittération : « les bienheureux » ou « les prospères » ne rendent pas l'idée d'une réussite qui brise une résistance.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -110,9 +149,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui ont commis le *kufr* : qu'importe pour eux que tu les aies avertis ou non — ils ne croiront pas."
 %}
 
-**Note lexicale**
-
-- **kafarū** — racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut dans ce projet, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">kafarū</span></dt>
+<dd>racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut dans ce projet, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -125,10 +170,19 @@ methode: "Dit / Non-dit / Inférence"
    trad="Allaah a scellé leurs cœurs et leur ouïe ; et sur leurs regards, un voile — à eux un châtiment immense."
 %}
 
-**Notes lexicales**
-
-- **khatama** — racine *kh-t-m* : apposer un sceau, fermer hermétiquement. Le scellement est la conséquence du *kufr* actif décrit en S.2:6 — non une prédestination arbitraire.
-- **ghishāwa** — voile, pellicule qui recouvre. Sur les *abṣār* (regards, faculté visuelle) — non sur les yeux physiques.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">khatama</span></dt>
+<dd>racine *kh-t-m* : apposer un sceau, fermer hermétiquement. Le scellement est la conséquence du *kufr* actif décrit en S.2:6 — non une prédestination arbitraire.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ghishāwa</span></dt>
+<dd>voile, pellicule qui recouvre. Sur les *abṣār* (regards, faculté visuelle) — non sur les yeux physiques.</dd>
+</div>
+</dl>
+</div>
 
 {:.callout .callout--pivot}
 **Lien S.2:6–7.** La structure causale est dans le texte : *kafarū* (ils ont commis le *kufr*) → *khatama llāhu* (Allaah a scellé). Le scellement est une conséquence, non un décret initial. Le texte ne dit pas qu'Allaah scelle les cœurs avant le *kufr*.
@@ -160,9 +214,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Il y a dans leurs cœurs une maladie, et Allaah leur a accru en maladie — à eux un châtiment douloureux pour les mensonges qu'ils proféraient."
 %}
 
-**Note lexicale**
-
-- **maraḍ** — maladie, corruption interne. Al-Farāhīdī : *fasād fī l-jism* — corruption de l'intérieur. La maladie du cœur est une métaphore filée : un cœur malade ne perçoit plus correctement. *Inférence* : le *maraḍ* est ici le *nifāq* (hypocrisie). Le texte ne pose pas ce lien explicitement mais il est cohérent avec le contexte.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">maraḍ</span></dt>
+<dd>maladie, corruption interne. Al-Farāhīdī : *fasād fī l-jism* — corruption de l'intérieur. La maladie du cœur est une métaphore filée : un cœur malade ne perçoit plus correctement. *Inférence* : le *maraḍ* est ici le *nifāq* (hypocrisie). Le texte ne pose pas ce lien explicitement mais il est cohérent avec le contexte.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -182,9 +242,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Quand on leur dit : « Croyez comme *al-nās* ont cru », ils disent : « Allons-nous croire comme ont cru les *sufahāʾ* ? » — Assurément, ce sont eux les *sufahāʾ* — mais ils ne savent pas."
 %}
 
-**Note lexicale**
-
-- **sufahāʾ** — racine *s-f-h* : légèreté, absence de gravité, manque de solidité intellectuelle. Non simplement « idiots » : les *sufahāʾ* sont ceux dont la pensée ne tient pas, qui ne distinguent pas l'essentiel du futile.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">sufahāʾ</span></dt>
+<dd>racine *s-f-h* : légèreté, absence de gravité, manque de solidité intellectuelle. Non simplement « idiots » : les *sufahāʾ* sont ceux dont la pensée ne tient pas, qui ne distinguent pas l'essentiel du futile.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:14–16"
@@ -193,10 +259,19 @@ methode: "Dit / Non-dit / Inférence"
    trad="Quand ils rencontrent ceux qui ont cru, ils disent : « Nous croyons » ; et quand ils se retrouvent seuls avec leurs *shayāṭīn*, ils disent : « Nous sommes avec vous — nous les raillons. » — Allaah les rend dérisoires et les prolonge dans leur *ṭughyān* — égarés sans repère. — Voilà ceux qui ont troqué le *hudā* contre la *ḍalāla* : leur commerce n'a fait aucun profit."
 %}
 
-**Notes lexicales**
-
-- **shayāṭīn** — racine *sh-ṭ-n* : ce qui s'éloigne, s'écarte, s'embrase. Non traduit : l'équivalent « diables » projette une cosmologie étrangère au texte.
-- **ṭughyān** — racine *ṭ-gh-y* : dépassement des limites, débordement. Ibn Fāris : *al-mujāwaza ʿan l-ḥadd* — franchir la frontière fixée.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">shayāṭīn</span></dt>
+<dd>racine *sh-ṭ-n* : ce qui s'éloigne, s'écarte, s'embrase. Non traduit : l'équivalent « diables » projette une cosmologie étrangère au texte.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ṭughyān</span></dt>
+<dd>racine *ṭ-gh-y* : dépassement des limites, débordement. Ibn Fāris : *al-mujāwaza ʿan l-ḥadd* — franchir la frontière fixée.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -216,9 +291,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ou encore comme une averse du ciel chargée de ténèbres, de tonnerre et d'éclair : ils mettent leurs doigts dans leurs oreilles contre la foudre, par crainte de la mort — et Allaah *muḥīṭ* les *kāfirīn*. L'éclair est sur le point d'emporter leurs regards : chaque fois qu'il illumine, ils marchent ; et quand l'obscurité s'étend sur eux, ils s'immobilisent. Si Allaah le voulait, Il emporterait leur ouïe et leurs regards — Allaah est capable de toute chose."
 %}
 
-**Note lexicale**
-
-- **muḥīṭ** — racine *ḥ-w-ṭ* : ce qui encercle, entoure, encompasse. Traduit contextuellement : Allaah *entoure* les *kāfirīn* — ils n'ont aucun échappatoire à Sa connaissance et à Sa maîtrise.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">muḥīṭ</span></dt>
+<dd>racine *ḥ-w-ṭ* : ce qui encercle, entoure, encompasse. Traduit contextuellement : Allaah *entoure* les *kāfirīn* — ils n'ont aucun échappatoire à Sa connaissance et à Sa maîtrise.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -243,10 +324,19 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ce qui a fait de la terre un *firāsh* pour vous et du ciel un *bināʾ* ; Ce qui a fait descendre du ciel une eau et par elle a fait sortir des *thamarāt* comme *rizq* pour vous — n'assignez donc pas à Allaah des *andād*, alors que vous savez."
 %}
 
-**Notes lexicales**
-
-- **firāsh** — ce sur quoi on s'étend, base plane et stable. Non simplement « tapis » : l'image est celle d'une surface habitable.
-- **andād** — pluriel de *nidd* : égaux, rivaux, contreparties. Al-Farāhīdī : *al-mithl wa-n-naẓīr* — ce qui est mis en équivalence. *Andād* : ce qu'on assigne comme équivalents à Allaah. Le *shirk* au sens structurel.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">firāsh</span></dt>
+<dd>ce sur quoi on s'étend, base plane et stable. Non simplement « tapis » : l'image est celle d'une surface habitable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">andād</span></dt>
+<dd>pluriel de *nidd* : égaux, rivaux, contreparties. Al-Farāhīdī : *al-mithl wa-n-naẓīr* — ce qui est mis en équivalence. *Andād* : ce qu'on assigne comme équivalents à Allaah. Le *shirk* au sens structurel.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -295,9 +385,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ceux qui rompent le pacte d'Allaah après l'avoir solidement scellé, qui rompent ce qu'Allaah a ordonné de relier, et qui sèment la corruption sur la terre — ceux-là sont les *khāsirūn*."
 %}
 
-**Note lexicale**
-
-- **fāsiqīn** — racine *f-s-q* : sortir de l'enveloppe, éclater hors de sa limite. Al-Farāhīdī : *kharaj min ḥadd al-istiqa-ma* — sortir de la ligne droite. Non simplement « pervers » : le *fisq* est une sortie hors du cadre.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">fāsiqīn</span></dt>
+<dd>racine *f-s-q* : sortir de l'enveloppe, éclater hors de sa limite. Al-Farāhīdī : *kharaj min ḥadd al-istiqa-ma* — sortir de la ligne droite. Non simplement « pervers » : le *fisq* est une sortie hors du cadre.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -317,8 +413,14 @@ methode: "Dit / Non-dit / Inférence"
    trad="C'est Ce qui a créé pour vous tout ce qui est dans la terre, en totalité ; puis *stawā* vers le *samāʾ* et en a égalisé sept *samāwāt* — et Il est de toute chose savant."
 %}
 
-**Note lexicale**
-
-- **stawā** — racine *s-w-y* : s'établir, se stabiliser, se diriger vers avec maîtrise. Conservé en translittération : toute traduction de ce terme appliqué à Allaah risque d'introduire une connotation de lieu ou de mouvement spatial contraire à *laysa ka-mithlihi shayʾ* (S.42:11).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">stawā</span></dt>
+<dd>racine *s-w-y* : s'établir, se stabiliser, se diriger vers avec maîtrise. Conservé en translittération : toute traduction de ce terme appliqué à Allaah risque d'introduire une connotation de lieu ou de mouvement spatial contraire à *laysa ka-mithlihi shayʾ* (S.42:11).</dd>
+</div>
+</dl>
+</div>
 
 <a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>

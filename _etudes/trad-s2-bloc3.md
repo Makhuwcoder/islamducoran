@@ -29,9 +29,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Espérez-vous qu'ils vous croient alors qu'un groupe d'entre eux entendait la parole d'Allaah puis la déformait après l'avoir pleinement intégré par leur raison, en pleine conscience ?"
 %}
 
-**Note lexicale**
-
-- **yuḥarrifūna** — racine *ḥ-r-f* : dévier, faire pencher vers un bord. *Taḥrīf* : déplacement du sens vers une lisière, altération qui conserve l'apparence de l'original tout en le déviant. Distinct de la suppression (*ikhfāʾ*) et de la fabrication (*iftirāʾ*).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥarrifūna</span></dt>
+<dd>racine *ḥ-r-f* : dévier, faire pencher vers un bord. *Taḥrīf* : déplacement du sens vers une lisière, altération qui conserve l'apparence de l'original tout en le déviant. Distinct de la suppression (*ikhfāʾ*) et de la fabrication (*iftirāʾ*).</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:76–77"
@@ -51,9 +57,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Parmi eux des *ummiyyūn* qui ne connaissent le Livre que par des *amānī* — ils ne font que conjecturer. — *Waylun* à ceux qui écrivent le Livre de leurs propres mains puis disent : « Ceci vient d'Allaah Lui-même » pour en tirer un prix dérisoire."
 %}
 
-**Note lexicale**
-
-- **ummiyyūn** — racine *ʾ-m-m* : les gens de l'*umma* non scripturaire, ceux qui n'ont pas reçu de Livre. Dans ce contexte, les *ummiyyūn* parmi les descendants d'Isrāʾīl sont ceux qui ne connaissent pas directement le Livre — contrairement aux savants qui le falsifient en connaissance de cause. → Voir l'étude dédiée [*Ummī* dans le Coran](/etudes/ummi-illettre/).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ummiyyūn</span></dt>
+<dd>racine *ʾ-m-m* : les gens de l'*umma* non scripturaire, ceux qui n'ont pas reçu de Livre. Dans ce contexte, les *ummiyyūn* parmi les descendants d'Isrāʾīl sont ceux qui ne connaissent pas directement le Livre — contrairement aux savants qui le falsifient en connaissance de cause. → Voir l'étude dédiée [*Ummī* dans le Coran](/etudes/ummi-illettre/).</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:80–82"
@@ -82,9 +94,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et assurément Nous avons donné à Mūsā le Livre et fait suivre après lui des *rusul* ; et Nous avons donné à ʿĪsā fils de Maryam les preuves manifestes et l'avons soutenu par le *rūḥ al-qudus*. — Et c'est ainsi que, chaque fois qu'un *rasūl* vous est venu avec ce qui ne correspondait pas aux désirs de vos âmes, vous vous êtes montrés arrogants — traitant de menteurs un groupe, et en tuant un autre ?"
 %}
 
-**Note lexicale**
-
-- **rūḥ al-qudus** — *rūḥ* : le souffle, la réalité spirituelle. *al-qudus* : la pureté absolue, la sainteté. Ce que l'on peut dire : le souffle de la pureté absolue. Le texte ne précise pas la nature de ce *rūḥ*. Toute identification à une entité particulière excède ce que le texte dit.
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rūḥ al-qudus</span></dt>
+<dd>*rūḥ* : le souffle, la réalité spirituelle. *al-qudus* : la pureté absolue, la sainteté. Ce que l'on peut dire : le souffle de la pureté absolue. Le texte ne précise pas la nature de ce *rūḥ*. Toute identification à une entité particulière excède ce que le texte dit.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:89–93"

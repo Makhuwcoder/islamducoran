@@ -65,7 +65,32 @@ methode: "Dit / Non-dit / Inférence"
 
 <div class="notes-lexicales">
 <p><strong>Note lexicale — k-f-r, S3:100–101, S3:106–107.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Le marqueur « baʿda īmānikum » (après votre foi, S3:100, S3:106) et le rappel explicite de la récitation directe des āyāt (S3:101) désignent la dimension du refus délibéré après reconnaissance — le terme est alors rendu « refuser de reconnaître ». Ailleurs dans ce bloc (S3:111, S3:116, S3:127), en l'absence de ce type de marqueur, la forme reste translittérée (*kāfirūn*).</p>
-<p><strong>Notes lexicales.</strong> ٱعْتَصِمُوا۟ iʿtaṣimū / يَعْتَصِم yaʿtaṣim — racine ʿ-ṣ-m : se retenir fermement à quelque chose, s'y accrocher pour ne pas tomber — verset-pivot du fil « Al-Iʿtiṣām » retenu comme hypothèse de titre pour cette sourate. حَبْلِ ٱللَّهِ ḥabli llāh — le lien/la corde d'Allaah ; **non-dit** sur son référent exact (le Kitāb ? l'engagement pris ? la communauté de foi elle-même ?) — le texte ne le spécifie pas ici. يُبَيِّنُ yubayyinu — racine b-y-n (forme II) : rendre manifeste, faire apparaître clairement ce qui était voilé — même racine que *bayyināt* déjà rencontré et que le futur verset S3:187 (*tubayyinunnahu*), fil de la clarification. تَفَرَّقُوا۟ tafarraqū — racine f-r-q : se séparer, se diviser — antonyme direct de l'unité recherchée par l'iʿtiṣām. ٱلْخَيْرِ / ٱلْمَعْرُوفِ / ٱلْمُنكَرِ al-khayr / al-maʿrūf / al-munkar — al-maʿrūf déjà validé (S2:178 et suiv. : ce que la raison droite reconnaît comme juste, contenu non fixé) ; al-munkar, son opposé structurel : ce qui est rejeté par cette même reconnaissance. Ce que le texte dit : l'unité de la communauté de foi est présentée comme la condition et la conséquence directe de l'attachement au lien d'Allaah — un bienfait historique concret (la réconciliation d'ennemis) sert d'illustration, non d'argument abstrait.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱعْتَصِمُوا۟ / يَعْتَصِم</span><span class="lex-trl">iʿtaṣimū / yaʿtaṣim</span></dt>
+<dd>racine ʿ-ṣ-m : se retenir fermement à quelque chose, s'y accrocher pour ne pas tomber — verset-pivot du fil « Al-Iʿtiṣām » retenu comme hypothèse de titre pour cette sourate.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَبْلِ ٱللَّهِ</span><span class="lex-trl">ḥabli llāh</span></dt>
+<dd>le lien/la corde d'Allaah ; **non-dit** sur son référent exact (le Kitāb ? l'engagement pris ? la communauté de foi elle-même ?) — le texte ne le spécifie pas ici.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">يُبَيِّنُ</span><span class="lex-trl">yubayyinu</span></dt>
+<dd>racine b-y-n (forme II) : rendre manifeste, faire apparaître clairement ce qui était voilé — même racine que *bayyināt* et que le futur verset S3:187 (*tubayyinunnahu*), fil de la clarification.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">تَفَرَّقُوا۟</span><span class="lex-trl">tafarraqū</span></dt>
+<dd>racine f-r-q : se séparer, se diviser — antonyme direct de l'unité recherchée par l'iʿtiṣām.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلْخَيْرِ / ٱلْمَعْرُوفِ / ٱلْمُنكَرِ</span><span class="lex-trl">al-khayr / al-maʿrūf / al-munkar</span></dt>
+<dd>al-maʿrūf (S2:178 et suiv. : ce que la raison droite reconnaît comme juste, contenu non fixé) ; al-munkar, son opposé structurel : ce qui est rejeté par cette même reconnaissance.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> l'unité de la communauté de foi est présentée comme la condition et la conséquence directe de l'attachement au lien d'Allaah — un bienfait historique concret (la réconciliation d'ennemis) sert d'illustration, non d'argument abstrait.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -104,7 +129,24 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> فَلَن يُكْفَرُوهُ fa-lan yukfarūh — passif de la racine k-f-r déjà validée : littéralement « ne sera jamais recouvert/nié » — jeu lexical délibéré sur la même racine que le kufr reproché ailleurs dans le bloc, appliqué ici en négation à la reconnaissance du bien accompli. ٱلذِّلَّة / ٱلْمَسْكَنَة al-dhilla / al-maskana — l'abaissement et la détresse, deux états distincts frappant les mêmes personnes ; racines dh-l-l et s-k-n déjà rencontrées. حَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ ḥablin mina llāhi wa-ḥablin mina l-nās — deux protections distinctes évoquées côte à côte, sans que le texte précise davantage leur nature exacte dans ce contexte. Voir aussi l'étude dédiée <a href="/etudes/muttaqun/">Muttaqūn</a> pour un traitement approfondi de ce terme récurrent. Ce que le texte dit : parmi les Ahl al-Kitāb eux-mêmes, une distinction nette est établie entre une partie fidèle et décrite en termes très positifs, et une majorité qualifiée de fāsiqa — le jugement porté n'est à aucun moment collectif ou indifférencié.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">فَلَن يُكْفَرُوهُ</span><span class="lex-trl">fa-lan yukfarūh</span></dt>
+<dd>passif de la racine k-f-r : littéralement « ne sera jamais recouvert/nié » — jeu lexical délibéré sur la même racine que le kufr reproché ailleurs dans le bloc, appliqué ici en négation à la reconnaissance du bien accompli.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱلذِّلَّة / ٱلْمَسْكَنَة</span><span class="lex-trl">al-dhilla / al-maskana</span></dt>
+<dd>l'abaissement et la détresse, deux états distincts frappant les mêmes personnes ; racines dh-l-l et s-k-n.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">حَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ</span><span class="lex-trl">ḥablin mina llāhi wa-ḥablin mina l-nās</span></dt>
+<dd>deux protections distinctes évoquées côte à côte, sans que le texte précise davantage leur nature exacte dans ce contexte. Voir aussi l'étude dédiée <a href="/etudes/muttaqun/">Muttaqūn</a> pour un traitement approfondi de ce terme récurrent.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> parmi les Ahl al-Kitāb eux-mêmes, une distinction nette est établie entre une partie fidèle et décrite en termes très positifs, et une majorité qualifiée de fāsiqa — le jugement porté n'est à aucun moment collectif ou indifférencié.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -139,7 +181,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> بِطَانَةً biṭāna — racine b-ṭ-n (intérieur, ce qui est proche du corps comme un vêtement de dessous) : le cercle de confidence la plus intime, non une catégorie ethnique ou religieuse générale — **non-dit** sur l'identité précise du groupe visé dans ce contexte, le texte qualifiant par le comportement (chercher la corruption, dissimuler l'hostilité) plutôt que par une appartenance nommée. لَا يَأْلُونَكُمْ lā yaʾlūnakum — racine ʾ-l-w : ne rien épargner, ne ménager aucun effort. قَدْ بَيَّنَّا qad bayyannā — même racine b-y-n que S3:103, deuxième occurrence du verbe *bayyana* dans ce bloc. كَيْدُهُمْ kayduhum — racine k-y-d : manœuvre indirecte visant à nuire ; distinct de makr (S3:54) par la nuance d'hostilité plus marquée. Ce que le texte dit : la mise en garde porte sur un comportement précis (dissimulation d'hostilité sous une profession de foi de façade), pas sur une catégorie de personnes désignée par avance.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">بِطَانَةً</span><span class="lex-trl">biṭāna</span></dt>
+<dd>racine b-ṭ-n (intérieur, ce qui est proche du corps comme un vêtement de dessous) : le cercle de confidence la plus intime, non une catégorie ethnique ou religieuse générale — **non-dit** sur l'identité précise du groupe visé dans ce contexte, le texte qualifiant par le comportement (chercher la corruption, dissimuler l'hostilité) plutôt que par une appartenance nommée.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">لَا يَأْلُونَكُمْ</span><span class="lex-trl">lā yaʾlūnakum</span></dt>
+<dd>racine ʾ-l-w : ne rien épargner, ne ménager aucun effort.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">قَدْ بَيَّنَّا</span><span class="lex-trl">qad bayyannā</span></dt>
+<dd>même racine b-y-n que S3:103, deuxième occurrence du verbe *bayyana* dans ce bloc.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَيْدُهُمْ</span><span class="lex-trl">kayduhum</span></dt>
+<dd>racine k-y-d : manœuvre indirecte visant à nuire ; distinct de makr (S3:54) par la nuance d'hostilité plus marquée.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> la mise en garde porte sur un comportement précis (dissimulation d'hostilité sous une profession de foi de façade), pas sur une catégorie de personnes désignée par avance.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
@@ -174,7 +237,28 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="notes-lexicales">
-<p><strong>Notes lexicales.</strong> يَتَوَكَّلِ yatawakkal — racine w-k-l : remettre une affaire à quelqu'un d'autre, s'en reposer sur lui pour son issue — première occurrence de ce verbe dans le corpus traduit sur ce site ; conservé « s'en remettre à » en français, sens fonctionnel de confiance active, non de passivité. مُسَوِّمِينَ musawwimīn — racine s-w-m : marqués d'un signe distinctif reconnaissable. كَيْد kayd — manœuvre indirecte visant à nuire, distincte de makr (S3:54) par une connotation d'hostilité plus directe. طَرَفًا ṭarafan — une extrémité, une partie délimitée — non la totalité. Ce que le texte dit : le récit s'ouvre sur l'organisation du combat et le rappel de Badr comme précédent de secours divin malgré la faiblesse numérique — le bloc s'arrête avant le développement du récit d'Uḥud proprement dit, qui commence au verset suivant.</p>
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">يَتَوَكَّلِ</span><span class="lex-trl">yatawakkal</span></dt>
+<dd>racine w-k-l : remettre une affaire à quelqu'un d'autre, s'en reposer sur lui pour son issue — première occurrence de ce verbe dans le corpus traduit sur ce site ; conservé « s'en remettre à » en français, sens fonctionnel de confiance active, non de passivité.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">مُسَوِّمِينَ</span><span class="lex-trl">musawwimīn</span></dt>
+<dd>racine s-w-m : marqués d'un signe distinctif reconnaissable.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">كَيْد</span><span class="lex-trl">kayd</span></dt>
+<dd>manœuvre indirecte visant à nuire, distincte de makr (S3:54) par une connotation d'hostilité plus directe.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">طَرَفًا</span><span class="lex-trl">ṭarafan</span></dt>
+<dd>une extrémité, une partie délimitée — non la totalité.</dd>
+</div>
+</dl>
+<div class="notes-lexicales__synthese">
+<p><strong>Ce que le texte dit :</strong> le récit s'ouvre sur l'organisation du combat et le rappel de Badr comme précédent de secours divin malgré la faiblesse numérique — le bloc s'arrête avant le développement du récit d'Uḥud proprement dit, qui commence au verset suivant.</p>
+</div>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
 
