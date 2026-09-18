@@ -590,6 +590,44 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc II S3 (S3:33–63) — Āl ʿImrān, Maryam, ʿĪsā, la mubāhala
+
+**ṣ-f-w (صفو) — forme VIII** — *iṣṭafā*, choisir en écartant tout le reste, élire de façon exclusive — appliqué à Ādam, Nūḥ, Āl Ibrāhīm, Āl ʿImrān (S3:33) puis à Maryam (S3:42) — S3:33, S3:42.
+
+**ḥ-r-r (حرر)** — *muḥarraran*, rendu libre de toute autre affectation, entièrement consacré — S3:35.
+
+**ḥ-r-b (حرب) — al-miḥrāb** — espace retiré, loge fermée ; conservé translittéré (« sanctuaire » importerait une précision architecturale non fixée par le terme) — S3:37, S3:39.
+
+**s-y-d (سيد)** — *sayyid*, figure d'autorité et de dignité reconnue ; traduit par « notable » pour ne jamais employer « seigneur » hors du registre de Rabb réservé à Allaah — S3:39.
+
+**ḥ-ṣ-r (حصر)** — *ḥaṣūr*, qui se retient/se contient entièrement (sens premier : encercler, confiner) — S3:39.
+
+**q-n-t (قنت)** — *qnutī*, se tenir dans un état de soumission/dévotion prolongée et constante ; conservé transcrit « qunūt » — S3:43.
+
+**m-s-ḥ (مسح) — al-Masīḥ** — titre composé conservé translittéré ; racine « essuyer/oindre » — non-dit sur la nuance précise retenue dans ce contexte — S3:45.
+
+**k-w-n (كون) — kun fa-yakūn** — formule de création directe, traduite littéralement (acte de parole performatif) — S3:47, S3:59.
+
+**ʾ-dh-n (أذن) — bi-idhni llāh** — par la permission/l'autorisation d'Allaah ; répétée trois fois en S3:49 pour souligner que les actes d'ʿĪsā ne procèdent pas d'une capacité autonome — S3:49.
+
+**k-f-r (كفر) — substantif al-kufr, réemploi** — le couvrement, le refus de reconnaissance — même famille que le verbe déjà rendu « couvrir sa reconnaissance » — S3:52.
+
+**ḥ-w-r (حور) — al-ḥawāriyyūn** — deux sens attestés (blancheur/pureté ; retour/dialogue) — non-dit sur la nuance privilégiée ici — conservé translittéré — S3:52.
+
+**m-k-r (مكر) — jinās intentionnel** — *makarū* / *makara* : le texte emploie le même verbe pour les manœuvrants humains et pour Allaah (figure de style délibérée) ; traduit de façon identique pour les deux sujets, au sens fonctionnel d'une réponse stratégique qui renverse un dessein, sans projection d'affect humain sur Allaah — S3:54.
+
+**w-f-y (وفي) — réemploi, mutawaffīka** — voir note de vigilance méthodologique dédiée dans le Bloc II : le texte associe *mutawaffīka* et *rāfiʿuka* sans marqueur de succession temporelle explicite entre les deux ; lecture intra-coranique complète non tranchée dans ce bloc, candidate à une étude dédiée ultérieure — S3:55.
+
+**b-h-l (بهل)** — *nabtahil*, s'en remettre mutuellement à une invocation solennelle appelant la malédiction sur le menteur — événement connu sous le nom de mubāhala, conservé translittéré — S3:61.
+
+**q-ṣ-ṣ (قصص)** — *al-qaṣaṣ*, le récit qui suit fidèlement le fil des événements — même racine que *qiṣāṣ* (la rétribution qui suit fidèlement le tort), sans confusion des deux sens — S3:62.
+
+**Note de rappel — al-mufsidīn (S3:63)** : voir l'étude dédiée [Fasad et mufsidūn](/etudes/fasad-mufsidun/).
+
+**Note de rappel — yuwaffīhim (S3:57)** : réemploi direct de la racine و-ف-ي déjà validée (« rendre intégralement, sans manque »), cohérent avec S2:234, S2:240, S2:286.
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
