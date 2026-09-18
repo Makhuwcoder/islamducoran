@@ -628,6 +628,36 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc III S3 (S3:64–99) — parole commune, Ibrāhīm, mīthāq des nabiyyūn, Bakka
+
+**s-w-y (سوي) — kalima sawāʾ** — parole d'égale mesure, équitablement partagée — S3:64.
+
+**ḥ-n-f (حنف) — réemploi** — déjà validé S2:135 : celui qui s'incline résolument dans une seule direction — S3:67, S3:95.
+
+**l-b-s (لبس)** — habiller, superposer, brouiller par mélange — *talbisūna l-ḥaqqa bi-l-bāṭili* — voir l'étude dédiée [Kitmān et bayyān](/etudes/kitman-bayyan/), directement convoquée par S3:71 — S3:71.
+
+**r-b-b (ربب) — rabbāniyyīn** — ceux formés et attachés par une pratique constante d'enseignement et d'étude du Kitāb ; conservé translittéré — S3:79.
+
+**q-r-r (قرر)** — *aqrartum*, reconnaître fermement, faire tenir en place ce qu'on affirme — S3:81.
+
+**Note de réemploi — lā yukallimuhumu llāhu wa-lā yanẓuru ilayhim (S3:77)** : construction déjà rencontrée en S2:174, traduite de façon identique et fonctionnelle (retrait de toute relation), non comme description physique — cohérence maintenue entre les deux occurrences.
+
+**Note de réemploi — al-birr (S3:92)** : réemploi direct de la lecture déjà validée en S2:177/S2:189 (Ibn Fāris : espace ouvert sans clôture ; conservé translittéré).
+
+**Note de réemploi — milla (S3:95)** : réemploi direct de la lecture déjà validée en S2:130 (la voie tracée).
+
+**Note de réemploi — al-fāsiqūn (S3:82)** : réemploi direct de S2:26 (sortir de l'enveloppe, hors du cadre).
+
+**Note de non-dit — ṭawʿan wa-karhan (S3:83)** : la remise (aslama) universelle et cosmique affirmée ici, y compris par contrainte, n'est pas articulée explicitement dans ce verset avec la soumission volontaire et consciente requise des croyants par ailleurs (S3:85) — deux emplois du même terme dont le texte ne précise pas ici le rapport exact.
+
+**Note de non-dit — Bakka (S3:96)** : nom propre conservé tel quel ; son rapport exact avec le toponyme Makka (S48:24) n'est pas articulé par ce verset.
+
+**Note de rappel — al-ummiyyīn (S3:75)** : réemploi, voir [L'ummī était-il illettré ?](/etudes/ummi-illettre/) — S3:75 montre un groupe justifiant une malhonnêteté financière par ce statut, justification explicitement démentie par le texte lui-même.
+
+**Note de rappel — ḥajj (S3:97)** : conditionné explicitement par l'istiṭāʿa (la capacité) — voir l'étude dédiée [Ḥajj et ʿUmra](/etudes/hajj-oumra/).
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
