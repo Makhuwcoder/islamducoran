@@ -684,6 +684,36 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc V S3 (S3:130–148) — ribā, al-bayān, al-tamḥīṣ, Muḥammad n'est qu'un rasūl
+
+**Note de renvoi — ribā (S3:130)** : une des quatre occurrences coraniques confrontées dans l'étude dédiée [Ar-Ribā](/etudes/riba/) (avec S30:39, S4:161, S2:275–280).
+
+**ḍ-ʿ-f (ضعف)** — *aḍʿāfan muḍāʿafatan*, multiples redoublés (intensification par répétition de la même racine) — S3:130.
+
+**k-ẓ-m (كظم)** — *al-kāẓimīna l-ghayẓ*, contenir/retenir en soi sans laisser sortir — image d'une outre fermée — S3:134.
+
+**ṣ-r-r (صرر)** — *yuṣirrū*, persister avec insistance, refuser de lâcher prise — S3:135.
+
+**s-n-n (سنن)** — *sunan*, des voies/pratiques constantes, un cours régulier des événements — appliqué à l'histoire, non à une prescription rituelle — S3:137.
+
+**b-y-n (بين) — forme nominale, troisième occurrence** — *bayān*, une déclaration rendue manifeste — après *yubayyinu* (S3:103) et *bayyannā* (S3:118) — fil de la clarification — S3:138.
+
+**Note méthodologique — al-aʿlawna (S3:139)** : comparatif de ʿ-l-w appliqué aux croyants, non à Allaah — la règle proscrivant « Le Très-Haut » pour al-Aʿlā (réservée au Créateur) ne s'applique pas ici — voir la note dédiée dans le Bloc V.
+
+**m-ḥ-ṣ (محص) — verset-pivot** — *yumaḥḥiṣa*, trier/purifier par passage à l'épreuve — S3:141, verset-pivot du fil « Al-Tamḥīṣ » retenu comme hypothèse de titre pour la sourate — voir la note de vigilance méthodologique dédiée dans le Bloc V (associée à *shuhadāʾ*, non-dit sur la portée exacte du terme dans ce contexte).
+
+**Note de renvoi — Muḥammad (S3:144)** : voir l'étude dédiée [Le Nabī Muḥammad dans le Coran](/etudes/nabi-muhammad-coran/).
+
+**ʾ-j-l (أجل)** — *kitāban muʾajjalan*, un terme fixé, une échéance déterminée à l'avance — S3:145.
+
+**th-w-b (ثوب)** — *thawāb*, ce qui revient en retour, la rétribution — S3:145, S3:148.
+
+**r-b-b (ربب) — ribbiyyūn** — même famille que *rabbāniyyīn* (S3:79) ; non-dit sur la nuance exacte (multitudes nombreuses vs hommes attachés à leur Seigneur) — S3:146.
+
+**s-r-f (سرف) — réemploi, sens élargi** — *isrāfanā*, le débordement, l'excès au-delà de la mesure ; déjà connu dans le contexte de la dépense, ici appliqué plus largement à la conduite — S3:147.
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
