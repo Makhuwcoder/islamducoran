@@ -792,6 +792,44 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 - *wa-ttaqū llāha wa-ʿlamū anna llāha...* (+ attribut) : clausule de fermeture juridique — S2:194, S2:196.
 - *laʿalla* + subjonctif en clôture de segment législatif : voir incohérence signalée en tête de fichier.
 
+### Ajouts Bloc VII S3 (S3:181–200 — mīthāq du Kitāb, ūlū l-albāb, clôture de la sourate)
+
+**Note de renvoi — verset-pivot Al-Tabyīn (S3:187)** : *la-tubayyinunnahu* (b-y-n) et *lā taktumūnahu* (k-t-m) juxtaposés dans le mīthāq pris des Gens du Livre — quatrième maillon du fil de la clarification (après S3:71, S3:103, S3:118, S3:137–138), et son verset le plus explicite. Voir la note de vigilance dédiée dans le Bloc VII. **Les trois ancrages du titre provisoire de la sourate sont désormais tous traduits : Al-Tamḥīṣ (S3:141/154), Al-Tabyīn (S3:187), Al-Iʿtiṣām (S3:103).**
+
+**n-w-r (نور)** — ce qui éclaire, répand la lumière — *al-kitāb al-munīr*, à distinguer de b-y-n (ce qui se détache/se distingue) — S3:184.
+
+**w-th-q (وثق)** — un lien noué avec fermeté — *mīthāq* — S3:187 (déjà en germe S3:81 hors de ce bloc).
+
+**n-b-dh (نبذ)** — jeter, rejeter avec un geste de rupture — *nabadhūhu* — S3:187.
+
+**f-k-r (فكر)** — réfléchir, faire circuler la pensée sur un objet — *yatafakkarūna* — S3:191, première occurrence relevée dans ce corpus.
+
+**b-ṭ-l (بطل)** — ce qui est vain, sans fondement — *bāṭilan* — S3:191.
+
+**kh-z-y (خزي)** — couvrir de honte, d'humiliation — *akhzaytahu* — S3:192.
+
+**k-f-r (كفر) — forme II, sens opposé** — *kaffir*, effacer/couvrir une faute (action d'Allaah) — même racine que *kafarū* (couvrir sa reconnaissance, attitude reprochée aux hommes) mais orientée à l'inverse : deux emplois de l'image « couvrir » appliquée à des objets opposés — S3:193.
+
+**Note de renvoi — al-abrār** : même racine b-r-r que *al-birr* (S2:177, S2:189, S3:92) — S3:193, S3:198.
+
+**h-j-r (هجر)** — quitter, se séparer d'un lieu — *hājarū* — S3:195.
+
+**kh-r-j (خرج) — sens dérivé, passif** — faire sortir de force — *ukhrijū* — S3:195.
+
+**Note de renvoi — Ūlū l-albāb (S3:190–191)** : voir l'étude dédiée [Ūlū l-albāb](/etudes/ulu-albab/), même racine l-b-b que S2:179/197.
+
+**m-h-d (مهد) — réemploi** — *al-mihād*, même racine que S3:12 — S3:197.
+
+**n-z-l (نزل) — réemploi, forme nominale** — *nuzulan*, un accueil offert — même racine que *nazzala* (S3:3) — S3:198.
+
+**kh-sh-ʿ (خشع)** — l'abaissement volontaire, la soumission qui s'incline — *khāshiʿīn* — S3:199.
+
+**q-l-b (قلب) — réemploi, cinquième occurrence dans la sourate** — *taqallubu*, l'aisance/mobilité passagère des kāfirūn — même racine que *tanqalibū* (S3:149), *yanqalib* (S3:144), *fa-nqalabū* (S3:174) — S3:196.
+
+**Note méthodologique — clôture S3:200** : *ṣbirū* (ṣ-b-r, forme I), *ṣābirū* (forme III, confrontation réciproque), *rābiṭū* (r-b-ṭ, tenir une position attachée) — gradation de trois impératifs de fermeté précédant la taqwā, clausule identique à celle d'ouverture du Bloc V (S3:130).
+
+**r-b-ṭ (ربط)** — lier, attacher fermement, tenir un poste — *rābiṭū* — S3:200.
+
 ---
 
 ## Prochaines étapes suggérées pour cette banque
