@@ -15,6 +15,34 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Structure du Bloc VI.</strong> Ce bloc revient sur le jour où « les deux camps se sont rencontrés » (S3:155, S3:166–167), déjà évoqué en amont dans la sourate : la mise en garde contre l'obéissance aux kāfirūn (S3:149–150) ; le déroulement du jour lui-même — l'alternance, l'épreuve, le tamḥīṣ répété (S3:151–155) ; l'interdiction de penser comme les kāfirūn au sujet de la mort au combat (S3:156–158) ; le caractère du rasūl envers les croyants et la consultation (S3:159–160) ; l'interdiction du ghulūl (S3:161) ; les degrés devant Allaah et le rappel du bienfait de l'envoi d'un rasūl (S3:162–165) ; ce qui a atteint les croyants ce jour-là et les munāfiqūn (S3:166–168) ; ceux qui sont tués sur le chemin d'Allaah (S3:169–171) ; ceux qui ont répondu malgré la blessure (S3:172–175) ; la mise en garde contre l'inquiétude face à ceux qui se hâtent vers le kufr (S3:176–178) ; la clôture sur le tri qualitatif entre le vicié et le bon, et le ghayb (S3:179–180). يُمَحِّصَ <em>yumaḥḥiṣa</em> réapparaît en S3:154, seconde occurrence du fil « Al-Tamḥīṣ » dans la sourate.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:149–150 | Ne pas obéir aux *kāfirūn* — Allaah, seul *mawlā* |
+| S.3:151 | L'effroi jeté dans les cœurs des *kāfirūn* |
+| S.3:152 | La promesse tenue, la faiblesse, le pardon |
+| S.3:153 | La fuite, le chagrin après le chagrin |
+| S.3:154 | L'apaisement, le *ẓann al-jāhiliyya*, le second *tamḥīṣ* |
+| S.3:155 | Ceux qui se sont détournés — le pardon d'Allaah |
+| S.3:156 | Ne pas penser la mort comme les *kāfirūn* |
+| S.3:157–158 | Mourir ou être tué sur le chemin d'Allaah |
+| S.3:159 | La douceur du *rasūl*, la consultation, le *tawakkul* |
+| S.3:160 | Le secours d'Allaah, nul ne peut vaincre |
+| S.3:161 | Aucun *nabī* ne commet de *ghulūl* |
+| S.3:162–163 | L'agrément ou le courroux d'Allaah — les degrés |
+| S.3:164 | La faveur de l'envoi d'un *rasūl* parmi eux |
+| S.3:165 | Le malheur vient de vous-mêmes |
+| S.3:166–167 | Distinguer les *muʾminūn* des *munāfiqūn* |
+| S.3:168 | Ceux qui restent assis et jugent leurs frères |
+| S.3:169–171 | Ceux qui sont tués sur le chemin d'Allaah — vivants, pourvus |
+| S.3:172–173 | Ceux qui ont répondu malgré la blessure |
+| S.3:174–175 | Le retour avec bienfait — la peur, œuvre du Shayṭān |
+| S.3:176–177 | Ne pas s'affliger pour ceux qui se hâtent vers le *kufr* |
+| S.3:178 | Le délai accordé aux *kāfirūn* n'est pas un bien |
+| S.3:179 | Distinguer le vicié du bon — le *ghayb* |
+| S.3:180 | L'avarice — le collier au jour de la résurrection |
+
 <h2 id="s3-149-150">Ne pas obéir aux kāfirūn, Allaah seul mawlā · S3:149–150</h2>
 
 {% include verset.html

@@ -16,6 +16,38 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc V.** Trois ensembles : la *milla* d'Ibrāhīm en héritage et sa revendication par différentes communautés (S2:130–141) ; le passage de la *qibla* et l'*umma wasaṭ* (S2:142–157) ; les versets du soutien et de l'épreuve (S2:151–157).
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:130 | Le détournement de la *milla* d'Ibrāhīm |
+| S.2:131 | La réponse d'Ibrāhīm : *aslamtu* |
+| S.2:132 | Le testament d'Ibrāhīm et de Yaʿqūb |
+| S.2:133 | La profession de foi des fils de Yaʿqūb |
+| S.2:134 | La responsabilité individuelle — non-transfert de l'acquis |
+| S.2:135 | La revendication d'exclusivité démantelée |
+| S.2:136 | Foi sans distinction entre les *nabiyyūn* |
+| S.2:137 | La guidance conditionnelle et la suffisance d'Allaah |
+| S.2:138 | La *ṣibgha* d'Allaah |
+| S.2:139 | La prétention à l'exclusivité au sujet d'Allaah |
+| S.2:140 | Le témoignage dissimulé |
+| S.2:141 | Répétition du principe de non-transfert |
+| S.2:142 | L'objection des *sufahāʾ* |
+| S.2:143 | L'*umma wasaṭ* et la fonction du *rasūl* |
+| S.2:144 | L'orientation vers le Masjid Ḥarām |
+| S.2:145 | L'imperméabilité des gens du Kitāb |
+| S.2:146 | La connaissance dissimulée |
+| S.2:147 | *Al-ḥaqq* vient de ton Seigneur |
+| S.2:148 | Chacun a sa *wijha* : rivaliser dans le bien |
+| S.2:149–150 | La répétition de l'injonction sur la qibla |
+| S.2:151 | Les fonctions du *rasūl* |
+| S.2:152 | Le *dhikr* réciproque |
+| S.2:153 | Le *ṣabr* et la *ṣalāt* comme soutien |
+| S.2:154 | Les tués dans le *sabīl* d'Allaah sont *aḥyāʾ* |
+| S.2:155 | L'annonce de l'épreuve |
+| S.2:156 | Identification des *ṣābirīn* face à la *muṣība* |
+| S.2:157 | Le soutien et la *raḥma* pour les *ṣābirīn* |
+
 ---
 
 ## La *milla* d'Ibrāhīm en héritage · S2:130–141

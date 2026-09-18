@@ -16,6 +16,14 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc XIII — clôture de la Sourate 2.** Trois versets referment la sourate la plus longue du Coran : la possession totale d'Allaah sur les cieux et la terre, et Sa maîtrise de ce qui est tenu secret ou rendu visible (S2:284) ; la profession de foi du rasūl et des muʾminūn, sans distinction entre les rusul (S2:285) ; une série d'invocations formulées à la première personne du pluriel, portant sur la charge, l'oubli, l'erreur et le pardon (S2:286). Ce bloc clôt la traduction linguistique intégrale de la Sourate 2 selon la méthode islamducoran.fr.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:284 | La possession totale d'Allaah — jusqu'à la disposition intérieure |
+| S.2:285 | *Āmana r-rasūl* — la foi sans distinction entre les *rusul* |
+| S.2:286 | Les invocations finales — *wusʿ*, oubli, erreur, pardon |
+
 ---
 
 ## Ce qui est dans les cieux et la terre · S2:284

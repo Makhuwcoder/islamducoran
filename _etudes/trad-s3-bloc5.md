@@ -15,6 +15,21 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Structure du Bloc V.</strong> Quatre ensembles : l'interdiction du ribā et l'appel à se hâter vers le pardon (S3:130–136) ; les sunan des générations passées et le bayān adressé aux gens (S3:137–139) ; le sens donné à l'épreuve subie — l'alternance des jours, le tamḥīṣ (S3:140–145) ; l'exemple des ribbiyyūn qui ont combattu aux côtés des nabiyyūn précédents, et le rappel que Muḥammad n'est qu'un rasūl parmi d'autres (S3:146–148). Ce bloc contient S3:141, verset-pivot du fil « Al-Tamḥīṣ » (le tri par l'épreuve), et S3:137–138, où le terme *bayān* (déclaration manifeste) apparaît sous sa forme nominale, en écho direct au fil de la clarification déjà noté en S3:71, S3:103 et S3:118.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:130–132 | Interdiction du ribā, taqwā, obéissance |
+| S.3:133–134 | La hâte vers le pardon, les *muttaqīn* |
+| S.3:135–136 | Le pardon après la *fāḥisha* |
+| S.3:137–138 | Les sunan passées, le *bayān* pour les gens |
+| S.3:139 | Ne pas faiblir — la supériorité conditionnée |
+| S.3:140–141 | L'alternance des jours, le *tamḥīṣ* |
+| S.3:142–143 | Entrer au jardin sans l'effort ni la ṣabr éprouvés |
+| S.3:144 | Muḥammad n'est qu'un *rasūl* |
+| S.3:145 | La mort par la permission d'Allaah |
+| S.3:146–148 | L'exemple des *ribbiyyūn* et leur invocation |
+
 <h2 id="s3-130-136">Le ribā, la course vers le pardon · S3:130–136</h2>
 
 <div class="callout callout--avertissement">

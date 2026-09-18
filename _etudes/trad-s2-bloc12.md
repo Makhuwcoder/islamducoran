@@ -16,6 +16,28 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc XII.** Trois ensembles : la dépense — ce qu'on en donne, à qui, et selon quelle disposition intérieure (S2:267–274) ; le développement central sur le *ribā*, son interdiction et le sort du débiteur (S2:275–281) ; le verset le plus long du Coran, consacré à l'écrit de la dette, suivi du gage en cas de voyage (S2:282–283).
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:267 | Dépenser du *ṭayyib*, non du *khabīth* |
+| S.2:268 | Le *shayṭān* promet la pauvreté · Allaah promet *maghfira* et *faḍl* |
+| S.2:269 | La *ḥikma* donnée à qui Il veut — un bien abondant |
+| S.2:270 | Toute dépense et tout *nadhr* connus d'Allaah |
+| S.2:271 | *Ṣadaqa* visible ou dissimulée — effacement des fautes |
+| S.2:272 | Le *hudā* n'incombe pas — dépenser en quête du *wajh* d'Allaah |
+| S.2:273 | Les *fuqarāʾ* retenus, reconnaissables à leur *sīmā* |
+| S.2:274 | Dépenser nuit et jour, en secret et publiquement |
+| S.2:275 | Ceux qui dévorent le *ribā* — *bayʿ* licite, *ribā* interdit |
+| S.2:276 | Allaah efface le *ribā*, fait croître les *ṣadaqāt* |
+| S.2:277 | Foi, œuvres droites, *ṣalāt* et *zakāt* — la récompense |
+| S.2:278 | Abandonner ce qui reste du *ribā* |
+| S.2:279 | L'avertissement de guerre — le capital rendu sans lésion |
+| S.2:280 | Le débiteur en difficulté — attendre l'aisance, ou faire *ṣadaqa* |
+| S.2:281 | Se prémunir du jour du retour vers Allaah |
+| S.2:282 | L'écrit de la dette — scribe, dictée, témoins, protection |
+| S.2:283 | Le gage en voyage — l'*amāna* et le témoignage non dissimulé |
+
 ---
 
 ## La dépense · S2:267–274

@@ -19,6 +19,25 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--avert}
 **Avertissement méthodologique.** S2:228 contient un terme (*quruʾ*) dont le sens précis — période de règles ou période de pureté entre les règles — a fait l'objet d'une divergence lexicale ancienne, documentée par les lexicographes eux-mêmes et non résolue par un consensus philologique univoque. La méthode ne tranche pas arbitrairement : elle expose les deux lectures et leurs fondements, conformément au principe déjà appliqué en cas de polysémie intra-coranique réelle.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:228 | La *ʿidda* des femmes répudiées — trois *qurūʾ* |
+| S.2:229 | Le *ṭalāq* deux fois — retenir ou libérer *bi-l-maʿrūf* |
+| S.2:230 | La troisième répudiation — condition du remariage |
+| S.2:231 | Ne pas retenir par contrainte — les limites d'Allaah |
+| S.2:232 | Ne pas empêcher le remariage librement consenti |
+| S.2:233 | La durée de l'allaitement, la charge du père, le sevrage concerté |
+| S.2:234 | Le délai d'attente de la veuve |
+| S.2:235 | L'allusion au mariage pendant la *ʿidda* — ce qui est permis |
+| S.2:236 | Rupture avant contact ni dot fixée — le don *bi-l-maʿrūf* |
+| S.2:237 | Rupture après dot fixée — la moitié, sauf renoncement |
+| S.2:238–239 | Préserver les *ṣalawāt* — même en marchant ou chevauchant |
+| S.2:240 | Le legs d'un an pour l'épouse — sauf départ volontaire |
+| S.2:241 | Une provision *bi-l-maʿrūf* pour les femmes répudiées |
+| S.2:242 | Les āyāt rendues claires, pour raisonner |
+
 ---
 
 ## ʿIdda, déroulement du ṭalāq · S2:228–230

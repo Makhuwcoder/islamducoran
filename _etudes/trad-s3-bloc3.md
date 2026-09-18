@@ -15,6 +15,35 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Structure du Bloc III.</strong> Quatre ensembles : l'appel à une parole commune et la controverse sur Ibrāhīm (S3:64–68) ; les manœuvres d'une partie des Ahl al-Kitāb — dissimulation, torsion du Kitāb, échange de l'engagement contre un prix dérisoire (S3:69–78) ; ce qu'aucun nabī n'a jamais pu ordonner, et le mīthāq pris des nabiyyūn (S3:79–91) ; al-birr, la nourriture licite, la milla d'Ibrāhīm et la Maison de Bakka (S3:92–99). Ce bloc développe, sur un registre à présent argumentatif plutôt que narratif, le même fil que S3:7 : ce qui doit être rendu manifeste (bayyin) face à ce qui est activement dissimulé (kitmān) — voir l'étude dédiée <a href="/etudes/kitman-bayyan/">Kitmān et bayyān</a>, directement convoquée par S3:71.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:64 | L'appel à une parole commune |
+| S.3:65–66 | La controverse sur Ibrāhīm |
+| S.3:67 | Ibrāhīm — ni juif ni *naṣrānī*, *ḥanīf muslim* |
+| S.3:68 | Les plus proches d'Ibrāhīm |
+| S.3:69 | La volonté d'égarer qui se retourne contre eux |
+| S.3:70–71 | Le refus de reconnaître — habiller le *ḥaqq* du *bāṭil* |
+| S.3:72 | La foi feinte au début et à la fin du jour |
+| S.3:73–74 | Le *faḍl* dans la main d'Allaah |
+| S.3:75 | L'honnêteté sélective envers les *ummiyyīn* |
+| S.3:76–77 | La fidélité à l'engagement — le prix dérisoire |
+| S.3:78 | La torsion de la langue avec le Kitāb |
+| S.3:79 | Aucun *bashar* n'ordonne d'être ses *ʿibād* |
+| S.3:80 | Ne pas prendre *malāʾika* et *nabiyyūn* comme *arbāb* |
+| S.3:81 | Le *mīthāq* pris des *nabiyyūn* |
+| S.3:82 | Ceux qui se détournent — les *fāsiqūn* |
+| S.3:83 | Nul *dīn* autre que celui d'Allaah |
+| S.3:84–85 | La foi en tous les *nabiyyūn*, sans distinction |
+| S.3:86–89 | Le *kufr* après la foi — sauf retour et réforme |
+| S.3:90–91 | Le *kufr* aggravé — la rançon refusée |
+| S.3:92 | *Al-birr* par la dépense de ce qu'on aime |
+| S.3:93 | La nourriture licite pour les Banū Isrāʾīl |
+| S.3:94–95 | La *milla* d'Ibrāhīm, *ḥanīf* |
+| S.3:96–97 | La Maison de Bakka — le *ḥajj* |
+| S.3:98–99 | Détourner du chemin d'Allaah |
+
 <h2 id="s3-64-68">L'appel à une parole commune, la controverse sur Ibrāhīm · S3:64–68</h2>
 
 {% include verset.html

@@ -16,6 +16,22 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc X.** Trois ensembles : ceux qui sont sortis par crainte de la mort, le qitāl et le prêt à Allaah (S2:243–245) ; le récit de Ṭālūt et Jālūt, de la demande d'un roi à la victoire de Dāwūd (S2:246–251) ; la clôture — les āyāt récitées avec le ḥaqq, et les rusul distingués les uns des autres (S2:252–253).
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:243 | Ceux sortis de leurs demeures par crainte de la mort |
+| S.2:244 | Le *qitāl* dans le *sabīl* d'Allaah |
+| S.2:245 | Le beau prêt fait à Allaah, multiplié |
+| S.2:246 | La demande d'un roi pour combattre |
+| S.2:247 | La désignation de Ṭālūt — le savoir et la constitution |
+| S.2:248 | Le signe du royaume — le coffre porté par les *malāʾika* |
+| S.2:249 | L'épreuve du fleuve — ceux qui persévèrent |
+| S.2:250 | L'affrontement de Jālūt — l'appel au déversement de *ṣabr* |
+| S.2:251 | La défaite de Jālūt par Dāwūd — l'équilibre par les uns et les autres |
+| S.2:252 | Les āyāt d'Allaah, récitées avec le *ḥaqq* |
+| S.2:253 | Les *rusul* préférés les uns aux autres — Ādam, ʿĪsā, la *rūḥ al-qudus* |
+
 ---
 
 ## Ceux qui sont sortis, le qitāl, le prêt à Allaah · S2:243–245

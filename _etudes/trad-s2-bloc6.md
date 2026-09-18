@@ -16,6 +16,28 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc VI.** Trois ensembles : les *shaʿāʾir*, la dissimulation et ses conséquences (S2:158–167) ; les règles du licite alimentaire et leur fondement (S2:168–173) ; le *qiṣāṣ*, la définition du *birr* et la protection de la vie (S2:174–179).
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:158 | Al-Ṣafā et al-Marwa parmi les *shaʿāʾir* |
+| S.2:159 | La *laʿna* sur ceux qui dissimulent les *bayyināt* |
+| S.2:160 | La condition du retour : *tawba*, *iṣlāḥ*, *bayān* |
+| S.2:161–162 | La *laʿna* permanente sur ceux qui meurent en *kufr* |
+| S.2:163 | La proclamation de l'unicité — *ilāhun wāḥid* |
+| S.2:164 | Les signes de la création pour ceux qui raisonnent |
+| S.2:165 | Les *andād* et l'amour mal dirigé |
+| S.2:166–167 | La dissociation entre suivis et suiveurs, et leur regret |
+| S.2:168–169 | La permission alimentaire et l'avertissement contre le *shayṭān* |
+| S.2:170 | L'argument des pères |
+| S.2:171 | La comparaison du crieur |
+| S.2:172 | Le même appel aux croyants — les *ṭayyibāt* |
+| S.2:173 | Les quatre interdictions et la clause de nécessité |
+| S.2:174–176 | Le commerce de la dissimulation et sa cause |
+| S.2:177 | La définition du *birr* |
+| S.2:178 | Le *qiṣāṣ* dans les cas de meurtre |
+| S.2:179 | La vie dans le *qiṣāṣ* |
+
 ---
 
 ## Shaʿāʾir · Al-kitmān · S2:158–167

@@ -15,6 +15,23 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Structure du Bloc VII — clôture de la Sourate 3.</strong> Six ensembles : la parole rapportée « Allaah est pauvre, nous sommes riches » et le meurtre des nabiyyūn (S3:181–184) ; chaque âme goûte la mort, la vie d'ici-bas comme jouissance trompeuse, l'épreuve par les biens et les personnes (S3:185–186) ; <strong>le mīthāq pris des Gens du Livre de rendre le Kitāb manifeste et de ne pas le dissimuler</strong> (S3:187), suivi de la mise en garde contre ceux qui se réjouissent d'être loués pour ce qu'ils n'ont pas fait (S3:188) ; les signes de la création pour les ūlū l-albāb et leur invocation (S3:189–194) ; la réponse d'Allaah à cette invocation (S3:195) ; la clôture — l'aisance passagère des kāfirūn, le sort des muttaqūn, ceux des Gens du Livre qui croient, et l'exhortation finale à la patience (S3:196–200). S3:187 est le verset-pivot du fil « Al-Tabyīn » (la clarification), annoncé depuis S3:71, S3:103, S3:118 et S3:137–138 : avec ce verset et S3:141/154 (Al-Tamḥīṣ) et S3:103 (Al-Iʿtiṣām), les trois ancrages du titre provisoire de la sourate sont désormais traduits.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:181–182 | « Allaah est pauvre, nous sommes riches » — le meurtre des *nabiyyūn* |
+| S.3:183–184 | L'exigence d'une offrande consumée par le feu |
+| S.3:185 | Toute âme goûte la mort — la vie d'ici-bas, un leurre |
+| S.3:186 | L'épreuve par les biens et les personnes |
+| S.3:187 | Le *mīthāq* — rendre le Kitāb manifeste, ne pas le dissimuler |
+| S.3:188 | Se réjouir d'être loué pour ce qu'on n'a pas fait |
+| S.3:189–191 | Les signes de la création pour les *ūlū l-albāb* |
+| S.3:192–194 | L'invocation des *ūlū l-albāb* (suite) |
+| S.3:195 | La réponse d'Allaah à l'invocation |
+| S.3:196–198 | L'aisance passagère des *kāfirūn*, les jardins des *muttaqīn* |
+| S.3:199 | Ceux des Gens du Livre qui croient |
+| S.3:200 | Clôture — *ṣabr*, *muṣābara*, *ribāṭ*, *taqwā* |
+
 <h2 id="s3-181-184">« Allaah est pauvre, nous sommes riches », le meurtre des nabiyyūn · S3:181–184</h2>
 
 {% include verset.html

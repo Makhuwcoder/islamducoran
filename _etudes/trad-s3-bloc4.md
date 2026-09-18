@@ -15,6 +15,29 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Structure du Bloc IV.</strong> Quatre ensembles : l'appel à l'attachement ferme (al-iʿtiṣām) au lien d'Allaah et à ne pas se diviser, avec l'image des visages blanchis et noircis (S3:100–107) ; le rappel de la meilleure umma et de ses conditions (S3:108–115) ; la mise en garde contre la biṭāna — les confidents pris hors de la communauté des croyants (S3:116–120) ; l'ouverture du récit de Badr, avec la première mention explicite du secours par les malāʾika (S3:121–129). C'est dans ce bloc que se trouve S3:103, verset-pivot du troisième fil identifié pour cette sourate — al-iʿtiṣām — et que le verbe *bayyana* (rendre manifeste) revient à deux reprises (S3:103, S3:118), en écho direct au fil de la clarification déjà rencontré en S3:71 et à venir en S3:187.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:100 | Obéir à un groupe qui ramène au *kufr* |
+| S.3:101 | S'attacher fermement à Allaah — le chemin droit |
+| S.3:102 | Se prémunir d'Allaah comme il convient |
+| S.3:103 | *Al-iʿtiṣām* — le lien d'Allaah, ne pas se diviser |
+| S.3:104–105 | La *umma* qui ordonne le *maʿrūf* |
+| S.3:106–107 | Visages blanchis et noircis |
+| S.3:108–109 | Les āyāt récitées avec le *ḥaqq* |
+| S.3:110 | La meilleure *umma* — trois conditions |
+| S.3:111–112 | Abaissement et détresse — sauf le lien d'Allaah et des gens |
+| S.3:113–115 | La distinction parmi les Ahl al-Kitāb |
+| S.3:116–117 | Les *kāfirūn* — l'exemple du vent glacial |
+| S.3:118 | Ne pas prendre de *biṭāna* hors des croyants |
+| S.3:119 | Un amour à sens unique — la rage dissimulée |
+| S.3:120 | Patience et prémunition face à leur manœuvre |
+| S.3:121–122 | Les postes de combat — s'en remettre à Allaah |
+| S.3:123 | Le secours à Badr malgré la faiblesse |
+| S.3:124–126 | Le secours par les *malāʾika* |
+| S.3:127–129 | Pardon ou châtiment — cela appartient à Allaah |
+
 <h2 id="s3-100-107">L'attachement ferme au lien d'Allaah, visages blanchis et noircis · S3:100–107</h2>
 
 {% include verset.html

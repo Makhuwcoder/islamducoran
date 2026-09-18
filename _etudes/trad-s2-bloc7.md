@@ -19,6 +19,31 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--avert}
 **Avertissement de méthode pour ce bloc.** Les versets S2:190–194 (qitāl) portent sur un sujet où toute traduction est scrutée. La méthode de ce site s'applique ici avec la même rigueur qu'ailleurs : aucune extension du texte au-delà de ce qu'il dit, aucune identification non nommée par le texte lui-même de qui sont « ceux qui vous combattent », aucun ajout de conditions ou de limites que le texte ne pose pas explicitement. Ce que le texte ne précise pas est nommé comme silence, non comblé.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:180 | La prescription de la *waṣiyya* |
+| S.2:181 | La responsabilité de qui altère la *waṣiyya* |
+| S.2:182 | L'exception du déséquilibre corrigé |
+| S.2:183 | La prescription du *ṣiyām* et sa finalité |
+| S.2:184 | Les jours comptés et la dispense du *ṣiyām* |
+| S.2:185 | Le mois de Ramaḍān et la descente du Qurʾān |
+| S.2:186 | La proximité d'Allaah et la réponse à l'appel |
+| S.2:187 | Les bornes du *ṣiyām* et les *ḥudūd* d'Allaah |
+| S.2:188 | L'interdiction de consommer les biens d'autrui |
+| S.2:189 | Les *ahilla* et le *birr* comme *taqwā* |
+| S.2:190 | Le *qitāl* et l'interdiction de transgresser |
+| S.2:191 | L'affrontement, la *fitna*, et le Masjid al-Ḥarām |
+| S.2:192 | La cessation et le pardon |
+| S.2:193 | La finalité du *qitāl* : l'absence de *fitna* |
+| S.2:194 | Le mois sacré et l'équivalence du *qiṣāṣ* |
+| S.2:195 | L'*infāq* et la mise en garde contre la *tahluka* |
+| S.2:196 | L'accomplissement du ḥajj — *iḥṣār*, *fidya*, *tamattuʿ* |
+| S.2:197 | Les mois du ḥajj et ses trois interdits |
+| S.2:198 | La recherche du *faḍl* et le *dhikr* au Mashʿar al-Ḥarām |
+| S.2:199 | Le départ commun et la demande de pardon |
+
 ---
 
 ## La waṣiyya · S2:180–182

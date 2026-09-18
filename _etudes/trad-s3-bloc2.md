@@ -19,6 +19,32 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Avertissement méthodologique.</strong> S3:55 (<em>innī mutawaffīka wa-rāfiʿuka ilayya</em>) porte sur un point que les lectures traditionnelles ont chargé d'un contenu doctrinal considérable (la nature exacte de ce qui est arrivé à ʿĪsā). La méthode de ce site interdit d'importer une conclusion extérieure au texte. Le verset est donc traduit ici selon ce qu'il énonce grammaticalement, avec une note explicite sur ce que le texte laisse non tranché — voir la note dédiée après S3:55.</p>
 </div>
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:33–34 | L'élection d'Ādam, Nūḥ, Āl Ibrāhīm, Āl ʿImrān |
+| S.3:35 | Le vœu de la femme de ʿImrān |
+| S.3:36 | La naissance de Maryam |
+| S.3:37 | L'accueil de Maryam — la charge de Zakariyyā |
+| S.3:38 | L'invocation de Zakariyyā |
+| S.3:39 | L'annonce de Yaḥyā |
+| S.3:40–41 | Le signe demandé — trois jours sans parole |
+| S.3:42–43 | L'élection de Maryam parmi les femmes |
+| S.3:44 | Récit du *ghayb* — le tirage au sort par calames |
+| S.3:45–46 | L'annonce d'*al-Masīḥ* ʿĪsā |
+| S.3:47 | Comment aurai-je un enfant — *kun fa-yakūn* |
+| S.3:48–50 | La mission d'ʿĪsā — signes par la permission d'Allaah |
+| S.3:51 | Allaah, mon Seigneur et votre Seigneur |
+| S.3:52–53 | Le *kufr* perçu par ʿĪsā — les *ḥawāriyyūn* |
+| S.3:54 | La manœuvre d'Allaah |
+| S.3:55 | *Mutawaffīka* — le rappel et l'élévation d'ʿĪsā |
+| S.3:56–57 | Le châtiment des *kāfirūn*, la rétribution des croyants |
+| S.3:58 | Ce que Nous te récitons — āyāt et *dhikr* |
+| S.3:59–60 | L'exemple d'ʿĪsā comme celui d'Ādam |
+| S.3:61 | La *mubāhala* proposée |
+| S.3:62–63 | Le récit véridique — nul *ilāh* sinon Allaah |
+
 <h2 id="s3-33-37">Āl ʿImrān élus, le vœu de la mère de Maryam, la naissance de Maryam · S3:33–37</h2>
 
 {% include verset.html

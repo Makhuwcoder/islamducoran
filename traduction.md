@@ -377,6 +377,8 @@ permalink: /traduction/
       <option value="/etudes/trad-methode-note/">↓ Note méthodologique</option>
       <option value="/etudes/trad-sommaire-1/">↓ Sommaire Partie 1 — S1 · S2:1–29</option>
       <option value="/etudes/trad-sommaire-2/">↓ Sommaire Partie 2 — S2:30–129</option>
+      <option value="/etudes/trad-sommaire-3/">↓ Sommaire Partie 3 — S2:130–286</option>
+      <option value="/etudes/trad-sommaire-s3/">↓ Sommaire Sourate 3 — S3:1–200</option>
     </optgroup>
 
     <optgroup label="Études préliminaires">

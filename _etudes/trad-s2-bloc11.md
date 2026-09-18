@@ -19,6 +19,24 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--avert}
 **Avertissement méthodologique renforcé.** S2:255 (Āyat al-Kursī) et S2:256 (« lā ikrāha fī l-dīn ») comptent parmi les versets les plus commentés, les plus cités et les plus exposés à une lecture déformée — dans un sens comme dans l'autre — de tout le corpus coranique. La méthode s'y applique avec la rigueur la plus stricte : chaque terme qui pourrait laisser entendre une notion de lieu, une forme physique ou un sentiment humain appliqués à Allaah est signalé et neutralisé conformément aux règles du projet ; rien n'est ajouté à ce que le texte dit, rien n'en est retranché.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:254 | Dépenser avant le jour sans négoce, ni *khulla*, ni *shafāʿa* |
+| S.2:255 | Āyat al-Kursī — unicité, permanence, science et *kursī* d'Allaah |
+| S.2:256 | Nulle contrainte en *dīn* — le *rushd* distingué de l'égarement |
+| S.2:257 | La *wilāya* d'Allaah vers le *nūr* · celle du *ṭāghūt* vers les *ẓulumāt* |
+| S.2:258 | La dispute d'Ibrāhīm avec le roi — l'argument du soleil |
+| S.2:259 | Le passant et la cité en ruines — cent années de mort |
+| S.2:260 | La demande d'Ibrāhīm — voir la vivification des morts |
+| S.2:261 | Le grain qui produit sept épis — la multiplication |
+| S.2:262 | La dépense préservée du *mann* et du tort |
+| S.2:263 | Parole juste et pardon, meilleurs qu'une *ṣadaqa* suivie de tort |
+| S.2:264 | L'annulation par l'ostentation — le roc recouvert de poussière |
+| S.2:265 | Le jardin sur la hauteur — fruit doublé, affermissement intérieur |
+| S.2:266 | Le jardin consumé par le tourbillon — parabole de l'avertissement |
+
 ---
 
 ## Dépenser avant le jour sans négoce · S2:254

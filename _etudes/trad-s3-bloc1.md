@@ -19,6 +19,29 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--avert}
 **Avertissement méthodologique.** S3:7 (muḥkamāt/mutashābihāt) fait l'objet d'une étude dédiée et approfondie sur ce site, qui traite en détail la question du point d'arrêt (waqf) contesté et la nature des rāsikhūna fī l-ʿilm. Le verset est donné ici dans son intégralité selon la méthode islamducoran.fr, avec renvoi vers cette étude pour l'analyse complète.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.3:1 | Lettres séparées — *ḥurūf muqaṭṭaʿāt* |
+| S.3:2 | Allaah — *al-Ḥayy*, *al-Qayyūm* |
+| S.3:3–4 | Tanzīl du Kitāb, Tawrāh, Injīl, *al-Furqān* |
+| S.3:5–6 | Rien n'échappe à Allaah — le façonnement dans les matrices |
+| S.3:7 | *Muḥkamāt* et *mutashābihāt* |
+| S.3:8–9 | Invocation contre la déviation des cœurs |
+| S.3:10–12 | Les *kāfirūn* — biens inutiles, le sort de la famille de Firʿawn |
+| S.3:13 | Le signe de Badr — deux troupes |
+| S.3:14–15 | L'attrait des *shahawāt* — le bien supérieur promis |
+| S.3:16–17 | Les qualités des *muttaqīn* |
+| S.3:18 | Allaah atteste — nul *ilāh* que Lui |
+| S.3:19 | *Al-dīn ʿinda llāh al-islām* |
+| S.3:20 | Remettre son *wajh* à Allaah — les *ummiyyīn* |
+| S.3:21–22 | Ceux qui tuent les *nabiyyūn* |
+| S.3:23–25 | Le détournement du jugement du Livre |
+| S.3:26–27 | *Mālik al-Mulk* — souveraineté totale |
+| S.3:28–29 | L'interdit de la *walāya* avec les *kāfirūn* |
+| S.3:30–32 | Chaque *nafs* face à ses actes — obéir à Allaah et au *rasūl* |
+
 ---
 
 ## Muqaṭṭaʿāt, al-Ḥayy al-Qayyūm, tanzīl du Kitāb · S3:1–6

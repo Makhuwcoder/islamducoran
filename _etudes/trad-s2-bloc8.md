@@ -19,6 +19,37 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--avert}
 **Avertissement méthodologique.** Ce bloc contient plusieurs versets parmi les plus exposés à une lecture déformée dans un sens ou dans l'autre — S2:216–217 sur le qitāl, S2:219 sur le khamr et le maysir, S2:221 sur le mariage, S2:222–223 sur le maḥīḍ et le rapport conjugal. La méthode s'y applique avec une rigueur redoublée : rien n'est ajouté à ce que le texte dit, rien n'est retranché de ce qu'il dit, et le non-dit reste nommé comme non-dit — jamais comblé par une pudeur ou une sévérité qui ne seraient pas dans le texte lui-même.
 
+### Sommaire du bloc
+
+| Réf. | Titre thématique |
+|------|-----------------|
+| S.2:200 | Le *dhikr* après le ḥajj — invoquer comme on invoquait les pères |
+| S.2:201–202 | Deux invocations opposées — ici-bas seulement, ou les deux |
+| S.2:203 | Les jours comptés — hâte ou délai, pour qui se prémunit |
+| S.2:204 | Celui dont la parole plaît, mais dont le cœur dément |
+| S.2:205 | La corruption des récoltes et des lignées |
+| S.2:206 | L'arrogance dans la faute — jahannam suffit |
+| S.2:207 | Celui qui vend son âme en quête de l'agrément d'Allaah |
+| S.2:208 | Entrer dans le *silm* tout entier |
+| S.2:209 | Le faux pas après les *bayyināt* |
+| S.2:210 | L'attente d'Allaah venant dans les ombres de nuées |
+| S.2:211 | Le bienfait changé — le châtiment sévère |
+| S.2:212 | La vie d'ici-bas embellie pour les *kāfirūn* |
+| S.2:213 | Une seule *umma*, puis l'envoi des *nabiyyūn* |
+| S.2:214 | L'épreuve avant la *janna* — le secours attendu |
+| S.2:215 | Ce qui doit être dépensé, et pour qui |
+| S.2:216 | Le *qitāl* prescrit — répugnance et bien possible |
+| S.2:217 | Le mois sacré — comparer les torts |
+| S.2:218 | Ceux qui ont émigré et lutté espèrent la *raḥma* |
+| S.2:219 | Le vin et le jeu — le mal l'emporte sur l'utilité ; ce qui est en surplus |
+| S.2:220 | Réflexion sur les deux demeures — les orphelins, la fraternité |
+| S.2:221 | L'interdiction du mariage croisé mushrik/muslim |
+| S.2:222 | Le *maḥīḍ* — un mal, s'écarter, revenir purifié |
+| S.2:223 | Les femmes, un labour — avancer pour soi-même |
+| S.2:224 | Ne pas faire d'Allaah un obstacle au bien par serment |
+| S.2:225 | La distinction entre serment par mégarde et intention du cœur |
+| S.2:226–227 | Le délai d'*īlāʾ* — retour ou décision de rupture |
+
 ---
 
 ## Le dhikr après le ḥajj · S2:200–203
