@@ -408,6 +408,10 @@ permalink: /traduction/
       <option value="/etudes/trad-s2-bloc12/">↓ Bloc XII · S2:267–283 — Ribā · Āyat al-dayn</option>
       <option value="/etudes/trad-s2-bloc13/">↓ Bloc XIII · S2:284–286 — Āmana l-rasūl · Clôture de la sourate</option>
     </optgroup>
+
+    <optgroup label="Sourate 3 · Āl ʿImrān — S3:1–32">
+      <option value="/etudes/trad-s3-bloc1/">↓ Bloc I · S3:1–32 — Tanzīl · Muḥkamāt/Mutashābihāt · Al-islām · Mālik al-Mulk</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -421,6 +425,7 @@ permalink: /traduction/
     <option value="" disabled selected>― Choisir une sourate ―</option>
     <option value="/sourate/1/">↓ Sourate 1 · Al-Ṭalab — S1:1–7 (complète)</option>
     <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
+    <option value="/sourate/3/">↓ Sourate 3 · Āl ʿImrān — S3:1–32 (en cours)</option>
   </select>
 
   <div class="trad-nav__row">
@@ -657,7 +662,6 @@ function tradShowMode(mode) {
           <li><strong>Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête</strong> (titre conventionnel : Al-Fātiḥa — L'Ouverture)</li>
           <li><strong>Sourate 2 · S2:1–286 · Al-Ijāba — La Réponse</strong> (titre conventionnel : Al-Baqara — La Vache)</li>
         </ul>
-        <p style="margin-top:.6rem;font-size:.88rem;color:var(--texte-2,#c8b89a);">Tout nouveau titre textuel doit être argumenté depuis le texte avant validation.</p>
       </div>
     </div>
   </div>

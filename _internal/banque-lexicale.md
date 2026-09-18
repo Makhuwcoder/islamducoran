@@ -522,6 +522,74 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc I S3 (S3:1–32) — ouverture de la Sourate 3, Āl ʿImrān
+
+**n-z-l (نزل) — forme II** — *nazzala*, faire descendre par degrés/portions successives — appliqué au Kitāb — S3:3.
+
+**ṣ-d-q (صدق) — réemploi** — *muṣaddiqan limā bayna yadayhi*, confirmant ce qui le précède — S3:3.
+
+**f-r-q (فرق) — al-Furqān** — la faculté/l'instrument qui distingue, sépare le vrai du faux — relation précise avec « al-Kitāb » dans ce verset laissée non tranchée (non-dit) — S3:4.
+
+**n-q-m (نقم)** — *dhū ntiqām*, capacité de rétribution rigoureuse — S3:4.
+
+**ṣ-w-r (صور)** — *yuṣawwirukum*, façonner, donner forme — S3:6.
+
+**z-y-gh (زيغ)** — écart, déviation par rapport à une ligne droite — *zaygh* — S3:7.
+
+**r-s-kh (رسخ)** — enraciné, fermement établi — *al-rāsikhūna fī l-ʿilm* ; voir étude dédiée [Muḥkam et mutashābih](/etudes/muhkam-mutashabih/) pour la lecture complète du waqf de S3:7 — S3:7.
+
+**w-h-b (وهب)** — *al-Wahhāb*, ce qui accorde sans contrepartie — S3:8.
+
+**j-m-ʿ (جمع)** — *jāmiʿu l-nās*, ce qui rassemble les gens (jour déterminé) — S3:9.
+
+**w-q-d (وقد)** — *waqūdu l-nār*, ce qui alimente/nourrit le feu — S3:10.
+
+**d-ʾ-b (دأب)** — *daʾb*, façon d'agir constante, habitude répétée — appliqué à Āl Firʿawn — S3:11.
+
+**m-h-d (مهد)** — *al-mihād*, ce qui est étendu/aplani pour servir d'assise — S3:12.
+
+**ʿ-b-r (عبر)** — *ʿibra*, ce qui permet de passer d'un constat à un enseignement — S3:13.
+
+**b-ṣ-r (بصر)** — *ulī l-abṣār*, ceux doués de vue (au sens de discernement) — S3:13.
+
+**z-y-n (زين) — passif** — *zuyyina*, « a été rendu séduisant/orné », agent non nommé dans ce verset — note de vigilance méthodologique : ailleurs dans le muṣḥaf ce même verbe est tantôt rapporté à Allaah, tantôt au shayṭān ; le texte de S3:14 seul ne tranche pas — S3:14.
+
+**q-n-ṭ-r (قنطر)** — *al-qanāṭīr al-muqanṭara*, quantités amoncelées/accumulées — S3:14.
+
+**s-ḥ-r (سحر)** — *bi-l-asḥār*, les derniers moments de la nuit — S3:17.
+
+**s-l-m (سلم) — première occurrence de la forme nominale** — *al-islām*, soumission/remise complète ; même famille que *salām* et le verbe déjà validé *aslama* ; conservé translittéré, aucun équivalent français unique ne couvrant le sens sans réduction — S3:19.
+
+**b-gh-y (بغي)** — *baghyan baynahum*, débordement/transgression réciproque — S3:19.
+
+**b-l-gh (بلغ)** — *al-balāgh*, ce qui doit parvenir/être transmis intégralement — S3:20.
+
+**ḥ-b-ṭ (حبط)** — *ḥabiṭat aʿmāluhum*, œuvres rendues vaines/nulles — S3:22.
+
+**n-ṣ-b (نصب)** — *naṣīban*, une part attribuée — S3:23.
+
+**ʿ-d-d (عدد)** — *maʿdūdāt*, dénombrées, en nombre limité — S3:24.
+
+**gh-r-r (غرر)** — *gharrahum*, les a leurrés/induits en erreur — S3:24.
+
+**m-l-k (ملك) — Mālik al-Mulk** — ce qui détient/exerce la pleine maîtrise de la royauté — S3:26.
+
+**ʿ-z-z / dh-l-l (عزز/ذلل)** — *tuʿizzu* / *tudhillu*, accorder la force/puissance — retirer la force/l'abaisser — en corrélation directe avec l'attribution du mulk — S3:26.
+
+**w-l-j (ولج)** — *tūliju*, faire pénétrer/entrer — S3:27.
+
+**w-q-y (وقي)** — *tuqāh*, protection/précaution — voir note de non-généralisation méthodologique bornant l'exception de S3:28 à la protection défensive réelle, non à une permission générale de dissimulation — S3:28.
+
+**ʾ-m-d (أمد)** — *amadan baʿīdā*, une échéance/un terme éloigné — S3:30.
+
+**r-ʾ-f (رأف)** — *Raʾūf*, sollicitude attentive ; conservé au sens fonctionnel, sans projection d'affect humain sur Allaah — S3:30, S3:32.
+
+**Note de rappel — al-ummiyyīn (S3:20)** : lecture reprise de l'étude dédiée [L'ummī était-il illettré ?](/etudes/ummi-illettre/) — peuples sans écriture révélée antérieure, non « illettrés ».
+
+**Note de rappel — Wajhu llāh (S3:20)** : *aslamtu wajhiya lillāh* reprend la lecture déjà validée (orientation/tension vers, non une notion anatomique).
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
