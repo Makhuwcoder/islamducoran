@@ -658,6 +658,32 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 ---
 
+### Ajouts Bloc IV S3 (S3:100–129) — al-iʿtiṣām, la meilleure umma, la biṭāna, ouverture de Badr
+
+**ʿ-ṣ-m (عصم) — réemploi central** — *iʿtaṣimū* / *yaʿtaṣim*, se retenir fermement pour ne pas tomber — verset-pivot S3:103, verset-pivot du fil « Al-Iʿtiṣām » retenu comme hypothèse de titre pour la sourate — S3:101, S3:103.
+
+**b-y-n (بين) — réemploi, deuxième occurrence du verbe** — *yubayyinu* (S3:103), *bayyannā* (S3:118) — fil de la clarification déjà noté en S3:71, à venir en S3:187 — S3:103, S3:118.
+
+**f-r-q (فرق) — réemploi** — *tafarraqū*, se séparer/se diviser — antonyme direct de l'unité recherchée par l'iʿtiṣām — S3:103, S3:105.
+
+**Note de vigilance méthodologique — visages blanchis/noircis (S3:106–107)** : image eschatologique figurant un état intérieur au Jour de la Résurrection (comparer S80:38–41), non une caractéristique physique ou ethnique — voir la note dédiée dans le Bloc IV.
+
+**Note de non-généralisation méthodologique — khayra umma (S3:110)** : statut conditionné par trois actions présentes (ordonner le maʿrūf, interdire le munkar, croire en Allaah), non une appartenance inconditionnelle — voir la note dédiée dans le Bloc IV.
+
+**b-ṭ-n (بطن)** — *biṭāna*, le cercle de confidence la plus intime (sens premier : l'intérieur, ce qui est proche du corps) — non-dit sur l'identité précise du groupe visé en S3:118, le texte qualifiant par le comportement plutôt que par une appartenance nommée — S3:118.
+
+**k-y-d (كيد)** — manœuvre indirecte visant à nuire, distincte de *makr* (S3:54) par une connotation d'hostilité plus directe — S3:120.
+
+**w-k-l (وكل)** — *yatawakkal*, remettre une affaire à quelqu'un d'autre, s'en reposer sur lui pour son issue ; première occurrence dans le corpus traduit sur ce site — sens fonctionnel de confiance active, non de passivité — S3:122.
+
+**s-w-m (سوم)** — *musawwimīn*, marqués d'un signe distinctif reconnaissable — S3:125.
+
+**Note de rappel — al-maʿrūf/al-munkar (S3:104, S3:110, S3:114)** : réemploi direct de la lecture déjà validée (S2:178 et suiv.) : ce que la raison droite reconnaît comme juste, contenu non fixé par le texte.
+
+**Note de rappel — muttaqūn (S3:115)** : voir l'étude dédiée [Muttaqūn](/etudes/muttaqun/).
+
+---
+
 ## Formules récurrentes déjà validées (répétitions structurelles)
 
 - *tilka ummatun qad khalat — lahā mā kasabat...* : répétition exacte S2:134 = S2:141 — principe de non-transfert du mérite/de la faute entre générations.
