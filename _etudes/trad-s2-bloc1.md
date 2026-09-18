@@ -112,7 +112,7 @@ methode: "Dit / Non-dit / Inférence"
 
 **Note lexicale**
 
-- **kafarū** — racine *k-f-r* : couvrir, occulter, mettre sous voile. Al-Farāhīdī : *satara wa-ghhaṭṭā* — recouvrir et occulter. Le *kufr* est un acte d'occultation de la réalité, non simplement une incroyance intellectuelle. **Non-dit** : le texte décrit un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours.
+- **kafarū** — racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut dans ce projet, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.
 
 ---
 

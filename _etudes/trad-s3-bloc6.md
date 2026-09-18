@@ -21,10 +21,11 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:149–150"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ ۝ بَلِ ٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ خَيْرُ ٱلنَّـٰصِرِينَ"
    trl="Yā-ayyuhā lladhīna āmanū in tuṭīʿu lladhīna kafarū yaruddūkum ʿalā aʿqābikum fa-tanqalibū khāsirīn — bali llāhu mawlākum wa-huwa khayru l-nāṣirīn"
-   trad="Ô vous qui avez cru, si vous obéissez à ceux qui ont couvert leur reconnaissance, ils vous feront retourner sur vos talons, et vous reviendrez perdants. Allaah est plutôt votre mawlā — Il est le meilleur des secoureurs."
+   trad="Ô vous qui avez cru, si vous obéissez à ceux qui sont kāfirūn, ils vous feront retourner sur vos talons, et vous reviendrez perdants. Allaah est plutôt votre mawlā — Il est le meilleur des secoureurs."
 %}
 
 <div class="notes-lexicales">
+<p><strong>Note lexicale — k-f-r.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Aucun marqueur contextuel de refus délibéré après reconnaissance n'accompagne les occurrences de ce bloc (S3:149, S3:151, S3:156, S3:178) — la forme reste translittérée (*kāfirūn*), conformément à la règle méthodologique par défaut.</p>
 <p><strong>Notes lexicales.</strong> يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ yaruddūkum ʿalā aʿqābikum — « vous faire retourner sur vos talons » : même image que <em>yanqalib ʿalā ʿaqibayhi</em> (S3:144), reprise trois fois dans ce même segment de la sourate — abandon d'une position tenue. مَوْلَىٰ mawlā — racine w-l-y : ce qui est proche au point de prendre en charge — protecteur, allié, celui vers qui l'on se tourne ; même famille racinale que <em>tawallaw</em> (S3:155) et <em>awliyāʾ</em> (S3:175) plus loin dans ce bloc — le champ sémantique de la racine w-l-y (proximité qui engage) traverse tout ce passage, appliqué tour à tour à Allaah, aux croyants qui se détournent, et au Shayṭān.</p>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
@@ -35,7 +36,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:151"
    ar="سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ"
    trl="Sa-nulqī fī qulūbi lladhīna kafarū l-ruʿba bi-mā ashrakū bi-llāhi mā lam yunazzil bihi sulṭānan — wa-maʾwāhumu l-nāru — wa-biʾsa mathwā l-ẓālimīn"
-   trad="Nous jetterons l'effroi dans les cœurs de ceux qui ont couvert leur reconnaissance, pour avoir associé à Allaah ce sur quoi Il n'a fait descendre aucun sulṭān — leur refuge est le Feu : quel détestable séjour pour les ẓālimūn."
+   trad="Nous jetterons l'effroi dans les cœurs de ceux qui sont kāfirūn, pour avoir associé à Allaah ce sur quoi Il n'a fait descendre aucun sulṭān — leur refuge est le Feu : quel détestable séjour pour les ẓālimūn."
 %}
 
 {% include verset.html
@@ -86,7 +87,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:156"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
    trl="Yā-ayyuhā lladhīna āmanū lā takūnū ka-lladhīna kafarū wa-qālū li-ikhwānihim idhā ḍarabū fi l-arḍi aw kānū ghuzzan law kānū ʿindanā mā mātū wa-mā qutilū li-yajʿala llāhu dhālika ḥasratan fī qulūbihim — wa-llāhu yuḥyī wa-yumīt — wa-llāhu bi-mā taʿmalūna baṣīr"
-   trad="Ô vous qui avez cru, ne soyez pas comme ceux qui ont couvert leur reconnaissance et qui disent de leurs frères, lorsqu'ils voyagent sur terre ou partent en expédition : « S'ils étaient restés auprès de nous, ils ne seraient pas morts et n'auraient pas été tués » — afin qu'Allaah fasse de cela un regret amer dans leurs cœurs. C'est Allaah qui fait vivre et fait mourir — Allaah voit parfaitement ce que vous faites."
+   trad="Ô vous qui avez cru, ne soyez pas comme ceux qui sont kāfirūn et qui disent de leurs frères, lorsqu'ils voyagent sur terre ou partent en expédition : « S'ils étaient restés auprès de nous, ils ne seraient pas morts et n'auraient pas été tués » — afin qu'Allaah fasse de cela un regret amer dans leurs cœurs. C'est Allaah qui fait vivre et fait mourir — Allaah voit parfaitement ce que vous faites."
 %}
 
 {% include verset.html
@@ -242,7 +243,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:178"
    ar="وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌ لِّأَنفُسِهِمْ ۚ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا ۚ وَلَهُمْ عَذَابٌ مُّهِينٌ"
    trl="Wa-lā yaḥsabanna lladhīna kafarū annamā numlī lahum khayrun li-anfusihim — innamā numlī lahum li-yazdādū ithman — wa-lahum ʿadhābun muhīn"
-   trad="Que ceux qui ont couvert leur reconnaissance ne pensent pas que le délai que Nous leur accordons soit un bien pour eux-mêmes — Nous ne leur accordons ce délai que pour qu'ils s'accroissent en faute — et pour eux un châtiment humiliant."
+   trad="Que ceux qui sont kāfirūn ne pensent pas que le délai que Nous leur accordons soit un bien pour eux-mêmes — Nous ne leur accordons ce délai que pour qu'ils s'accroissent en faute — et pour eux un châtiment humiliant."
 %}
 
 <div class="notes-lexicales">

@@ -63,14 +63,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:70–71"
    ar="يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ ۝ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ"
    trl="Yā-ahla l-kitābi lima takfurūna bi-āyāti llāhi wa-antum tashhadūn — yā-ahla l-kitābi lima talbisūna l-ḥaqqa bi-l-bāṭili wa-taktumūna l-ḥaqqa wa-antum taʿlamūn"
-   trad="Ô Ahl al-Kitāb, pourquoi couvrez-vous votre reconnaissance des āyāt d'Allaah, alors que vous en êtes témoins ? Ô Ahl al-Kitāb, pourquoi habillez-vous le ḥaqq du bāṭil, et dissimulez-vous le ḥaqq, alors que vous savez ?"
+   trad="Ô Ahl al-Kitāb, pourquoi refusez-vous de reconnaître les āyāt d'Allaah, alors que vous en êtes témoins ? Ô Ahl al-Kitāb, pourquoi habillez-vous le ḥaqq du bāṭil, et dissimulez-vous le ḥaqq, alors que vous savez ?"
 %}
 
 {% include verset.html
    ref="S.3:72"
    ar="وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجَعُونَ"
    trl="Wa-qālat ṭāʾifatun min ahli l-kitābi āminū bi-lladhī unzila ʿala lladhīna āmanū wajha l-nahāri wa-kfurū ākhirahu laʿallahum yarjiʿūn"
-   trad="Une partie des Ahl al-Kitāb dit : « Croyez à ce qui est descendu sur ceux qui ont cru, au début du jour, et couvrez votre reconnaissance à sa fin — peut-être reviendront-ils [sur leur foi]. »"
+   trad="Une partie des Ahl al-Kitāb dit : « Croyez à ce qui est descendu sur ceux qui ont cru, au début du jour, et soyez kāfirūn à sa fin — peut-être reviendront-ils [sur leur foi]. »"
 %}
 
 {% include verset.html
@@ -154,17 +154,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:86–89"
    ar="كَيْفَ يَهْدِى ٱللَّهُ قَوْمًا كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ وَشَهِدُوٓا۟ أَنَّ ٱلرَّسُولَ حَقٌّ وَجَآءَهُمُ ٱلْبَيِّنَـٰتُ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ ۝ أُو۟لَـٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ ۝ خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ ۝ إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ"
    trl="Kayfa yahdi llāhu qawman kafarū baʿda īmānihim wa-shahidū anna l-rasūla ḥaqqun wa-jāʾahumu l-bayyinātu — wa-llāhu lā yahdi l-qawma l-ẓālimīn — ulāʾika jazāʾuhum anna ʿalayhim laʿnata llāhi wa-l-malāʾikati wa-l-nāsi ajmaʿīn — khālidīna fīhā lā yukhaffafu ʿanhumu l-ʿadhābu wa-lā hum yunẓarūn — illā lladhīna tābū min baʿdi dhālika wa-aṣlaḥū fa-inna llāha Ghafūrun Raḥīm"
-   trad="Comment Allaah guiderait-Il des gens qui couvrent leur reconnaissance après avoir cru, après avoir attesté que le rasūl est ḥaqq, et après que les bayyināt leur sont parvenues ? Allaah ne guide pas les gens ẓālimūn. Ceux-là, leur rétribution est que pèse sur eux la malédiction d'Allaah, des malāʾika et de tous les gens réunis — ils y demeurent, le châtiment ne leur sera pas allégé, et aucun répit ne leur sera accordé — sauf ceux qui reviennent après cela et se réforment : Allaah est certes Ghafūr, Raḥīm."
+   trad="Comment Allaah guiderait-Il des gens qui ont refusé de reconnaître après avoir cru, après avoir attesté que le rasūl est ḥaqq, et après que les bayyināt leur sont parvenues ? Allaah ne guide pas les gens ẓālimūn. Ceux-là, leur rétribution est que pèse sur eux la malédiction d'Allaah, des malāʾika et de tous les gens réunis — ils y demeurent, le châtiment ne leur sera pas allégé, et aucun répit ne leur sera accordé — sauf ceux qui reviennent après cela et se réforment : Allaah est certes Ghafūr, Raḥīm."
 %}
 
 {% include verset.html
    ref="S.3:90–91"
    ar="إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَـٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَـٰٓئِكَ هُمُ ٱلضَّآلُّونَ ۝ إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ ۗ أُو۟لَـٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّـٰصِرِينَ"
    trl="Inna lladhīna kafarū baʿda īmānihim thumma zdādū kufran lan tuqbala tawbatuhum wa-ulāʾika humu l-ḍāllūn — inna lladhīna kafarū wa-mātū wa-hum kuffārun fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi — ulāʾika lahum ʿadhābun alīmun wa-mā lahum min nāṣirīn"
-   trad="Ceux qui couvrent leur reconnaissance après avoir cru, puis s'enfoncent davantage dans le kufr — jamais leur retour ne sera accepté, et ceux-là sont les égarés. Ceux qui couvrent leur reconnaissance et meurent alors qu'ils sont kuffār, jamais il ne sera accepté de l'un d'eux, même s'il rançonnait par un plein de terre d'or — ceux-là ont un châtiment douloureux, et ils n'ont aucun secoureur."
+   trad="Ceux qui ont refusé de reconnaître après avoir cru, puis s'enfoncent davantage dans le kufr — jamais leur retour ne sera accepté, et ceux-là sont les égarés. Ceux qui sont kāfirūn et meurent alors qu'ils sont kuffār, jamais il ne sera accepté de l'un d'eux, même s'il rançonnait par un plein de terre d'or — ceux-là ont un châtiment douloureux, et ils n'ont aucun secoureur."
 %}
 
 <div class="notes-lexicales">
+<p><strong>Note lexicale — k-f-r, S3:70–91.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Dans ce passage, deux constructions distinctes : en S3:70–71 et S3:86–89, un marqueur textuel explicite accompagne le verbe — « alors que vous en êtes témoins » (wa-antum tashhadūn, S3:70), « après avoir cru » et « après avoir attesté que le rasūl est ḥaqq » (S3:86) — désignant la dimension du refus délibéré après reconnaissance (même structure qu'en S2:89) ; le verbe est alors rendu « refuser de reconnaître ». En S3:72, S3:90 (second emploi), S3:96 et S3:98, aucun marqueur de cette nature n'accompagne le verbe ou le nom — la forme reste translittérée (*kāfir/kāfirūn*), conformément à la règle méthodologique par défaut.</p>
 <p><strong>Notes lexicales.</strong> رَبَّـٰنِيِّـۧنَ rabbāniyyīn — racine r-b-b : ceux formés et attachés par une pratique constante d'enseignement et d'étude du Kitāb ; conservé translittéré. إِصْرِى iṣrī — déjà connu (S2:286) : une charge/un engagement qui pèse, ici au sens d'un pacte contraignant assumé. أَقْرَرْتُمْ aqrartum — racine q-r-r : reconnaître fermement, faire tenir en place ce qu'on affirme. ٱلْفَـٰسِقُونَ al-fāsiqūn — déjà validé (S2:26 : sortir de l'enveloppe, hors du cadre). طَوْعًا وَكَرْهًا ṭawʿan wa-karhan — de gré ou de force : une remise (islām/aslama) universelle affirmée jusque dans la contrainte, distincte de la soumission volontaire et consciente requise par ailleurs des croyants — non-dit sur l'articulation exacte entre ces deux registres dans ce verset précis. ٱلضَّآلُّونَ al-ḍāllūn — déjà connu (S1:7 : ceux qui s'écartent du chemin). Ce que le texte dit : l'appartenance aux nabiyyūn précédents (Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb, les asbāṭ, Mūsā, ʿĪsā) est affirmée sans hiérarchie de reconnaissance entre eux ; la remise (islām) est décrite comme un fait cosmique universel, tandis que l'islām comme dīn accepté par Allaah (S3:85) est spécifiquement humain et qualifié. Ce que le texte ne dit pas : le mécanisme précis reliant ces deux emplois du même terme n'est pas explicité dans ce passage.</p>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
@@ -196,14 +197,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:96–97"
    ar="إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَـٰلَمِينَ ۝ فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ"
    trl="Inna awwala baytin wuḍiʿa li-l-nāsi la-lladhī bi-Bakkata mubārakan wa-hudan li-l-ʿālamīn — fīhi āyātun bayyinātun maqāmu Ibrāhīma — wa-man dakhalahu kāna āminan — wa-lillāhi ʿala l-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlan — wa-man kafara fa-inna llāha Ghaniyyun ʿani l-ʿālamīn"
-   trad="La première Maison établie pour les gens est certes celle qui est à Bakka, bénie et hudā pour les mondes. S'y trouvent des āyāt bayyināt, le Maqām d'Ibrāhīm — quiconque y entre est en sécurité — et il incombe aux gens, envers Allaah, le ḥajj de la Maison, pour quiconque en a les moyens sur le chemin — et quiconque couvre sa reconnaissance, Allaah Se suffit à Lui-même à l'égard des mondes."
+   trad="La première Maison établie pour les gens est certes celle qui est à Bakka, bénie et hudā pour les mondes. S'y trouvent des āyāt bayyināt, le Maqām d'Ibrāhīm — quiconque y entre est en sécurité — et il incombe aux gens, envers Allaah, le ḥajj de la Maison, pour quiconque en a les moyens sur le chemin — et quiconque est kāfir, Allaah Se suffit à Lui-même à l'égard des mondes."
 %}
 
 {% include verset.html
    ref="S.3:98–99"
    ar="قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ ۝ قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ"
    trl="Qul yā-ahla l-kitābi lima takfurūna bi-āyāti llāhi wa-llāhu shahīdun ʿalā mā taʿmalūn — qul yā-ahla l-kitābi lima taṣuddūna ʿan sabīli llāhi man āmana tabghūnahā ʿiwajan wa-antum shuhadāʾu — wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn"
-   trad="Dis : « Ô Ahl al-Kitāb, pourquoi couvrez-vous votre reconnaissance des āyāt d'Allaah, alors qu'Allaah est shahīd sur ce que vous faites ? » Dis : « Ô Ahl al-Kitāb, pourquoi détournez-vous du chemin d'Allaah celui qui a cru, en cherchant à le rendre tortueux, alors que vous en êtes témoins ? Allaah n'est pas inattentif à ce que vous faites. »"
+   trad="Dis : « Ô Ahl al-Kitāb, pourquoi êtes-vous kāfirūn envers les āyāt d'Allaah, alors qu'Allaah est shahīd sur ce que vous faites ? » Dis : « Ô Ahl al-Kitāb, pourquoi détournez-vous du chemin d'Allaah celui qui a cru, en cherchant à le rendre tortueux, alors que vous en êtes témoins ? Allaah n'est pas inattentif à ce que vous faites. »"
 %}
 
 <div class="notes-lexicales">

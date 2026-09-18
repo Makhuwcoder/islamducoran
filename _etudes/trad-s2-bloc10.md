@@ -83,7 +83,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:250"
    ar="وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ"
    trl="Wa-lammā barazū li-jālūta wa-junūdihi qālū rabbanā afrigh ʿalaynā ṣabran wa-thabbit aqdāmanā wa-nṣurnā ʿalā l-qawmi l-kāfirīn"
-   trad="Et lorsqu'ils se présentèrent à découvert face à Jālūt et ses troupes, ils dirent : « Notre Seigneur, déverse sur nous du ṣabr, affermis nos pas, et secours-nous contre le peuple qui couvre sa reconnaissance. »"
+   trad="Et lorsqu'ils se présentèrent à découvert face à Jālūt et ses troupes, ils dirent : « Notre Seigneur, déverse sur nous du ṣabr, affermis nos pas, et secours-nous contre le peuple kāfir. »"
 %}
 
 {% include verset.html
@@ -114,7 +114,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:253"
    ar="تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ اللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ ۚ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِن بَعْدِهِم مِّن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ وَلَٰكِنِ اخْتَلَفُوا فَمِنْهُم مَّنْ آمَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا وَلَٰكِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ"
    trl="Tilka l-rusulu faḍḍalnā baʿḍahum ʿalā baʿḍ — minhum man kallama llāh — wa-rafaʿa baʿḍahum darajāt — wa-ātaynā ʿīsā bna maryama l-bayyināti wa-ayyadnāhu bi-rūḥi l-qudus — wa-law shāʾa llāhu mā qtatala lladhīna min baʿdihim min baʿdi mā jāʾathumu l-bayyinātu wa-lākini khtalafū fa-minhum man āmana wa-minhum man kafar — wa-law shāʾa llāhu mā qtatalū wa-lākinna llāha yafʿalu mā yurīd"
-   trad="Ces rusul, Nous en avons favorisé certains sur d'autres. Parmi eux, il en est à qui Allaah a adressé la parole ; et Il en a élevé d'autres en degrés. Nous avons donné à ʿĪsā fils de Maryam les bayyināt, et Nous l'avons appuyé par rūḥ al-qudus. Et si Allaah avait voulu, ceux venus après eux ne se seraient pas combattus entre eux après que les bayyināt leur furent venues — mais ils divergèrent : parmi eux, il en est qui crurent, et parmi eux, il en est qui couvrirent leur reconnaissance. Et si Allaah avait voulu, ils ne se seraient pas combattus — mais Allaah fait ce qu'Il veut."
+   trad="Ces rusul, Nous en avons favorisé certains sur d'autres. Parmi eux, il en est à qui Allaah a adressé la parole ; et Il en a élevé d'autres en degrés. Nous avons donné à ʿĪsā fils de Maryam les bayyināt, et Nous l'avons appuyé par rūḥ al-qudus. Et si Allaah avait voulu, ceux venus après eux ne se seraient pas combattus entre eux après que les bayyināt leur furent venues — mais ils divergèrent : parmi eux, il en est qui crurent, et parmi eux, il en est qui furent kāfirūn. Et si Allaah avait voulu, ils ne se seraient pas combattus — mais Allaah fait ce qu'Il veut."
 %}
 
 **Notes lexicales**

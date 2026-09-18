@@ -134,7 +134,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:196–198"
    ar="لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ ۝ مَتَـٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ ۝ لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
    trl="Lā yaghurrannaka taqallubu lladhīna kafarū fi l-bilād — matāʿun qalīlun thumma maʾwāhum jahannam — wa-biʾsa l-mihād — lākini lladhīna ttaqaw rabbahum lahum jannātun tajrī min taḥtihā l-anhāru khālidīna fīhā nuzulan min ʿindi llāh — wa-mā ʿinda llāhi khayrun li-l-abrār"
-   trad="Que ne te leurre pas l'aisance de ceux qui ont couvert leur reconnaissance, allant et venant dans le pays — une jouissance passagère, puis leur refuge est jahannam : quel détestable lieu de repos. Mais ceux qui se sont prémunis envers leur Seigneur ont des jardins sous lesquels coulent les rivières, y demeurant, en accueil venant d'Allaah — ce qui est auprès d'Allaah est meilleur pour les abrār."
+   trad="Que ne te leurre pas l'aisance de ceux qui sont kāfirūn, allant et venant dans le pays — une jouissance passagère, puis leur refuge est jahannam : quel détestable lieu de repos. Mais ceux qui se sont prémunis envers leur Seigneur ont des jardins sous lesquels coulent les rivières, y demeurant, en accueil venant d'Allaah — ce qui est auprès d'Allaah est meilleur pour les abrār."
 %}
 
 {% include verset.html

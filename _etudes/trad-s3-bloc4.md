@@ -21,14 +21,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:100"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ"
    trl="Yā-ayyuhā lladhīna āmanū in tuṭīʿū farīqan mina lladhīna ūtu l-kitāba yaruddūkum baʿda īmānikum kāfirīn"
-   trad="Ô vous qui avez cru, si vous obéissez à un groupe parmi ceux à qui le Kitāb a été donné, ils vous feront revenir, après votre foi, à couvrir votre reconnaissance."
+   trad="Ô vous qui avez cru, si vous obéissez à un groupe parmi ceux à qui le Kitāb a été donné, ils vous feront revenir, après votre foi, à refuser de reconnaître."
 %}
 
 {% include verset.html
    ref="S.3:101"
    ar="وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ"
    trl="Wa-kayfa takfurūna wa-antum tutlā ʿalaykum āyātu llāhi wa-fīkum rasūluh — wa-man yaʿtaṣim billāhi fa-qad hudiya ilā ṣirāṭin mustaqīm"
-   trad="Et comment couvririez-vous votre reconnaissance, alors qu'on vous récite les āyāt d'Allaah, et que Son rasūl est parmi vous ? Quiconque s'attache fermement à Allaah est certes guidé vers un chemin droit."
+   trad="Et comment refuseriez-vous de reconnaître, alors qu'on vous récite les āyāt d'Allaah, et que Son rasūl est parmi vous ? Quiconque s'attache fermement à Allaah est certes guidé vers un chemin droit."
 %}
 
 {% include verset.html
@@ -56,7 +56,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:106–107"
    ar="يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ ۝ وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَـٰلِدُونَ"
    trl="Yawma tabyaḍḍu wujūhun wa-taswaddu wujūh — fa-ammā lladhīna swaddat wujūhuhum a-kafartum baʿda īmānikum fa-dhūqu l-ʿadhāba bi-mā kuntum takfurūn — wa-ammā lladhīna byaḍḍat wujūhuhum fa-fī raḥmati llāhi hum fīhā khālidūn"
-   trad="Le jour où des visages blanchiront et des visages noirciront — quant à ceux dont les visages auront noirci : « Avez-vous couvert votre reconnaissance après votre foi ? Goûtez donc le châtiment pour avoir couvert votre reconnaissance. » Quant à ceux dont les visages auront blanchi, ils seront dans la raḥma d'Allaah, y demeurant."
+   trad="Le jour où des visages blanchiront et des visages noirciront — quant à ceux dont les visages auront noirci : « Avez-vous refusé de reconnaître après votre foi ? Goûtez donc le châtiment pour avoir refusé de reconnaître. » Quant à ceux dont les visages auront blanchi, ils seront dans la raḥma d'Allaah, y demeurant."
 %}
 
 <div class="callout callout--avertissement">
@@ -64,6 +64,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 <div class="notes-lexicales">
+<p><strong>Note lexicale — k-f-r, S3:100–101, S3:106–107.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Le marqueur « baʿda īmānikum » (après votre foi, S3:100, S3:106) et le rappel explicite de la récitation directe des āyāt (S3:101) désignent la dimension du refus délibéré après reconnaissance — le terme est alors rendu « refuser de reconnaître ». Ailleurs dans ce bloc (S3:111, S3:116, S3:127), en l'absence de ce type de marqueur, la forme reste translittérée (*kāfirūn*).</p>
 <p><strong>Notes lexicales.</strong> ٱعْتَصِمُوا۟ iʿtaṣimū / يَعْتَصِم yaʿtaṣim — racine ʿ-ṣ-m : se retenir fermement à quelque chose, s'y accrocher pour ne pas tomber — verset-pivot du fil « Al-Iʿtiṣām » retenu comme hypothèse de titre pour cette sourate. حَبْلِ ٱللَّهِ ḥabli llāh — le lien/la corde d'Allaah ; **non-dit** sur son référent exact (le Kitāb ? l'engagement pris ? la communauté de foi elle-même ?) — le texte ne le spécifie pas ici. يُبَيِّنُ yubayyinu — racine b-y-n (forme II) : rendre manifeste, faire apparaître clairement ce qui était voilé — même racine que *bayyināt* déjà rencontré et que le futur verset S3:187 (*tubayyinunnahu*), fil de la clarification. تَفَرَّقُوا۟ tafarraqū — racine f-r-q : se séparer, se diviser — antonyme direct de l'unité recherchée par l'iʿtiṣām. ٱلْخَيْرِ / ٱلْمَعْرُوفِ / ٱلْمُنكَرِ al-khayr / al-maʿrūf / al-munkar — al-maʿrūf déjà validé (S2:178 et suiv. : ce que la raison droite reconnaît comme juste, contenu non fixé) ; al-munkar, son opposé structurel : ce qui est rejeté par cette même reconnaissance. Ce que le texte dit : l'unité de la communauté de foi est présentée comme la condition et la conséquence directe de l'attachement au lien d'Allaah — un bienfait historique concret (la réconciliation d'ennemis) sert d'illustration, non d'argument abstrait.</p>
 <a href="#top-fiche" class="callout-back">↑ Haut de fiche</a>
 </div>
@@ -92,7 +93,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:111–112"
    ar="لَن يَضُرُّوكُمْ إِلَّآ أَذًى ۖ وَإِن يُقَـٰتِلُوكُمْ يُوَلُّوكُمُ ٱلْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ ۝ ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ"
    trl="Lan yaḍurrūkum illā adhā — wa-in yuqātilūkum yuwallūkumu l-adbāra thumma lā yunṣarūn — ḍuribat ʿalayhimu l-dhillatu ayna mā thuqifū illā bi-ḥablin mina llāhi wa-ḥablin mina l-nāsi wa-bāʾū bi-ghaḍabin mina llāhi wa-ḍuribat ʿalayhimu l-maskanatu — dhālika bi-annahum kānū yakfurūna bi-āyāti llāhi wa-yaqtulūna l-anbiyāʾa bi-ghayri ḥaqq — dhālika bi-mā ʿaṣaw wa-kānū yaʿtadūn"
-   trad="Ils ne vous nuiront que d'une nuisance légère — et s'ils vous combattent, ils vous tourneront le dos, puis ne seront pas secourus. L'abaissement s'est abattu sur eux, où qu'ils se trouvent, sauf par un lien venant d'Allaah et un lien venant des gens — ils sont retournés chargés de la colère d'Allaah, et la détresse s'est abattue sur eux. Cela, parce qu'ils couvraient leur reconnaissance des āyāt d'Allaah et tuaient les anbiyāʾ sans droit — cela, parce qu'ils désobéissaient et transgressaient."
+   trad="Ils ne vous nuiront que d'une nuisance légère — et s'ils vous combattent, ils vous tourneront le dos, puis ne seront pas secourus. L'abaissement s'est abattu sur eux, où qu'ils se trouvent, sauf par un lien venant d'Allaah et un lien venant des gens — ils sont retournés chargés de la colère d'Allaah, et la détresse s'est abattue sur eux. Cela, parce qu'ils étaient kāfirūn envers les āyāt d'Allaah et tuaient les anbiyāʾ sans droit — cela, parce qu'ils désobéissaient et transgressaient."
 %}
 
 {% include verset.html
@@ -113,7 +114,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:116–117"
    ar="إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَـٰلِدُونَ ۝ مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ"
    trl="Inna lladhīna kafarū lan tughniya ʿanhum amwāluhum wa-lā awlāduhum mina llāhi shayʾan — wa-ulāʾika aṣḥābu l-nāri hum fīhā khālidūn — mathalu mā yunfiqūna fī hādhihi l-ḥayāti l-dunyā ka-mathali rīḥin fīhā ṣirrun aṣābat ḥartha qawmin ẓalamū anfusahum fa-ahlakathu — wa-mā ẓalamahumu llāhu wa-lākin anfusahum yaẓlimūn"
-   trad="Ceux qui couvrent leur reconnaissance, ni leurs biens ni leurs enfants ne leur seront d'aucune utilité face à Allaah — ceux-là sont les gens du Feu, ils y demeurent. L'exemple de ce qu'ils dépensent dans cette vie d'ici-bas est comme l'exemple d'un vent chargé de froid glacial qui atteint la récolte d'un peuple qui s'est fait tort à lui-même, et la détruit — Allaah ne leur a fait aucun tort, mais c'est à eux-mêmes qu'ils font tort."
+   trad="Ceux qui sont kāfirūn, ni leurs biens ni leurs enfants ne leur seront d'aucune utilité face à Allaah — ceux-là sont les gens du Feu, ils y demeurent. L'exemple de ce qu'ils dépensent dans cette vie d'ici-bas est comme l'exemple d'un vent chargé de froid glacial qui atteint la récolte d'un peuple qui s'est fait tort à lui-même, et la détruit — Allaah ne leur a fait aucun tort, mais c'est à eux-mêmes qu'ils font tort."
 %}
 
 {% include verset.html
@@ -169,7 +170,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:127–129"
    ar="لِيَقْطَعَ طَرَفًا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ ۝ لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَـٰلِمُونَ ۝ وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ"
    trl="Li-yaqṭaʿa ṭarafan mina lladhīna kafarū aw yakbitahum fa-yanqalibū khāʾibīn — laysa laka mina l-amri shayʾun aw yatūba ʿalayhim aw yuʿadhdhibahum fa-innahum ẓālimūn — wa-lillāhi mā fi l-samāwāti wa-mā fi l-arḍi — yaghfiru li-man yashāʾu wa-yuʿadhdhibu man yashāʾ — wa-llāhu Ghafūrun Raḥīm"
-   trad="Afin de retrancher une partie de ceux qui couvrent leur reconnaissance, ou de les humilier et qu'ils s'en retournent déçus. Tu n'as, dans cette affaire, aucune part — qu'Il revienne vers eux [en pardon] ou qu'Il les châtie, ils sont certes ẓālimūn. À Allaah appartient ce qui est dans les cieux et ce qui est sur la terre — Il pardonne à qui Il veut et châtie qui Il veut — Allaah est Ghafūr, Raḥīm."
+   trad="Afin de retrancher une partie de ceux qui sont kāfirūn, ou de les humilier et qu'ils s'en retournent déçus. Tu n'as, dans cette affaire, aucune part — qu'Il revienne vers eux [en pardon] ou qu'Il les châtie, ils sont certes ẓālimūn. À Allaah appartient ce qui est dans les cieux et ce qui est sur la terre — Il pardonne à qui Il veut et châtie qui Il veut — Allaah est Ghafūr, Raḥīm."
 %}
 
 <div class="notes-lexicales">

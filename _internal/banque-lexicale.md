@@ -110,7 +110,7 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **k-b-r (كبر)** — proclamer la grandeur — *tukabbirū llāh* — S2:185.
 
-**k-f-r (كفر)** — couvrir, occulter (Farāhīdī : *satara wa-ghaṭṭā*) — *kafarū/kufr* — S2:6, S2:161.
+**k-f-r (كفر) — RÈGLE MÉTHODOLOGIQUE VALIDÉE (correction rétroactive appliquée à S1–S3)** — voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/). La racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān* — le recouvrement et le débordement ; Ibn Manẓūr : *kafara l-niʿma* — il a recouvert le bienfait, il a été ingrat). L'étude distingue trois dimensions contextuelles, non un sens unique : (1) **ingratitude** — antonyme de *shukr*, ex. S14:7 ; (2) **refus délibéré après reconnaissance** — ex. S2:89, *fa-lammā jāʾahum mā ʿarafū kafarū bih* ; (3) **incroyance générale** — le sens le plus fréquent, sans marqueur contextuel spécifique. **Politique de traduction retenue (remplace l'ancienne formule uniforme « couvrir sa reconnaissance », abandonnée) :** *kāfir/kāfirūn/kāfirīn/kuffār/kufr* sont conservés **translittérés par défaut**, avec renvoi à l'étude dédiée en note lexicale — aucun mot français unique ne couvrant les trois dimensions, conformément à la règle du projet (translittération + note quand aucune correspondance directe n'existe). Le verbe *kafara* (forme conjuguée, ex. *alladhīna kafarū*) se rend, en emploi générique, par une construction prédicative avec le nom déjà translittéré : « ceux qui sont kāfirūn », « quiconque est kāfir », « meurt alors qu'il est kāfir » — jamais par « couvrir sa reconnaissance ». Une traduction française spécifique n'est employée que lorsque le contexte immédiat porte un marqueur explicite de l'une des trois dimensions (ex. « après avoir cru », « alors que vous en êtes témoins », « après que les bayyināt leur sont parvenues » → sens 2, refus délibéré : « refuser de reconnaître » ; un contexte de bienfait/*niʿma* opposé à *shukr* → sens 1, ingratitude). La construction *kafara bi-* (kufr *envers* un objet nommément désigné comme faux, ex. *kafara bi-l-ṭāghūt*, S2:256) est distincte : elle se rend par un verbe français direct (« renier », « rejeter ») quand l'objet rejeté est explicitement une fausse divinité, non le ḥaqq/les āyāt d'Allaah. Correction rétroactive complète de S1 à S3 : 34 occurrences corrigées au total, vérifiée par scan exhaustif (aucune occurrence résiduelle de l'ancienne formule « couvrir sa reconnaissance »). Occurrences déjà retraduites selon cette règle : S2:6, S2:212, S2:217, S2:250, S2:253, S2:254, S2:256–258, S2:264, S2:286 ; S3:3–4, S3:10–13, S3:19, S3:21–22, S3:55–57, S3:70–72, S3:86–101 (dont S3:70–71, S3:86–89, S3:90 premier emploi, S3:100–101 et S3:106–107 rendus par « refuser de reconnaître », marqueur explicite de refus délibéré après reconnaissance présent), S3:111–129, S3:149–198. L'étude dédiée précise en outre : le Coran ne donne à aucun être humain le droit de déclarer un autre *kāfir* (Allaah seul connaît les cœurs), et ne prescrit ni mise à mort pour la seule incroyance (« *lā ikrāha fī d-dīn* », S2:256) ni liste de critères permettant une qualification normative par un humain (S4:94).
 
 **kh-f-f (خفف)** — alléger — *lā yukhaffafu* (S2:162), *takhfīf* (S2:178).
 
@@ -610,7 +610,7 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **ʾ-dh-n (أذن) — bi-idhni llāh** — par la permission/l'autorisation d'Allaah ; répétée trois fois en S3:49 pour souligner que les actes d'ʿĪsā ne procèdent pas d'une capacité autonome — S3:49.
 
-**k-f-r (كفر) — substantif al-kufr, réemploi** — le couvrement, le refus de reconnaissance — même famille que le verbe déjà rendu « couvrir sa reconnaissance » — S3:52.
+**k-f-r (كفر) — substantif al-kufr, réemploi** — conservé translittéré (« le kufr »), voir la règle méthodologique validée ci-dessus — S3:52.
 
 **ḥ-w-r (حور) — al-ḥawāriyyūn** — deux sens attestés (blancheur/pureté ; retour/dialogue) — non-dit sur la nuance privilégiée ici — conservé translittéré — S3:52.
 
@@ -808,7 +808,7 @@ Cf. principe déjà appliqué à *āmana/al-īmān* dans `lexical-findings.md` :
 
 **kh-z-y (خزي)** — couvrir de honte, d'humiliation — *akhzaytahu* — S3:192.
 
-**k-f-r (كفر) — forme II, sens opposé** — *kaffir*, effacer/couvrir une faute (action d'Allaah) — même racine que *kafarū* (couvrir sa reconnaissance, attitude reprochée aux hommes) mais orientée à l'inverse : deux emplois de l'image « couvrir » appliquée à des objets opposés — S3:193.
+**k-f-r (كفر) — forme II, sens opposé** — *kaffir*, effacer/couvrir une faute (action d'Allaah) — même racine que *kafara/kāfir* (voir la règle méthodologique validée ci-dessus, translittération par défaut) mais orientée à l'inverse : deux emplois de l'image « couvrir » appliquée à des objets opposés — S3:193.
 
 **Note de renvoi — al-abrār** : même racine b-r-r que *al-birr* (S2:177, S2:189, S3:92) — S3:193, S3:198.
 

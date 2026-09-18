@@ -151,7 +151,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:55"
    ar="إِذْ قَالَ ٱللَّهُ يَـٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ"
    trl="Idh qāla llāhu yā-ʿĪsā innī mutawaffīka wa-rāfiʿuka ilayya wa-muṭahhiruka mina lladhīna kafarū wa-jāʿilu lladhīna ttabaʿūka fawqa lladhīna kafarū ilā yawmi l-qiyāmati — thumma ilayya marjiʿukum fa-aḥkumu baynakum fīmā kuntum fīhi takhtalifūn"
-   trad="Quand Allaah dit : « Ô ʿĪsā, Je te reprends en pleine mesure, et Je t'élève vers Moi, et Je te purifie de ceux qui couvrent leur reconnaissance, et Je place ceux qui t'ont suivi au-dessus de ceux qui couvrent leur reconnaissance, jusqu'au Jour de la Résurrection — puis c'est vers Moi votre retour, et Je jugerai entre vous sur ce en quoi vous divergiez. »"
+   trad="Quand Allaah dit : « Ô ʿĪsā, Je te reprends en pleine mesure, et Je t'élève vers Moi, et Je te purifie de ceux qui sont kāfirūn, et Je place ceux qui t'ont suivi au-dessus de ceux qui sont kāfirūn, jusqu'au Jour de la Résurrection — puis c'est vers Moi votre retour, et Je jugerai entre vous sur ce en quoi vous divergiez. »"
 %}
 
 <div class="callout callout--avertissement">
@@ -162,7 +162,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:56–57"
    ar="فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ ۝ وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ"
    trl="Fa-ammā lladhīna kafarū fa-uʿadhdhibuhum ʿadhāban shadīdan fi l-dunyā wa-l-ākhirati wa-mā lahum min nāṣirīn — wa-ammā lladhīna āmanū wa-ʿamilū l-ṣāliḥāti fa-yuwaffīhim ujūrahum — wa-llāhu lā yuḥibbu l-ẓālimīn"
-   trad="Quant à ceux qui couvrent leur reconnaissance, Je les châtierai d'un châtiment sévère, dans ce monde et dans l'ākhira, et ils n'auront aucun secoureur. Quant à ceux qui ont cru et ont accompli les œuvres ṣāliḥa, Il leur rendra intégralement leurs rétributions — Allaah n'aime pas les ẓālimūn."
+   trad="Quant à ceux qui sont kāfirūn, Je les châtierai d'un châtiment sévère, dans ce monde et dans l'ākhira, et ils n'auront aucun secoureur. Quant à ceux qui ont cru et ont accompli les œuvres ṣāliḥa, Il leur rendra intégralement leurs rétributions — Allaah n'aime pas les ẓālimūn."
 %}
 
 {% include verset.html
