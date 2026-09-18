@@ -422,6 +422,7 @@ permalink: /traduction/
     </optgroup>
     <optgroup label="Sourate 4 · An-Nisāʾ — en cours">
       <option value="/etudes/trad-s4-bloc1/">↓ Bloc I · S4:1–23 — Origine unique · Orphelins · Farāʾiḍ de l'héritage · Unions interdites</option>
+      <option value="/etudes/trad-s4-bloc2/">↓ Bloc II · S4:24–43 — Muḥṣanāt · Grands péchés · Qawwāmūn et nushūz · Iḥsān · Ṣalāt et tayammum</option>
     </optgroup>
   </select>
 
