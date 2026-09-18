@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<article class="site-main sourate-lecture">
+
+  <nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <span class="breadcrumb__sep">›</span>
+    <a href="{{ '/traduction/' | relative_url }}">Traduction Linguistique du Coran</a>
+    <span class="breadcrumb__sep">›</span>
+    <span class="breadcrumb__current">{{ page.title }}</span>
+  </nav>
+
+  <header class="page-header">
+    <div class="page-header__categorie">Lecture continue · Sans séparation par bloc</div>
+    <h1 class="page-header__title">{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="page-header__subtitle">{{ page.subtitle }}</p>
+    {% endif %}
+    <div class="page-header__meta">
+      <span class="tag">{{ page.verse_range }}</span>
+      <span class="tag">Sans tafsīr · Sans ḥadīth</span>
+    </div>
+  </header>
+
+  <style>
+    .sourate-lecture .verset { margin: 0 0 1.9rem; padding-bottom: 1.9rem; border-bottom: 1px solid var(--bg5, #3a3020); }
+    .sourate-lecture .verset:last-of-type { border-bottom: none; }
+    .sourate-toolbar {
+      position: sticky; top: 0; z-index: 20;
+      display: flex; align-items: center; gap: .8rem; flex-wrap: wrap;
+      margin: 0 0 2rem; padding: .8rem 1.1rem;
+      background: var(--bg3, #1e1a12);
+      border: 1px solid var(--or3, #8a6a2a);
+      border-radius: 6px;
+      backdrop-filter: blur(4px);
+    }
+    .sourate-toolbar__label {
+      font-family: var(--font-titre, 'Cinzel', serif);
+      font-size: .58rem; letter-spacing: .1em; text-transform: uppercase;
+      color: var(--or2, #c9a84c); white-space: nowrap;
+    }
+    .sourate-toolbar select {
+      flex: 1; min-width: 140px;
+      background: var(--bg4, #2a2318); color: var(--texte, #f0e2c0);
+      border: 1px solid var(--or3, #8a6a2a); border-radius: 4px;
+      padding: .4rem .6rem; font-family: var(--font-texte, 'Cormorant Garamond', serif); font-size: .95rem;
+      cursor: pointer;
+    }
+    .sourate-toolbar a.trad-back {
+      display: inline-block;
+      margin: 0;
+      font-family: var(--font-titre, 'Cinzel', serif);
+      font-size: .6rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--bg2, #16130e);
+      background: var(--or3, #8a6a2a);
+      text-decoration: none;
+      border-radius: 4px;
+      padding: .45rem .9rem;
+      white-space: nowrap;
+      transition: background .15s;
+    }
+    .sourate-toolbar a.trad-back:hover { background: var(--or2, #c9a84c); }
+    .sourate-mode-switch {
+      display: flex; gap: .5rem; margin: 0 0 2.2rem;
+    }
+    .sourate-mode-switch a {
+      font-family: var(--font-titre, 'Cinzel', serif);
+      font-size: .6rem; letter-spacing: .1em; text-transform: uppercase;
+      text-decoration: none; padding: .5rem 1rem; border-radius: 4px;
+      border: 1px solid var(--or3, #8a6a2a); color: var(--or2, #c9a84c);
+    }
+    .sourate-mode-switch a.is-active { background: var(--or2, #c9a84c); color: var(--bg2, #16130e); }
+  </style>
+
+  <div class="sourate-mode-switch">
+    <span class="is-active" style="font-family:var(--font-titre,'Cinzel',serif);font-size:.6rem;letter-spacing:.1em;text-transform:uppercase;padding:.5rem 1rem;border-radius:4px;background:var(--or2,#c9a84c);color:var(--bg2,#16130e);">▸ Lecture continue</span>
+    <a href="{{ '/traduction/#top-trad' | relative_url }}">▸ Voir l'étude par blocs</a>
+  </div>
+
+  {% assign sourate_verses = site.data.verses[page.sourate_key] %}
+
+  <div class="sourate-toolbar">
+    <span class="sourate-toolbar__label">Aller au verset</span>
+    <select id="sourate-jump" onchange="if(this.value){document.getElementById(this.value).scrollIntoView({behavior:'smooth',block:'start'});}">
+      <option value="">— choisir —</option>
+      {% for v in sourate_verses %}
+      <option value="v-{{ v.ref | slugify }}">{{ v.ref | remove: 'S.' }}</option>
+      {% endfor %}
+    </select>
+    <a class="trad-back" href="#top-of-sourate">↑ Haut</a>
+  </div>
+
+  <div id="top-of-sourate"></div>
+
+  <div class="etude-corps">
+    {% for v in sourate_verses %}
+    <div id="v-{{ v.ref | slugify }}">
+      {% include verset.html ref=v.ref ar=v.ar trl=v.trl trad=v.trad %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="declaration" style="margin-top:3rem;text-align:center;max-width:640px;margin-left:auto;margin-right:auto;">
+    <span class="declaration__label" style="display:block;margin-bottom:.6rem;">Barāʾa</span>
+    <p>Cette traduction est conduite selon la méthode islamducoran.fr. Elle n'est pas prescriptive. Elle est révisable à la lumière du texte. L'unique garant de la compréhension est Allaah.</p>
+    <p style="margin-top:.8rem;"><a href="/traduction/" style="font-family:var(--font-titre);font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:var(--or2);background:var(--bg4);border:1px solid var(--bg5);border-radius:3px;padding:.3rem .7rem;text-decoration:none;">↑ Retour à la traduction linguistique →</a></p>
+  </div>
+
+</article>

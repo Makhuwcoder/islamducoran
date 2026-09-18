@@ -19,13 +19,61 @@ permalink: /traduction/
 
 <style>
 /* ═══════════════════════════════════════════
+   NAVIGATION PRINCIPALE — SÉLECTEUR DE MODE
+═══════════════════════════════════════════ */
+.trad-mode-tabs {
+  display: flex;
+  gap: .5rem;
+  margin: 0 0 -1px;
+  position: relative;
+  z-index: 1;
+}
+.trad-mode-tab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .2rem;
+  text-align: left;
+  cursor: pointer;
+  font-family: var(--font-texte, 'Cormorant Garamond', serif);
+  background: var(--bg2, #16130e);
+  border: 1px solid var(--bg5, #3a3020);
+  border-bottom: none;
+  border-radius: 6px 6px 0 0;
+  padding: .85rem 1.1rem;
+  transition: background .15s, border-color .15s;
+}
+.trad-mode-tab__titre {
+  font-family: var(--font-titre, 'Cinzel', serif);
+  font-size: .68rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--texte-2, #c8b89a);
+}
+.trad-mode-tab__desc {
+  font-size: .8rem;
+  font-style: italic;
+  color: var(--texte-2, #c8b89a);
+  opacity: .75;
+}
+.trad-mode-tab.is-active {
+  background: var(--bg3, #1e1a12);
+  border-color: var(--or3, #8a6a2a);
+}
+.trad-mode-tab.is-active .trad-mode-tab__titre { color: var(--or2, #c9a84c); }
+.trad-mode-tab:not(.is-active):hover { background: var(--bg3, #1e1a12); }
+.trad-mode-panel { display: none; }
+.trad-mode-panel.is-active { display: block; }
+
+/* ═══════════════════════════════════════════
    NAVIGATION PRINCIPALE
 ═══════════════════════════════════════════ */
 .trad-nav {
   margin: 0 0 2.5rem;
   background: var(--bg3, #1e1a12);
   border: 1px solid var(--or3, #8a6a2a);
-  border-radius: 6px;
+  border-radius: 0 6px 6px 6px;
   padding: 1.3rem 1.5rem;
 }
 .trad-nav__label {
@@ -301,10 +349,21 @@ permalink: /traduction/
 <div id="top-trad"></div>
 
 <!-- ═══════════════════════════════════════════════════════════
-     MENU DÉROULANT DE NAVIGATION
+     DEUX OUTILS DE NAVIGATION — PAR BLOCS / PAR SOURATE
 ═══════════════════════════════════════════════════════════ -->
-<div class="trad-nav">
-  <span class="trad-nav__label">▸ Naviguer dans la traduction</span>
+<div class="trad-mode-tabs">
+  <div class="trad-mode-tab is-active" id="tab-blocs" onclick="tradShowMode('blocs')">
+    <span class="trad-mode-tab__titre">▸ Naviguer par blocs</span>
+    <span class="trad-mode-tab__desc">Étude détaillée — notes lexicales, dit/non-dit</span>
+  </div>
+  <div class="trad-mode-tab" id="tab-sourate" onclick="tradShowMode('sourate')">
+    <span class="trad-mode-tab__titre">▸ Naviguer par sourate</span>
+    <span class="trad-mode-tab__desc">Lecture continue — sourate entière, sans séparation</span>
+  </div>
+</div>
+
+<div class="trad-nav trad-mode-panel is-active" id="panel-blocs">
+  <span class="trad-nav__label">▸ Choisir un bloc d'étude</span>
   <select class="trad-nav__select" id="trad-select" onchange="tradSetVal(this.value)">
     <option value="" disabled selected>― Choisir une section ―</option>
 
@@ -356,6 +415,19 @@ permalink: /traduction/
   </div>
 </div>
 
+<div class="trad-nav trad-mode-panel" id="panel-sourate">
+  <span class="trad-nav__label">▸ Choisir une sourate — lecture continue, sans découpage</span>
+  <select class="trad-nav__select" id="sourate-select" onchange="sourateSetVal(this.value)">
+    <option value="" disabled selected>― Choisir une sourate ―</option>
+    <option value="/sourate/1/">↓ Sourate 1 · Al-Ṭalab — S1:1–7 (complète)</option>
+    <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
+  </select>
+
+  <div class="trad-nav__row">
+    <a class="trad-nav__btn" href="#" onclick="sourateGo(event)">Lire en entier →</a>
+  </div>
+</div>
+
 <script>
 var _tradVal = '';
 function tradSetVal(v) { _tradVal = v; }
@@ -369,6 +441,22 @@ function tradGo(e) {
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
   else { window.location.href = v; }
+}
+
+var _sourateVal = '';
+function sourateSetVal(v) { _sourateVal = v; }
+function sourateGo(e) {
+  e.preventDefault();
+  var v = _sourateVal || document.getElementById('sourate-select').value;
+  if (!v) return;
+  window.location.href = v;
+}
+
+function tradShowMode(mode) {
+  document.getElementById('tab-blocs').classList.toggle('is-active', mode === 'blocs');
+  document.getElementById('tab-sourate').classList.toggle('is-active', mode === 'sourate');
+  document.getElementById('panel-blocs').classList.toggle('is-active', mode === 'blocs');
+  document.getElementById('panel-sourate').classList.toggle('is-active', mode === 'sourate');
 }
 </script>
 
