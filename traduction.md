@@ -420,7 +420,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s3-bloc6/">↓ Bloc VI · S3:149–180 — Uḥud · Second tamḥīṣ · Munāfiqūn · Tués sur le chemin d'Allaah</option>
       <option value="/etudes/trad-s3-bloc7/">↓ Bloc VII · S3:181–200 — Al-Tabyīn (mīthāq S3:187) · Ūlū l-albāb · Clôture de la sourate</option>
     </optgroup>
-    <optgroup label="Sourate 4 · An-Nisāʾ — en cours">
+    <optgroup label="Sourate 4 · An-Nisāʾ — S4:1–176 (complète)">
       <option value="/etudes/trad-s4-bloc1/">↓ Bloc I · S4:1–23 — Origine unique · Orphelins · Farāʾiḍ de l'héritage · Unions interdites</option>
       <option value="/etudes/trad-s4-bloc2/">↓ Bloc II · S4:24–43 — Muḥṣanāt · Grands péchés · Qawwāmūn et nushūz · Iḥsān · Ṣalāt et tayammum</option>
       <option value="/etudes/trad-s4-bloc3/">↓ Bloc III · S4:44–57 — Distorsion de la parole · Le shirk · Jibt et ṭāghūt · Croire ou se détourner</option>
@@ -430,6 +430,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc7/">↓ Bloc VII · S4:101–115 — La ṣalāt en voyage et en crainte · Juger selon le ḥaqq, ne pas défendre les traîtres · Le conseil secret</option>
       <option value="/etudes/trad-s4-bloc8/">↓ Bloc VIII · S4:116–134 — Le shirk et le shayṭān · Remettre son wajh à Allaah · Le nushūz de l'époux · Ce qui appartient à Allaah</option>
       <option value="/etudes/trad-s4-bloc9/">↓ Bloc IX · S4:135–152 — Se tenir pour la justice, même contre soi-même · Les munāfiqūn démasqués · Ne pas différencier entre les rusul</option>
+      <option value="/etudes/trad-s4-bloc10/">↓ Bloc X · S4:153–176 — Ce que les gens du Livre ont demandé · Ils ne l'ont pas tué avec certitude · Ne pas dire « trois » · Clôture de la sourate</option>
     </optgroup>
   </select>
 
@@ -445,6 +446,7 @@ permalink: /traduction/
     <option value="/sourate/1/">↓ Sourate 1 · Al-Ṭalab — S1:1–7 (complète)</option>
     <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
     <option value="/sourate/3/">↓ Sourate 3 · Āl ʿImrān — S3:1–200 (complète)</option>
+    <option value="/sourate/4/">↓ Sourate 4 · An-Nisāʾ — S4:1–176 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
