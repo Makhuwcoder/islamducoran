@@ -428,6 +428,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc5/">↓ Bloc V · S4:71–91 — Le qitāl fī sabīli llāh · Obéir au rasūl, méditer le Coran · Les munāfiqūn dans le conflit</option>
       <option value="/etudes/trad-s4-bloc6/">↓ Bloc VI · S4:92–100 — L'homicide du croyant · Vérifier avant d'agir · Les mustaḍʿafīn et l'hijra</option>
       <option value="/etudes/trad-s4-bloc7/">↓ Bloc VII · S4:101–115 — La ṣalāt en voyage et en crainte · Juger selon le ḥaqq, ne pas défendre les traîtres · Le conseil secret</option>
+      <option value="/etudes/trad-s4-bloc8/">↓ Bloc VIII · S4:116–134 — Le shirk et le shayṭān · Remettre son wajh à Allaah · Le nushūz de l'époux · Ce qui appartient à Allaah</option>
     </optgroup>
   </select>
 
