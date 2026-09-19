@@ -375,6 +375,7 @@ permalink: /traduction/
 
     <optgroup label="Note · Sommaires">
       <option value="/etudes/trad-methode-note/">↓ Note méthodologique</option>
+      <option value="/etudes/trad-nomenclature-sourates/">↓ Nomenclature des sourates — passe préliminaire S5–S114</option>
       <option value="/etudes/trad-sommaire-1/">↓ Sommaire Partie 1 — S1 · S2:1–29</option>
       <option value="/etudes/trad-sommaire-2/">↓ Sommaire Partie 2 — S2:30–129</option>
       <option value="/etudes/trad-sommaire-3/">↓ Sommaire Partie 3 — S2:130–286</option>
@@ -684,8 +685,11 @@ function tradShowMode(mode) {
           <li><strong>Sourate 1 · S1:1–7 · Al-Ṭalab — La Requête</strong> (titre conventionnel : Al-Fātiḥa — L'Ouverture)</li>
           <li><strong>Sourate 2 · S2:1–286 · Al-Ijāba — La Réponse</strong> (titre conventionnel : Al-Baqara — La Vache)</li>
           <li><strong>Sourate 3 · S3:1–200 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — Le tri par l'épreuve, la clarification et l'attachement ferme</strong> (titre conventionnel : Āl ʿImrān — La Famille de ʿImrān) — titre composé à trois fils, chacun ancré sur un verset-pivot traduit dans la sourate : <em>Al-Tamḥīṣ</em> (S3:141, repris S3:154 — le tri par l'épreuve), <em>Al-Tabyīn</em> (S3:187 — le mīthāq des Gens du Livre de rendre le Kitāb manifeste, en écho à S3:71, S3:103, S3:118, S3:137–138), <em>Al-Iʿtiṣām</em> (S3:103 — l'attachement ferme au lien d'Allaah). Les trois fils sont apparus, tissés ensemble, tout au long de la sourate — chaque bloc de traduction indique en sous-titre lequel domine lorsque cela est clair.</li>
+          <li><strong>Sourate 4 · S4:1–176 · Al-ʿAdl wa-l-Qisṭ — La justice et l'équité</strong> (titre conventionnel : An-Nisāʾ — Les Femmes) — le fil de la justice traverse l'ensemble des dix blocs, du <em>qisṭ</em> des dispositions d'héritage et de mariage (S4:3) au verset-sommet « kūnū qawwāmīna bi-l-qisṭ … wa-law ʿalā anfusikum » (S4:135), en passant par le jugement <em>bi-l-ʿadl</em> (S4:58) et la justice envers les faibles (S4:127) — quand <em>an-nisāʾ</em> ne couvre directement qu'une partie des dispositions de la sourate.</li>
         </ul>
       </div>
+
+      <p style="margin-top:1rem;">→ <strong><a href="/etudes/trad-nomenclature-sourates/">Nomenclature des sourates — passe préliminaire sur les 114 sourates →</a></strong> Une fiche dédiée applique ce même critère à l'ensemble du Coran : titres validés pour S1–S4, et une proposition provisoire, révisable sourate après sourate, pour S5–S114.</p>
     </div>
   </div>
 
