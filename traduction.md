@@ -424,6 +424,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc1/">↓ Bloc I · S4:1–23 — Origine unique · Orphelins · Farāʾiḍ de l'héritage · Unions interdites</option>
       <option value="/etudes/trad-s4-bloc2/">↓ Bloc II · S4:24–43 — Muḥṣanāt · Grands péchés · Qawwāmūn et nushūz · Iḥsān · Ṣalāt et tayammum</option>
       <option value="/etudes/trad-s4-bloc3/">↓ Bloc III · S4:44–57 — Distorsion de la parole · Le shirk · Jibt et ṭāghūt · Croire ou se détourner</option>
+      <option value="/etudes/trad-s4-bloc4/">↓ Bloc IV · S4:58–70 — Al-amāna et al-ʿadl · Ūlī l-amr · Arbitrage du rasūl · Les quatre compagnies</option>
     </optgroup>
   </select>
 
