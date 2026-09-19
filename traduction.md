@@ -429,6 +429,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc6/">↓ Bloc VI · S4:92–100 — L'homicide du croyant · Vérifier avant d'agir · Les mustaḍʿafīn et l'hijra</option>
       <option value="/etudes/trad-s4-bloc7/">↓ Bloc VII · S4:101–115 — La ṣalāt en voyage et en crainte · Juger selon le ḥaqq, ne pas défendre les traîtres · Le conseil secret</option>
       <option value="/etudes/trad-s4-bloc8/">↓ Bloc VIII · S4:116–134 — Le shirk et le shayṭān · Remettre son wajh à Allaah · Le nushūz de l'époux · Ce qui appartient à Allaah</option>
+      <option value="/etudes/trad-s4-bloc9/">↓ Bloc IX · S4:135–152 — Se tenir pour la justice, même contre soi-même · Les munāfiqūn démasqués · Ne pas différencier entre les rusul</option>
     </optgroup>
   </select>
 
