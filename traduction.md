@@ -434,10 +434,12 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc9/">↓ Bloc IX · S4:135–152 — Se tenir pour la justice, même contre soi-même · Les munāfiqūn démasqués · Ne pas différencier entre les rusul</option>
       <option value="/etudes/trad-s4-bloc10/">↓ Bloc X · S4:153–176 — Ce que les gens du Livre ont demandé · Ils ne l'ont pas tué avec certitude · Ne pas dire « trois » · Clôture de la sourate</option>
     </optgroup>
-    <optgroup label="Sourate 5 · Al-Māʾida — La Table — S5:1–32 (en cours)">
+    <optgroup label="Sourate 5 · Al-Māʾida — La Table — S5:1–50 (en cours)">
       <option value="/etudes/trad-s5-bloc1/">↓ Bloc I · S5:1–6 — Al-ʿuqūd · Licite du bétail · Shaʿāʾir · Illicite alimentaire · Achèvement du dīn · Wuḍūʾ et tayammum</option>
       <option value="/etudes/trad-s5-bloc2/">↓ Bloc II · S5:7–16 — Mīthāq rappelé · Qawwāmīn dans le qisṭ · Mīthāq rompu de Banū Isrāʾīl et des Naṣārā · Nūr et kitāb mubīn</option>
       <option value="/etudes/trad-s5-bloc3/">↓ Bloc III · S5:17–32 — Rejet de « Allaah, c'est al-Masīḥ » · Mūsā et le refus d'entrer en terre sanctifiée · Les deux fils d'Ādam</option>
+      <option value="/etudes/trad-s5-bloc4/">↓ Bloc IV · S5:33–40 — La muḥāraba et le fasād fī l-arḍ · L'exception du retour avant capture · La taqwā, la wasīla et l'effort · Le vol et son retour possible</option>
+      <option value="/etudes/trad-s5-bloc5/">↓ Bloc V · S5:41–50 — Le ḥukm dans la Tawrāh, l'Injīl et le Kitāb · La shirʿa et le minhāj distincts · Le ḥukm de la jāhiliyya</option>
     </optgroup>
   </select>
 
