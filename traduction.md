@@ -413,7 +413,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s2-bloc13/">↓ Bloc XIII · S2:284–286 — Āmana l-rasūl · Clôture de la sourate</option>
     </optgroup>
 
-    <optgroup label="Sourate 3 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — S3:1–200 (complète)">
+    <optgroup label="Sourate 3 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — Le tri par l'épreuve, la clarification et l'attachement ferme — S3:1–200 (complète)">
       <option value="/etudes/trad-s3-bloc1/">↓ Bloc I · S3:1–32 — Tanzīl · Muḥkamāt/Mutashābihāt · Al-islām · Mālik al-Mulk</option>
       <option value="/etudes/trad-s3-bloc2/">↓ Bloc II · S3:33–63 — Āl ʿImrān · Maryam · ʿĪsā · Mubāhala</option>
       <option value="/etudes/trad-s3-bloc3/">↓ Bloc III · S3:64–99 — Parole commune · Ibrāhīm · Mīthāq des nabiyyūn · Maison de Bakka</option>
@@ -422,7 +422,7 @@ permalink: /traduction/
       <option value="/etudes/trad-s3-bloc6/">↓ Bloc VI · S3:149–180 — Uḥud · Second tamḥīṣ · Munāfiqūn · Tués sur le chemin d'Allaah</option>
       <option value="/etudes/trad-s3-bloc7/">↓ Bloc VII · S3:181–200 — Al-Tabyīn (mīthāq S3:187) · Ūlū l-albāb · Clôture de la sourate</option>
     </optgroup>
-    <optgroup label="Sourate 4 · Al-ʿAdl wa-l-Qisṭ — S4:1–176 (complète)">
+    <optgroup label="Sourate 4 · Al-ʿAdl wa-l-Qisṭ — La justice et l'équité — S4:1–176 (complète)">
       <option value="/etudes/trad-s4-bloc1/">↓ Bloc I · S4:1–23 — Origine unique · Orphelins · Farāʾiḍ de l'héritage · Unions interdites</option>
       <option value="/etudes/trad-s4-bloc2/">↓ Bloc II · S4:24–43 — Muḥṣanāt · Grands péchés · Qawwāmūn et nushūz · Iḥsān · Ṣalāt et tayammum</option>
       <option value="/etudes/trad-s4-bloc3/">↓ Bloc III · S4:44–57 — Distorsion de la parole · Le shirk · Jibt et ṭāghūt · Croire ou se détourner</option>
@@ -447,8 +447,8 @@ permalink: /traduction/
     <option value="" disabled selected>― Choisir une sourate ―</option>
     <option value="/sourate/1/">↓ Sourate 1 · Al-Ṭalab — S1:1–7 (complète)</option>
     <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
-    <option value="/sourate/3/">↓ Sourate 3 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — S3:1–200 (complète)</option>
-    <option value="/sourate/4/">↓ Sourate 4 · Al-ʿAdl wa-l-Qisṭ — S4:1–176 (complète)</option>
+    <option value="/sourate/3/">↓ Sourate 3 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — Le tri par l'épreuve, la clarification et l'attachement ferme — S3:1–200 (complète)</option>
+    <option value="/sourate/4/">↓ Sourate 4 · Al-ʿAdl wa-l-Qisṭ — La justice et l'équité — S4:1–176 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
