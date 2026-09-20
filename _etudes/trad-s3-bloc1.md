@@ -151,7 +151,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:10–12"
    ar="إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ۖ وَأُولَٰئِكَ هُمْ وَقُودُ النَّارِ ۝ كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِنَا فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ وَاللَّهُ شَدِيدُ الْعِقَابِ ۝ قُل لِّلَّذِينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ ۚ وَبِئْسَ الْمِهَادُ"
    trl="Inna lladhīna kafarū lan tughniya ʿanhum amwāluhum wa-lā awlāduhum mina llāhi shayʾā — wa-ulāʾika hum waqūdu l-nār — ka-daʾbi āli firʿawna wa-lladhīna min qablihim — kadhdhabū bi-āyātinā fa-akhadhahumu llāhu bi-dhunūbihim — wa-llāhu shadīdu l-ʿiqāb — qul li-lladhīna kafarū sa-tughlabūna wa-tuḥsharūna ilā jahannam — wa-biʾsa l-mihād"
-   trad="Ceux qui sont kāfirūn — leurs biens ni leurs enfants ne leur seront d'aucune utilité face à Allaah. Ceux-là sont le combustible du feu — comme la manière d'être de la famille de Firʿawn et de ceux d'avant eux : ils ont démenti Nos āyāt, alors Allaah les a saisis pour leurs fautes — Allaah est sévère dans la sanction. Dis à ceux qui sont kāfirūn : « Vous serez vaincus et rassemblés vers Jahannam » — quelle détestable couche de repos."
+   trad="Ceux qui sont kāfirūn — leurs biens ni leurs enfants ne leur seront d'aucun secours contre ce qui vient d'Allaah. Ceux-là sont le combustible du feu — comme la manière d'être de la famille de Firʿawn et de ceux d'avant eux : ils ont démenti Nos āyāt, alors Allaah les a saisis pour leurs fautes — Allaah est sévère dans la sanction. Dis à ceux qui sont kāfirūn : « Vous serez vaincus et rassemblés vers Jahannam » — quelle détestable couche de repos."
 %}
 
 {% include verset.html

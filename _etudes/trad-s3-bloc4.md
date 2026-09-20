@@ -179,7 +179,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:116–117"
    ar="إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۚ هُمْ فِيهَا خَـٰلِدُونَ ۝ مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ"
    trl="Inna lladhīna kafarū lan tughniya ʿanhum amwāluhum wa-lā awlāduhum mina llāhi shayʾan — wa-ulāʾika aṣḥābu l-nāri hum fīhā khālidūn — mathalu mā yunfiqūna fī hādhihi l-ḥayāti l-dunyā ka-mathali rīḥin fīhā ṣirrun aṣābat ḥartha qawmin ẓalamū anfusahum fa-ahlakathu — wa-mā ẓalamahumu llāhu wa-lākin anfusahum yaẓlimūn"
-   trad="Ceux qui sont kāfirūn, ni leurs biens ni leurs enfants ne leur seront d'aucune utilité face à Allaah — ceux-là sont les gens du Feu, ils y demeurent. L'exemple de ce qu'ils dépensent dans cette vie d'ici-bas est comme l'exemple d'un vent chargé de froid glacial qui atteint la récolte d'un peuple qui s'est fait tort à lui-même, et la détruit — Allaah ne leur a fait aucun tort, mais c'est à eux-mêmes qu'ils font tort."
+   trad="Ceux qui sont kāfirūn, ni leurs biens ni leurs enfants ne leur seront d'aucun secours contre ce qui vient d'Allaah — ceux-là sont les gens du Feu, ils y demeurent. L'exemple de ce qu'ils dépensent dans cette vie d'ici-bas est comme l'exemple d'un vent chargé de froid glacial qui atteint la récolte d'un peuple qui s'est fait tort à lui-même, et la détruit — Allaah ne leur a fait aucun tort, mais c'est à eux-mêmes qu'ils font tort."
 %}
 
 {% include verset.html

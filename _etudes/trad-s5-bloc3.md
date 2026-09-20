@@ -47,7 +47,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:17"
    ar="لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۚ قُلْ فَمَنْ يَمْلِكُ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ أَنْ يُهْلِكَ الْمَسِيحَ ابْنَ مَرْيَمَ وَأُمَّهُ وَمَنْ فِي الْأَرْضِ جَمِيعًا ۗ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"
    trl="La-qad kafara lladhīna qālū inna llāha huwa l-masīḥu bnu maryama — qul fa-man yamliku mina llāhi shayʾan in arāda an yuhlika l-masīḥa bna maryama wa-ummahu wa-man fi l-arḍi jamīʿan — wa-lillāhi mulku s-samāwāti wa-l-arḍi wa-mā baynahumā — yakhluqu mā yashāʾu — wa-llāhu ʿalā kulli shayʾin qadīr"
-   trad="Ceux qui ont dit : « Allaah, c'est Lui, al-Masīḥ fils de Maryam » ont certes commis le *kufr*. Dis : « Qui donc détiendrait un pouvoir face à Allaah (*mina llāhi*), s'Il voulait faire périr al-Masīḥ fils de Maryam, sa mère, et tous ceux qui sont sur la terre ? » À Allaah appartient la royauté (*mulk*) des cieux et de la terre, et de ce qui est entre les deux — Il crée ce qu'Il veut — et Allaah est, sur toute chose, *Qadīr*."
+   trad="Ceux qui ont dit : « Allaah, c'est Lui, al-Masīḥ fils de Maryam » ont certes commis le *kufr*. Dis : « Qui donc détiendrait quelque pouvoir contre ce qui vient d'Allaah, s'Il voulait faire périr al-Masīḥ fils de Maryam, sa mère, et tous ceux qui sont sur la terre ? » À Allaah appartient la royauté (*mulk*) des cieux et de la terre, et de ce qui est entre les deux — Il crée ce qu'Il veut — et Allaah est, sur toute chose, *Qadīr*."
 %}
 
 {:.callout .callout--pivot}
@@ -66,7 +66,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-man yamliku mina llāhi shayʾan</span></dt>
-<dd>racine *m-l-k* (détenir, posséder un pouvoir de disposition) : la question posée par le texte oppose la royauté (*mulk*) qu'Allaah détient seul sur les cieux, la terre et ce qui est entre eux, à toute figure qui ne pourrait, face à Lui, détenir la moindre chose (*shayʾan*).</dd>
+<dd>racine *m-l-k* (détenir, posséder un pouvoir de disposition) : la question posée par le texte oppose la royauté (*mulk*) qu'Allaah détient seul sur les cieux, la terre et ce qui est entre eux, à toute figure qui ne pourrait détenir la moindre chose (*shayʾan*) contre ce qui vient de Lui.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-man fi l-arḍi jamīʿan</span></dt>
