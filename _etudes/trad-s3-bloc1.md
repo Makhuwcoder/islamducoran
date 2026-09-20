@@ -158,7 +158,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:13"
    ar="قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا ۖ فِئَةٌ تُقَاتِلُ فِي سَبِيلِ اللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْيَ الْعَيْنِ ۚ وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَشَاءُ ۗ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِّأُولِي الْأَبْصَارِ"
    trl="Qad kāna lakum āyatun fī fiʾatayni ltaqatā — fiʾatun tuqātilu fī sabīli llāhi wa-ukhrā kāfiratun yarawnahum mithlayhim raʾya l-ʿayn — wa-llāhu yuʾayyidu bi-naṣrihi man yashāʾ — inna fī dhālika la-ʿibratan li-ulī l-abṣār"
-   trad="Il y eut certes pour vous un signe dans deux troupes qui se sont rencontrées — une troupe combattant sur la voie d'Allaah, et une autre, kāfira, qui les voyait deux fois plus nombreux, à vue d'œil. Allaah appuie par Son secours qui Il veut. En cela il y a certes une leçon pour ceux qui ont une vue pénétrante."
+   trad="Il y eut certes pour vous une ayah dans deux troupes qui se sont rencontrées — une troupe combattant sur la voie d'Allaah, et une autre, kāfira, qui les voyait deux fois plus nombreux, à vue d'œil. Allaah appuie par Son secours qui Il veut. En cela il y a certes une leçon pour ceux doués de clairvoyance."
 %}
 
 {% include verset.html
@@ -228,7 +228,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">أُولِي الْأَبْصَار</span><span class="lex-trl">ulī l-abṣār</span></dt>
-<dd>racine b-ṣ-r : ceux qui possèdent une vue pénétrante, au sens de discernement.</dd>
+<dd>racine b-ṣ-r : ceux qui possèdent la clairvoyance — discernement qui va au-delà de la simple vision des faits (même racine que baṣāʾir, S6:104).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">زُيِّنَ</span><span class="lex-trl">zuyyina</span></dt>
