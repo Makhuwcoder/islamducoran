@@ -373,7 +373,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:23–25"
    ar="أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ يُدْعَوْنَ إِلَىٰ كِتَابِ اللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ ۝ ذَٰلِكَ بِأَنَّهُمْ قَالُوا لَن تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَّعْدُودَاتٍ ۖ وَغَرَّهُمْ فِي دِينِهِم مَّا كَانُوا يَفْتَرُونَ ۝ فَكَيْفَ إِذَا جَمَعْنَاهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
    trl="A-lam tara ila lladhīna ūtū naṣīban mina l-kitābi yudʿawna ilā kitābi llāhi li-yaḥkuma baynahum thumma yatawallā farīqun minhum wa-hum muʿriḍūn — dhālika bi-annahum qālū lan tamassana l-nāru illā ayyāman maʿdūdāt — wa-gharrahum fī dīnihim mā kānū yaftarūn — fa-kayfa idhā jamaʿnāhum li-yawmin lā rayba fīhi wa-wuffiyat kullu nafsin mā kasabat wa-hum lā yuẓlamūn"
-   trad="N'as-tu pas considéré ceux à qui une part du Livre a été donnée, appelés au Livre d'Allaah pour qu'il tranche entre eux, puis un groupe d'entre eux se détourne, s'écartant ? Cela parce qu'ils ont dit : « Le feu ne nous touchera que des jours comptés » — et ce qu'ils inventaient les a trompés dans leur dīn. Qu'en sera-t-il donc lorsque Nous les aurons rassemblés pour un jour où nul doute n'a de place, et que chaque nafs recevra intégralement ce qu'elle a acquis, sans qu'ils soient lésés ?"
+   trad="N'as-tu pas considéré ceux à qui une part du Livre a été donnée, appelés au Livre d'Allaah pour qu'il tranche entre eux, puis un groupe d'entre eux se détourne, s'écartant ? Cela parce qu'ils ont dit : « Le feu ne nous touchera que quelques jours comptés » — et ce qu'ils inventaient les a trompés dans leur dīn. Qu'en sera-t-il donc lorsque Nous les aurons rassemblés pour un jour où nul doute n'a de place, et que chaque nafs recevra intégralement ce qu'elle a acquis, sans qu'ils soient lésés ?"
 %}
 
 {% include verset.html
@@ -406,7 +406,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">مَّعْدُودَات</span><span class="lex-trl">maʿdūdāt</span></dt>
-<dd>racine ع-د-د : comptées, dénombrées — un nombre limité et défini.</dd>
+<dd>racine ع-د-د : comptées, dénombrées — un nombre défini. L'usage de la langue associe couramment ce qui est « compté » à ce qui est peu (on ne prend la peine de dénombrer que ce qui est en petite quantité) ; ici, portée par les *kāfirūn* eux-mêmes pour minimiser leur propre châtiment, l'expression appelle le rendu « quelques jours comptés », déjà retenu pour la même expression et le même geste rhétorique en S.2:80. À distinguer de S.2:184 et S.2:203, où la même expression arabe ne porte pas ce geste de minimisation et reste rendue par « des jours comptés ».</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">غَرَّهُمْ</span><span class="lex-trl">gharrahum</span></dt>
