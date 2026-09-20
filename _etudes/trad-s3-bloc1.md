@@ -310,7 +310,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:20"
    ar="فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّهِ وَمَنِ اتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا ۖ وَّإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ ۗ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ"
    trl="Fa-in ḥājjūka fa-qul aslamtu wajhiya lillāhi wa-mani ttabaʿan — wa-qul li-lladhīna ūtu l-kitāba wa-l-ummiyyīna a-aslamtum — fa-in aslamū fa-qadi htadaw — wa-in tawallaw fa-innamā ʿalayka l-balāgh — wa-llāhu baṣīrun bi-l-ʿibād"
-   trad="S'ils argumentent avec toi, dis : « J'ai remis mon wajh à Allaah, ainsi que quiconque m'a suivi. » Et dis à ceux à qui le Livre a été donné, et aux ummiyyīn : « Avez-vous remis [votre wajh] ? » S'ils l'ont remis, ils sont alors bien guidés ; s'ils se détournent, il ne t'incombe que la transmission. Allaah voit parfaitement les ʿibād."
+   trad="S'ils argumentent avec toi, dis : « Je me suis voué, tout entier et sans partage, à Allaah — ainsi que quiconque m'a suivi. » Et dis à ceux à qui le Livre a été donné, et aux ummiyyīn : « Vous êtes-vous voués de même ? » S'ils se sont ainsi voués, ils sont alors bien guidés ; s'ils se détournent, il ne t'incombe que la transmission. Allaah voit parfaitement les ʿibād."
 %}
 
 <div class="notes-lexicales">
@@ -319,7 +319,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">أَسْلَمْتُ وَجْهِيَ لِلَّه</span><span class="lex-trl">aslamtu wajhiya lillāh</span></dt>
-<dd>reprend la construction (étude dédiée « Wajhu llāh ») : remettre son orientation, sa raison d'être tournée vers Allaah — non une image anatomique.</dd>
+<dd>*aslama* (forme IV de *s-l-m*, remettre entièrement, se placer sans réserve sous la sauvegarde d'un autre) appliqué au *wajh* — racine qui recouvre, chez les lexicographes classiques, trois axes convergents : l'orientation (al-Farāhīdī), la primauté/l'essence de la chose (Ibn Fāris), le rang conféré (Ibn Manẓūr). *Aslama wajhahu li-llāh* porte donc une remise de soi totale et exclusive, non une image anatomique. Même construction en S2:112 et S4:125 ; à distinguer de *wajhu llāh* (S2:115), qui désigne l'objet visé et non le sujet qui se voue.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الْأُمِّيِّين</span><span class="lex-trl">al-ummiyyīn</span></dt>

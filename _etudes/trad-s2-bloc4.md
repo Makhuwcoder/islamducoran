@@ -71,8 +71,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:111–113"
    ar="وَقَالُوا لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ ۝ بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِندَ رَبِّهِ"
    trl="*Wa-qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn · Balā man aslama wajhahu li-llāhi wa-huwa muḥsinun fa-lahu ajruhu ʿinda rabbihi*"
-   trad="Et ils dirent : « Seul entrera dans la *janna* celui qui est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve si vous êtes véridiques. » — Bien au contraire : quiconque remet son *wajh* à Allaah tout en étant *muḥsin* — à lui sa rétribution auprès de son *Rabb* : nulle crainte sur eux et ils ne seront pas attristés."
+   trad="Et ils dirent : « Seul entrera dans la *janna* celui qui est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve si vous êtes véridiques. » — Bien au contraire : quiconque se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin* — à lui sa rétribution auprès de son *Rabb* : nulle crainte sur eux et ils ne seront pas attristés."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">aslama wajhahu li-llāh</span></dt>
+<dd>*aslama* (forme IV de *s-l-m*, remettre entièrement, se placer sans réserve sous la sauvegarde d'un autre) appliqué au *wajh* — racine qui recouvre, chez les lexicographes classiques, trois axes convergents : l'orientation (al-Farāhīdī), la primauté/l'essence de la chose (Ibn Fāris), le rang conféré (Ibn Manẓūr). *Aslama wajhahu li-llāh* porte donc une remise de soi totale et exclusive, non une image corporelle. Même construction en S3:20 et S4:125 ; à distinguer de *wajhu llāh* (S2:115), qui désigne l'objet visé et non le sujet qui se voue.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

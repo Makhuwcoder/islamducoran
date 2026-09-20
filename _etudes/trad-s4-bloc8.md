@@ -223,7 +223,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:125"
    ar="وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا"
    trl="Wa-man aḥsanu dīnan mimman aslama wajhahu li-llāhi wa-huwa muḥsinun wa-ttabaʿa millata ibrāhīma ḥanīfā — wa-ttakhadha llāhu ibrāhīma khalīlā"
-   trad="Et qui est meilleur en *dīn* que celui qui remet son *wajh* à Allaah, tout en étant *muḥsin* (agissant avec excellence), et qui suit la *milla* d'Ibrāhīm en *ḥanīf* ? Et Allaah a pris Ibrāhīm comme *khalīl*."
+   trad="Et qui est meilleur en *dīn* que celui qui se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin* (agissant avec excellence), et qui suit la *milla* d'Ibrāhīm en *ḥanīf* ? Et Allaah a pris Ibrāhīm comme *khalīl*."
 %}
 
 <div class="notes-lexicales">
@@ -235,7 +235,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">aslama wajhahu li-llāh</span></dt>
-<dd>même expression déjà rencontrée en S2:112 (Bloc IV de Sourate 2) : « quiconque remet son *wajh* à Allaah ». Racine <em>s-l-m</em> (*aslama*, remettre, se placer en sécurité entre les mains d'un autre) appliquée ici au *wajh* du croyant — à distinguer de *wajhu llāh* (S2:115), qui désigne l'orientation vers laquelle la créature se tourne, non le *wajh* d'Allaah au sens d'un visage.</dd>
+<dd>même expression déjà rencontrée en S2:112 (Bloc IV de Sourate 2) et en S3:20 : « quiconque se voue, tout entier et sans partage, à Allaah ». Racine <em>s-l-m</em> (*aslama*, forme IV, remettre entièrement, se placer sans réserve sous la sauvegarde d'un autre) appliquée au *wajh*, qui recouvre chez les lexicographes classiques trois axes convergents — l'orientation (al-Farāhīdī), la primauté/l'essence de la chose (Ibn Fāris), le rang conféré (Ibn Manẓūr) — d'où une remise de soi totale et exclusive, non une image anatomique. À distinguer de *wajhu llāh* (S2:115), qui désigne l'objet visé, non le sujet qui se voue.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">milla</span></dt>
