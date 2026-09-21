@@ -384,7 +384,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:26–27"
    ar="قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ۝ تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ ۖ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ ۖ وَتَرْزُقُ مَن تَشَاءُ بِغَيْرِ حِسَابٍ"
    trl="Quli llāhumma mālika l-mulki tuʾti l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾu wa-tuʿizzu man tashāʾu wa-tudhillu man tashāʾ — bi-yadika l-khayr — innaka ʿalā kulli shayʾin qadīr — tūliju l-layla fi l-nahāri wa-tūliju l-nahāra fi l-layl — wa-tukhriju l-ḥayya mina l-mayyiti wa-tukhriju l-mayyita mina l-ḥayy — wa-tarzuqu man tashāʾu bi-ghayri ḥisāb"
-   trad="Dis : « Ô Allaah, Mālik al-Mulk, Tu donnes le mulk à qui Tu veux et Tu arraches le mulk à qui Tu veux ; Tu honores qui Tu veux et Tu abaisses qui Tu veux — dans Ta Yad est le bien — Tu es capable de toute chose. Tu fais pénétrer la nuit dans le jour et le jour dans la nuit ; Tu fais sortir le vivant du mort et le mort du vivant ; et Tu pourvois qui Tu veux sans compte. »"
+   trad="Dis : « Ô Allaah, Mālik al-Mulk, Tu donnes le mulk à qui Tu veux et Tu arraches le mulk à qui Tu veux ; Tu honores qui Tu veux et Tu abaisses qui Tu veux — dans Ta [Yad](#yad-s3-27) est le bien — Tu es capable de toute chose. Tu fais pénétrer la nuit dans le jour et le jour dans la nuit ; Tu fais sortir le vivant du mort et le mort du vivant ; et Tu pourvois qui Tu veux sans compte. »"
 %}
 
 {% include verset.html

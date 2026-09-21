@@ -124,7 +124,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:73–74"
    ar="وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ ۝ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
    trl="Wa-lā tuʾminū illā li-man tabiʿa dīnakum qul inna l-hudā hudā llāhi an yuʾtā aḥadun mithla mā ūtītum aw yuḥājjūkum ʿinda rabbikum — qul inna l-faḍla bi-yadi llāhi yuʾtīhi man yashāʾ — wa-llāhu wāsiʿun ʿalīm — yakhtaṣṣu bi-raḥmatihi man yashāʾ — wa-llāhu dhū l-faḍli l-ʿaẓīm"
-   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Rabb. Dis : « Le faḍl est dans la Yad d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
+   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Rabb. Dis : « Le faḍl est dans la [Yad](#yad-s3-73) d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
 %}
 
 {% include verset.html
