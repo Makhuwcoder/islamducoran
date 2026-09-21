@@ -27,6 +27,16 @@ Usage:
   {% if include.suite %}
   {{ include.suite }}
   {% endif %}
+  {% if include.notes and include.notes.size > 0 %}
+  <div class="verset__notes">
+    {% for n in include.notes %}
+    <a class="verset__note-badge" href="{{ '/etudes/trad-' | append: include.sourate_key | append: '-' | append: n.bloc | append: '/#' | append: n.anchor | relative_url }}" title="{{ n.label | default: 'Note lexicale' | escape }}">
+      <svg class="verset__note-icon" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path d="M2 2h9l3 3v9a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="1.1"/><path d="M4.5 6.5h6M4.5 9h6M4.5 11.5h4" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/></svg>
+      <span>{{ n.label | default: "Note lexicale" }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
   <!-- Lecteur audio auto-généré -->
   <div class="verset__audio" aria-label="Écouter ce verset"></div>
 </div>

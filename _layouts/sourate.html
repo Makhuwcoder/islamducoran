@@ -99,7 +99,7 @@ layout: default
   <div class="etude-corps">
     {% for v in sourate_verses %}
     <div id="v-{{ v.ref | slugify }}">
-      {% include verset.html ref=v.ref ar=v.ar trl=v.trl trad=v.trad %}
+      {% include verset.html ref=v.ref ar=v.ar trl=v.trl trad=v.trad notes=v.notes sourate_key=page.sourate_key %}
     </div>
     {% endfor %}
   </div>

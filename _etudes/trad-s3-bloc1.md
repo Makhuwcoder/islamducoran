@@ -424,7 +424,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">الْمُلْك</span><span class="lex-trl">al-mulk</span></dt>
 <dd>racine م-ل-ك : la royauté, la possession souveraine — *Mālik al-Mulk* : ce qui possède la royauté elle-même, non seulement un royaume.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="yad-s3-27">
 <dt><span class="lex-ar">بِيَدِكَ الْخَيْر</span><span class="lex-trl">bi-yadika l-khayr</span></dt>
 <dd>racine ي-د-ي. **Note de méthode — un idiome de disposition, non une anatomie.** Ce Projet applique comme règle absolue l'interdit de tout mot installant une connotation d'anthropomorphisme à propos d'Allaah. « *Yad* » (la main) appliqué à Allaah, dans ce type de construction, est un idiome arabe attesté pour dire la pleine disposition sur une chose — ce qui est « dans la main de » quelqu'un est ce qu'il détient et distribue à son gré, un usage employé aussi pour des humains sans jamais désigner un organe (voir la note complète posée dans ce Projet à S5:64, où ce même registre est établi à partir des racines غ-ل-ل/ب-س-ط). La traduction retient donc « main », fidèle à l'image que le texte mobilise lui-même, sans trancher — un **non-dit** — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah. Même construction, même traitement, en S3:73 (« *bi-yadi llāhi l-faḍl* ») plus loin dans cette sourate.</dd>
 </div>

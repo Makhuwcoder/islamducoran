@@ -155,7 +155,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">ٱتَّقَىٰ</span><span class="lex-trl">ittaqā</span></dt>
 <dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="yad-s3-73">
 <dt><span class="lex-ar">بِيَدِ ٱللَّهِ</span><span class="lex-trl">bi-yadi llāhi</span></dt>
 <dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. La traduction retient « main », fidèle à l'image mobilisée par le texte, sans trancher — un non-dit — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah.</dd>
 </div>
