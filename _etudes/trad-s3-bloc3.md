@@ -26,7 +26,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.3:69 | La volonté d'égarer qui se retourne contre eux |
 | S.3:70–71 | Le refus de reconnaître — habiller le *ḥaqq* du *bāṭil* |
 | S.3:72 | La foi feinte au début et à la fin du jour |
-| S.3:73–74 | Le *faḍl* dans la main d'Allaah |
+| S.3:73–74 | Le *faḍl* dans la Yad d'Allaah |
 | S.3:75 | L'honnêteté sélective envers les *ummiyyīn* |
 | S.3:76–77 | La fidélité à l'engagement — le prix dérisoire |
 | S.3:78 | La torsion de la langue avec le Kitāb |
@@ -124,7 +124,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:73–74"
    ar="وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ ۝ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
    trl="Wa-lā tuʾminū illā li-man tabiʿa dīnakum qul inna l-hudā hudā llāhi an yuʾtā aḥadun mithla mā ūtītum aw yuḥājjūkum ʿinda rabbikum — qul inna l-faḍla bi-yadi llāhi yuʾtīhi man yashāʾ — wa-llāhu wāsiʿun ʿalīm — yakhtaṣṣu bi-raḥmatihi man yashāʾ — wa-llāhu dhū l-faḍli l-ʿaẓīm"
-   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Rabb. Dis : « Le faḍl est dans la main d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
+   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Rabb. Dis : « Le faḍl est dans la Yad d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
 %}
 
 {% include verset.html
@@ -157,7 +157,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree" id="yad-s3-73">
 <dt><span class="lex-ar">بِيَدِ ٱللَّهِ</span><span class="lex-trl">bi-yadi llāhi</span></dt>
-<dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. La traduction retient « main », fidèle à l'image mobilisée par le texte, sans trancher — un non-dit — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah.</dd>
+<dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. Le mot français « main » réintroduisant de lui-même une image corporelle concrète, la traduction retient « *Yad* » en translittération plutôt que « main », sans trancher — un non-dit — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">تَلْبِسُونَ / تَكْتُمُونَ</span><span class="lex-trl">talbisūna / taktumūna</span></dt>

@@ -129,7 +129,7 @@ Ce sommaire couvre la **Sourate 3 · Āl ʿImrān** dans son intégralité (200 
 | S.3:69 | La volonté d'égarer qui se retourne contre eux |
 | S.3:70–71 | Le refus de reconnaître — habiller le *ḥaqq* du *bāṭil* |
 | S.3:72 | La foi feinte au début et à la fin du jour |
-| S.3:73–74 | Le *faḍl* dans la main d'Allaah |
+| S.3:73–74 | Le *faḍl* dans la Yad d'Allaah |
 | S.3:75 | L'honnêteté sélective envers les *ummiyyīn* |
 | S.3:76–77 | La fidélité à l'engagement — le prix dérisoire |
 | S.3:78 | La torsion de la langue avec le Kitāb |
