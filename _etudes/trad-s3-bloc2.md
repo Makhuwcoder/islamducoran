@@ -35,7 +35,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.3:45–46 | L'annonce d'*al-Masīḥ* ʿĪsā |
 | S.3:47 | Comment aurai-je un enfant — *kun fa-yakūn* |
 | S.3:48–50 | La mission d'ʿĪsā — signes par la permission d'Allaah |
-| S.3:51 | Allaah, mon Seigneur et votre Seigneur |
+| S.3:51 | Allaah, mon Rabb et votre Rabb |
 | S.3:52–53 | Le *kufr* perçu par ʿĪsā — les *ḥawāriyyūn* |
 | S.3:54 | La manœuvre d'Allaah |
 | S.3:55 | *Mutawaffīka* — le rappel et l'élévation d'ʿĪsā |
@@ -58,26 +58,30 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:35"
    ar="إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
    trl="Idh qālati mraʾatu ʿImrāna rabbi innī nadhartu laka mā fī baṭnī muḥarraran fa-taqabbal minnī — innaka anta l-Samīʿu l-ʿAlīm"
-   trad="Quand la femme de ʿImrān dit : « Mon Seigneur, j'ai voué pour Toi ce qui est dans mon ventre, entièrement consacré — accepte-le donc de moi. C'est Toi, Toi, al-Samīʿ, al-ʿAlīm. »"
+   trad="Quand la femme de ʿImrān dit : « Mon Rabb, j'ai voué pour Toi ce qui est dans mon ventre, entièrement consacré — accepte-le donc de moi. C'est Toi, Toi, al-Samīʿ, al-ʿAlīm. »"
 %}
 
 {% include verset.html
    ref="S.3:36"
    ar="فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ"
    trl="Fa-lammā waḍaʿathā qālat rabbi innī waḍaʿtuhā unthā wa-llāhu aʿlamu bi-mā waḍaʿat wa-laysa l-dhakaru ka-l-unthā — wa-innī sammaytuhā Maryama wa-innī uʿīdhuhā bika wa-dhurriyyatahā mina l-shayṭāni l-rajīm"
-   trad="Puis, quand elle l'eut mise au monde, elle dit : « Mon Seigneur, je l'ai mise au monde, une fille » — et Allaah sait mieux ce qu'elle a mis au monde — « et le garçon n'est pas comme la fille — je l'ai nommée Maryam, et je la place sous Ta protection, elle et sa descendance, contre le shayṭān banni. »"
+   trad="Puis, quand elle l'eut mise au monde, elle dit : « Mon Rabb, je l'ai mise au monde, une fille » — et Allaah sait mieux ce qu'elle a mis au monde — « et le garçon n'est pas comme la fille — je l'ai nommée Maryam, et je la place sous Ta protection, elle et sa descendance, contre le shayṭān banni. »"
 %}
 
 {% include verset.html
    ref="S.3:37"
    ar="فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ"
    trl="Fa-taqabbalahā Rabbuhā bi-qabūlin ḥasanin wa-anbatahā nabātan ḥasanan wa-kaffalahā Zakariyyā — kullamā dakhala ʿalayhā Zakariyyā l-miḥrāba wajada ʿindahā rizqan — qāla yā-Maryamu annā laki hādhā — qālat huwa min ʿindi llāh — inna llāha yarzuqu man yashāʾu bi-ghayri ḥisāb"
-   trad="Son Seigneur l'accueillit d'un accueil digne, la fit croître d'une croissance digne, et en confia la charge à Zakariyyā — chaque fois que Zakariyyā entrait auprès d'elle dans al-miḥrāb, il y trouvait une provision — il dit : « Ô Maryam, d'où te vient cela ? » — elle dit : « Cela vient d'auprès d'Allaah — Allaah pourvoit qui Il veut, sans compte. »"
+   trad="Son Rabb l'accueillit d'un accueil digne, la fit croître d'une croissance digne, et en confia la charge à Zakariyyā — chaque fois que Zakariyyā entrait auprès d'elle dans al-miḥrāb, il y trouvait une provision — il dit : « Ô Maryam, d'où te vient cela ? » — elle dit : « Cela vient d'auprès d'Allaah — Allaah pourvoit qui Il veut, sans compte. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
+<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱصْطَفَىٰ</span><span class="lex-trl">iṣṭafā</span></dt>
 <dd>racine ṣ-f-w (forme VIII) : choisir en écartant tout le reste, élire de façon exclusive — même racine que <em>ṣafwa</em> (l'élite, ce qui est purifié/décanté).</dd>
@@ -116,7 +120,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:38"
    ar="هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ"
    trl="Hunālika daʿā Zakariyyā Rabbahu — qāla rabbi hab lī min ladunka dhurriyyatan ṭayyibatan — innaka Samīʿu l-duʿāʾ"
-   trad="Là, Zakariyyā invoqua son Seigneur — il dit : « Mon Seigneur, accorde-moi, de Ta part, une descendance ṭayyiba — c'est Toi qui entends l'invocation (al-duʿāʾ). »"
+   trad="Là, Zakariyyā invoqua son Rabb — il dit : « Mon Rabb, accorde-moi, de Ta part, une descendance ṭayyiba — c'est Toi qui entends l'invocation (al-duʿāʾ). »"
 %}
 
 {% include verset.html
@@ -130,14 +134,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:40–41"
    ar="قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ ۝ قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ"
    trl="Qāla rabbi annā yakūnu lī ghulāmun wa-qad balaghaniya l-kibaru wa-mraʾatī ʿāqir — qāla ka-dhālika llāhu yafʿalu mā yashāʾ — qāla rabbi jʿal lī āyatan — qāla āyatuka allā tukallima l-nāsa thalāthata ayyāmin illā ramzan — wa-dhkur rabbaka kathīran wa-sabbiḥ bi-l-ʿashiyyi wa-l-ibkār"
-   trad="Il dit : « Mon Seigneur, comment aurai-je un garçon, alors que la vieillesse m'a atteint et que ma femme est stérile ? » — Il dit : « Ainsi — Allaah fait ce qu'Il veut. » Il dit : « Mon Seigneur, place pour moi un signe. » — Il dit : « Ton signe est que tu ne parleras pas aux gens pendant trois jours, sinon par geste — mentionne beaucoup ton Seigneur, et déclare Sa transcendance (sabbiḥ) au soir et au matin. »"
+   trad="Il dit : « Mon Rabb, comment aurai-je un garçon, alors que la vieillesse m'a atteint et que ma femme est stérile ? » — Il dit : « Ainsi — Allaah fait ce qu'Il veut. » Il dit : « Mon Rabb, place pour moi un signe. » — Il dit : « Ton signe est que tu ne parleras pas aux gens pendant trois jours, sinon par geste — mentionne beaucoup ton Rabb, et déclare Sa transcendance (sabbiḥ) au soir et au matin. »"
 %}
 
 {% include verset.html
    ref="S.3:42–43"
    ar="وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ ۝ يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ"
    trl="Wa-idh qālati l-malāʾikatu yā-Maryamu inna llāha ṣṭafāki wa-ṭahharaki wa-ṣṭafāki ʿalā nisāʾi l-ʿālamīn — yā-Maryamu qnutī li-rabbiki wa-sjudī wa-rkaʿī maʿa l-rākiʿīn"
-   trad="Et quand les malāʾika dirent : « Ô Maryam, Allaah t'a élue et t'a purifiée, et t'a élue au-dessus des femmes des mondes. Ô Maryam, tiens-toi dans le qunūt pour ton Seigneur, prosterne-toi et incline-toi avec ceux qui s'inclinent. »"
+   trad="Et quand les malāʾika dirent : « Ô Maryam, Allaah t'a élue et t'a purifiée, et t'a élue au-dessus des femmes des mondes. Ô Maryam, tiens-toi dans le qunūt pour ton Rabb, prosterne-toi et incline-toi avec ceux qui s'inclinent. »"
 %}
 
 {% include verset.html
@@ -199,26 +203,30 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:47"
    ar="قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ"
    trl="Qālat rabbi annā yakūnu lī waladun wa-lam yamsasnī bashar — qāla ka-dhāliki llāhu yakhluqu mā yashāʾ — idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn"
-   trad="Elle dit : « Mon Seigneur, comment aurai-je un enfant, alors qu'aucun être humain (bashar) ne m'a touchée ? » — Il dit : « Ainsi — Allaah crée ce qu'Il veut ; quand Il décide d'une chose, Il lui dit seulement : ‹ Sois › — et elle est. »"
+   trad="Elle dit : « Mon Rabb, comment aurai-je un enfant, alors qu'aucun être humain (bashar) ne m'a touchée ? » — Il dit : « Ainsi — Allaah crée ce qu'Il veut ; quand Il décide d'une chose, Il lui dit seulement : ‹ Sois › — et elle est. »"
 %}
 
 {% include verset.html
    ref="S.3:48–50"
    ar="وَيُعَلِّمُهُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۝ وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۝ وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ"
    trl="Wa-yuʿallimuhu l-kitāba wa-l-ḥikmata wa-l-tawrāta wa-l-injīl — wa-rasūlan ilā banī Isrāʾīla annī qad jiʾtukum bi-āyatin min rabbikum — annī akhluqu lakum mina l-ṭīni ka-hayʾati l-ṭayri fa-anfukhu fīhi fa-yakūnu ṭayran bi-idhni llāh — wa-ubriʾu l-akmaha wa-l-abraṣa wa-uḥyi l-mawtā bi-idhni llāh — wa-unabbiʾukum bi-mā taʾkulūna wa-mā taddakhirūna fī buyūtikum — inna fī dhālika la-āyatan lakum in kuntum muʾminīn — wa-muṣaddiqan li-mā bayna yadayya mina l-tawrāti wa-li-uḥilla lakum baʿḍa lladhī ḥurrima ʿalaykum — wa-jiʾtukum bi-āyatin min rabbikum fa-ttaqū llāha wa-aṭīʿūn"
-   trad="Et Il lui enseigne le Kitāb, la ḥikma, la Tawrāh et l'Injīl — et comme rasūl envers les Banū Isrāʾīl : « Je vous ai apporté un signe venant de votre Seigneur — je façonne pour vous, à partir de l'argile, une forme d'oiseau, puis j'y souffle et elle devient un oiseau, par la permission d'Allaah — je guéris l'aveugle-né et le lépreux, et je redonne vie aux morts, par la permission d'Allaah — et je vous informe de ce que vous mangez et de ce que vous amassez dans vos maisons. En cela, il y a certes un signe pour vous, si vous êtes muʾminūn — et confirmant ce qui, de la Tawrāh, est entre mes mains — et pour rendre licite pour vous une partie de ce qui vous était interdit — je vous ai apporté un signe venant de votre Seigneur ; prémunissez-vous donc d'Allaah et obéissez-moi. »"
+   trad="Et Il lui enseigne le Kitāb, la ḥikma, la Tawrāh et l'Injīl — et comme rasūl envers les Banū Isrāʾīl : « Je vous ai apporté un signe venant de votre Rabb — je façonne pour vous, à partir de l'argile, une forme d'oiseau, puis j'y souffle et elle devient un oiseau, par la permission d'Allaah — je guéris l'aveugle-né et le lépreux, et je redonne vie aux morts, par la permission d'Allaah — et je vous informe de ce que vous mangez et de ce que vous amassez dans vos maisons. En cela, il y a certes un signe pour vous, si vous êtes muʾminūn — et confirmant ce qui, de la Tawrāh, est entre mes mains — et pour rendre licite pour vous une partie de ce qui vous était interdit — je vous ai apporté un signe venant de votre Rabb ; constituez-vous donc une taqwā d'Allaah et obéissez-moi. »"
 %}
 
 {% include verset.html
    ref="S.3:51"
    ar="إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ"
    trl="Inna llāha rabbī wa-rabbukum fa-ʿbudūhu — hādhā ṣirāṭun mustaqīm"
-   trad="Allaah est mon Seigneur et votre Seigneur ; servez-Le donc. Voilà un chemin droit."
+   trad="Allaah est mon Rabb et votre Rabb ; servez-Le donc. Voilà un chemin droit."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱتَّقُوا۟</span><span class="lex-trl">ittaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">بَشَر</span><span class="lex-trl">bashar</span></dt>
 <dd>être humain au sens biologique/générique,.</dd>
@@ -253,7 +261,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:52–53"
    ar="۞ فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ قَالَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ءَامَنَّا بِٱللَّهِ وَٱشْهَدْ بِأَنَّا مُسْلِمُونَ ۝ رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّـٰهِدِينَ"
    trl="Fa-lammā aḥassa ʿĪsā minhumu l-kufra qāla man anṣārī ila llāh — qāla l-ḥawāriyyūna naḥnu anṣāru llāhi āmannā bi-llāhi wa-shhad bi-annā muslimūn — rabbanā āmannā bi-mā anzalta wa-ttabaʿnā l-rasūla fa-ktubnā maʿa l-shāhidīn"
-   trad="Puis, quand ʿĪsā perçut chez eux le kufr, il dit : « Qui sont mes secoureurs vers Allaah ? » — les ḥawāriyyūn dirent : « Nous sommes les secoureurs d'Allaah, nous avons cru en Allaah, et atteste que nous sommes muslimūn. Notre Seigneur, nous avons cru en ce que Tu as fait descendre, et nous avons suivi le rasūl — inscris-nous donc parmi les témoins (al-shāhidīn). »"
+   trad="Puis, quand ʿĪsā perçut chez eux le kufr, il dit : « Qui sont mes secoureurs vers Allaah ? » — les ḥawāriyyūn dirent : « Nous sommes les secoureurs d'Allaah, nous avons cru en Allaah, et atteste que nous sommes muslimūn. Notre Rabb, nous avons cru en ce que Tu as fait descendre, et nous avons suivi le rasūl — inscris-nous donc parmi les témoins (al-shāhidīn). »"
 %}
 
 {% include verset.html
@@ -292,7 +300,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:59–60"
    ar="إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ ۝ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ"
    trl="Inna mathala ʿĪsā ʿinda llāhi ka-mathali Ādama — khalaqahu min turābin thumma qāla lahu kun fa-yakūn — al-ḥaqqu min rabbika fa-lā takun mina l-mumtarīn"
-   trad="L'exemple d'ʿĪsā, dans le registre d'Allaah, est comme l'exemple d'Ādam : Il le créa de terre, puis Il lui dit : « Sois » — et il fut. Le ḥaqq vient de ton Seigneur ; ne sois donc pas parmi ceux qui doutent."
+   trad="L'exemple d'ʿĪsā, dans le registre d'Allaah, est comme l'exemple d'Ādam : Il le créa de terre, puis Il lui dit : « Sois » — et il fut. Le ḥaqq vient de ton Rabb ; ne sois donc pas parmi ceux qui doutent."
 %}
 
 {% include verset.html

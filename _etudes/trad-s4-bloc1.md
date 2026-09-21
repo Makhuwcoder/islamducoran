@@ -51,12 +51,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:1"
    ar="يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا"
    trl="Yā ayyuhā n-nāsu ttaqū rabbakumu lladhī khalaqakum min nafsin wāḥidatin wa-khalaqa minhā zawjahā wa-baththa minhumā rijālan kathīran wa-nisāʾā — wa-ttaqu llāha lladhī tasāʾalūna bihi wa-l-arḥām — inna llāha kāna ʿalaykum raqībā"
-   trad="Ô *al-nās* ! Prémunissez-vous de votre *Rabb*, Ce qui vous a créés d'un *nafs* unique et a créé de lui son conjoint (*zawj*), et a disséminé, à partir des deux, de nombreux hommes et femmes — prémunissez-vous d'Allaah, au nom duquel vous vous interpellez les uns les autres, et [prémunissez-vous à l'égard] des *arḥām* — Allaah est, sur vous, *Raqīb* (Ce qui observe et surveille de près)."
+   trad="Ô *al-nās* ! Constituez-vous une taqwā de votre *Rabb*, Ce qui vous a créés d'un *nafs* unique et a créé de lui son conjoint (*zawj*), et a disséminé, à partir des deux, de nombreux hommes et femmes — constituez-vous une taqwā d'Allaah, au nom duquel vous vous interpellez les uns les autres, et [constituez-vous une taqwā à l'égard] des *arḥām* — Allaah est, sur vous, *Raqīb* (Ce qui observe et surveille de près)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ttaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nafs wāḥida</span></dt>
 <dd>racine <em>n-f-s</em> : un principe vivant unique, non genré par le terme lui-même. Le texte ne précise pas ici la modalité de la création du *zawj* « à partir » de ce *nafs* (*minhā*) ; toute précision sur un mode opératoire (par exemple une côte) est une importation extérieure au texte — <strong>non-dit</strong>.</dd>
@@ -266,7 +270,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:9"
    ar="وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا"
    trl="Wa-l-yakhsha lladhīna law tarakū min khalfihim dhurriyyatan ḍiʿāfan khāfū ʿalayhim fa-l-yattaqu llāha wa-l-yaqūlū qawlan sadīdā"
-   trad="Que redoutent [cette situation] ceux qui, s'ils laissaient derrière eux une descendance (*dhurriyya*) vulnérable, craindraient pour elle — qu'ils se prémunissent donc d'Allaah et disent une parole *sadīd* (juste, sans faille)."
+   trad="Que redoutent [cette situation] ceux qui, s'ils laissaient derrière eux une descendance (*dhurriyya*) vulnérable, craindraient pour elle — qu'ils se constituent donc une taqwā d'Allaah et disent une parole *sadīd* (juste, sans faille)."
 %}
 
 <div class="notes-lexicales">

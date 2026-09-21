@@ -34,7 +34,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.2:278 | Abandonner ce qui reste du *ribā* |
 | S.2:279 | L'avertissement de guerre — le capital rendu sans lésion |
 | S.2:280 | Le débiteur en difficulté — attendre l'aisance, ou faire *ṣadaqa* |
-| S.2:281 | Se prémunir du jour du retour vers Allaah |
+| S.2:281 | Se constituer une taqwā en vue du jour du retour vers Allaah |
 | S.2:282 | L'écrit de la dette — scribe, dictée, témoins, protection |
 | S.2:283 | Le gage en voyage — l'*amāna* et le témoignage non dissimulé |
 
@@ -95,12 +95,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:274"
    ar="الَّذِينَ يُنفِقُونَ أَمْوَالَهُم بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
    trl="Alladhīna yunfiqūna amwālahum bi-l-layli wa-l-nahāri sirran wa-ʿalāniyatan fa-lahum ajruhum ʿinda rabbihim wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn"
-   trad="Ceux qui dépensent leurs biens de nuit et de jour, en secret et publiquement, ont leur récompense auprès de leur Seigneur ; nulle crainte sur eux, et ils n'auront pas à se désoler."
+   trad="Ceux qui dépensent leurs biens de nuit et de jour, en secret et publiquement, ont leur récompense auprès de leur Rabb ; nulle crainte sur eux, et ils n'auront pas à se désoler."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">طَيِّبَات</span><span class="lex-trl">ṭayyibāt</span></dt>
 <dd>racine ṭ-y-b : ce qui est bon, sain, agréable.</dd>
@@ -213,7 +217,7 @@ Ce passage fait l'objet d'une étude dédiée et approfondie, qui confronte les 
    ref="S.2:275"
    ar="الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَن جَاءَهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ"
    trl="Alladhīna yaʾkulūna l-ribā lā yaqūmūna illā ka-mā yaqūmu lladhī yatakhabbaṭuhu l-shayṭānu mina l-mass — dhālika bi-annahum qālū innamā l-bayʿu mithlu l-ribā — wa-aḥalla llāhu l-bayʿa wa-ḥarrama l-ribā — fa-man jāʾahu mawʿiẓatun min rabbihi fa-ntahā fa-lahu mā salaf wa-amruhu ila llāh — wa-man ʿāda fa-ulāʾika aṣḥābu l-nār — hum fīhā khālidūn"
-   trad="Ceux qui dévorent le ribā ne se lèveront pas autrement que comme se lève celui que le shayṭān a abattu par son toucher — cela parce qu'ils ont dit : « Le commerce n'est que comme le ribā » — alors qu'Allaah a rendu licite le commerce et a interdit le ribā. Quiconque, une exhortation de son Seigneur lui étant parvenue, cesse alors, gardera ce qui est passé, et son affaire revient à Allaah. Quiconque récidive — ceux-là sont les gens du feu, où ils demeurent."
+   trad="Ceux qui dévorent le ribā ne se lèveront pas autrement que comme se lève celui que le shayṭān a abattu par son toucher — cela parce qu'ils ont dit : « Le commerce n'est que comme le ribā » — alors qu'Allaah a rendu licite le commerce et a interdit le ribā. Quiconque, une exhortation de son Rabb lui étant parvenue, cesse alors, gardera ce qui est passé, et son affaire revient à Allaah. Quiconque récidive — ceux-là sont les gens du feu, où ils demeurent."
 %}
 
 {% include verset.html
@@ -227,14 +231,14 @@ Ce passage fait l'objet d'une étude dédiée et approfondie, qui confronte les 
    ref="S.2:277"
    ar="إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَقَامُوا الصَّلَاةَ وَآتَوُا الزَّكَاةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
    trl="Inna lladhīna āmanū wa-ʿamilū l-ṣāliḥāti wa-aqāmū l-ṣalāta wa-ātawu l-zakāta lahum ajruhum ʿinda rabbihim wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn"
-   trad="Ceux qui ont cru, ont œuvré dans les ṣāliḥāt, ont accompli la ṣalāt et donné la zakāt, ont leur récompense auprès de leur Seigneur ; nulle crainte sur eux, et ils n'auront pas à se désoler."
+   trad="Ceux qui ont cru, ont œuvré dans les ṣāliḥāt, ont accompli la ṣalāt et donné la zakāt, ont leur récompense auprès de leur Rabb ; nulle crainte sur eux, et ils n'auront pas à se désoler."
 %}
 
 {% include verset.html
    ref="S.2:278"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا إِن كُنتُم مُّؤْمِنِينَ"
    trl="Yā ayyuhā lladhīna āmanū ttaqu llāha wa-dharū mā baqiya mina l-ribā in kuntum muʾminīn"
-   trad="O vous qui croyez — prémunissez-vous d'Allaah et abandonnez ce qui vous reste du ribā, si vous êtes croyants."
+   trad="O vous qui croyez — constituez-vous une taqwā d'Allaah et abandonnez ce qui vous reste du ribā, si vous êtes croyants."
 %}
 
 {% include verset.html
@@ -255,12 +259,16 @@ Ce passage fait l'objet d'une étude dédiée et approfondie, qui confronte les 
    ref="S.2:281"
    ar="وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ"
    trl="Wa-ttaqū yawman turjaʿūna fīhi ila llāh — thumma tuwaffā kullu nafsin mā kasabat wa-hum lā yuẓlamūn"
-   trad="Et prémunissez-vous d'un jour où vous serez ramenés vers Allaah — puis chaque nafs recevra intégralement ce qu'elle a acquis, et ils ne seront pas lésés."
+   trad="Et constituez-vous une taqwā en vue d'un jour où vous serez ramenés vers Allaah — puis chaque nafs recevra intégralement ce qu'elle a acquis, et ils ne seront pas lésés."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ittaqū / taqwā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسّ</span><span class="lex-trl">yatakhabbaṭuhu l-shayṭānu mina l-mass</span></dt>
 <dd>image d'un ébranlement, d'une démarche déséquilibrée.</dd>
@@ -321,14 +329,14 @@ S2:282 est le verset le plus long du muṣḥaf. Il est donné ici intégralemen
    ref="S.2:282"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِن كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِن رِّجَالِكُمْ ۖ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَن تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِندَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَن تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِن تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ"
    trl="Yā ayyuhā lladhīna āmanū idhā tadāyantum bi-daynin ilā ajalin musamman fa-ktubūh — wa-l-yaktub baynakum kātibun bi-l-ʿadl — wa-lā yaʾba kātibun an yaktuba ka-mā ʿallamahu llāh — fa-l-yaktub wa-l-yumlili lladhī ʿalayhi l-ḥaqqu wa-l-yattaqi llāha rabbahu wa-lā yabkhas minhu shayʾā — fa-in kāna lladhī ʿalayhi l-ḥaqqu safīhan aw ḍaʿīfan aw lā yastaṭīʿu an yumilla huwa fa-l-yumlil waliyyuhu bi-l-ʿadl — wa-stashhidū shahīdayni min rijālikum — fa-in lam yakūnā rajulayni fa-rajulun wa-mraʾatāni mimman tarḍawna mina l-shuhadāʾi an taḍilla iḥdāhumā fa-tudhakkira iḥdāhumā l-ukhrā — wa-lā yaʾba l-shuhadāʾu idhā mā duʿū — wa-lā tasʾamū an taktubūhu ṣaghīran aw kabīran ilā ajalih — dhālikum aqsaṭu ʿinda llāhi wa-aqwamu li-l-shahādati wa-adnā allā tartābū — illā an takūna tijāratan ḥāḍiratan tudīrūnahā baynakum fa-laysa ʿalaykum junāḥun allā taktubūhā — wa-ashhidū idhā tabāyaʿtum — wa-lā yuḍārra kātibun wa-lā shahīd — wa-in tafʿalū fa-innahu fusūqun bikum — wa-ttaqu llāh — wa-yuʿallimukumu llāh — wa-llāhu bi-kulli shayʾin ʿalīm"
-   trad="O vous qui croyez — lorsque vous contractez une dette entre vous pour un terme fixé, mettez-la par écrit. Qu'un scribe l'écrive entre vous avec justice (ʿadl) ; et qu'un scribe ne refuse pas d'écrire selon ce qu'Allaah lui a enseigné : qu'il écrive, et que dicte celui sur qui pèse la dette (al-ḥaqq), et qu'il se prémunisse d'Allaah, son Seigneur, et n'en diminue rien. Si celui sur qui pèse la dette est safīh (dépourvu de discernement), ou faible, ou incapable de dicter lui-même, que son walī dicte alors avec justice. Et faites témoigner deux témoins parmi vos hommes ; à défaut de deux hommes, un homme et deux femmes parmi ceux que vous agréez comme témoins, de sorte que si l'une des deux s'égare, l'autre la fasse se souvenir. Que les témoins ne refusent pas lorsqu'ils sont appelés. Et ne vous lassez pas d'écrire la dette, petite ou grande, jusqu'à son terme : cela est plus équitable auprès d'Allaah, plus droit pour le témoignage, et plus proche pour que vous ne doutiez pas — sauf s'il s'agit d'un commerce immédiat que vous faites circuler entre vous : il n'y a alors sur vous nul grief à ne pas l'écrire. Prenez des témoins lorsque vous concluez un échange entre vous. Que ni le scribe ni le témoin ne subissent de préjudice ; et si vous le faites, ce sera une transgression (fusūq) de votre part. Prémunissez-vous d'Allaah — Allaah vous enseigne — et Allaah, de toute chose, est ʿAlīm."
+   trad="O vous qui croyez — lorsque vous contractez une dette entre vous pour un terme fixé, mettez-la par écrit. Qu'un scribe l'écrive entre vous avec justice (ʿadl) ; et qu'un scribe ne refuse pas d'écrire selon ce qu'Allaah lui a enseigné : qu'il écrive, et que dicte celui sur qui pèse la dette (al-ḥaqq), et qu'il se constitue une taqwā d'Allaah, son Rabb, et n'en diminue rien. Si celui sur qui pèse la dette est safīh (dépourvu de discernement), ou faible, ou incapable de dicter lui-même, que son walī dicte alors avec justice. Et faites témoigner deux témoins parmi vos hommes ; à défaut de deux hommes, un homme et deux femmes parmi ceux que vous agréez comme témoins, de sorte que si l'une des deux s'égare, l'autre la fasse se souvenir. Que les témoins ne refusent pas lorsqu'ils sont appelés. Et ne vous lassez pas d'écrire la dette, petite ou grande, jusqu'à son terme : cela est plus équitable auprès d'Allaah, plus droit pour le témoignage, et plus proche pour que vous ne doutiez pas — sauf s'il s'agit d'un commerce immédiat que vous faites circuler entre vous : il n'y a alors sur vous nul grief à ne pas l'écrire. Prenez des témoins lorsque vous concluez un échange entre vous. Que ni le scribe ni le témoin ne subissent de préjudice ; et si vous le faites, ce sera une transgression (fusūq) de votre part. Constituez-vous une taqwā d'Allaah — Allaah vous enseigne — et Allaah, de toute chose, est ʿAlīm."
 %}
 
 {% include verset.html
    ref="S.2:283"
    ar="وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَّقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ"
    trl="Wa-in kuntum ʿalā safarin wa-lam tajidū kātiban fa-rihānun maqbūḍah — fa-in amina baʿḍukum baʿḍan fa-l-yuʾaddi lladhi ʾtumina amānatahu wa-l-yattaqi llāha rabbah — wa-lā taktumu l-shahādah — wa-man yaktumhā fa-innahu āthimun qalbuh — wa-llāhu bi-mā taʿmalūna ʿalīm"
-   trad="Et si vous êtes en voyage et ne trouvez pas de scribe, un gage saisi (rihān maqbūḍa) suffit. Et si l'un de vous fait confiance à un autre, que celui à qui la confiance a été faite s'acquitte de son amāna, et qu'il se prémunisse d'Allaah, son Seigneur. Ne dissimulez pas le témoignage : quiconque le dissimule, son cœur est certes chargé de faute (āthim). Allaah, de ce que vous faites, est ʿAlīm."
+   trad="Et si vous êtes en voyage et ne trouvez pas de scribe, un gage saisi (rihān maqbūḍa) suffit. Et si l'un de vous fait confiance à un autre, que celui à qui la confiance a été faite s'acquitte de son amāna, et qu'il se constitue une taqwā d'Allaah, son Rabb. Ne dissimulez pas le témoignage : quiconque le dissimule, son cœur est certes chargé de faute (āthim). Allaah, de ce que vous faites, est ʿAlīm."
 %}
 
 <div class="notes-lexicales">

@@ -123,12 +123,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:5"
    ar="أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"
    trl="*Ulāʾika ʿalā hudan min rabbihim wa-ulāʾika humu l-mufliḥūn*"
-   trad="Ceux-là sont sur une guidance venant de leur Seigneur, et ceux-là sont les *mufliḥūn*."
+   trad="Ceux-là sont sur une guidance venant de leur Rabb, et ceux-là sont les *mufliḥūn*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">mufliḥūn</span></dt>
 <dd>racine *f-l-ḥ* : ceux qui fendent, qui ouvrent un passage, qui réussissent en surmontant l'obstacle. Le *falāḥ* est une réussite active, non passive. Conservé en translittération : « les bienheureux » ou « les prospères » ne rendent pas l'idée d'une réussite qui brise une résistance.</dd>

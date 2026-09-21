@@ -264,12 +264,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:187"
    ar="أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَىٰ نِسَائِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ اللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَالْآنَ بَاشِرُوهُنَّ وَابْتَغُوا مَا كَتَبَ اللَّهُ لَكُمْ ۚ وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ وَلَا تُبَاشِرُوهُنَّ وَأَنتُمْ عَاكِفُونَ فِي الْمَسَاجِدِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ"
    trl="Uḥilla lakum laylata l-ṣiyāmi l-rafathu ilā nisāʾikum — hunna libāsun lakum wa-antum libāsun lahunna — ʿalima llāhu annakum kuntum takhtānūna anfusakum fa-tāba ʿalaykum wa-ʿafā ʿankum — fa-l-āna bāshirūhunna wa-btaghū mā kataba llāhu lakum — wa-kulū wa-shrabū ḥattā yatabayyana lakumu l-khayṭu l-abyaḍu mina l-khayṭi l-aswadi mina l-fajri — thumma atimmū l-ṣiyāma ilā l-layli — wa-lā tubāshirūhunna wa-antum ʿākifūna fī l-masājidi — tilka ḥudūdu llāhi fa-lā taqrabūhā — ka-dhālika yubayyinu llāhu āyātihi li-l-nāsi laʿallahum yattaqūn"
-   trad="Vous a été rendu ḥalāl, la nuit du ṣiyām, le rafath vers vos épouses — elles sont un vêtement pour vous et vous êtes un vêtement pour elles. Allaah a su que vous vous trahissiez vous-mêmes — Il a accueilli votre retour et vous a graciés. Approchez-les donc maintenant, et recherchez ce qu'Allaah a prescrit pour vous. Mangez et buvez jusqu'à ce que se distingue pour vous le fil blanc du fil noir de l'aube — puis accomplissez le ṣiyām jusqu'à la nuit. Et ne les approchez pas alors que vous êtes ʿākifūn dans les masājid. Voilà les ḥudūd d'Allaah — ne vous en approchez pas. C'est ainsi qu'Allaah expose Ses āyāt aux gens — afin qu'ils se prémunissent."
+   trad="Vous a été rendu ḥalāl, la nuit du ṣiyām, le rafath vers vos épouses — elles sont un vêtement pour vous et vous êtes un vêtement pour elles. Allaah a su que vous vous trahissiez vous-mêmes — Il a accueilli votre retour et vous a graciés. Approchez-les donc maintenant, et recherchez ce qu'Allaah a prescrit pour vous. Mangez et buvez jusqu'à ce que se distingue pour vous le fil blanc du fil noir de l'aube — puis accomplissez le ṣiyām jusqu'à la nuit. Et ne les approchez pas alors que vous êtes ʿākifūn dans les masājid. Voilà les ḥudūd d'Allaah — ne vous en approchez pas. C'est ainsi qu'Allaah expose Ses āyāt aux gens — afin qu'ils se constituent une taqwā."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yattaqūn / taqwā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الرَّفَث</span><span class="lex-trl">al-rafath</span></dt>
 <dd>le rapprochement intime, ici explicitement autorisé la nuit du ṣiyām et explicitement interdit pendant le ḥajj (S2:197, même, dans ce même bloc).</dd>
@@ -331,7 +335,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:189"
    ar="يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ ۖ قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ ۗ وَلَيْسَ الْبِرُّ بِأَن تَأْتُوا الْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ الْبِرَّ مَنِ اتَّقَىٰ ۗ وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ"
    trl="Yasʾalūnaka ʿani l-ahillati qul hiya mawāqītu li-l-nāsi wa-l-ḥajji — wa-laysa l-birru bi-an taʾtū l-buyūta min ẓuhūrihā wa-lākinna l-birra mani ttaqā — wa-tū l-buyūta min abwābihā wa-ttaqū llāha laʿallakum tufliḥūn"
-   trad="Ils t'interrogent au sujet des ahilla — dis : « Ce sont des mawāqīt pour les gens et pour le ḥajj. » Et le birr n'est pas d'entrer dans les maisons par leurs dos — mais le birr, c'est celui qui se constitue une taqwā. Entrez dans les maisons par leurs portes, et prémunissez-vous auprès d'Allaah — afin que vous atteigniez le falāḥ."
+   trad="Ils t'interrogent au sujet des ahilla — dis : « Ce sont des mawāqīt pour les gens et pour le ḥajj. » Et le birr n'est pas d'entrer dans les maisons par leurs dos — mais le birr, c'est celui qui se constitue une taqwā. Entrez dans les maisons par leurs portes, et constituez-vous une taqwā d'Allaah — afin que vous atteigniez le falāḥ."
 %}
 
 <div class="notes-lexicales">
@@ -464,7 +468,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:194"
    ar="الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ ۚ فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ"
    trl="Al-shahru l-ḥarāmu bi-l-shahri l-ḥarāmi wa-l-ḥurumātu qiṣāṣ — fa-mani ʿtadā ʿalaykum fa-ʿtadū ʿalayhi bi-mithli mā ʿtadā ʿalaykum — wa-ttaqū llāha wa-ʿlamū anna llāha maʿa l-muttaqīn"
-   trad="Le mois ḥarām répond au mois ḥarām, et les ḥurumāt relèvent du qiṣāṣ — quiconque a transgressé contre vous, répondez-lui par l'équivalent exact de ce dont il a transgressé contre vous. Prémunissez-vous auprès d'Allaah et sachez qu'Allaah est avec les muttaqīn."
+   trad="Le mois ḥarām répond au mois ḥarām, et les ḥurumāt relèvent du qiṣāṣ — quiconque a transgressé contre vous, répondez-lui par l'équivalent exact de ce dont il a transgressé contre vous. Constituez-vous une taqwā d'Allaah et sachez qu'Allaah est avec les muttaqīn."
 %}
 
 <div class="notes-lexicales">
@@ -523,7 +527,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:196"
    ar="وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۖ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ"
    trl="Wa-atimmū l-ḥajja wa-l-ʿumrata li-llāh — fa-in uḥṣirtum fa-mā staysara mina l-hady — wa-lā taḥliqū ruʾūsakum ḥattā yablugha l-hadyu maḥillahu — fa-man kāna minkum marīḍan aw bihi adhan min raʾsihi fa-fidyatun min ṣiyāmin aw ṣadaqatin aw nusuk — fa-idhā amintum fa-man tamattaʿa bi-l-ʿumrati ilā l-ḥajji fa-mā staysara mina l-hady — fa-man lam yajid fa-ṣiyāmu thalāthati ayyāmin fī l-ḥajji wa-sabʿatin idhā rajaʿtum — tilka ʿasharatun kāmilatun — dhālika li-man lam yakun ahluhu ḥāḍiri l-masjidi l-ḥarāmi — wa-ttaqū llāha wa-ʿlamū anna llāha shadīdu l-ʿiqāb"
-   trad="Et accomplissez pleinement le ḥajj et la ʿumra pour Allaah. Si vous en êtes empêchés, alors ce qui s'obtient aisément comme hady. Et ne rasez pas vos têtes avant que le hady n'atteigne son terme. Quiconque parmi vous est malade ou souffre d'une atteinte à la tête, une fidya : ṣiyām, ṣadaqa, ou nusuk. Une fois en sécurité, quiconque conjugue la ʿumra au ḥajj, alors ce qui s'obtient aisément comme hady ; quiconque n'en trouve pas, trois jours de ṣiyām pendant le ḥajj et sept à votre retour — dix jours complets. Cela pour quiconque n'a pas sa famille présente au Masjid al-Ḥarām. Prémunissez-vous auprès d'Allaah et sachez qu'Allaah est intense dans le châtiment."
+   trad="Et accomplissez pleinement le ḥajj et la ʿumra pour Allaah. Si vous en êtes empêchés, alors ce qui s'obtient aisément comme hady. Et ne rasez pas vos têtes avant que le hady n'atteigne son terme. Quiconque parmi vous est malade ou souffre d'une atteinte à la tête, une fidya : ṣiyām, ṣadaqa, ou nusuk. Une fois en sécurité, quiconque conjugue la ʿumra au ḥajj, alors ce qui s'obtient aisément comme hady ; quiconque n'en trouve pas, trois jours de ṣiyām pendant le ḥajj et sept à votre retour — dix jours complets. Cela pour quiconque n'a pas sa famille présente au Masjid al-Ḥarām. Constituez-vous une taqwā d'Allaah et sachez qu'Allaah est intense dans le châtiment."
 %}
 
 <div class="notes-lexicales">
@@ -567,7 +571,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:197"
    ar="الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ ۚ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ ۗ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ ۚ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ"
    trl="Al-ḥajju ashhurun maʿlūmāt — fa-man faraḍa fīhinna l-ḥajja fa-lā rafatha wa-lā fusūqa wa-lā jidāla fī l-ḥajji — wa-mā tafʿalū min khayrin yaʿlamhu llāh — wa-tazawwadū fa-inna khayra l-zādi l-taqwā — wa-ttaqūni yā ulī l-albāb"
-   trad="Le ḥajj se tient sur des mois connus — quiconque s'y engage fermement pour le ḥajj, alors point de rafath, point de fusūq, point de jidāl dans le ḥajj. Et quel que soit le bien que vous accomplissiez, Allaah le sait. Munissez-vous de provisions — la meilleure provision est la taqwā — et prémunissez-vous de Moi, ô détenteurs de l'albāb."
+   trad="Le ḥajj se tient sur des mois connus — quiconque s'y engage fermement pour le ḥajj, alors point de rafath, point de fusūq, point de jidāl dans le ḥajj. Et quel que soit le bien que vous accomplissiez, Allaah le sait. Munissez-vous de provisions — la meilleure provision est la taqwā — et constituez-vous une taqwā envers Moi, ô détenteurs de l'albāb."
 %}
 
 <div class="notes-lexicales">
@@ -608,12 +612,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:198"
    ar="لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا فَضْلًا مِّن رَّبِّكُمْ ۚ فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ ۖ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِن كُنتُم مِّن قَبْلِهِ لَمِنَ الضَّالِّينَ"
    trl="Laysa ʿalaykum junāḥun an tabtaghū faḍlan min rabbikum — fa-idhā afaḍtum min ʿArafātin fa-dhkurū llāha ʿinda l-mashʿari l-ḥarāmi — wa-dhkurūhu kamā hadākum wa-in kuntum min qablihi la-mina l-ḍāllīn"
-   trad="Nul jināḥ sur vous à rechercher un faḍl venant de votre Seigneur. Et quand vous vous répandez depuis ʿArafāt, faites le dhikr d'Allaah près du Mashʿar al-Ḥarām — faites Son dhikr comme Il vous a guidés, alors qu'auparavant vous étiez certes parmi les ḍāllīn."
+   trad="Nul jināḥ sur vous à rechercher un faḍl venant de votre Rabb. Et quand vous vous répandez depuis ʿArafāt, faites le dhikr d'Allaah près du Mashʿar al-Ḥarām — faites Son dhikr comme Il vous a guidés, alors qu'auparavant vous étiez certes parmi les ḍāllīn."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">جُنَاح</span><span class="lex-trl">junāḥ</span></dt>
 <dd>déjà défini en S2:158 : l'inclinaison vers la faute — nulle inclinaison de ce type ne pèse ici sur la recherche d'un faḍl (surplus, faveur — voir S2:47, *faḍḍaltukum*) pendant le ḥajj.</dd>

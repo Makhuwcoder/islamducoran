@@ -74,7 +74,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:2"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَن صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَن تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ"
    trl="Yā ayyuhā lladhīna āmanū lā tuḥillū shaʿāʾira llāhi wa-lā sh-shahra l-ḥarāma wa-lā l-hadya wa-lā l-qalāʾida wa-lā āmmīna l-bayta l-ḥarāma yabtaghūna faḍlan min rabbihim wa-riḍwānā — wa-idhā ḥalaltum fa-ṣṭādū — wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū — wa-taʿāwanū ʿalā l-birri wa-t-taqwā wa-lā taʿāwanū ʿalā l-ithmi wa-l-ʿudwān — wa-ttaqu llāh — inna llāha shadīdu l-ʿiqāb"
-   trad="Ô vous qui avez cru, ne rendez pas illicites les *shaʿāʾir* (marqueurs distinctifs) d'Allaah, ni le mois sacré, ni les offrandes destinées [au sanctuaire] (*al-hady*), ni les guirlandes qui les signalent (*al-qalāʾid*), ni ceux qui se dirigent vers la Maison sacrée en quête d'une faveur de leur *Rabb* et d'un agrément. Et une fois sortis de l'état de sacralisation, chassez [si vous le voulez]. Et que la haine envers un peuple, du fait qu'il vous a barré l'accès à la Mosquée sacrée, ne vous entraîne pas à transgresser. Entraidez-vous dans le *birr* (la droiture agissante) et la *taqwā*, et ne vous entraidez pas dans l'*ithm* (la faute) et l'*ʿudwān* (l'hostilité qui dépasse la limite). Prémunissez-vous d'Allaah — Allaah est sévère dans la sanction."
+   trad="Ô vous qui avez cru, ne rendez pas illicites les *shaʿāʾir* (marqueurs distinctifs) d'Allaah, ni le mois sacré, ni les offrandes destinées [au sanctuaire] (*al-hady*), ni les guirlandes qui les signalent (*al-qalāʾid*), ni ceux qui se dirigent vers la Maison sacrée en quête d'une faveur de leur *Rabb* et d'un agrément. Et une fois sortis de l'état de sacralisation, chassez [si vous le voulez]. Et que la haine envers un peuple, du fait qu'il vous a barré l'accès à la Mosquée sacrée, ne vous entraîne pas à transgresser. Entraidez-vous dans le *birr* (la droiture agissante) et la *taqwā*, et ne vous entraidez pas dans l'*ithm* (la faute) et l'*ʿudwān* (l'hostilité qui dépasse la limite). Constituez-vous une taqwā (d'Allaah) — Allaah est sévère dans la sanction."
 %}
 
 <div class="notes-lexicales">
@@ -91,6 +91,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">al-birr / at-taqwā ≠ al-ithm / al-ʿudwān</span></dt>
 <dd>opposition structurante à quatre termes. *Birr*, racine *b-r-r* : la droiture agissante, la bonté qui se traduit en actes — non un simple sentiment. *ʿUdwān*, racine *ʿ-d-w* : liée à *ʿadāwa* (l'inimitié) et *taʿaddā* (transgresser une limite) — l'hostilité qui dépasse le cadre.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">wa-ttaqu llāh</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 </dl>
 </div>
@@ -139,7 +143,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:4"
    ar="يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۙ وَمَا عَلَّمْتُم مِّنَ الْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللَّهُ ۖ فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ"
    trl="Yasʾalūnaka mādhā uḥilla lahum — qul uḥilla lakumu ṭ-ṭayyibātu wa-mā ʿallamtum mina l-jawāriḥi mukallibīna tuʿallimūnahunna mimmā ʿallamakumu llāhu fa-kulū mimmā amsakna ʿalaykum wa-dhkuru sma llāhi ʿalayhi wa-ttaqu llāh — inna llāha sarīʿu l-ḥisāb"
-   trad="Ils t'interrogent sur ce qui leur est rendu licite. Dis : « Vous sont rendues licites les *ṭayyibāt* (les bonnes choses), ainsi que ce qu'ont capturé pour vous les animaux de chasse dressés (*al-jawāriḥ*), que vous avez dressés d'après ce qu'Allaah vous a enseigné. Mangez donc de ce qu'ils retiennent pour vous, et mentionnez sur cela le nom d'Allaah — et prémunissez-vous d'Allaah. Allaah est prompt dans le compte. »"
+   trad="Ils t'interrogent sur ce qui leur est rendu licite. Dis : « Vous sont rendues licites les *ṭayyibāt* (les bonnes choses), ainsi que ce qu'ont capturé pour vous les animaux de chasse dressés (*al-jawāriḥ*), que vous avez dressés d'après ce qu'Allaah vous a enseigné. Mangez donc de ce qu'ils retiennent pour vous, et mentionnez sur cela le nom d'Allaah — et constituez-vous une taqwā (d'Allaah). Allaah est prompt dans le compte. »"
 %}
 
 <div class="notes-lexicales">

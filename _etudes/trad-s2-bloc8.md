@@ -25,7 +25,7 @@ methode: "Dit / Non-dit / Inférence"
 |------|-----------------|
 | S.2:200 | Le *dhikr* après le ḥajj — invoquer comme on invoquait les pères |
 | S.2:201–202 | Deux invocations opposées — ici-bas seulement, ou les deux |
-| S.2:203 | Les jours comptés — hâte ou délai, pour qui se prémunit |
+| S.2:203 | Les jours comptés — hâte ou délai, pour qui se constitue une taqwā |
 | S.2:204 | Celui dont la parole plaît, mais dont le cœur dément |
 | S.2:205 | La corruption des récoltes et des lignées |
 | S.2:206 | L'arrogance dans la faute — jahannam suffit |
@@ -60,12 +60,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:200"
    ar="فَإِذَا قَضَيْتُم مَّنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ النَّاسِ مَن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ"
    trl="Fa-idhā qaḍaytum manāsikakum fa-dhkurū llāha ka-dhikrikum ābāʾakum aw ashadda dhikrā — fa-mina l-nāsi man yaqūlu rabbanā ātinā fī l-dunyā wa-mā lahu fī l-ākhirati min khalāq"
-   trad="Lorsque vous vous êtes acquittés de vos manāsik, convoquez Allaah dans le dhikr comme vous convoquez vos pères, ou d'un dhikr plus intense encore. Or parmi les gens, il en est qui dit : « Notre Seigneur, accorde-nous en ce bas monde » — et il n'a, dans l'au-delà, aucune part."
+   trad="Lorsque vous vous êtes acquittés de vos manāsik, convoquez Allaah dans le dhikr comme vous convoquez vos pères, ou d'un dhikr plus intense encore. Or parmi les gens, il en est qui dit : « Notre Rabb, accorde-nous en ce bas monde » — et il n'a, dans l'au-delà, aucune part."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">مَنَاسِك</span><span class="lex-trl">manāsik</span></dt>
 <dd>même racine que *nusuk* (S2:196, offrande substitutive) : n-s-k désigne l'acte de dévotion rituelle accompli selon une forme fixée. Conservé en translittération.</dd>
@@ -97,7 +101,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:201"
    ar="وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ"
    trl="Wa-minhum man yaqūlu rabbanā ātinā fī l-dunyā ḥasanatan wa-fī l-ākhirati ḥasanatan wa-qinā ʿadhāba l-nār"
-   trad="Et parmi eux, il en est qui dit : « Notre Seigneur, accorde-nous une ḥasana en ce bas monde et une ḥasana dans l'au-delà, et préserve-nous du châtiment du Feu »."
+   trad="Et parmi eux, il en est qui dit : « Notre Rabb, accorde-nous une ḥasana en ce bas monde et une ḥasana dans l'au-delà, et préserve-nous du châtiment du Feu »."
 %}
 
 {% include verset.html

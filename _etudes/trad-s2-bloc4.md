@@ -156,8 +156,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:122–123"
    ar="يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ ۝ وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنصَرُونَ"
    trl="*Yā banī Isrāʾīla dhkurū niʿmatiya llatī anʿamtu ʿalaykum wa-annī faḍḍaltukum ʿalā l-ʿālamīn · Wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan wa-lā yuqbalu minhā ʿadlun wa-lā tanfaʿuhā shafāʿatun wa-lā hum yunṣarūn*"
-   trad="Ô descendants d'Isrāʾīl, rappelez-vous Mon bienfait dont Je vous ai comblés et que Je vous ai distingués au-dessus des *ʿālamīn*. — Et prémunissez-vous pour un Jour où nulle âme ne s'acquittera pour une autre de quoi que ce soit — nulle rançon ne sera acceptée, nulle *shafāʿa* ne lui profitera — et ils ne seront pas secourus."
+   trad="Ô descendants d'Isrāʾīl, rappelez-vous Mon bienfait dont Je vous ai comblés et que Je vous ai distingués au-dessus des *ʿālamīn*. — Et constituez-vous une taqwā en vue d'un Jour où nulle âme ne s'acquittera pour une autre de quoi que ce soit — nulle rançon ne sera acceptée, nulle *shafāʿa* ne lui profitera — et ils ne seront pas secourus."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ittaqū / taqwā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:124"

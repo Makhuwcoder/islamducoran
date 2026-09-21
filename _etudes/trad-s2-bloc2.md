@@ -165,12 +165,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:45–48"
    ar="وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ ۝ الَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ ۝ يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ ۝ وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ"
    trl="*Wa-staʿīnū bi-ṣ-ṣabri wa-ṣ-ṣalāti wa-innahā la-kabīratun illā ʿalā l-khāshiʿīn · Alladhīna yaẓunnūna annahum mulāqū rabbihim wa-annahum ilayhi rājiʿūn · Yā banī Isrāʾīla dhkurū niʿmatiya llatī anʿamtu ʿalaykum wa-annī faḍḍaltukum ʿalā l-ʿālamīn · Wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan wa-lā yuqbalu minhā shafāʿatun wa-lā yuʾkhadhu minhā ʿadlun wa-lā hum yunṣarūn*"
-   trad="Et cherchez appui dans le *ṣabr* et la *ṣalāt* — c'est certes lourd, sauf pour les *khāshiʿīn* : ceux qui ont la certitude intérieure qu'ils rencontreront leur *Rabb* et que c'est vers Lui qu'ils retourneront. — Ô descendants d'Isrāʾīl, rappelez-vous Mon bienfait dont Je vous ai comblés et que Je vous ai distingués au-dessus des *ʿālamīn*. — Et prémunissez-vous pour un Jour où nulle âme ne s'acquittera pour une autre de quoi que ce soit, nulle *shafāʿa* ne sera acceptée, nulle rançon ne sera prise, et ils ne seront pas secourus."
+   trad="Et cherchez appui dans le *ṣabr* et la *ṣalāt* — c'est certes lourd, sauf pour les *khāshiʿīn* : ceux qui ont la certitude intérieure qu'ils rencontreront leur *Rabb* et que c'est vers Lui qu'ils retourneront. — Ô descendants d'Isrāʾīl, rappelez-vous Mon bienfait dont Je vous ai comblés et que Je vous ai distingués au-dessus des *ʿālamīn*. — Et constituez-vous une taqwā en vue d'un Jour où nulle âme ne s'acquittera pour une autre de quoi que ce soit, nulle *shafāʿa* ne sera acceptée, nulle rançon ne sera prise, et ils ne seront pas secourus."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ittaqū / taqwā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">shafāʿa</span></dt>
 <dd>racine *sh-f-ʿ* : al-Farāhīdī — *al-izdiwāj*, le fait de se joindre par deux, de former une paire. Non pas « intercession » au sens d'une plaidoirie qui arracherait une décision : le texte dit ici que nulle *shafāʿa* ne sera acceptée (*yuqbal*) en ce Jour. → Voir l'étude dédiée [La *shafāʿa* dans le Coran](/etudes/shafaa/).</dd>

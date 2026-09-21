@@ -123,8 +123,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:248"
    ar="وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ آيَةَ مُلْكِهِ أَن يَأْتِيَكُمُ التَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ آلُ مُوسَىٰ وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ"
    trl="Wa-qāla lahum nabiyyuhum inna āyata mulkihi an yaʾtiyakumu l-tābūtu fīhi sakīnatun min rabbikum wa-baqiyyatun mimmā taraka ālu mūsā wa-ālu hārūna taḥmiluhu l-malāʾikah — inna fī dhālika la-āyatan lakum in kuntum muʾminīn"
-   trad="Et leur nabī leur dit : « Le signe de sa royauté est que le tābūt vous viendra, contenant une sakīna venue de votre Seigneur, et un reste de ce qu'ont laissé la famille de Mūsā et la famille de Hārūn, porté par les malāʾika. En cela il y a certes un signe pour vous, si vous êtes croyants. »"
+   trad="Et leur nabī leur dit : « Le signe de sa royauté est que le tābūt vous viendra, contenant une sakīna venue de votre Rabb, et un reste de ce qu'ont laissé la famille de Mūsā et la famille de Hārūn, porté par les malāʾika. En cela il y a certes un signe pour vous, si vous êtes croyants. »"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:249"
@@ -137,7 +147,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:250"
    ar="وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ"
    trl="Wa-lammā barazū li-jālūta wa-junūdihi qālū rabbanā afrigh ʿalaynā ṣabran wa-thabbit aqdāmanā wa-nṣurnā ʿalā l-qawmi l-kāfirīn"
-   trad="Et lorsqu'ils se présentèrent à découvert face à Jālūt et ses troupes, ils dirent : « Notre Seigneur, déverse sur nous du ṣabr, affermis nos pas, et secours-nous contre le peuple kāfir. »"
+   trad="Et lorsqu'ils se présentèrent à découvert face à Jālūt et ses troupes, ils dirent : « Notre Rabb, déverse sur nous du ṣabr, affermis nos pas, et secours-nous contre le peuple kāfir. »"
 %}
 
 {% include verset.html

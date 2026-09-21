@@ -124,7 +124,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:73–74"
    ar="وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ ۝ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
    trl="Wa-lā tuʾminū illā li-man tabiʿa dīnakum qul inna l-hudā hudā llāhi an yuʾtā aḥadun mithla mā ūtītum aw yuḥājjūkum ʿinda rabbikum — qul inna l-faḍla bi-yadi llāhi yuʾtīhi man yashāʾ — wa-llāhu wāsiʿun ʿalīm — yakhtaṣṣu bi-raḥmatihi man yashāʾ — wa-llāhu dhū l-faḍli l-ʿaẓīm"
-   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Seigneur. Dis : « Le faḍl est dans la main d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
+   trad="« Et ne croyez qu'en celui qui suit votre dīn » — dis : « Le guide est le guide d'Allaah » — [ils redoutent] qu'un autre reçoive comme ce que vous avez reçu, ou qu'ils argumentent contre vous auprès de votre Rabb. Dis : « Le faḍl est dans la main d'Allaah, Il le donne à qui Il veut — Allaah est Wāsiʿ, ʿAlīm. » Il réserve Sa raḥma à qui Il veut — Allaah est doté d'un faḍl immense."
 %}
 
 {% include verset.html
@@ -138,7 +138,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:76–77"
    ar="بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ ۝ إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
    trl="Balā man awfā bi-ʿahdihi wa-ttaqā fa-inna llāha yuḥibbu l-muttaqīn — inna lladhīna yashtarūna bi-ʿahdi llāhi wa-aymānihim thamanan qalīlan ulāʾika lā khalāqa lahum fi l-ākhirati wa-lā yukallimuhumu llāhu wa-lā yanẓuru ilayhim yawma l-qiyāmati wa-lā yuzakkīhim wa-lahum ʿadhābun alīm"
-   trad="Bien au contraire : quiconque est fidèle à son engagement et se prémunit — Allaah aime les muttaqūn. Ceux qui échangent l'engagement d'Allaah et leurs serments contre un prix dérisoire, ceux-là n'ont aucune part dans l'ākhira — Allaah ne leur parlera pas et ne les regardera pas au Jour de la Résurrection, ne les purifiera pas — et pour eux, un châtiment douloureux."
+   trad="Bien au contraire : quiconque est fidèle à son engagement et se constitue une taqwā — Allaah aime les muttaqūn. Ceux qui échangent l'engagement d'Allaah et leurs serments contre un prix dérisoire, ceux-là n'ont aucune part dans l'ākhira — Allaah ne leur parlera pas et ne les regardera pas au Jour de la Résurrection, ne les purifiera pas — et pour eux, un châtiment douloureux."
 %}
 
 {% include verset.html
@@ -151,6 +151,14 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱتَّقَىٰ</span><span class="lex-trl">ittaqā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بِيَدِ ٱللَّهِ</span><span class="lex-trl">bi-yadi llāhi</span></dt>
+<dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. La traduction retient « main », fidèle à l'image mobilisée par le texte, sans trancher — un non-dit — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">تَلْبِسُونَ / تَكْتُمُونَ</span><span class="lex-trl">talbisūna / taktumūna</span></dt>
 <dd>S3:71 associe deux verbes distincts : l-b-s (habiller, superposer, brouiller par mélange) et k-t-m, déjà traité en détail dans l'étude dédiée <a href="/etudes/kitman-bayyan/">Kitmān et bayyān</a>, à laquelle ce verset renvoie directement — la dissimulation n'y est pas une simple omission mais un acte actif de recouvrement du ḥaqq par le bāṭil.</dd>
@@ -215,7 +223,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:84–85"
    ar="قُلْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيْنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ ۝ وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ"
    trl="Qul āmannā bi-llāhi wa-mā unzila ʿalaynā wa-mā unzila ʿalā Ibrāhīma wa-Ismāʿīla wa-Isḥāqa wa-Yaʿqūba wa-l-asbāṭi wa-mā ūtiya Mūsā wa-ʿĪsā wa-l-nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wa-naḥnu lahu muslimūn — wa-man yabtaghi ghayra l-islāmi dīnan fa-lan yuqbala minhu wa-huwa fi l-ākhirati mina l-khāsirīn"
-   trad="Dis : « Nous avons cru en Allaah, en ce qui est descendu sur nous, en ce qui est descendu sur Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā, à ʿĪsā et aux nabiyyūn, venant de leur Seigneur — nous ne distinguons pas entre eux, et nous Lui sommes muslimūn. » Et quiconque recherche un dīn autre que al-islām, cela ne sera jamais accepté de lui, et il sera, dans l'ākhira, parmi les perdants."
+   trad="Dis : « Nous avons cru en Allaah, en ce qui est descendu sur nous, en ce qui est descendu sur Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā, à ʿĪsā et aux nabiyyūn, venant de leur Rabb — nous ne distinguons pas entre eux, et nous Lui sommes muslimūn. » Et quiconque recherche un dīn autre que al-islām, cela ne sera jamais accepté de lui, et il sera, dans l'ākhira, parmi les perdants."
 %}
 
 {% include verset.html

@@ -654,12 +654,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:178"
    ar="يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ ۗ وَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ"
    trl="Yā ayyuhā lladhīna āmanū kutiba ʿalaykumu l-qiṣāṣu fī l-qatlā — al-ḥurru bi-l-ḥurri wa-l-ʿabdu bi-l-ʿabdi wa-l-unthā bi-l-unthā — fa-man ʿufiya lahu min akhīhi shayʾun fa-ttibāʿun bi-l-maʿrūfi wa-adāʾun ilayhi bi-iḥsān — dhālika takhfīfun min rabbikum wa-raḥma — wa-mani ʿtadā baʿda dhālika fa-lahu ʿadhābun alīm"
-   trad="Ô vous qui avez cru, il vous a été prescrit le qiṣāṣ concernant les tués — le libre pour le libre, l'esclave pour l'esclave, la femme pour la femme. Mais quiconque se voit accorder un pardon par son frère, alors suivi selon le maʿrūf et acquittement envers lui avec iḥsān. Cela est un allégement de la part de votre Seigneur, et une miséricorde. Et quiconque transgresse après cela, pour lui un ʿadhāb douloureux."
+   trad="Ô vous qui avez cru, il vous a été prescrit le qiṣāṣ concernant les tués — le libre pour le libre, l'esclave pour l'esclave, la femme pour la femme. Mais quiconque se voit accorder un pardon par son frère, alors suivi selon le maʿrūf et acquittement envers lui avec iḥsān. Cela est un allégement de la part de votre Rabb, et une miséricorde. Et quiconque transgresse après cela, pour lui un ʿadhāb douloureux."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الْقِصَاص</span><span class="lex-trl">al-qiṣāṣ</span></dt>
 <dd>racine q-ṣ-ṣ : Ibn Fāris (Maqāyīs) : suivre une trace pas à pas, avec exactitude. Al-qiṣāṣ est la mise en correspondance exacte : on rend ce qui a été fait, sans excès ni défaut. Non « représailles » ni « talion » — ces termes disent la punition, non l'exactitude. Conservé en translittération.</dd>
@@ -687,7 +691,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:179"
    ar="وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تَتَّقُونَ"
    trl="Wa-lakum fī l-qiṣāṣi ḥayātun yā ulī l-albābi laʿallakum tattaqūn"
-   trad="Et il y a pour vous dans le qiṣāṣ une vie — ô détenteurs du noyau de discernement — afin que vous vous prémunissiez."
+   trad="Et il y a pour vous dans le qiṣāṣ une vie — ô détenteurs du noyau de discernement — afin que vous vous constituiez une taqwā."
 %}
 
 <div class="notes-lexicales">

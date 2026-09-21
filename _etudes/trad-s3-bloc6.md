@@ -397,7 +397,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:169–171"
    ar="وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ ۝ فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ ۝ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ"
    trl="Wa-lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātan — bal aḥyāʾun ʿinda rabbihim yurzaqūn — fariḥīna bi-mā ātāhumu llāhu min faḍlih wa-yastabshirūna bi-lladhīna lam yalḥaqū bihim min khalfihim allā khawfun ʿalayhim wa-lā hum yaḥzanūn — yastabshirūna bi-niʿmatin mina llāhi wa-faḍlin wa-anna llāha lā yuḍīʿu ajra l-muʾminīn"
-   trad="Ne considère pas ceux qui sont tués sur le chemin d'Allaah comme morts — bien au contraire, vivants, auprès de leur Seigneur, pourvus. Se réjouissant de ce qu'Allaah leur a donné de Sa faveur, et se réjouissant par avance au sujet de ceux qui ne les ont pas encore rejoints, venant après eux : aucune crainte sur eux, et ils ne s'affligeront pas. Ils se réjouissent d'un bienfait d'Allaah et d'une faveur, et de ce qu'Allaah ne laisse pas se perdre la rétribution des muʾminūn."
+   trad="Ne considère pas ceux qui sont tués sur le chemin d'Allaah comme morts — bien au contraire, vivants, auprès de leur Rabb, pourvus. Se réjouissant de ce qu'Allaah leur a donné de Sa faveur, et se réjouissant par avance au sujet de ceux qui ne les ont pas encore rejoints, venant après eux : aucune crainte sur eux, et ils ne s'affligeront pas. Ils se réjouissent d'un bienfait d'Allaah et d'une faveur, et de ce qu'Allaah ne laisse pas se perdre la rétribution des muʾminūn."
 %}
 
 <div class="callout callout--avertissement">
@@ -408,12 +408,20 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:172–173"
    ar="ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ ۝ ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ"
    trl="Alladhīna stajābū li-llāhi wa-l-rasūli min baʿdi mā aṣābahumu l-qarḥ — li-lladhīna aḥsanū minhum wa-ttaqaw ajrun ʿaẓīm — alladhīna qāla lahumu l-nāsu inna l-nāsa qad jamaʿū lakum fa-khshawhum fa-zādahum īmānan wa-qālū ḥasbunā llāhu wa-niʿma l-wakīl"
-   trad="Ceux qui ont répondu à Allaah et au rasūl après que la blessure les eut atteints — pour ceux d'entre eux qui ont agi avec excellence et se sont prémunis, une rétribution immense. Ceux à qui les gens dirent : « Les gens se sont rassemblés contre vous, craignez-les » — cela ne fit qu'accroître leur foi, et ils dirent : « Allaah nous suffit — quel excellent mandataire ! »"
+   trad="Ceux qui ont répondu à Allaah et au rasūl après que la blessure les eut atteints — pour ceux d'entre eux qui ont agi avec excellence et se sont constitué une taqwā, une rétribution immense. Ceux à qui les gens dirent : « Les gens se sont rassemblés contre vous, craignez-les » — cela ne fit qu'accroître leur foi, et ils dirent : « Allaah nous suffit — quel excellent mandataire ! »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
+<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱتَّقَوْا۟</span><span class="lex-trl">ittaqaw</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱسْتَجَابُوا۟</span><span class="lex-trl">istajābū</span></dt>
 <dd>racine j-w-b, la même que le titre de la Sourate 2, <em>Al-Ijāba</em> (La Réponse) : ici appliqué directement aux croyants qui répondent, en écho lexical direct avec ce titre.</dd>
@@ -500,7 +508,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:179"
    ar="مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَـٰكِنَّ ٱللَّهُ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ"
    trl="Mā kāna llāhu li-yadhara l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina l-ṭayyib — wa-mā kāna llāhu li-yuṭliʿakum ʿala l-ghaybi wa-lākinna llāha yajtabī min rusulihi man yashāʾ — fa-āminū bi-llāhi wa-rusulih — wa-in tuʾminū wa-tattaqū fa-lakum ajrun ʿaẓīm"
-   trad="Allaah n'est pas de nature à laisser les muʾminūn dans l'état où vous êtes, sans distinguer le vicié du bon — Allaah n'est pas de nature à vous faire accéder au ghayb, mais Allaah choisit, parmi Ses rusul, qui Il veut. Croyez donc en Allaah et en Ses rusul — si vous croyez et vous prémunissez, une rétribution immense vous revient."
+   trad="Allaah n'est pas de nature à laisser les muʾminūn dans l'état où vous êtes, sans distinguer le vicié du bon — Allaah n'est pas de nature à vous faire accéder au ghayb, mais Allaah choisit, parmi Ses rusul, qui Il veut. Croyez donc en Allaah et en Ses rusul — si vous croyez et vous constituez une taqwā, une rétribution immense vous revient."
 %}
 
 <div class="callout callout--avertissement">

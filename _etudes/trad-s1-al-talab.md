@@ -53,7 +53,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.1:2"
    ar="الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
    trl="*Al-ḥamdu li-llāhi rabbi l-ʿālamīn*"
-   trad="La *ḥamd* appartient à Allaah, Seigneur des *ʿālamīn*."
+   trad="La *ḥamd* appartient à Allaah, Rabb des *ʿālamīn*."
 %}
 
 <div class="notes-lexicales">
@@ -65,7 +65,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">rabb</span></dt>
-<dd>*r-b-b* : celui qui élève, nourrit, développe progressivement vers la plénitude. Traduit par « Seigneur » — approximation acceptable à condition de ne pas projeter la connotation féodale.</dd>
+<dd>*r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-ʿālamīn</span></dt>

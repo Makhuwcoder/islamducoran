@@ -117,8 +117,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:77"
    ar="أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِّمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا"
    trl="A-lam tara ilā lladhīna qīla lahum kuffū aydiyakum wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta fa-lammā kutiba ʿalayhimu l-qitālu idhā farīqun minhum yakhshawna n-nāsa ka-khashyati llāhi aw ashadda khashyah — wa-qālū rabbanā lima katabta ʿalaynā l-qitāla lawlā akhkhartanā ilā ajalin qarīb — qul matāʿu d-dunyā qalīlun wa-l-ākhiratu khayrun li-mani ttaqā wa-lā tuẓlamūna fatīlā"
-   trad="N'as-tu pas considéré ceux à qui il a été dit : « Retenez vos mains, accomplissez la *ṣalāt* et acquittez-vous de la *zakāt* » ? Puis, quand le *qitāl* leur a été prescrit, voilà qu'une partie d'entre eux redoute les gens comme on redoute Allaah, ou d'une crainte plus forte encore. Et ils dirent : « Notre *Rabb*, pourquoi nous as-Tu prescrit le *qitāl* ? Que ne nous as-Tu accordé un délai proche ! » Dis : « La jouissance de ce bas monde est peu de chose, et l'au-delà est meilleur pour qui se prémunit — et vous ne serez pas lésés d'un *fatīl*. »"
+   trad="N'as-tu pas considéré ceux à qui il a été dit : « Retenez vos mains, accomplissez la *ṣalāt* et acquittez-vous de la *zakāt* » ? Puis, quand le *qitāl* leur a été prescrit, voilà qu'une partie d'entre eux redoute les gens comme on redoute Allaah, ou d'une crainte plus forte encore. Et ils dirent : « Notre *Rabb*, pourquoi nous as-Tu prescrit le *qitāl* ? Que ne nous as-Tu accordé un délai proche ! » Dis : « La jouissance de ce bas monde est peu de chose, et l'au-delà est meilleur pour qui se constitue une taqwā — et vous ne serez pas lésés d'un *fatīl*. »"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">li-mani ttaqā</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

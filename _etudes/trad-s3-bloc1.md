@@ -134,7 +134,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:7"
    ar="هُوَ الَّذِي أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ ۖ فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ ۗ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ"
    trl="Huwa lladhī anzala ʿalayka l-kitāba minhu āyātun muḥkamātun hunna ummu l-kitābi wa-ukharu mutashābihāt — fa-ammā lladhīna fī qulūbihim zayghun fa-yattabiʿūna mā tashābaha minhu btighāʾa l-fitnati wa-btighāʾa taʾwīlih — wa-mā yaʿlamu taʾwīlahu illā llāh — wa-l-rāsikhūna fi l-ʿilmi yaqūlūna āmannā bihi kullun min ʿindi rabbinā — wa-mā yadhdhakkaru illā ulū l-albāb"
-   trad="Ce qui a fait descendre sur toi le Livre — dont certains ayah sont muḥkamāt, ils sont la mère du Livre, et d'autres mutashābihāt. Ceux dont le cœur porte une déviation suivent alors ce qui, en lui, se ressemble, recherchant le trouble et recherchant son aboutissement. Or son aboutissement, nul ne le connaît sauf Allaah — et les rāsikhūna fī l-ʿilm disent : « Nous y croyons, tout provient de notre Seigneur. » Et seuls s'en souviennent ceux qui sont dotés du minimum de raison."
+   trad="Ce qui a fait descendre sur toi le Livre — dont certains ayah sont muḥkamāt, ils sont la mère du Livre, et d'autres mutashābihāt. Ceux dont le cœur porte une déviation suivent alors ce qui, en lui, se ressemble, recherchant le trouble et recherchant son aboutissement. Or son aboutissement, nul ne le connaît sauf Allaah — et les rāsikhūna fī l-ʿilm disent : « Nous y croyons, tout provient de notre Rabb. » Et seuls s'en souviennent ceux qui sont dotés du minimum de raison."
 %}
 
 {:.callout .callout--pivot}
@@ -144,7 +144,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:8–9"
    ar="رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ ۝ رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ"
    trl="Rabbanā lā tuzigh qulūbanā baʿda idh hadaytanā wa-hab lanā min ladunka raḥmah — innaka anta l-Wahhāb — Rabbanā innaka jāmiʿu l-nāsi li-yawmin lā rayba fīh — inna llāha lā yukhlifu l-mīʿād"
-   trad="Notre Seigneur, ne fais pas dévier nos cœurs après nous avoir guidés, et accorde-nous, de Ta part, une raḥma — c'est Toi al-Wahhāb. Notre Seigneur, c'est Toi qui rassembles les gens pour un jour où nul doute n'a de place — Allaah ne manque jamais à Sa promesse."
+   trad="Notre Rabb, ne fais pas dévier nos cœurs après nous avoir guidés, et accorde-nous, de Ta part, une raḥma — c'est Toi al-Wahhāb. Notre Rabb, c'est Toi qui rassembles les gens pour un jour où nul doute n'a de place — Allaah ne manque jamais à Sa promesse."
 %}
 
 {% include verset.html
@@ -165,19 +165,23 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:14–15"
    ar="زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَاءِ وَالْبَنِينَ وَالْقَنَاطِيرِ الْمُقَنطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْأَنْعَامِ وَالْحَرْثِ ۗ ذَٰلِكَ مَتَاعُ الْحَيَاةِ الدُّنْيَا ۖ وَاللَّهُ عِندَهُ حُسْنُ الْمَآبِ ۝ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ اتَّقَوْا عِندَ رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَأَزْوَاجٌ مُّطَهَّرَةٌ وَرِضْوَانٌ مِّنَ اللَّهِ ۗ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ"
    trl="Zuyyina li-l-nāsi ḥubbu l-shahawāti mina l-nisāʾi wa-l-banīna wa-l-qanāṭīri l-muqanṭarati mina l-dhahabi wa-l-fiḍḍati wa-l-khayli l-musawwamati wa-l-anʿāmi wa-l-ḥarth — dhālika matāʿu l-ḥayāti l-dunyā — wa-llāhu ʿindahu ḥusnu l-maʾāb — qul a-unabbiʾukum bi-khayrin min dhālikum — li-lladhīna ttaqaw ʿinda rabbihim jannātun tajrī min taḥtihā l-anhāru khālidīna fīhā wa-azwājun muṭahharatun wa-riḍwānun mina llāh — wa-llāhu baṣīrun bi-l-ʿibād"
-   trad="A été rendu séduisant pour les gens l'amour des shahawāt — femmes, fils, monceaux amoncelés d'or et d'argent, chevaux de race, bétail et terres cultivées : cela est jouissance de la vie de ce monde ; c'est auprès d'Allaah qu'est le beau lieu de retour. Dis : « Vous informerai-je de meilleur que cela ? » A ceux qui se sont prémunis, auprès de leur Seigneur, des jardins sous lesquels courent les rivières, où ils demeurent, des épouses purifiées, et un riḍwān venant d'Allaah. Allaah voit parfaitement les ʿibād."
+   trad="A été rendu séduisant pour les gens l'amour des shahawāt — femmes, fils, monceaux amoncelés d'or et d'argent, chevaux de race, bétail et terres cultivées : cela est jouissance de la vie de ce monde ; c'est auprès d'Allaah qu'est le beau lieu de retour. Dis : « Vous informerai-je de meilleur que cela ? » A ceux qui se sont constitué une taqwā, auprès de leur Rabb, des jardins sous lesquels courent les rivières, où ils demeurent, des épouses purifiées, et un riḍwān venant d'Allaah. Allaah voit parfaitement les ʿibād."
 %}
 
 {% include verset.html
    ref="S.3:16–17"
    ar="الَّذِينَ يَقُولُونَ رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ ۝ الصَّابِرِينَ وَالصَّادِقِينَ وَالْقَانِتِينَ وَالْمُنفِقِينَ وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ"
    trl="Alladhīna yaqūlūna rabbanā innanā āmannā fa-ghfir lanā dhunūbanā wa-qinā ʿadhāba l-nār — al-ṣābirīna wa-l-ṣādiqīna wa-l-qānitīna wa-l-munfiqīna wa-l-mustaghfirīna bi-l-asḥār"
-   trad="Ceux qui disent : « Notre Seigneur, nous avons cru — pardonne-nous nos fautes et préserve-nous du châtiment du feu » — les endurants, les véridiques, ceux qui se tiennent dans la soumission constante, ceux qui dépensent, ceux qui implorent le pardon aux dernières heures de la nuit."
+   trad="Ceux qui disent : « Notre Rabb, nous avons cru — pardonne-nous nos fautes et préserve-nous du châtiment du feu » — les endurants, les véridiques, ceux qui se tiennent dans la soumission constante, ceux qui dépensent, ceux qui implorent le pardon aux dernières heures de la nuit."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
+<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">زَيْغ</span><span class="lex-trl">zaygh</span></dt>
 <dd>racine z-y-gh : déviation, écart par rapport à une ligne droite.</dd>
@@ -252,7 +256,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
-<p><strong>Ce que le texte dit :</strong> une opposition entre l'attrait immédiat des biens de ce monde et le bien supérieur promis à ceux qui se prémunissent, encadrée par le signe donné à Badr et la clôture sur les qualités des muttaqīn.</p>
+<p><strong>Ce que le texte dit :</strong> une opposition entre l'attrait immédiat des biens de ce monde et le bien supérieur promis à ceux qui se constituent une taqwā, encadrée par le signe donné à Badr et la clôture sur les qualités des muttaqīn.</p>
 <p><strong>Ce que le texte ne dit pas :</strong> S3:14 ne nomme pas l'agent du verbe *zuyyina* — cette omission est signalée et non comblée.</p>
 </div>
 </div>
@@ -387,7 +391,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:28–29"
    ar="لَّا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ مِن دُونِ الْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ إِلَّا أَن تَتَّقُوا مِنْهُمْ تُقَاةً ۗ وَيُحَذِّرُكُمُ اللَّهُ نَفْسَهُ ۗ وَإِلَى اللَّهِ الْمَصِيرُ ۝ قُلْ إِن تُخْفُوا مَا فِي صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ اللَّهُ ۗ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"
    trl="Lā yattakhidhi l-muʾminūna l-kāfirīna awliyāʾa min dūni l-muʾminīn — wa-man yafʿal dhālika fa-laysa mina llāhi fī shayʾin illā an tattaqū minhum tuqāh — wa-yuḥadhdhirukumu llāhu nafsah — wa-ila llāhi l-maṣīr — qul in tukhfū mā fī ṣudūrikum aw tubdūhu yaʿlamhu llāh — wa-yaʿlamu mā fi l-samāwāti wa-mā fi l-arḍ — wa-llāhu ʿalā kulli shayʾin qadīr"
-   trad="Que les croyants ne prennent pas les kāfirūn comme walī à la place des croyants — quiconque agit ainsi n'a plus rien avec Allaah — sauf si vous vous prémunissez d'eux par une prémunition véritable. Allaah vous met en garde de Lui-même — et c'est vers Allaah qu'est le devenir. Dis : « Que vous dissimuliez ce qui est dans vos poitrines ou que vous le rendiez visible, Allaah le sait » — et Il sait ce qui est dans les cieux et ce qui est sur la terre. Allaah est capable de toute chose."
+   trad="Que les croyants ne prennent pas les kāfirūn comme walī à la place des croyants — quiconque agit ainsi n'a plus rien avec Allaah — sauf si vous vous gardez d'eux par une réelle mise à l'abri. Allaah vous met en garde de Lui-même — et c'est vers Allaah qu'est le devenir. Dis : « Que vous dissimuliez ce qui est dans vos poitrines ou que vous le rendiez visible, Allaah le sait » — et Il sait ce qui est dans les cieux et ce qui est sur la terre. Allaah est capable de toute chose."
 %}
 
 {% include verset.html
@@ -419,6 +423,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-ar">الْمُلْك</span><span class="lex-trl">al-mulk</span></dt>
 <dd>racine م-ل-ك : la royauté, la possession souveraine — *Mālik al-Mulk* : ce qui possède la royauté elle-même, non seulement un royaume.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-ar">بِيَدِكَ الْخَيْر</span><span class="lex-trl">bi-yadika l-khayr</span></dt>
+<dd>racine ي-د-ي. **Note de méthode — un idiome de disposition, non une anatomie.** Ce Projet applique comme règle absolue l'interdit de tout mot installant une connotation d'anthropomorphisme à propos d'Allaah. « *Yad* » (la main) appliqué à Allaah, dans ce type de construction, est un idiome arabe attesté pour dire la pleine disposition sur une chose — ce qui est « dans la main de » quelqu'un est ce qu'il détient et distribue à son gré, un usage employé aussi pour des humains sans jamais désigner un organe (voir la note complète posée dans ce Projet à S5:64, où ce même registre est établi à partir des racines غ-ل-ل/ب-س-ط). La traduction retient donc « main », fidèle à l'image que le texte mobilise lui-même, sans trancher — un **non-dit** — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah. Même construction, même traitement, en S3:73 (« *bi-yadi llāhi l-faḍl* ») plus loin dans cette sourate.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">تُعِزُّ / تُذِلُّ</span><span class="lex-trl">tuʿizzu / tudhillu</span></dt>
@@ -454,8 +462,8 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
-<p><strong>Ce que le texte dit :</strong> un déplacement de l'argument — des Ahl al-Kitāb qui se détournent du jugement de leur propre Livre, à la souveraineté totale d'Allaah sur le mulk, puis à l'interdit de la walāya avec les kāfirūn sauf prémunition défensive bornée, et à la clôture sur l'amour d'Allaah conditionné au suivi et à l'obéissance.</p>
-<p><strong>Ce que le texte ne dit pas :</strong> S3:28 ne détaille pas les situations concrètes qui qualifieraient une « prémunition véritable » (tuqāh) — le texte pose le principe sans en cartographier les cas d'application.</p>
+<p><strong>Ce que le texte dit :</strong> un déplacement de l'argument — des Ahl al-Kitāb qui se détournent du jugement de leur propre Livre, à la souveraineté totale d'Allaah sur le mulk, puis à l'interdit de la walāya avec les kāfirūn sauf mise à l'abri défensive bornée, et à la clôture sur l'amour d'Allaah conditionné au suivi et à l'obéissance.</p>
+<p><strong>Ce que le texte ne dit pas :</strong> S3:28 ne détaille pas les situations concrètes qui qualifieraient une « mise à l'abri réelle » (tuqāh) — le texte pose le principe sans en cartographier les cas d'application.</p>
 </div>
 </div>
 

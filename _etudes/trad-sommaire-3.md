@@ -48,7 +48,7 @@ Ce sommaire couvre les **Blocs V à XIII** de la Sourate 2 · Al-Ijāba (S2:130�
 | S.2:144 | L'orientation vers le Masjid Ḥarām |
 | S.2:145 | L'imperméabilité des gens du Kitāb |
 | S.2:146 | La connaissance dissimulée |
-| S.2:147 | *Al-ḥaqq* vient de ton Seigneur |
+| S.2:147 | *Al-ḥaqq* vient de ton Rabb |
 | S.2:148 | Chacun a sa *wijha* : rivaliser dans le bien |
 | S.2:149–150 | La répétition de l'injonction sur la qibla |
 
@@ -165,7 +165,7 @@ Ce sommaire couvre les **Blocs V à XIII** de la Sourate 2 · Al-Ijāba (S2:130�
 
 | Réf. | Titre thématique |
 |------|-----------------|
-| S.2:203 | Les jours comptés — hâte ou délai, pour qui se prémunit |
+| S.2:203 | Les jours comptés — hâte ou délai, pour qui se constitue une taqwā |
 | S.2:204 | Celui dont la parole plaît, mais dont le cœur dément |
 
 ### Corruption sur terre, achat de son âme, entrée totale dans le silm — S2:205–208
@@ -360,7 +360,7 @@ Ce sommaire couvre les **Blocs V à XIII** de la Sourate 2 · Al-Ijāba (S2:130�
 | S.2:278 | Abandonner ce qui reste du *ribā* |
 | S.2:279 | L'avertissement de guerre — le capital rendu sans lésion |
 | S.2:280 | Le débiteur en difficulté — attendre l'aisance, ou faire *ṣadaqa* |
-| S.2:281 | Se prémunir du jour du retour vers Allaah |
+| S.2:281 | Se constituer une taqwā en vue du jour du retour vers Allaah |
 
 ### Le verset de la dette (āyat al-dayn) — S2:282–283
 

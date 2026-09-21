@@ -124,7 +124,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:35"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ"
    trl="Yā ayyuhā lladhīna āmanū ttaqū llāha wa-btaghū ilayhi l-wasīlata wa-jāhidū fī sabīlihi laʿallakum tufliḥūn"
-   trad="Ô vous qui avez cru, prémunissez-vous (*ittaqū*) d'Allaah, recherchez activement (*ibtaghū*) vers Lui un moyen de rapprochement (*al-wasīla*), et efforcez-vous (*jāhidū*) sur Son chemin (*fī sabīlihi*) — peut-être serez-vous de ceux qui réussissent (*tufliḥūn*)."
+   trad="Ô vous qui avez cru, constituez-vous une taqwā (*ittaqū*) d'Allaah, recherchez activement (*ibtaghū*) vers Lui un moyen de rapprochement (*al-wasīla*), et efforcez-vous (*jāhidū*) sur Son chemin (*fī sabīlihi*) — peut-être serez-vous de ceux qui réussissent (*tufliḥūn*)."
 %}
 
 <div class="notes-lexicales">
@@ -133,6 +133,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">al-wasīla</span></dt>
 <dd>racine *w-s-l* : Ibn Fāris (*Maqāyīs*) — *al-waṣl*, la jonction, l'attache entre deux choses. *Al-wasīla* désigne ce par quoi on parvient à rejoindre, à se rapprocher de quelque chose ou de quelqu'un. **Non-dit** : ce verset ne précise pas la nature de ce moyen de rapprochement — obéissance, œuvre, connaissance, ou toute autre disposition. Le même terme reparaît, à propos d'Allaah également, en S17:57 (hors du périmètre déjà traduit dans ce Projet), sans qu'aucune des deux occurrences ne le définisse davantage. Toute identification précise (une pratique donnée, une personne intercédant) relève de l'*inférence* extérieure au texte, non du *dit*. Conservé en translittération à défaut d'un mot français unique couvrant ce sens.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ittaqū llāh</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">jāhidū fī sabīlihi</span></dt>

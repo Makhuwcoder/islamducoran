@@ -38,7 +38,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:7"
    ar="وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ"
    trl="Wa-dhkurū niʿmata llāhi ʿalaykum wa-mīthāqahu lladhī wāthaqakum bihi idh qultum samiʿnā wa-aṭaʿnā — wa-ttaqu llāh — inna llāha ʿalīmun bi-dhāti ṣ-ṣudūr"
-   trad="Et rappelez-vous le bienfait (*niʿma*) d'Allaah sur vous, et Son *mīthāq* par lequel Il vous a liés, quand vous avez dit : « Nous avons entendu et nous avons obéi » (*samiʿnā wa-aṭaʿnā*) — prémunissez-vous d'Allaah — Allaah est *ʿAlīm* de ce qui est au fond des poitrines (*bi-dhāti ṣ-ṣudūr*)."
+   trad="Et rappelez-vous le bienfait (*niʿma*) d'Allaah sur vous, et Son *mīthāq* par lequel Il vous a liés, quand vous avez dit : « Nous avons entendu et nous avons obéi » (*samiʿnā wa-aṭaʿnā*) — constituez-vous une taqwā (d'Allaah) — Allaah est *ʿAlīm* de ce qui est au fond des poitrines (*bi-dhāti ṣ-ṣudūr*)."
 %}
 
 <div class="notes-lexicales">
@@ -52,6 +52,10 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">bi-dhāti ṣ-ṣudūr</span></dt>
 <dd>racine *ṣ-d-r* : la poitrine, siège de ce qui est intérieur et retenu. Ce que l'on peut dire lorsqu'on parle d'Allaah ici : une connaissance de ce que recèle l'intériorité humaine, sans que le texte précise le mode de cette connaissance.</dd>
 </div>
+<div class="lex-entree">
+<dt><span class="lex-trl">wa-ttaqu llāh</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 </dl>
 </div>
 
@@ -63,7 +67,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:8"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ"
    trl="Yā ayyuhā lladhīna āmanū kūnū qawwāmīna li-llāhi shuhadāʾa bi-l-qisṭi — wa-lā yajrimannakum shanaʾānu qawmin ʿalā allā taʿdilū — iʿdilū huwa aqrabu li-t-taqwā — wa-ttaqu llāh — inna llāha khabīrun bimā taʿmalūn"
-   trad="Ô vous qui avez cru, soyez fermement établis (*qawwāmīn*) pour Allaah, témoins avec le *qisṭ* (l'exacte répartition) — et que la haine (*shanaʾān*) envers un peuple ne vous entraîne pas à ne plus être justes (*allā taʿdilū*). Soyez justes (*iʿdilū*) : c'est plus proche de la *taqwā*. Et prémunissez-vous d'Allaah — Allaah est *Khabīr* de ce que vous faites."
+   trad="Ô vous qui avez cru, soyez fermement établis (*qawwāmīn*) pour Allaah, témoins avec le *qisṭ* (l'exacte répartition) — et que la haine (*shanaʾān*) envers un peuple ne vous entraîne pas à ne plus être justes (*allā taʿdilū*). Soyez justes (*iʿdilū*) : c'est plus proche de la *taqwā*. Et constituez-vous une taqwā (d'Allaah) — Allaah est *Khabīr* de ce que vous faites."
 %}
 
 <div class="notes-lexicales">
@@ -117,7 +121,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:11"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَنْ يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنْكُمْ ۖ وَاتَّقُوا اللَّهَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ"
    trl="Yā ayyuhā lladhīna āmanū dhkurū niʿmata llāhi ʿalaykum idh hamma qawmun an yabsuṭū ilaykum aydiyahum fa-kaffa aydiyahum ʿankum — wa-ttaqu llāh — wa-ʿalā llāhi fa-l-yatawakkali l-muʾminūn"
-   trad="Ô vous qui avez cru, rappelez-vous le bienfait d'Allaah sur vous, quand un peuple résolut de porter la main sur vous (*an yabsuṭū ilaykum aydiyahum*), et qu'Il a retenu leurs mains loin de vous — prémunissez-vous d'Allaah, et c'est sur Allaah que les croyants doivent s'en remettre (*fa-l-yatawakkali*)."
+   trad="Ô vous qui avez cru, rappelez-vous le bienfait d'Allaah sur vous, quand un peuple résolut de porter la main sur vous (*an yabsuṭū ilaykum aydiyahum*), et qu'Il a retenu leurs mains loin de vous — constituez-vous une taqwā (d'Allaah), et c'est sur Allaah que les croyants doivent s'en remettre (*fa-l-yatawakkali*)."
 %}
 
 <div class="notes-lexicales">

@@ -40,26 +40,30 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:130–132"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَـٰفًا مُّضَـٰعَفَةً ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ ۝ وَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِىٓ أُعِدَّتْ لِلْكَـٰفِرِينَ ۝ وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ"
    trl="Yā-ayyuhā lladhīna āmanū lā taʾkulu l-ribā aḍʿāfan muḍāʿafatan — wa-ttaqu llāha laʿallakum tufliḥūn — wa-ttaqu l-nāra llatī uʿiddat li-l-kāfirīn — wa-aṭīʿu llāha wa-l-rasūla laʿallakum turḥamūn"
-   trad="Ô vous qui avez cru, ne dévorez pas le ribā, en multiples redoublés — prémunissez-vous d'Allaah, peut-être serez-vous parmi les mufliḥūn. Prémunissez-vous du Feu, préparé pour les kāfirūn. Obéissez à Allaah et au rasūl, peut-être bénéficierez-vous de la raḥma."
+   trad="Ô vous qui avez cru, ne dévorez pas le ribā, en multiples redoublés — constituez-vous une taqwā d'Allaah, peut-être serez-vous parmi les mufliḥūn. Gardez-vous du Feu, préparé pour les kāfirūn. Obéissez à Allaah et au rasūl, peut-être bénéficierez-vous de la raḥma."
 %}
 
 {% include verset.html
    ref="S.3:133–134"
    ar="۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ ۝ ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
    trl="Wa-sāriʿū ilā maghfiratin min rabbikum wa-jannatin ʿarḍuhā l-samāwātu wa-l-arḍu uʿiddat li-l-muttaqīn — alladhīna yunfiqūna fi l-sarrāʾi wa-l-ḍarrāʾi wa-l-kāẓimīna l-ghayẓa wa-l-ʿāfīna ʿani l-nāsi — wa-llāhu yuḥibbu l-muḥsinīn"
-   trad="Hâtez-vous vers un pardon de votre Seigneur, et un jardin dont la largeur est les cieux et la terre, préparé pour les muttaqūn — ceux qui dépensent dans l'aisance comme dans l'adversité, qui contiennent leur colère et pardonnent aux gens — Allaah aime les muḥsinūn."
+   trad="Hâtez-vous vers un pardon de votre Rabb, et un jardin dont la largeur est les cieux et la terre, préparé pour les muttaqūn — ceux qui dépensent dans l'aisance comme dans l'adversité, qui contiennent leur colère et pardonnent aux gens — Allaah aime les muḥsinūn."
 %}
 
 {% include verset.html
    ref="S.3:135–136"
    ar="وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ ۝ أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ"
    trl="Wa-lladhīna idhā faʿalū fāḥishatan aw ẓalamū anfusahum dhakaru llāha fa-staghfarū li-dhunūbihim wa-man yaghfiru l-dhunūba illā llāhu wa-lam yuṣirrū ʿalā mā faʿalū wa-hum yaʿlamūn — ulāʾika jazāʾuhum maghfiratun min rabbihim wa-jannātun tajrī min taḥtihā l-anhāru khālidīna fīhā — wa-niʿma ajru l-ʿāmilīn"
-   trad="Et ceux qui, lorsqu'ils commettent une fāḥisha ou se font tort à eux-mêmes, se souviennent d'Allaah et implorent le pardon de leurs fautes — et qui d'autre qu'Allaah pardonne les fautes ? — et qui ne persistent pas sciemment dans ce qu'ils ont fait — ceux-là, leur rétribution est un pardon de leur Seigneur, et des jardins sous lesquels coulent les rivières, y demeurant : quelle excellente rétribution pour ceux qui agissent !"
+   trad="Et ceux qui, lorsqu'ils commettent une fāḥisha ou se font tort à eux-mêmes, se souviennent d'Allaah et implorent le pardon de leurs fautes — et qui d'autre qu'Allaah pardonne les fautes ? — et qui ne persistent pas sciemment dans ce qu'ils ont fait — ceux-là, leur rétribution est un pardon de leur Rabb, et des jardins sous lesquels coulent les rivières, y demeurant : quelle excellente rétribution pour ceux qui agissent !"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱتَّقُوا۟</span><span class="lex-trl">ittaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">أَضْعَـٰفًا مُّضَـٰعَفَةً</span><span class="lex-trl">aḍʿāfan muḍāʿafatan</span></dt>
 <dd>racine ḍ-ʿ-f (redoublement/multiplication) répétée deux fois par intensification — des multiples redoublés, sans que ce verset ne fixe de proportion chiffrée précise (voir l'étude dédiée pour l'analyse complète du seuil).</dd>
@@ -187,7 +191,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:146–148"
    ar="وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ ۝ وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ ۝ فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
    trl="Wa-kaʾayyin min nabiyyin qātala maʿahu ribbiyyūna kathīrun fa-mā wahanū li-mā aṣābahum fī sabīli llāhi wa-mā ḍaʿufū wa-mā stakānū — wa-llāhu yuḥibbu l-ṣābirīn — wa-mā kāna qawlahum illā an qālū rabbanā ghfir lanā dhunūbanā wa-isrāfanā fī amrinā wa-thabbit aqdāmanā wa-nṣurnā ʿala l-qawmi l-kāfirīn — fa-ātāhumu llāhu thawāba l-dunyā wa-ḥusna thawābi l-ākhirati — wa-llāhu yuḥibbu l-muḥsinīn"
-   trad="Que de nabī ont combattu, accompagnés de nombreux ribbiyyūn, qui n'ont ni faibli devant ce qui les a atteints sur le chemin d'Allaah, ni fléchi, ni cédé — Allaah aime les ṣābirūn. Leur seule parole était : « Notre Seigneur, pardonne-nous nos fautes et notre excès dans notre affaire, affermis nos pas, et secours-nous contre les gens kāfirūn. » Allaah leur donna la rétribution de ce monde, et la belle rétribution de l'ākhira — Allaah aime les muḥsinūn."
+   trad="Que de nabī ont combattu, accompagnés de nombreux ribbiyyūn, qui n'ont ni faibli devant ce qui les a atteints sur le chemin d'Allaah, ni fléchi, ni cédé — Allaah aime les ṣābirūn. Leur seule parole était : « Notre Rabb, pardonne-nous nos fautes et notre excès dans notre affaire, affermis nos pas, et secours-nous contre les gens kāfirūn. » Allaah leur donna la rétribution de ce monde, et la belle rétribution de l'ākhira — Allaah aime les muḥsinūn."
 %}
 
 <div class="notes-lexicales">
@@ -195,7 +199,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">رِبِّيُّونَ</span><span class="lex-trl">ribbiyyūn</span></dt>
-<dd>racine r-b-b, même famille que <em>rabbāniyyīn</em> (S3:79) : lecture double possible — soit « multitudes nombreuses », soit « hommes attachés à leur Seigneur » — **non-dit** sur laquelle de ces deux nuances domine ici ; conservé translittéré.</dd>
+<dd>racine r-b-b, même famille que <em>rabbāniyyīn</em> (S3:79) : lecture double possible — soit « multitudes nombreuses », soit « hommes attachés à leur Rabb » — **non-dit** sur laquelle de ces deux nuances domine ici ; conservé translittéré.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">وَهَنُوا۟ / ضَعُفُوا۟ / ٱسْتَكَانُوا۟</span><span class="lex-trl">wahanū / ḍaʿufū / stakānū</span></dt>

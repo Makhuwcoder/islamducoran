@@ -92,7 +92,7 @@ Ce sommaire couvre la **Sourate 3 · Āl ʿImrān** dans son intégralité (200 
 |------|-----------------|
 | S.3:47 | Comment aurai-je un enfant — *kun fa-yakūn* |
 | S.3:48–50 | La mission d'ʿĪsā — signes par la permission d'Allaah |
-| S.3:51 | Allaah, mon Seigneur et votre Seigneur |
+| S.3:51 | Allaah, mon Rabb et votre Rabb |
 
 ### Le kufr perçu, les ḥawāriyyūn, la mubāhala, la clôture — mutawaffīka — S3:52–63
 
@@ -169,7 +169,7 @@ Ce sommaire couvre la **Sourate 3 · Āl ʿImrān** dans son intégralité (200 
 |------|-----------------|
 | S.3:100 | Obéir à un groupe qui ramène au *kufr* |
 | S.3:101 | S'attacher fermement à Allaah — le chemin droit |
-| S.3:102 | Se prémunir d'Allaah comme il convient |
+| S.3:102 | Se constituer une taqwā d'Allaah comme il convient |
 | S.3:103 | *Al-iʿtiṣām* — le lien d'Allaah, ne pas se diviser |
 | S.3:104–105 | La *umma* qui ordonne le *maʿrūf* |
 | S.3:106–107 | Visages blanchis et noircis |
@@ -190,7 +190,7 @@ Ce sommaire couvre la **Sourate 3 · Āl ʿImrān** dans son intégralité (200 
 | S.3:116–117 | Les *kāfirūn* — l'exemple du vent glacial |
 | S.3:118 | Ne pas prendre de *biṭāna* hors des croyants |
 | S.3:119 | Un amour à sens unique — la rage dissimulée |
-| S.3:120 | Patience et prémunition face à leur manœuvre |
+| S.3:120 | Patience et taqwā face à leur manœuvre |
 
 ### L'ouverture du récit de Badr — S3:121–129
 

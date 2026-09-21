@@ -37,7 +37,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.2:144 | L'orientation vers le Masjid Ḥarām |
 | S.2:145 | L'imperméabilité des gens du Kitāb |
 | S.2:146 | La connaissance dissimulée |
-| S.2:147 | *Al-ḥaqq* vient de ton Seigneur |
+| S.2:147 | *Al-ḥaqq* vient de ton Rabb |
 | S.2:148 | Chacun a sa *wijha* : rivaliser dans le bien |
 | S.2:149–150 | La répétition de l'injonction sur la qibla |
 | S.2:151 | Les fonctions du *rasūl* |
@@ -90,15 +90,19 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:131"
    ar="إِذْ قَالَ لَهُۥ رَبُّهُۥٓ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ ٱلْعَٰلَمِينَ"
    trl="Idh qāla lahu rabbuhu aslim — qāla aslamtu li-rabbi l-ʿālamīn"
-   trad="Quand son Seigneur lui dit : « Soumets-toi » — il dit : « Je me suis soumis au Seigneur des ʿālamīn. »"
+   trad="Quand son Rabb lui dit : « Soumets-toi » — il dit : « Je me suis soumis au Rabb des ʿālamīn. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
+<div class="lex-entree">
 <dt><span class="lex-ar">أَسْلَمْ / أَسْلَمْتُ</span><span class="lex-trl">aslim / aslamtu</span></dt>
-<dd>racine s-l-m, forme IV. Al-Farāhīdī (Kitāb al-ʿAyn) : al-salāma — l'absence de fissure, l'intégrité. La forme IV (afʿala) exprime la mise dans cet état : entrer dans l'intégrité, remettre l'être entier sans reste. La réponse d'Ibrāhīm est immédiate, sans restriction et sans désignation d'une entité partielle : li-rabbi l-ʿālamīn — au Seigneur de tous les mondes, non à une divinité locale ou tribale.</dd>
+<dd>racine s-l-m, forme IV. Al-Farāhīdī (Kitāb al-ʿAyn) : al-salāma — l'absence de fissure, l'intégrité. La forme IV (afʿala) exprime la mise dans cet état : entrer dans l'intégrité, remettre l'être entier sans reste. La réponse d'Ibrāhīm est immédiate, sans restriction et sans désignation d'une entité partielle : li-rabbi l-ʿālamīn — au *Rabb* de tous les mondes, non à une entité locale ou tribale.</dd>
 </div>
 </dl>
 </div>
@@ -207,7 +211,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    ref="S.2:136"
    ar="قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ"
    trl="Qūlū āmannā bi-llāhi wa-mā unzila ilaynā wa-mā unzila ilā Ibrāhīma wa-Ismāʿīla wa-Isḥāqa wa-Yaʿqūba wa-l-asbāṭi wa-mā ūtiya Mūsā wa-ʿĪsā wa-mā ūtiya l-nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wa-naḥnu lahu muslimūn"
-   trad="Dites : « Nous croyons en Allaah, en ce qui a été fait descendre vers nous, en ce qui a été fait descendre vers Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā et à ʿĪsā, et en ce qui a été donné aux nabiyyūn de la part de leur Seigneur — nous ne faisons pas de différence entre l'un quelconque d'entre eux, et nous Lui sommes soumis. »"
+   trad="Dites : « Nous croyons en Allaah, en ce qui a été fait descendre vers nous, en ce qui a été fait descendre vers Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā et à ʿĪsā, et en ce qui a été donné aux nabiyyūn de la part de leur Rabb — nous ne faisons pas de différence entre l'un quelconque d'entre eux, et nous Lui sommes soumis. »"
 %}
 
 <div class="notes-lexicales">
@@ -287,7 +291,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    ref="S.2:139"
    ar="قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ"
    trl="Qul a-tuḥājjūnanā fī llāhi wa-huwa rabbunā wa-rabbukum — wa-lanā aʿmālunā wa-lakum aʿmālukum — wa-naḥnu lahu mukhliṣūn"
-   trad="Dis : « Nous disputez-vous au sujet d'Allaah, alors qu'Il est notre Seigneur et votre Seigneur ? À nous nos actes et à vous vos actes — et nous Lui sommes sincèrement dévoués. »"
+   trad="Dis : « Nous disputez-vous au sujet d'Allaah, alors qu'Il est notre Rabb et votre Rabb ? À nous nos actes et à vous vos actes — et nous Lui sommes sincèrement dévoués. »"
 %}
 
 <div class="notes-lexicales">
@@ -303,7 +307,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
-<p><strong>Ce que le texte dit :</strong> le fondement de l'objection est rappelé — Allaah est également le Seigneur des deux parties, ce qui rend absurde toute revendication d'exclusivité disputée.</p>
+<p><strong>Ce que le texte dit :</strong> le fondement de l'objection est rappelé — Allaah est également le *Rabb* des deux parties, ce qui rend absurde toute revendication d'exclusivité disputée.</p>
 </div>
 </div>
 
@@ -323,7 +327,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">كَتَمَ شَهَٰدَةً عِندَهُ مِنَ ٱللَّه</span><span class="lex-trl">katama shahādatan ʿindahu mina llāh</span></dt>
-<dd>la particule ʿinda marque une proximité directe, sans intermédiaire : la shahāda est déjà en possession du sujet, issue d'Allaah Lui-même. La dissimuler est donc un acte délibéré, non une ignorance — reprise directe du thème du katm ouvert en S.2:159. La séquence S.2:135–140 forme un bloc rhétorique cohérent dont S.2:139 est le pivot : la revendication d'exclusivité (135) est démantelée par le rappel du Seigneur commun (139), puis requalifiée en dissimulation consciente d'un fait su (140).</dd>
+<dd>la particule ʿinda marque une proximité directe, sans intermédiaire : la shahāda est déjà en possession du sujet, issue d'Allaah Lui-même. La dissimuler est donc un acte délibéré, non une ignorance — reprise directe du thème du katm ouvert en S.2:159. La séquence S.2:135–140 forme un bloc rhétorique cohérent dont S.2:139 est le pivot : la revendication d'exclusivité (135) est démantelée par le rappel du *Rabb* commun (139), puis requalifiée en dissimulation consciente d'un fait su (140).</dd>
 </div>
 </dl>
 </div>
@@ -406,7 +410,7 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    ref="S.2:144"
    ar="قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ"
    trl="Qad narā taqalluba wajhika fī l-samāʾ — fa-la-nuwalliyannaka qiblatan tarḍāhā — fa-walli wajhaka shaṭra l-masjidi l-ḥarām — wa-ḥaythu mā kuntum fa-wallū wujūhakum shaṭrahu — wa-inna lladhīna ūtū l-kitāba la-yaʿlamūna annahu l-ḥaqqu min rabbihim — wa-mā llāhu bi-ghāfilin ʿammā yaʿmalūn"
-   trad="Nous voyons bien le tournoiement de ton visage vers le ciel — Nous t'orienterons certes vers une qibla qui te satisfasse — oriente donc ton visage vers le côté du Masjid Ḥarām — et où que vous soyez, orientez vos visages vers son côté — et ceux à qui le Kitāb a été donné savent bien que c'est al-ḥaqq venant de leur Seigneur — et Allaah n'est pas inattentif à ce qu'ils font."
+   trad="Nous voyons bien le tournoiement de ton visage vers le ciel — Nous t'orienterons certes vers une qibla qui te satisfasse — oriente donc ton visage vers le côté du Masjid Ḥarām — et où que vous soyez, orientez vos visages vers son côté — et ceux à qui le Kitāb a été donné savent bien que c'est al-ḥaqq venant de leur Rabb — et Allaah n'est pas inattentif à ce qu'ils font."
 %}
 
 <div class="notes-lexicales">
@@ -481,13 +485,13 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
 
 ---
 
-### S.2:147 · Al-ḥaqq vient de ton Seigneur
+### S.2:147 · Al-ḥaqq vient de ton Rabb
 
 {% include verset.html
    ref="S.2:147"
    ar="ٱلْحَقُّ مِن رَّبِّكَ ۖ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ"
    trl="Al-ḥaqqu min rabbika — fa-lā takūnanna mina l-mumtarīn"
-   trad="Al-ḥaqq vient de ton Seigneur — ne sois donc en aucun cas parmi les mumtarīn."
+   trad="Al-ḥaqq vient de ton Rabb — ne sois donc en aucun cas parmi les mumtarīn."
 %}
 
 <div class="notes-lexicales">
@@ -532,7 +536,7 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
    ref="S.2:149"
    ar="وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ"
    trl="Wa-min ḥaythu kharajta fa-walli wajhaka shaṭra l-masjidi l-ḥarām — wa-innahu la-l-ḥaqqu min rabbik — wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn"
-   trad="Et d'où que tu sortes, oriente ton visage vers le côté du Masjid Ḥarām — c'est assurément al-ḥaqq venant de ton Seigneur — et Allaah n'est pas inattentif à ce que vous faites."
+   trad="Et d'où que tu sortes, oriente ton visage vers le côté du Masjid Ḥarām — c'est assurément al-ḥaqq venant de ton Rabb — et Allaah n'est pas inattentif à ce que vous faites."
 %}
 
 **Notes lexicales**
@@ -731,7 +735,7 @@ Première des trois occurrences de l'injonction qibla après le verset-pivot S.2
    ref="S.2:157"
    ar="أُو۟لَٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ"
    trl="Ulāʾika ʿalayhim ṣalawātun min rabbihim wa-raḥmatun — wa-ulāʾika humu l-muhtadūn"
-   trad="Sur ceux-là : des ṣalawāt de leur Seigneur et une raḥma — et ce sont eux les muhtadūn."
+   trad="Sur ceux-là : des ṣalawāt de leur Rabb et une raḥma — et ce sont eux les muhtadūn."
 %}
 
 <div class="notes-lexicales">
@@ -739,7 +743,7 @@ Première des trois occurrences de l'injonction qibla après le verset-pivot S.2
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">صَلَوَات</span><span class="lex-trl">ṣalawāt</span></dt>
-<dd>racine ṣ-l-w. Al-Farāhīdī (Kitāb al-ʿAyn) : al-ṣalā, la région lombaire, le bas du dos, siège de l'élan et du soutien physique. Ce que l'on peut dire lorsqu'on parle d'Allaah sous ce terme : un soutien actif, une propulsion accordée. Les ṣalawāt venant du Seigneur sont un soutien réel accordé aux ṣābirīn — non une prière rituelle qu'Allaah accomplirait. Attribuer à Allaah un acte rituel conçu pour les créatures constituerait un anthropomorphisme que la racine ne porte pas et que laysa ka-mithlihi shayʾ (S.42:11) exclut. Ce verset clôt le bloc en répondant explicitement à la promesse suspendue de S.2:155 (wa-bashshiri l-ṣābirīn) : le contenu de la bonne nouvelle est ce soutien et cette raḥma.</dd>
+<dd>racine ṣ-l-w. Al-Farāhīdī (Kitāb al-ʿAyn) : al-ṣalā, la région lombaire, le bas du dos, siège de l'élan et du soutien physique. Ce que l'on peut dire lorsqu'on parle d'Allaah sous ce terme : un soutien actif, une propulsion accordée. Les ṣalawāt venant du *Rabb* sont un soutien réel accordé aux ṣābirīn — non une prière rituelle qu'Allaah accomplirait. Attribuer à Allaah un acte rituel conçu pour les créatures constituerait un anthropomorphisme que la racine ne porte pas et que laysa ka-mithlihi shayʾ (S.42:11) exclut. Ce verset clôt le bloc en répondant explicitement à la promesse suspendue de S.2:155 (wa-bashshiri l-ṣābirīn) : le contenu de la bonne nouvelle est ce soutien et cette raḥma.</dd>
 </div>
 </dl>
 </div>

@@ -87,12 +87,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:186"
    ar="لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ"
    trl="La-tublawunna fī amwālikum wa-anfusikum wa-la-tasmaʿunna mina lladhīna ūtu l-kitāba min qablikum wa-mina lladhīna ashrakū adhan kathīrā — wa-in taṣbirū wa-tattaqū fa-inna dhālika min ʿazmi l-umūr"
-   trad="Vous serez certainement éprouvés dans vos biens et vos personnes, et vous entendrez certainement, de la part de ceux à qui le Kitāb a été donné avant vous et de la part de ceux qui ont associé, un tort abondant. Mais si vous êtes ṣābirūn et vous prémunissez, cela relève des affaires qui exigent une résolution ferme."
+   trad="Vous serez certainement éprouvés dans vos biens et vos personnes, et vous entendrez certainement, de la part de ceux à qui le Kitāb a été donné avant vous et de la part de ceux qui ont associé, un tort abondant. Mais si vous êtes ṣābirūn et vous constituez une taqwā, cela relève des affaires qui exigent une résolution ferme."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">تَتَّقُوا۟</span><span class="lex-trl">tattaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ذَآئِقَةُ</span><span class="lex-trl">dhāʾiqa</span></dt>
 <dd>racine dh-w-q : goûter — la mort présentée par l'image du goût, non de l'anéantissement total.</dd>
@@ -198,19 +202,23 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:189–191"
    ar="وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ ۝ إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۝ ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ"
    trl="Wa-li-llāhi mulku l-samāwāti wa-l-arḍ — wa-llāhu ʿalā kulli shayʾin qadīr — inna fī khalqi l-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-l-nahāri la-āyātin li-ulī l-albāb — alladhīna yadhkurūna llāha qiyāman wa-quʿūdan wa-ʿalā junūbihim wa-yatafakkarūna fī khalqi l-samāwāti wa-l-arḍ rabbanā mā khalaqta hādhā bāṭilan subḥānaka fa-qinā ʿadhāba l-nār"
-   trad="À Allaah appartient le mulk des cieux et de la terre — Allaah a pouvoir sur toute chose. Dans la création des cieux et de la terre, et l'alternance de la nuit et du jour, il y a certes des signes pour les ūlū l-albāb — ceux qui se souviennent d'Allaah debout, assis, et sur leurs côtés, et qui réfléchissent sur la création des cieux et de la terre : « Notre Seigneur, Tu n'as pas créé cela en vain — gloire à Toi, préserve-nous du châtiment du Feu. »"
+   trad="À Allaah appartient le mulk des cieux et de la terre — Allaah a pouvoir sur toute chose. Dans la création des cieux et de la terre, et l'alternance de la nuit et du jour, il y a certes des signes pour les ūlū l-albāb — ceux qui se souviennent d'Allaah debout, assis, et sur leurs côtés, et qui réfléchissent sur la création des cieux et de la terre : « Notre Rabb, Tu n'as pas créé cela en vain — gloire à Toi, préserve-nous du châtiment du Feu. »"
 %}
 
 {% include verset.html
    ref="S.3:192–194"
    ar="رَبَّنَآ إِنَّكَ مَن تُدْخِلِ ٱلنَّارَ فَقَدْ أَخْزَيْتَهُۥ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍ ۝ رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ ۝ رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ"
    trl="Rabbanā innaka man tudkhili l-nāra fa-qad akhzaytah — wa-mā li-l-ẓālimīna min anṣār — rabbanā innanā samiʿnā munādiyan yunādī li-l-īmāni an āminū bi-rabbikum fa-āmannā — rabbanā fa-ghfir lanā dhunūbanā wa-kaffir ʿannā sayyiʾātinā wa-tawaffanā maʿa l-abrār — rabbanā wa-ātinā mā waʿadtanā ʿalā rusulika wa-lā tukhzinā yawma l-qiyāmah — innaka lā tukhlifu l-mīʿād"
-   trad="« Notre Seigneur, quiconque Tu fais entrer dans le Feu, Tu l'as certes couvert de honte — et pour les ẓālimūn, aucun secoureur. Notre Seigneur, nous avons entendu un appelant qui appelait à la foi : ‹ Croyez en votre Seigneur › — et nous avons cru. Notre Seigneur, pardonne-nous nos fautes, efface de nous nos mauvaises actions, et fais-nous mourir avec les abrār. Notre Seigneur, donne-nous ce que Tu nous as promis par Tes rusul, et ne nous couvre pas de honte au jour de la résurrection — Tu ne manques jamais à Ta promesse. »"
+   trad="« Notre Rabb, quiconque Tu fais entrer dans le Feu, Tu l'as certes couvert de honte — et pour les ẓālimūn, aucun secoureur. Notre Rabb, nous avons entendu un appelant qui appelait à la foi : ‹ Croyez en votre Rabb › — et nous avons cru. Notre Rabb, pardonne-nous nos fautes, efface de nous nos mauvaises actions, et fais-nous mourir avec les abrār. Notre Rabb, donne-nous ce que Tu nous as promis par Tes rusul, et ne nous couvre pas de honte au jour de la résurrection — Tu ne manques jamais à Ta promesse. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
+<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يَتَفَكَّرُونَ</span><span class="lex-trl">yatafakkarūn</span></dt>
 <dd>racine f-k-r : réfléchir, faire circuler la pensée sur un objet — première occurrence de cette racine relevée dans ce corpus.</dd>
@@ -245,7 +253,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:195"
    ar="فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ"
    trl="Fa-stajāba lahum rabbuhum annī lā uḍīʿu ʿamala ʿāmilin minkum min dhakarin aw unthā — baʿḍukum min baʿḍ — fa-lladhīna hājarū wa-ukhrijū min diyārihim wa-ūdhū fī sabīlī wa-qātalū wa-qutilū la-ukaffiranna ʿanhum sayyiʾātihim wa-la-udkhilannahum jannātin tajrī min taḥtihā l-anhāru thawāban min ʿindi llāh — wa-llāhu ʿindahu ḥusnu l-thawāb"
-   trad="Leur Seigneur leur a répondu : « Je ne laisse se perdre l'œuvre d'aucun agissant parmi vous, homme ou femme — vous relevez les uns des autres. Ceux qui ont émigré, qui ont été expulsés de leurs demeures, qui ont subi un tort sur Mon chemin, qui ont combattu et ont été tués, J'effacerai certainement leurs mauvaises actions, et Je les ferai certainement entrer dans des jardins sous lesquels coulent les rivières, en rétribution venant d'Allaah — auprès d'Allaah se trouve la plus belle des rétributions. »"
+   trad="Leur Rabb leur a répondu : « Je ne laisse se perdre l'œuvre d'aucun agissant parmi vous, homme ou femme — vous relevez les uns des autres. Ceux qui ont émigré, qui ont été expulsés de leurs demeures, qui ont subi un tort sur Mon chemin, qui ont combattu et ont été tués, J'effacerai certainement leurs mauvaises actions, et Je les ferai certainement entrer dans des jardins sous lesquels coulent les rivières, en rétribution venant d'Allaah — auprès d'Allaah se trouve la plus belle des rétributions. »"
 %}
 
 <div class="notes-lexicales">
@@ -281,14 +289,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:196–198"
    ar="لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ ۝ مَتَـٰعٌ قَلِيلٌ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ ۝ لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ"
    trl="Lā yaghurrannaka taqallubu lladhīna kafarū fi l-bilād — matāʿun qalīlun thumma maʾwāhum jahannam — wa-biʾsa l-mihād — lākini lladhīna ttaqaw rabbahum lahum jannātun tajrī min taḥtihā l-anhāru khālidīna fīhā nuzulan min ʿindi llāh — wa-mā ʿinda llāhi khayrun li-l-abrār"
-   trad="Que ne te leurre pas l'aisance de ceux qui sont kāfirūn, allant et venant dans le pays — une jouissance passagère, puis leur refuge est jahannam : quel détestable lieu de repos. Mais ceux qui se sont prémunis envers leur Seigneur ont des jardins sous lesquels coulent les rivières, y demeurant, en accueil venant d'Allaah — ce qui est auprès d'Allaah est meilleur pour les abrār."
+   trad="Que ne te leurre pas l'aisance de ceux qui sont kāfirūn, allant et venant dans le pays — une jouissance passagère, puis leur refuge est jahannam : quel détestable lieu de repos. Mais ceux qui se sont constitué une taqwā envers leur Rabb ont des jardins sous lesquels coulent les rivières, y demeurant, en accueil venant d'Allaah — ce qui est auprès d'Allaah est meilleur pour les abrār."
 %}
 
 {% include verset.html
    ref="S.3:199"
    ar="وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ"
    trl="Wa-inna min ahli l-kitābi la-man yuʾminu bi-llāhi wa-mā unzila ilaykum wa-mā unzila ilayhim khāshiʿīna li-llāhi lā yashtarūna bi-āyāti llāhi thamanan qalīlā — ulāʾika lahum ajruhum ʿinda rabbihim — inna llāha sarīʿu l-ḥisāb"
-   trad="Et il y a certes, parmi les Gens du Livre, ceux qui croient en Allaah, à ce qui a été descendu vers vous et à ce qui a été descendu vers eux, s'inclinant devant Allaah, n'échangeant pas les āyāt d'Allaah contre un prix dérisoire — ceux-là ont leur rétribution auprès de leur Seigneur : Allaah est prompt à faire le compte."
+   trad="Et il y a certes, parmi les Gens du Livre, ceux qui croient en Allaah, à ce qui a été descendu vers vous et à ce qui a été descendu vers eux, s'inclinant devant Allaah, n'échangeant pas les āyāt d'Allaah contre un prix dérisoire — ceux-là ont leur rétribution auprès de leur Rabb : Allaah est prompt à faire le compte."
 %}
 
 <div class="notes-lexicales">
@@ -326,7 +334,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:200"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ"
    trl="Yā-ayyuhā lladhīna āmanū ṣbirū wa-ṣābirū wa-rābiṭū wa-ttaqu llāha laʿallakum tufliḥūn"
-   trad="Ô vous qui avez cru, tenez ferme, tenez ferme face à l'adversité, restez attachés en position, et prémunissez-vous d'Allaah — peut-être serez-vous parmi les mufliḥūn."
+   trad="Ô vous qui avez cru, tenez ferme, tenez ferme face à l'adversité, restez attachés en position, et constituez-vous une taqwā d'Allaah — peut-être serez-vous parmi les mufliḥūn."
 %}
 
 <div class="notes-lexicales">

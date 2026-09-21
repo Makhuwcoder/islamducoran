@@ -320,7 +320,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:128"
    ar="وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ الْأَنفُسُ الشُّحَّ ۚ وَإِن تُحْسِنُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
    trl="Wa-ini mraʾatun khāfat min baʿlihā nushūzan aw iʿrāḍan fa-lā junāḥa ʿalayhimā an yuṣliḥā baynahumā ṣulḥan — wa-ṣ-ṣulḥu khayrun — wa-uḥḍirati l-anfusu sh-shuḥḥa — wa-in tuḥsinū wa-tattaqū fa-inna llāha kāna bimā taʿmalūna khabīrā"
-   trad="Et si une femme craint de la part de son époux (*baʿl*) un *nushūz* ou un détournement (*iʿrāḍ*), nul grief à leur porter s'ils trouvent entre eux un arrangement (*yuṣliḥā... ṣulḥan*) — l'arrangement (*ṣulḥ*) est meilleur. Les âmes (*al-anfus*) sont portées (*uḥḍirat*) à l'avarice (*shuḥḥ*). Mais si vous agissez avec excellence (*tuḥsinū*) et craignez [Allaah], Allaah est, de ce que vous faites, *khabīr* (pleinement informé)."
+   trad="Et si une femme craint de la part de son époux (*baʿl*) un *nushūz* ou un détournement (*iʿrāḍ*), nul grief à leur porter s'ils trouvent entre eux un arrangement (*yuṣliḥā... ṣulḥan*) — l'arrangement (*ṣulḥ*) est meilleur. Les âmes (*al-anfus*) sont portées (*uḥḍirat*) à l'avarice (*shuḥḥ*). Mais si vous agissez avec excellence (*tuḥsinū*) et vous constituez une taqwā, Allaah est, de ce que vous faites, *khabīr* (pleinement informé)."
 %}
 
 {:.callout .callout--pivot}
@@ -329,6 +329,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">tattaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir » ou « craindre », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">baʿl</span></dt>
 <dd>racine <em>b-ʿ-l</em> : le maître, celui qui a autorité sur une chose — employé dans le Coran pour désigner l'époux, à distinguer de *zawj* (le conjoint, terme plus fréquent et plus neutre).</dd>
@@ -358,7 +362,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:129"
    ar="وَلَن تَسْتَطِيعُوا أَن تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا"
    trl="Wa-lan tastaṭīʿū an taʿdilū bayna n-nisāʾi wa-law ḥaraṣtum — fa-lā tamīlū kulla l-mayli fa-tadharūhā ka-l-muʿallaqati — wa-in tuṣliḥū wa-tattaqū fa-inna llāha kāna ghafūran raḥīmā"
-   trad="Vous ne pourrez jamais être équitables (*taʿdilū*) entre les femmes, même si vous y tenez (*ḥaraṣtum*) — ne penchez donc pas d'un penchant total (*kulla l-mayl*), au point de la laisser comme suspendue (*ka-l-muʿallaqa*). Et si vous trouvez un arrangement (*tuṣliḥū*) et craignez [Allaah], Allaah est *ghafūr*, *raḥīm*."
+   trad="Vous ne pourrez jamais être équitables (*taʿdilū*) entre les femmes, même si vous y tenez (*ḥaraṣtum*) — ne penchez donc pas d'un penchant total (*kulla l-mayl*), au point de la laisser comme suspendue (*ka-l-muʿallaqa*). Et si vous trouvez un arrangement (*tuṣliḥū*) et vous constituez une taqwā, Allaah est *ghafūr*, *raḥīm*."
 %}
 
 <div class="notes-lexicales">
@@ -408,7 +412,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:131"
    ar="وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ اتَّقُوا اللَّهَ ۚ وَإِن تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَانَ اللَّهُ غَنِيًّا حَمِيدًا"
    trl="Wa-li-llāhi mā fi s-samāwāti wa-mā fi l-arḍi — wa-la-qad waṣṣaynā lladhīna ūtū l-kitāba min qablikum wa-iyyākum ani ttaqū llāha — wa-in takfurū fa-inna li-llāhi mā fi s-samāwāti wa-mā fi l-arḍi — wa-kāna llāhu ghaniyyan ḥamīdā"
-   trad="À Allaah appartient ce qui est dans les cieux et ce qui est sur la terre. Nous avons certes prescrit (*waṣṣaynā*) à ceux à qui le Livre a été donné avant vous, ainsi qu'à vous-mêmes, de craindre Allaah (*ittaqū llāh*). Et si vous *takfurū* (rejetez), à Allaah appartient ce qui est dans les cieux et ce qui est sur la terre — Allaah est *Ghaniyy* (Ce qui se suffit à Soi-même), *Ḥamīd* (Ce à quoi revient toute louange)."
+   trad="À Allaah appartient ce qui est dans les cieux et ce qui est sur la terre. Nous avons certes prescrit (*waṣṣaynā*) à ceux à qui le Livre a été donné avant vous, ainsi qu'à vous-mêmes, de vous constituer une taqwā d'Allaah (*ittaqū llāh*). Et si vous *takfurū* (rejetez), à Allaah appartient ce qui est dans les cieux et ce qui est sur la terre — Allaah est *Ghaniyy* (Ce qui se suffit à Soi-même), *Ḥamīd* (Ce à quoi revient toute louange)."
 %}
 
 <div class="notes-lexicales">

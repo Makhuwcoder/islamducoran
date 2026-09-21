@@ -21,7 +21,7 @@ methode: "Dit / Non-dit / Inférence"
 |------|-----------------|
 | S.3:100 | Obéir à un groupe qui ramène au *kufr* |
 | S.3:101 | S'attacher fermement à Allaah — le chemin droit |
-| S.3:102 | Se prémunir d'Allaah comme il convient |
+| S.3:102 | Se constituer une taqwā d'Allaah comme il convient |
 | S.3:103 | *Al-iʿtiṣām* — le lien d'Allaah, ne pas se diviser |
 | S.3:104–105 | La *umma* qui ordonne le *maʿrūf* |
 | S.3:106–107 | Visages blanchis et noircis |
@@ -32,7 +32,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.3:116–117 | Les *kāfirūn* — l'exemple du vent glacial |
 | S.3:118 | Ne pas prendre de *biṭāna* hors des croyants |
 | S.3:119 | Un amour à sens unique — la rage dissimulée |
-| S.3:120 | Patience et prémunition face à leur manœuvre |
+| S.3:120 | Patience et taqwā face à leur manœuvre |
 | S.3:121–122 | Les postes de combat — s'en remettre à Allaah |
 | S.3:123 | Le secours à Badr malgré la faiblesse |
 | S.3:124–126 | Le secours par les *malāʾika* |
@@ -58,7 +58,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:102"
    ar="يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ"
    trl="Yā-ayyuhā lladhīna āmanū ttaqu llāha ḥaqqa tuqātihi wa-lā tamūtunna illā wa-antum muslimūn"
-   trad="Ô vous qui avez cru, prémunissez-vous d'Allaah comme il convient de s'en prémunir, et ne mourez qu'en étant muslimūn."
+   trad="Ô vous qui avez cru, constituez-vous, envers Allaah, la taqwā qui Lui est due, et ne mourez qu'en étant muslimūn."
 %}
 
 {% include verset.html
@@ -90,6 +90,10 @@ methode: "Dit / Non-dit / Inférence"
 <p><strong>Note lexicale — k-f-r, S3:100–101, S3:106–107.</strong> Voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>. Le marqueur « baʿda īmānikum » (après votre foi, S3:100, S3:106) et le rappel explicite de la récitation directe des āyāt (S3:101) désignent la dimension du refus délibéré après reconnaissance — le terme est alors rendu « refuser de reconnaître ». Ailleurs dans ce bloc (S3:111, S3:116, S3:127), en l'absence de ce type de marqueur, la forme reste translittérée (*kāfirūn*).</p>
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">ٱتَّقُوا۟</span><span class="lex-trl">ittaqū</span></dt>
+<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱعْتَصِمُوا۟ / يَعْتَصِم</span><span class="lex-trl">iʿtaṣimū / yaʿtaṣim</span></dt>
 <dd>racine ʿ-ṣ-m : se retenir fermement à quelque chose, s'y accrocher pour ne pas tomber — verset-pivot du fil « Al-Iʿtiṣām » retenu comme hypothèse de titre pour cette sourate.</dd>
@@ -200,7 +204,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:120"
    ar="إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ"
    trl="In tamsaskum ḥasanatun tasuʾhum wa-in tuṣibkum sayyiʾatun yafraḥū bihā — wa-in taṣbirū wa-tattaqū lā yaḍurrukum kayduhum shayʾan — inna llāha bi-mā yaʿmalūna muḥīṭ"
-   trad="Si un bien vous atteint, cela les attriste ; si un mal vous atteint, ils s'en réjouissent — mais si vous êtes patients et vous prémunissez, leur manœuvre ne vous nuira en rien. Allaah embrasse totalement ce qu'ils font."
+   trad="Si un bien vous atteint, cela les attriste ; si un mal vous atteint, ils s'en réjouissent — mais si vous êtes patients et vous constituez une taqwā, leur manœuvre ne vous nuira en rien. Allaah embrasse totalement ce qu'ils font."
 %}
 
 <div class="notes-lexicales">
@@ -242,14 +246,14 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:123"
    ar="وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ"
    trl="Wa-la-qad naṣarakumu llāhu bi-Badrin wa-antum adhillatun — fa-ttaqu llāha laʿallakum tashkurūn"
-   trad="Allaah vous a certes secourus à Badr, alors que vous étiez faibles — prémunissez-vous donc d'Allaah, peut-être serez-vous reconnaissants."
+   trad="Allaah vous a certes secourus à Badr, alors que vous étiez faibles — constituez-vous donc une taqwā d'Allaah, peut-être serez-vous reconnaissants."
 %}
 
 {% include verset.html
    ref="S.3:124–126"
    ar="إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَـٰثَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُنزَلِينَ ۝ بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ ۝ وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
    trl="Idh taqūlu li-l-muʾminīna a-lan yakfiyakum an yumiddakum rabbukum bi-thalāthati ālāfin mina l-malāʾikati munzalīn — balā — in taṣbirū wa-tattaqū wa-yaʾtūkum min fawrihim hādhā yumdidkum rabbukum bi-khamsati ālāfin mina l-malāʾikati musawwimīn — wa-mā jaʿalahu llāhu illā bushrā lakum wa-li-taṭmaʾinna qulūbukum bihi — wa-mā l-naṣru illā min ʿindi llāhi l-ʿAzīzi l-Ḥakīm"
-   trad="Quand tu disais aux muʾminūn : « Ne vous suffit-il pas que votre Seigneur vous assiste de trois mille malāʾika descendus ? » Bien plus : si vous êtes patients et vous prémunissez, et qu'ils viennent contre vous à l'instant même, votre Seigneur vous assistera de cinq mille malāʾika marqués distinctement. Allaah n'a fait cela que comme une bonne annonce pour vous, et pour que vos cœurs s'apaisent par cela — le secours ne vient que d'auprès d'Allaah, al-ʿAzīz, al-Ḥakīm."
+   trad="Quand tu disais aux muʾminūn : « Ne vous suffit-il pas que votre Rabb vous assiste de trois mille malāʾika descendus ? » Bien plus : si vous êtes patients et vous constituez une taqwā, et qu'ils viennent contre vous à l'instant même, votre Rabb vous assistera de cinq mille malāʾika marqués distinctement. Allaah n'a fait cela que comme une bonne annonce pour vous, et pour que vos cœurs s'apaisent par cela — le secours ne vient que d'auprès d'Allaah, al-ʿAzīz, al-Ḥakīm."
 %}
 
 {% include verset.html
@@ -262,6 +266,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
+<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يَتَوَكَّلِ</span><span class="lex-trl">yatawakkal</span></dt>
 <dd>racine w-k-l : remettre une affaire à quelqu'un d'autre, s'en reposer sur lui pour son issue — première occurrence de ce verbe dans le corpus traduit sur ce site ; conservé « s'en remettre à » en français, sens fonctionnel de confiance active, non de passivité.</dd>

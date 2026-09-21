@@ -71,12 +71,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:285"
    ar="آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ"
    trl="Āmana l-rasūlu bi-mā unzila ilayhi min rabbihi wa-l-muʾminūn — kullun āmana bi-llāhi wa-malāʾikatihi wa-kutubihi wa-rusulih — lā nufarriqu bayna aḥadin min rusulih — wa-qālū samiʿnā wa-aṭaʿnā — ghufrānaka rabbanā wa-ilayka l-maṣīr"
-   trad="Le rasūl a cru en ce qui lui a été fait descendre de son Seigneur, et les muʾminūn de même. Chacun a cru en Allaah, en Ses malāʾika, en Ses kutub et en Ses rusul — « Nous ne faisons de distinction entre aucun de Ses rusul » — et ils ont dit : « Nous avons entendu et nous avons obéi. Ton ghufrān, notre Seigneur, et vers Toi est le devenir. »"
+   trad="Le rasūl a cru en ce qui lui a été fait descendre de son Rabb, et les muʾminūn de même. Chacun a cru en Allaah, en Ses malāʾika, en Ses kutub et en Ses rusul — « Nous ne faisons de distinction entre aucun de Ses rusul » — et ils ont dit : « Nous avons entendu et nous avons obéi. Ton ghufrān, notre Rabb, et vers Toi est le devenir. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rabb</span></dt>
+<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">آمَنَ</span><span class="lex-trl">āmana</span></dt>
 <dd>(ʾ-m-n) : croire, placer sa confiance et sa sécurité en.</dd>
@@ -130,7 +134,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:286"
    ar="لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ"
    trl="Lā yukallifu llāhu nafsan illā wusʿahā — lahā mā kasabat wa-ʿalayhā mā ktasabat — rabbanā lā tuʾākhidhnā in nasīnā aw akhṭaʾnā — rabbanā wa-lā taḥmil ʿalaynā iṣran ka-mā ḥamaltahu ʿala lladhīna min qablinā — rabbanā wa-lā tuḥammilnā mā lā ṭāqata lanā bih — wa-ʿfu ʿannā wa-ghfir lanā wa-rḥamnā — anta mawlānā fa-nṣurnā ʿala l-qawmi l-kāfirīn"
-   trad="Allaah n'impose à une nafs que ce qu'elle peut porter (wusʿ). A elle ce qu'elle a acquis (kasabat), et sur elle ce qu'elle s'est chargée d'acquérir (iktasabat). Notre Seigneur, ne nous saisis pas si nous oublions ou si nous commettons une erreur. Notre Seigneur, ne fais pas peser sur nous une charge lourde (iṣr) comme Tu l'as fait peser sur ceux d'avant nous. Notre Seigneur, ne nous fais pas porter ce pour quoi nous n'avons pas de capacité (ṭāqa). Efface pour nous, pardonne-nous, fais-nous miséricorde (irḥamnā). Tu es notre mawlā — alors secours-nous contre le peuple kāfir."
+   trad="Allaah n'impose à une nafs que ce qu'elle peut porter (wusʿ). A elle ce qu'elle a acquis (kasabat), et sur elle ce qu'elle s'est chargée d'acquérir (iktasabat). Notre Rabb, ne nous saisis pas si nous oublions ou si nous commettons une erreur. Notre Rabb, ne fais pas peser sur nous une charge lourde (iṣr) comme Tu l'as fait peser sur ceux d'avant nous. Notre Rabb, ne nous fais pas porter ce pour quoi nous n'avons pas de capacité (ṭāqa). Efface pour nous, pardonne-nous, fais-nous miséricorde (irḥamnā). Tu es notre mawlā — alors secours-nous contre le peuple kāfir."
 %}
 
 <div class="notes-lexicales">
