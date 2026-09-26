@@ -250,6 +250,10 @@ methode: "Dit / Non-dit / Inférence"
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
+<dt><span class="lex-trl">al-nās</span></dt>
+<dd>racine *ʾ-n-s* : ce qui se manifeste et vit dans la familiarité, par opposition à ce qui est farouche ou caché (Ibn Fāris). *Al-nās* est un collectif qui désigne les êtres humains dans leur ensemble, femmes et hommes, sans distinction de groupe. Non traduit : « les gens » est vague et familier, « les hommes » prête à confusion avec le masculin ; aucun des deux ne rend ce collectif humain. Dans « Croyez comme *al-nās* ont cru », le texte pose *al-nās* comme la référence collective de la foi, sans préciser de quels humains il s'agit — un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
 <dt><span class="lex-trl">sufahāʾ</span></dt>
 <dd>racine *s-f-h* : légèreté, absence de gravité, manque de solidité intellectuelle. Non simplement « idiots » : les *sufahāʾ* sont ceux dont la pensée ne tient pas, qui ne distinguent pas l'essentiel du futile.</dd>
 </div>
@@ -318,8 +322,15 @@ methode: "Dit / Non-dit / Inférence"
    trad="Ô *al-nās* ! Adorez votre *Rabb*, Ce qui vous a créés, vous et ceux d'avant vous — afin que vous atteigniez la *taqwā*."
 %}
 
-{:.callout}
-**Correction rétroactive (2026-09-17).** *Laʿallakum tattaqūn* était initialement rendu ici de façon modale (« peut-être »). La méthode retient désormais uniformément le sens finaliste déclaré (« afin que ») pour *laʿalla* + subjonctif dans ce type de clausule — validé par l'étude [*Ṣiyām*](/etudes/siyam/) sur S2:183 et appliqué de façon cohérente en S2:150 et S2:179. Correction appliquée ici et en S2:52, S2:53, S2:63 (Bloc II).
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">Ce qui</span></dt>
+<dd>Lorsqu'il s'agit d'Allaah, la traduction n'emploie pas « Celui qui ». En français, « celui qui » est un pronom masculin qui désigne une personne : il installe un genre et une figure que le texte ne pose pas. Le neutre absolu s'exprime en français par la locution **« ce qui »** ou **« ce que »**, qui ne suppose ni genre ni personne. C'est pourquoi l'arabe *alladhī* est rendu ici par « Ce qui vous a créés » et non par « Celui qui vous a créés ».</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:22"

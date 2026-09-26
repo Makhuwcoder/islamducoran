@@ -70,7 +70,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">subḥāna</span></dt>
-<dd>racine *s-b-ḥ* : nager, se mouvoir librement dans un vaste espace. *Subḥāna llāh* : ce que l'on peut dire lorsqu'on parle d'Allaah comme entièrement dégagé de toute limitation, entièrement au-delà de toute imperfection. Non traduit : « gloire à » introduit une connotation de laudatio étrangère à la.</dd>
+<dd>racine *s-b-ḥ* : nager, se mouvoir librement dans un vaste espace. *Subḥāna llāh* : ce que l'on peut dire lorsqu'on parle d'Allaah comme entièrement dégagé de toute limitation, entièrement au-delà de toute imperfection. Non traduit par « gloire à » : cette formule fait de la phrase une louange adressée à Allaah, alors que *subḥāna* dit d'abord ce qu'on peut dire d'Allaah lui-même : dégagé de toute imperfection. La louange est une autre notion, exprimée par le mot *ḥamd*.</dd>
 </div>
 </dl>
 </div>
@@ -97,7 +97,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:35"
    ar="وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ"
    trl="*Wa-qulnā yā Ādamu skun anta wa-zawjuka l-jannata wa-kulā minhā raghadam ḥaythu shiʾtumā wa-lā taqrabā hādhihi sh-shajarata fa-takūnā mina ẓ-ẓālimīn*"
-   trad="Nous dîmes : « Ô Ādam, demeure toi et ton épouse dans la *janna* et mangez-en librement où vous voudrez — mais n'approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »"
+   trad="Nous dîmes : « Ô Ādam, demeure, toi et ton épouse, dans la *janna*, et mangez librement de ce qu'il s'y trouve comme nourriture, où vous voudrez — mais n'approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »"
 %}
 
 <div class="notes-lexicales">
@@ -127,6 +127,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">kalimāt</span></dt>
+<dd>pluriel de *kalima*, racine *k-l-m* : un énoncé articulé qui se fait comprendre — une parole, un mot ou un groupe de mots. Non traduit par « paroles » seul, qui effacerait le terme technique que le texte emploie. Le verset ne dit ni le contenu, ni le nombre, ni la forme de ces *kalimāt* : ce sont là des **non-dits**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">at-Tawwāb</span></dt>
 <dd>racine *t-w-b* : revenir, retourner. *Tawwāb* : forme d'intensité — Ce qui accueille sans cesse le retour, Ce vers qui le retour est toujours possible. Non « le Très-Repentant » (attribut du croyant) mais *at-Tawwāb* d'Allaah : Ce qui accueille le retour du serviteur.</dd>
@@ -200,9 +204,6 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et quand Nous avons accordé rendez-vous à Mūsā quarante nuits — vous avez pris le *ʿijl* après lui, et vous étiez des *ẓālimīn*. — Puis Nous vous avons pardonné après cela — afin que vous soyez reconnaissants. — Et quand Nous avons donné à Mūsā le Livre et le *furqān* — afin que vous soyez guidés."
 %}
 
-{:.callout}
-**Correction rétroactive (2026-09-17).** Les deux occurrences de *laʿalla* de ce verset étaient rendues de façon modale (« peut-être »). Lecture finaliste uniforme désormais retenue — voir la note sous S2:21 (Bloc I) et l'étude [*Ṣiyām*](/etudes/siyam/).
-
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
@@ -259,17 +260,91 @@ methode: "Dit / Non-dit / Inférence"
 ### S.2:67–74 · L'épisode de la vache
 
 {% include verset.html
-   ref="S.2:67–71"
-   ar="وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ"
-   trl="*Wa-idh qāla Mūsā li-qawmihi inna llāha yaʾmurukum an tadhbaḥū baqaratan · qālū a-tattakhidhu-nā huzuwan · qāla aʿūdhu bi-llāhi an akūna mina l-jāhilīn*"
-   trad="Et quand Mūsā dit à son peuple : « Allaah vous ordonne d'égorger une vache » — ils dirent : « Nous prends-tu en moquerie ? » — Il dit : « Je cherche refuge en Allaah pour n'être point du nombre des *jāhilīn*. » — Ils demandèrent qu'elle soit précisée : ni trop vieille ni génisse, *ʿawān* entre les deux, d'un jaune pur réjouissant. — Ils faillirent ne pas la sacrifier."
+   ref="S.2:67"
+   ar="وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ"
+   trl="*Wa-idh qāla Mūsā li-qawmihi inna llāha yaʾmurukum an tadhbaḥū baqaratan · qālū a-tattakhidhunā huzuwan · qāla aʿūdhu bi-llāhi an akūna mina l-jāhilīn*"
+   trad="Et quand Mūsā dit à son peuple : « Allaah vous ordonne d'égorger une vache. » — Ils dirent : « Nous prends-tu en moquerie ? » — Il dit : « Je cherche refuge en Allaah pour ne pas être du nombre des *jāhilīn*. »"
 %}
 
 {% include verset.html
-   ref="S.2:72–74"
-   ar="وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ ۝ فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ ۝ ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً"
-   trl="*Wa-idh qataltum nafsan fa-ddāraʾtum fīhā wa-llāhu mukhrijun mā kuntum taktumūn · Fa-qulnā iḍribūhu bi-baʿḍihā ka-dhālika yuḥyī llāhu l-mawtā wa-yurīkum āyātihi laʿallakum taʿqilūn · Thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan*"
-   trad="Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez. — Nous avons dit : « Frappez-le avec une partie d'elle. » Ainsi Allaah redonne vie aux morts et vous montre Ses *āyāt* — peut-être raisonnerez-vous. — Puis vos cœurs se sont durcis après cela — ils sont comme les pierres ou encore plus durs en dureté. Or parmi les pierres il en est d'où jaillissent les fleuves, il en est qui se fendent et d'où sort l'eau, et il en est qui s'effondrent par *khashya* d'Allaah — et Allaah n'est pas inattentif à ce que vous faites."
+   ref="S.2:68"
+   ar="قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ ۖ فَافْعَلُوا مَا تُؤْمَرُونَ"
+   trl="*Qālū dʿu lanā rabbaka yubayyin lanā mā hiya · qāla innahu yaqūlu innahā baqaratun lā fāriḍun wa-lā bikrun ʿawānun bayna dhālika · fa-fʿalū mā tuʾmarūn*"
+   trad="Ils dirent : « Invoque pour nous ton *Rabb* : qu'Il nous précise ce qu'elle est. » — Il dit : « Il dit d'elle que c'est une vache ni âgée ni génisse, mais *ʿawān* entre les deux. Faites donc ce que l'on vous ordonne. »"
 %}
+
+{% include verset.html
+   ref="S.2:69"
+   ar="قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ فَاقِعٌ لَوْنُهَا تَسُرُّ النَّاظِرِينَ"
+   trl="*Qālū dʿu lanā rabbaka yubayyin lanā mā lawnuhā · qāla innahu yaqūlu innahā baqaratun ṣafrāʾu fāqiʿun lawnuhā tasurru n-nāẓirīn*"
+   trad="Ils dirent : « Invoque pour nous ton *Rabb* : qu'Il nous précise quelle est sa couleur. » — Il dit : « Il dit d'elle que c'est une vache jaune, d'un jaune franc, qui réjouit ceux qui la regardent. »"
+%}
+
+{% include verset.html
+   ref="S.2:70"
+   ar="قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ"
+   trl="*Qālū dʿu lanā rabbaka yubayyin lanā mā hiya inna l-baqara tashābaha ʿalaynā wa-innā in shāʾa llāhu la-muhtadūn*"
+   trad="Ils dirent : « Invoque pour nous ton *Rabb* : qu'Il nous précise ce qu'elle est — car les vaches se ressemblent pour nous, et nous, si Allaah le veut, nous serons certes de ceux qui trouvent la bonne direction. »"
+%}
+
+{% include verset.html
+   ref="S.2:71"
+   ar="قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ مُسَلَّمَةٌ لَا شِيَةَ فِيهَا ۚ قَالُوا الْآنَ جِئْتَ بِالْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ"
+   trl="*Qāla innahu yaqūlu innahā baqaratun lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā · qālū l-āna jiʾta bi-l-ḥaqq · fa-dhabaḥūhā wa-mā kādū yafʿalūn*"
+   trad="Il dit : « Il dit d'elle que c'est une vache qui n'est pas dressée à retourner la terre ni à arroser le champ cultivé, intacte, sans aucune marque en elle. » — Ils dirent : « Maintenant tu es venu avec le *ḥaqq*. » — Ils l'égorgèrent, et peu s'en fallut qu'ils ne le fassent pas."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">jāhilīn</span></dt>
+<dd>racine *j-h-l* : ce qui s'oppose au *ʿilm* (savoir) et, de façon plus large, l'agir sans discernement ni retenue. Non traduit par « ignorants » : le mot ne dit pas simplement l'absence d'information, mais une conduite dépourvue de discernement. Mūsā demande refuge contre le fait d'être de ceux qui agissent ainsi, en prêtant à Allaah un ordre qu'Il n'aurait pas donné.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ʿawān</span></dt>
+<dd>racine *ʿ-w-n* : d'âge moyen, qui a déjà porté — ni la vache âgée (*fāriḍ*, qui n'enfante plus) ni la génisse (*bikr*, qui n'a pas encore porté). Conservé en translittération : aucun mot français unique ne dit cet âge intermédiaire, et le groupe de mots qui l'exprime (« d'âge moyen, ayant déjà porté ») alourdirait le verset.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">fāqiʿ</span></dt>
+<dd>racine *f-q-ʿ* : d'un jaune franc, pur, sans mélange. Le terme s'emploie pour le jaune seulement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">dhalūl / shiya</span></dt>
+<dd>*dhalūl* (racine *dh-l-l*) : rendue docile par le dressage, asservie au travail. *Shiya* (racine *w-sh-y*) : une marque, un trait d'une couleur autre que la couleur d'ensemble — la vache est donc d'une seule couleur, sans tache.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:72"
+   ar="وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ"
+   trl="*Wa-idh qataltum nafsan fa-ddāraʾtum fīhā · wa-llāhu mukhrijun mā kuntum taktumūn*"
+   trad="Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez."
+%}
+
+{% include verset.html
+   ref="S.2:73"
+   ar="فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ"
+   trl="*Fa-qulnā iḍribūhu bi-baʿḍihā · ka-dhālika yuḥyī llāhu l-mawtā wa-yurīkum āyātihi laʿallakum taʿqilūn*"
+   trad="Nous avons dit : « Frappez-le avec une partie d'elle. » Ainsi Allaah redonne vie aux morts et vous montre Ses *āyāt*, afin que vous raisonniez."
+%}
+
+{% include verset.html
+   ref="S.2:74"
+   ar="ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ"
+   trl="*Thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan · wa-inna mina l-ḥijārati la-mā yatafajjaru minhu l-anhār · wa-inna minhā la-mā yashshaqqaqu fa-yakhruju minhu l-māʾ · wa-inna minhā la-mā yahbiṭu min khashyati llāh · wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn*"
+   trad="Puis vos cœurs se sont durcis après cela : ils sont comme les pierres, ou plus durs encore en dureté. Or parmi les pierres il en est d'où jaillissent les fleuves, il en est qui se fendent et d'où sort l'eau, et il en est qui s'effondrent par *khashya* d'Allaah — et Allaah n'est pas inattentif à ce que vous faites."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">khashya</span></dt>
+<dd>racine *kh-sh-y* : crainte respectueuse qui fait s'incliner devant ce que l'on sait puissant. Conservé en translittération : « crainte » seul efface la dimension de reconnaissance qui accompagne ce mot. Le verset le dit des pierres : une des trois issues qu'il énumère est de s'effondrer par *khashya* d'Allaah — le texte ne précise pas la manière dont une pierre l'éprouve, un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 <a href="#top-fiche" style="display:inline-block;margin:2rem 0 0;font-family:var(--font-titre,'Cinzel',serif);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--bg2,#16130e);background:var(--or2,#c9a84c);text-decoration:none;border-radius:4px;padding:.55rem 1.2rem;">↑ Haut de page</a>

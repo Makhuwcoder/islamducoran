@@ -156,7 +156,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">لَعَلَّكُمْ تَتَّقُون</span><span class="lex-trl">laʿallakum tattaqūn</span></dt>
-<dd>**note de cohérence intra-corpus.** L'étude dédiée au ṣiyām établit ici un sens finaliste déclaré (« afin que »), au même titre que S2:150 et S2:179 dans ce même bloc de traduction. Ce même tour (*laʿalla* + subjonctif) avait été rendu de façon modale (« peut-être ») ailleurs dans les Blocs I et II déjà publiés (S2:21, S2:52–53, S2:63) — **incohérence désormais tranchée** : la méthode retient uniformément le sens finaliste déclaré (« afin que ») pour *laʿalla* + subjonctif dans ce type de clausule (voir principe déjà appliqué à *āmana/al-īmān*). Correction rétroactive appliquée en S2:21 (Bloc I) et S2:52–53, S2:63 (Bloc II).</dd>
+<dd>*laʿalla* suivi du subjonctif porte ici un sens finaliste déclaré : « afin que vous vous constituiez une *taqwā* ». → Voir l'étude dédiée [*Ṣiyām*](/etudes/siyam/).</dd>
 </div>
 </dl>
 </div>

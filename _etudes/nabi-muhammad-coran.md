@@ -29,7 +29,10 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html ref="Sourate Al-Anʿām · 6:162–163 — Déclaration de consécration totale" ar="قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ ۝ لَا شَرِيكَ لَهُ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ" trl="*Qul : inna **ṣalātī wa-nusukī wa-maḥyāya wa-mamātī** li-llāhi rabbi l-ʿālamīn · lā sharīka lahu wa-bidhālika umirtu wa-anā awwalu l-muslimīn*" trad="Dis : « **Ma ṣalāt, mon nusuk, ma vie et ma mort** sont pour Allaah, Seigneur des mondes. Pas d'associé pour Lui — c'est ce qu'on m'a commandé, et je suis le premier des *muslimīn*. »" %}
 
-{% include verset.html ref="Sourate Al-Furqān · 25:1 — Le nabī comme ʿabd" ar="تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا" trl="*Tabāraka lladhī nazzala l-furqāna ʿalā **ʿabdihi** li-yakūna li-l-ʿālamīna nadhīrā*" trad="Béni soit Ce qui a fait descendre le *Furqān* sur **Son serviteur** — pour qu'il soit pour les mondes un avertisseur." %}
+{% include verset.html ref="Sourate Al-Furqān · 25:1 — Le nabī comme ʿabd" ar="تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا" trl="*Tabāraka lladhī nazzala l-furqāna ʿalā **ʿabdihi** li-yakūna li-l-ʿālamīna nadhīrā*" trad="*Tabāraka* Ce qui a fait descendre le *Furqān* sur **Son serviteur** — pour qu'il soit pour les mondes un avertisseur." %}
+
+{% include callout.html type="dit" label="Sur tabāraka — pourquoi « Béni soit » n'est pas retenu" content="*Tabāraka* (racine *b-r-k*, forme VI) est conservé en translittération. Ibn Manẓūr (*Lisān al-ʿArab*) : *al-baraka : al-numāʾ wa-l-ziyāda* — la croissance et le surplus ; *tabāraka llāhu : kathurat khayratuhu wa-tazāyadat* — Ses bienfaits se sont multipliés et ont crû en excédant ; *wa-hiya ṣīghatun lā tustaʿmalu illā li-llāhi* — c'est une forme qui ne s'emploie que pour Allaah. « Béni soit » est un souhait, et il désigne quelqu'un sur qui une bénédiction est placée par un autre : c'est le sens de *mubārak*, le récepteur. *Tabāraka* dit l'inverse : Allaah est la source de l'abondance, non celui qui la reçoit. → Voir l'étude dédiée [Baraka et tabarruk](/etudes/baraka-tabarruk/)." %}
+
 
 ---
 

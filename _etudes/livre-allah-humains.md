@@ -114,7 +114,10 @@ Le Coran interdit lui-même de parler sans savoir :
 
 ### <span id="theme-9">9 · لِلْعَالَمِينَ — Universel</span>
 
-{% include verset.html ref="Sourate Al-Furqān · 25:1 — Pour les mondes" ar="تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا" trl="*Tabāraka lladhī nazzala l-Furqāna ʿalā ʿabdihi **li-yakūna li-l-ʿālamīna nadhīrā***" trad="Béni soit Ce qui a fait descendre le *Furqān* sur Son serviteur **pour qu'il soit pour les mondes un avertisseur**." %}
+{% include verset.html ref="Sourate Al-Furqān · 25:1 — Pour les mondes" ar="تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا" trl="*Tabāraka lladhī nazzala l-Furqāna ʿalā ʿabdihi **li-yakūna li-l-ʿālamīna nadhīrā***" trad="*Tabāraka* Ce qui a fait descendre le *Furqān* sur Son serviteur **pour qu'il soit pour les mondes un avertisseur**." %}
+
+{% include callout.html type="dit" label="Sur tabāraka — pourquoi « Béni soit » n'est pas retenu" content="*Tabāraka* (racine *b-r-k*, forme VI) est conservé en translittération. Ibn Manẓūr (*Lisān al-ʿArab*) : *al-baraka : al-numāʾ wa-l-ziyāda* — la croissance et le surplus ; *tabāraka llāhu : kathurat khayratuhu wa-tazāyadat* — Ses bienfaits se sont multipliés et ont crû en excédant ; *wa-hiya ṣīghatun lā tustaʿmalu illā li-llāhi* — c'est une forme qui ne s'emploie que pour Allaah. « Béni soit » est un souhait, et il désigne quelqu'un sur qui une bénédiction est placée par un autre : c'est le sens de *mubārak*, le récepteur. *Tabāraka* dit l'inverse : Allaah est la source de l'abondance, non celui qui la reçoit. → Voir l'étude dédiée [Baraka et tabarruk](/etudes/baraka-tabarruk/)." %}
+
 
 <div class="verset-bloc">
 {% include verset.html ref="Sourate Ṣād · 38:87 — Répétition tawkīd" ar="إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ" trl="***In huwa illā dhikrun li-l-ʿālamīn***" trad="**Ce n'est rien d'autre qu'un rappel pour les mondes.**" %}

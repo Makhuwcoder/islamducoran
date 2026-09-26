@@ -584,7 +584,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">لَعَلَّكُمْ تَتَفَكَّرُون</span><span class="lex-trl">laʿallakum tatafakkarūn</span></dt>
-<dd>*laʿalla* + subjonctif, lecture finaliste uniforme retenue par la méthode (voir Bloc VII, banque lexicale) : « afin que vous réfléchissiez ».</dd>
+<dd>*laʿalla* + subjonctif, lecture finaliste : « afin que vous réfléchissiez ».</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الْيَتَامَىٰ</span><span class="lex-trl">al-yatāmā</span></dt>

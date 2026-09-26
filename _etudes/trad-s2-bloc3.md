@@ -43,8 +43,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:76–77"
    ar="وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوا أَتُحَدِّثُونَهُم بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُم بِهِ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ ۝ أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ"
    trl="*Wa-idhā laqū lladhīna āmanū qālū āmannā wa-idhā khalā baʿḍuhum ilā baʿḍin qālū a-tuḥaddithūnahum bi-mā fataḥa llāhu ʿalaykum li-yuḥājjūkum bihi ʿinda rabbikum a-fa-lā taʿqilūn · A-wa-lā yaʿlamūna anna llāha yaʿlamu mā yusirrūna wa-mā yuʿlinūn*"
-   trad="Quand ils rencontrent ceux qui croient, ils disent : « Nous croyons » ; mais quand certains se retirent avec d'autres, ils disent : « Leur parlez-vous de ce qu'Allaah a ouvert sur vous, pour qu'ils vous en fassent argument auprès de votre *Rabb* ? Ne raisonnez-vous pas ! » — Ne savent-ils pas qu'Allaah sait ce qu'ils taisent et ce qu'ils proclament ?"
+   trad="Quand ils rencontrent ceux qui croient, ils disent : « Nous croyons » ; mais quand certains se retirent avec d'autres, ils disent : « Leur parlez-vous de ce qu'Allaah vous a dévoilé, pour qu'ils vous en fassent argument auprès de votre *Rabb* ? Ne raisonnez-vous pas ! » — Ne savent-ils pas qu'Allaah sait ce qu'ils taisent et ce qu'ils proclament ?"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">fataḥa ʿalaykum</span></dt>
+<dd>racine *f-t-ḥ* : ouvrir ce qui était fermé. Avec la préposition *ʿalā* et Allaah pour sujet, le verbe dit qu'Allaah ouvre devant quelqu'un ce qui lui était clos : il lui met à découvert ce qui était caché. D'où « dévoiler », plutôt que « ouvrir sur vous », qui ne dit rien de ce qui est ouvert. Le verset ne précise pas ce qui a été ainsi dévoilé : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

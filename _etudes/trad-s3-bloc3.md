@@ -157,7 +157,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree" id="yad-s3-73">
 <dt><span class="lex-ar">بِيَدِ ٱللَّهِ</span><span class="lex-trl">bi-yadi llāhi</span></dt>
-<dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. Le mot français « main » réintroduisant de lui-même une image corporelle concrète, la traduction retient « *Yad* » en translittération plutôt que « main », sans trancher — un non-dit — la *kayfiyya* de ce que ce mot désigne lorsqu'il est appliqué à Allaah.</dd>
+<dd>racine ي-د-ي. Même construction et même traitement méthodologique que S3:27 (« *bi-yadika l-khayr* », note complète posée à cet endroit, renvoyant elle-même à S5:64) : « *yad* » appliqué à Allaah, dans cette tournure de pleine disposition sur ce qu'Il donne, est un idiome arabe attesté, employé aussi pour des humains, sans jamais désigner un organe. Le mot français « main » réintroduisant de lui-même une image corporelle concrète, la traduction retient « *Yad* » en translittération plutôt que « main ».</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">تَلْبِسُونَ / تَكْتُمُونَ</span><span class="lex-trl">talbisūna / taktumūna</span></dt>
