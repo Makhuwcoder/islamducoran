@@ -117,7 +117,7 @@
 - ref: S.2:35
   ar: وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ
   trl: '*Wa-qulnā yā Ādamu skun anta wa-zawjuka l-jannata wa-kulā minhā raghadam ḥaythu shiʾtumā wa-lā taqrabā hādhihi sh-shajarata fa-takūnā mina ẓ-ẓālimīn*'
-  trad: 'Nous dîmes : « Ô Ādam, demeure toi et ton épouse dans la *janna* et mangez-en librement où vous voudrez — mais n''approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »'
+  trad: 'Nous dîmes : « Ô Ādam, demeure, toi et ton épouse, dans la *janna*, et mangez librement de ce qu''il s''y trouve comme nourriture, où vous voudrez — mais n''approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »'
 - ref: S.2:36
   ar: فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ
   trl: '*Fa-azallahumā sh-shayṭānu ʿanhā fa-akhrajahumā mimmā kānā fīhi wa-qulnā hbiṭū baʿḍukum li-baʿḍin ʿaduwwun wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīn*'
@@ -150,30 +150,90 @@
   ar: وَإِذْ وَاعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِن بَعْدِهِ وَأَنتُمْ ظَالِمُونَ ۝ ثُمَّ عَفَوْنَا عَنكُم مِّن بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ ۝ وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
   trl: '*Wa-idh wāʿadnā Mūsā arbaʿīna laylatan thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn · Thumma ʿafawnā ʿankum min baʿdi dhālika laʿallakum tashkurūn · Wa-idh ātaynā Mūsā l-kitāba wa-l-furqāna laʿallakum tahtadūn*'
   trad: Et quand Nous avons accordé rendez-vous à Mūsā quarante nuits — vous avez pris le *ʿijl* après lui, et vous étiez des *ẓālimīn*. — Puis Nous vous avons pardonné après cela — afin que vous soyez reconnaissants. — Et quand Nous avons donné à Mūsā le Livre et le *furqān* — afin que vous soyez guidés.
-- ref: S.2:54–56
-  ar: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
-  trl: '*Wa-idh qāla Mūsā li-qawmihi yā qawmi innakum ẓalamtum anfusakum bi-ttikhadhikumu l-ʿijla fa-tūbū ilā bāriʾikum fa-qtulū anfusakum dhālikum khayrun lakum ʿinda bāriʾikum fa-tāba ʿalaykum innahu huwa t-tawwābu r-raḥīm*'
+- ref: S.2:54
+  ar: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ
+  trl: '*Wa-idh qāla Mūsā li-qawmihi yā qawmi innakum ẓalamtum anfusakum bi-ttikhādhikumu l-ʿijla fa-tūbū ilā bāriʾikum fa-qtulū anfusakum dhālikum khayrun lakum ʿinda bāriʾikum fa-tāba ʿalaykum innahu huwa t-tawwābu r-raḥīm*'
   trad: 'Et quand Mūsā dit à son peuple : « Ô mon peuple, vous vous êtes causé le *ẓulm* à vous-mêmes en prenant le *ʿijl* — revenez vers votre *Bāriʾ* et tuez-vous les uns les autres — cela est meilleur pour vous auprès de votre *Bāriʾ* » — et Il accueillit votre retour — Il est *at-Tawwāb*, le *raḥīm*.'
-- ref: S.2:57–61
-  ar: وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ
-  trl: '*Wa-ẓallalnā ʿalaykumu l-ghamāma wa-anzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-mā ẓalamanā wa-lākin kānū anfusahum yaẓlimūn*'
+- ref: S.2:55
+  ar: وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ
+  trl: '*Wa-idh qultum yā Mūsā lan nuʾmina laka ḥattā narā llāha jahratan fa-akhadhatkumu ṣ-ṣāʿiqatu wa-antum tanẓurūn*'
+  trad: 'Et quand vous avez dit : « Ô Mūsā, nous ne croirons pas en toi jusqu''à ce que nous voyions Allaah à découvert » — la *ṣāʿiqa* vous a saisis, alors que vous regardiez.'
+- ref: S.2:56
+  ar: ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+  trl: '*Thumma baʿathnākum min baʿdi mawtikum laʿallakum tashkurūn*'
+  trad: Puis Nous vous avons fait surgir après votre mort, afin que vous soyez reconnaissants.
+- ref: S.2:57
+  ar: وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ
+  trl: '*Wa-ẓallalnā ʿalaykumu l-ghamāma wa-anzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-mā ẓalamūnā wa-lākin kānū anfusahum yaẓlimūn*'
   trad: Nous avons étendu sur vous le nuage comme ombrage, Nous avons fait descendre sur vous le *mann* et la *salwā* — mangez des bonnes choses dont Nous vous avons pourvus — et ils ne Nous ont pas causé de *ẓulm*, mais c'est à eux-mêmes qu'ils causaient le *ẓulm*.
+- ref: S.2:58
+  ar: وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ
+  trl: '*Wa-idh qulnā dkhulū hādhihi l-qaryata fa-kulū minhā ḥaythu shiʾtum raghadan wa-dkhulū l-bāba sujjadan wa-qūlū ḥiṭṭatun naghfir lakum khaṭāyākum wa-sa-nazīdu l-muḥsinīn*'
+  trad: 'Et quand Nous avons dit : « Entrez dans cette *qarya* et mangez librement de ce qu''elle contient, où vous voudrez ; entrez par la porte en vous prosternant et dites : *ḥiṭṭa* — Nous vous pardonnerons vos *khaṭāyā* ; et Nous donnerons davantage aux *muḥsinūn*. »'
+- ref: S.2:59
+  ar: فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ
+  trl: '*Fa-baddala lladhīna ẓalamū qawlan ghayra lladhī qīla lahum fa-anzalnā ʿalā lladhīna ẓalamū rijzan mina s-samāʾi bi-mā kānū yafsuqūn*'
+  trad: Mais ceux qui avaient commis le *ẓulm* ont substitué à ce qu'on leur avait dit une parole autre. Alors Nous avons fait descendre sur ceux qui avaient commis le *ẓulm* un *rijz* venu du ciel, à cause de ce qu'ils commettaient comme *fisq*.
+- ref: S.2:60
+  ar: ۞ وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۖ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ
+  trl: '*Wa-idhi staqā Mūsā li-qawmihi fa-qulnā ḍrib bi-ʿaṣāka l-ḥajara fa-nfajarat minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum kulū wa-shrabū min rizqi llāhi wa-lā taʿthaw fī l-arḍi mufsidīn*'
+  trad: 'Et quand Mūsā demanda de l''eau pour son peuple, Nous dîmes : « Frappe la pierre de ton bâton. » Il en jaillit douze sources — chaque groupe d''hommes connut son lieu pour boire. « Mangez et buvez du *rizq* d''Allaah, et ne commettez pas de ravages sur la terre en y semant la corruption. »'
+- ref: S.2:61
+  ar: وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نَصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ
+  trl: '*Wa-idh qultum yā Mūsā lan naṣbira ʿalā ṭaʿāmin wāḥidin fa-dʿu lanā rabbaka yukhrij lanā mimmā tunbitu l-arḍu min baqlihā wa-qiththāʾihā wa-fūmihā wa-ʿadasihā wa-baṣalihā · qāla a-tastabdilūna lladhī huwa adnā bi-lladhī huwa khayrun · ihbiṭū miṣran fa-inna lakum mā saʾaltum · wa-ḍuribat ʿalayhimu dh-dhillatu wa-l-maskanatu wa-bāʾū bi-ghaḍabin mina llāhi · dhālika bi-annahum kānū yakfurūna bi-āyāti llāhi wa-yaqtulūna n-nabiyyīna bi-ghayri l-ḥaqqi · dhālika bi-mā ʿaṣaw wa-kānū yaʿtadūn*'
+  trad: 'Et quand vous avez dit : « Ô Mūsā, nous ne supporterons pas une seule nourriture. Invoque pour nous ton *Rabb* : qu''Il fasse sortir pour nous de ce que la terre fait pousser — de ses légumes verts, de ses concombres, de son *fūm*, de ses lentilles et de ses oignons. » — Il dit : « Voulez-vous échanger ce qui est moindre contre ce qui est meilleur ? Descendez vers une ville : vous y aurez ce que vous avez demandé. » — La *dhilla* et la *maskana* furent imposées sur eux, et ils revinrent chargés d''un *ghaḍab* venu d''Allaah. Cela, parce qu''ils faisaient le *kufr* des *āyāt* d''Allaah et tuaient les *nabiyyīn* sans *ḥaqq* ; cela, parce qu''ils désobéissaient et transgressaient.'
 - ref: S.2:62
   ar: إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
   trl: '*Inna lladhīna āmanū wa-lladhīna hādū wa-n-naṣārā wa-ṣ-ṣābiʾīna man āmana bi-llāhi wa-l-yawmi l-ākhiri wa-ʿamila ṣāliḥan fa-lahum ajruhum ʿinda rabbihim wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn*'
   trad: 'Ceux qui ont cru, ceux qui ont pratiqué le judaïsme, les *naṣārā* et les *ṣābiʾūn* — quiconque parmi eux a cru en Allaah et au Jour dernier et a accompli des actes droits — à eux leur rétribution auprès de leur *Rabb* : nulle crainte sur eux, et ils ne seront pas attristés.'
-- ref: S.2:63–66
-  ar: وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ ۝ ثُمَّ تَوَلَّيْتُم مِّن بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُم مِّنَ الْخَاسِرِينَ
-  trl: '*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi laʿallakum tattaqūn · Thumma tawallaytum min baʿdi dhālika fa-lawlā faḍlu llāhi ʿalaykum wa-raḥmatuhu la-kuntum mina l-khāsirīn*'
-  trad: 'Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s''y trouve — afin que vous vous constituiez une *taqwā*. » — Puis vous avez tourné le dos après cela — sans le *faḍl* d''Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*.'
-- ref: S.2:67–71
-  ar: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ
-  trl: '*Wa-idh qāla Mūsā li-qawmihi inna llāha yaʾmurukum an tadhbaḥū baqaratan · qālū a-tattakhidhu-nā huzuwan · qāla aʿūdhu bi-llāhi an akūna mina l-jāhilīn*'
-  trad: 'Et quand Mūsā dit à son peuple : « Allaah vous ordonne d''égorger une vache » — ils dirent : « Nous prends-tu en moquerie ? » — Il dit : « Je cherche refuge en Allaah pour n''être point du nombre des *jāhilīn*. » — Ils demandèrent qu''elle soit précisée : ni trop vieille ni génisse, *ʿawān* entre les deux, d''un jaune pur réjouissant. — Ils faillirent ne pas la sacrifier.'
-- ref: S.2:72–74
-  ar: وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ ۝ فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ ۝ ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً
-  trl: '*Wa-idh qataltum nafsan fa-ddāraʾtum fīhā wa-llāhu mukhrijun mā kuntum taktumūn · Fa-qulnā iḍribūhu bi-baʿḍihā ka-dhālika yuḥyī llāhu l-mawtā wa-yurīkum āyātihi laʿallakum taʿqilūn · Thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan*'
-  trad: 'Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez. — Nous avons dit : « Frappez-le avec une partie d''elle. » Ainsi Allaah redonne vie aux morts et vous montre Ses *āyāt* — peut-être raisonnerez-vous. — Puis vos cœurs se sont durcis après cela — ils sont comme les pierres ou encore plus durs en dureté. Or parmi les pierres il en est d''où jaillissent les fleuves, il en est qui se fendent et d''où sort l''eau, et il en est qui s''effondrent par *khashya* d''Allaah — et Allaah n''est pas inattentif à ce que vous faites.'
+- ref: S.2:63
+  ar: وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
+  trl: '*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi laʿallakum tattaqūn*'
+  trad: 'Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s''y trouve — afin que vous vous constituiez une *taqwā*. »'
+- ref: S.2:64
+  ar: ثُمَّ تَوَلَّيْتُمْ مِنْ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ
+  trl: '*Thumma tawallaytum min baʿdi dhālika fa-lawlā faḍlu llāhi ʿalaykum wa-raḥmatuhu la-kuntum mina l-khāsirīn*'
+  trad: Puis vous avez tourné le dos après cela — sans le *faḍl* d'Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*.
+- ref: S.2:65
+  ar: وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
+  trl: '*Wa-la-qad ʿalimtumu lladhīna ʿtadaw minkum fī s-sabti fa-qulnā lahum kūnū qiradatan khāsiʾīn*'
+  trad: 'Vous avez assurément connu ceux d''entre vous qui ont transgressé à propos du *sabt*. Nous leur avons dit : « Soyez des singes *khāsiʾīn*. »'
+- ref: S.2:66
+  ar: فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ
+  trl: '*Fa-jaʿalnāhā nakālan li-mā bayna yadayhā wa-mā khalfahā wa-mawʿiẓatan li-l-muttaqīn*'
+  trad: Nous en avons fait un *nakāl* pour ce qui se trouvait devant elle et ce qui se trouvait derrière elle, et une exhortation pour les *muttaqīn*.
+- ref: S.2:67
+  ar: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ
+  trl: '*Wa-idh qāla Mūsā li-qawmihi inna llāha yaʾmurukum an tadhbaḥū baqaratan · qālū a-tattakhidhunā huzuwan · qāla aʿūdhu bi-llāhi an akūna mina l-jāhilīn*'
+  trad: 'Et quand Mūsā dit à son peuple : « Allaah vous ordonne d''égorger une vache. » — Ils dirent : « Nous prends-tu en moquerie ? » — Il dit : « Je cherche refuge en Allaah pour ne pas être du nombre des *jāhilīn*. »'
+- ref: S.2:68
+  ar: قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ ۖ فَافْعَلُوا مَا تُؤْمَرُونَ
+  trl: '*Qālū dʿu lanā rabbaka yubayyin lanā mā hiya · qāla innahu yaqūlu innahā baqaratun lā fāriḍun wa-lā bikrun ʿawānun bayna dhālika · fa-fʿalū mā tuʾmarūn*'
+  trad: 'Ils dirent : « Invoque pour nous ton *Rabb* : qu''Il nous précise ce qu''elle est. » — Il dit : « Il dit d''elle que c''est une vache ni âgée ni génisse, mais *ʿawān* entre les deux. Faites donc ce que l''on vous ordonne. »'
+- ref: S.2:69
+  ar: قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَاءُ فَاقِعٌ لَوْنُهَا تَسُرُّ النَّاظِرِينَ
+  trl: '*Qālū dʿu lanā rabbaka yubayyin lanā mā lawnuhā · qāla innahu yaqūlu innahā baqaratun ṣafrāʾu fāqiʿun lawnuhā tasurru n-nāẓirīn*'
+  trad: 'Ils dirent : « Invoque pour nous ton *Rabb* : qu''Il nous précise quelle est sa couleur. » — Il dit : « Il dit d''elle que c''est une vache jaune, d''un jaune franc, qui réjouit ceux qui la regardent. »'
+- ref: S.2:70
+  ar: قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ إِنَّ الْبَقَرَ تَشَابَهَ عَلَيْنَا وَإِنَّا إِنْ شَاءَ اللَّهُ لَمُهْتَدُونَ
+  trl: '*Qālū dʿu lanā rabbaka yubayyin lanā mā hiya inna l-baqara tashābaha ʿalaynā wa-innā in shāʾa llāhu la-muhtadūn*'
+  trad: 'Ils dirent : « Invoque pour nous ton *Rabb* : qu''Il nous précise ce qu''elle est — car les vaches se ressemblent pour nous, et nous, si Allaah le veut, nous serons certes de ceux qui trouvent la bonne direction. »'
+- ref: S.2:71
+  ar: قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ مُسَلَّمَةٌ لَا شِيَةَ فِيهَا ۚ قَالُوا الْآنَ جِئْتَ بِالْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ
+  trl: '*Qāla innahu yaqūlu innahā baqaratun lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā · qālū l-āna jiʾta bi-l-ḥaqq · fa-dhabaḥūhā wa-mā kādū yafʿalūn*'
+  trad: 'Il dit : « Il dit d''elle que c''est une vache qui n''est pas dressée à retourner la terre ni à arroser le champ cultivé, intacte, sans aucune marque en elle. » — Ils dirent : « Maintenant tu es venu avec le *ḥaqq*. » — Ils l''égorgèrent, et peu s''en fallut qu''ils ne le fassent pas.'
+- ref: S.2:72
+  ar: وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ
+  trl: '*Wa-idh qataltum nafsan fa-ddāraʾtum fīhā · wa-llāhu mukhrijun mā kuntum taktumūn*'
+  trad: Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez.
+- ref: S.2:73
+  ar: فَقُلْنَا اضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْيِي اللَّهُ الْمَوْتَىٰ وَيُرِيكُمْ آيَاتِهِ لَعَلَّكُمْ تَعْقِلُونَ
+  trl: '*Fa-qulnā iḍribūhu bi-baʿḍihā · ka-dhālika yuḥyī llāhu l-mawtā wa-yurīkum āyātihi laʿallakum taʿqilūn*'
+  trad: 'Nous avons dit : « Frappez-le avec une partie d''elle. » Ainsi Allaah redonne vie aux morts et vous montre Ses *āyāt*, afin que vous raisonniez.'
+- ref: S.2:74
+  ar: ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
+  trl: '*Thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan · wa-inna mina l-ḥijārati la-mā yatafajjaru minhu l-anhār · wa-inna minhā la-mā yashshaqqaqu fa-yakhruju minhu l-māʾ · wa-inna minhā la-mā yahbiṭu min khashyati llāh · wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn*'
+  trad: 'Puis vos cœurs se sont durcis après cela : ils sont comme les pierres, ou plus durs encore en dureté. Or parmi les pierres il en est d''où jaillissent les fleuves, il en est qui se fendent et d''où sort l''eau, et il en est qui s''effondrent par *khashya* d''Allaah — et Allaah n''est pas inattentif à ce que vous faites.'
 - ref: S.2:75
   ar: أَفَتَطْمَعُونَ أَن يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِن بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
   trl: '*A-fa-taṭmaʿūna an yuʾminū lakum wa-qad kāna farīqun minhum yasmaʿūna kalāma llāhi thumma yuḥarrifūnahu min baʿdi mā ʿaqalūhu wa-hum yaʿlamūn*'
@@ -181,67 +241,147 @@
 - ref: S.2:76–77
   ar: وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوا أَتُحَدِّثُونَهُم بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُم بِهِ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ ۝ أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
   trl: '*Wa-idhā laqū lladhīna āmanū qālū āmannā wa-idhā khalā baʿḍuhum ilā baʿḍin qālū a-tuḥaddithūnahum bi-mā fataḥa llāhu ʿalaykum li-yuḥājjūkum bihi ʿinda rabbikum a-fa-lā taʿqilūn · A-wa-lā yaʿlamūna anna llāha yaʿlamu mā yusirrūna wa-mā yuʿlinūn*'
-  trad: 'Quand ils rencontrent ceux qui croient, ils disent : « Nous croyons » ; mais quand certains se retirent avec d''autres, ils disent : « Leur parlez-vous de ce qu''Allaah a ouvert sur vous, pour qu''ils vous en fassent argument auprès de votre *Rabb* ? Ne raisonnez-vous pas ! » — Ne savent-ils pas qu''Allaah sait ce qu''ils taisent et ce qu''ils proclament ?'
-- ref: S.2:78–79
-  ar: وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِن هُمْ إِلَّا يَظُنُّونَ ۝ فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا
-  trl: '*Wa-minhum ummiyyūna lā yaʿlamūna l-kitāba illā amāniyya wa-in hum illā yaẓunnūn · Fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi li-yashtarū bihi thamanan qalīlan*'
-  trad: 'Parmi eux des *ummiyyūn* qui ne connaissent le Livre que par des *amānī* — ils ne font que conjecturer. — *Waylun* à ceux qui écrivent le Livre de leurs propres mains puis disent : « Ceci vient d''Allaah Lui-même » pour en tirer un prix dérisoire.'
-- ref: S.2:80–82
-  ar: وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ اللَّهِ عَهْدًا فَلَن يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ
-  trl: '*Wa-qālū lan tamassanā n-nāru illā ayyāman maʿdūdatan · Qul a-ttakhadhtum ʿinda llāhi ʿahdan fa-lan yukhlifa llāhu ʿahdahu am taqūlūna ʿalā llāhi mā lā taʿlamūn*'
-  trad: 'Et ils dirent : « Le feu ne nous touchera que quelques jours comptés. » — Dis : « Avez-vous pris auprès d''Allaah un *ʿahd* — car Allaah ne manquera pas à Son *ʿahd* — ou dites-vous sur Allaah ce que vous ne savez pas ? » — Bien au contraire : quiconque acquiert une mauvaise action et que sa *khaṭīʾa* l''a encerclé — ceux-là sont les gens du feu, ils y demeureront éternellement. Ceux qui ont cru et accompli des actes droits — ceux-là sont les gens de la *janna*, ils y demeureront éternellement.'
-- ref: S.2:83–86
-  ar: وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ
-  trl: '*Wa-idh akhadhnā mīthāqa banī Isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan wa-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-qūlū li-n-nāsi ḥusnan wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta*'
-  trad: 'Et quand Nous avons pris le *mīthāq* des fils d''Isrāʾīl : vous ne servirez qu''Allaah — et envers les deux parents de l''*iḥsān*, et envers les proches, les *yatāmā* et les *masākīn* — dites aux gens de belles paroles — établissez la *ṣalāt*, faites parvenir la *zakāt*. — Puis vous avez tourné le dos — sauf un petit nombre. — Voilà que vous vous entretuez et expulsez un groupe de vos demeures : croyez-vous donc en une partie du Livre et rejetez-vous l''autre ?'
-- ref: S.2:87–88
-  ar: وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ
-  trl: '*Wa-laqad ātaynā Mūsā l-kitāba wa-qaffaynā min baʿdihi bi-r-rusuli wa-ātaynā ʿĪsā bna Maryama l-bayyināti wa-ayyadnāhu bi-rūḥi l-qudusi · A-fa-kullamā jāʾakum rasūlun bi-mā lā tahwā anfusakum istakbartum fa-farīqan kadhdhabtum wa-farīqan taqtulūn*'
-  trad: Et assurément Nous avons donné à Mūsā le Livre et fait suivre après lui des *rusul* ; et Nous avons donné à ʿĪsā fils de Maryam les preuves manifestes et l'avons soutenu par le *rūḥ al-qudus*. — Et c'est ainsi que, chaque fois qu'un *rasūl* vous est venu avec ce qui ne correspondait pas aux désirs de vos âmes, vous vous êtes montrés arrogants — traitant de menteurs un groupe, et en tuant un autre ?
-- ref: S.2:89–93
-  ar: وَلَمَّا جَاءَهُمْ كِتَابٌ مِّنْ عِندِ اللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُم مَّا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ
+  trad: 'Quand ils rencontrent ceux qui croient, ils disent : « Nous croyons » ; mais quand certains se retirent avec d''autres, ils disent : « Leur parlez-vous de ce qu''Allaah vous a dévoilé, pour qu''ils vous en fassent argument auprès de votre *Rabb* ? Ne raisonnez-vous pas ! » — Ne savent-ils pas qu''Allaah sait ce qu''ils taisent et ce qu''ils proclament ?'
+- ref: S.2:78
+  ar: وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+  trl: '*Wa-minhum ummiyyūna lā yaʿlamūna l-kitāba illā amāniyya wa-in hum illā yaẓunnūn*'
+  trad: Parmi eux des *ummiyyūn* qui ne connaissent le Livre que par des *amānī* — ils ne font que conjecturer.
+- ref: S.2:79
+  ar: فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ
+  trl: '*Fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi li-yashtarū bihi thamanan qalīlan fa-waylun lahum mimmā katabat aydīhim wa-waylun lahum mimmā yaksibūn*'
+  trad: '*Waylun* à ceux qui écrivent le Livre de leurs propres mains puis disent : « Ceci vient d''Allaah Lui-même » pour en tirer un prix dérisoire. *Waylun* à eux pour ce que leurs mains ont écrit, et *waylun* à eux pour ce qu''ils acquièrent.'
+- ref: S.2:80
+  ar: وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ
+  trl: '*Wa-qālū lan tamassanā n-nāru illā ayyāman maʿdūdatan · qul a-ttakhadhtum ʿinda llāhi ʿahdan fa-lan yukhlifa llāhu ʿahdahu am taqūlūna ʿalā llāhi mā lā taʿlamūn*'
+  trad: 'Et ils dirent : « Le feu ne nous touchera que quelques jours comptés. » — Dis : « Avez-vous pris auprès d''Allaah un *ʿahd* — car Allaah ne manquera pas à Son *ʿahd* — ou dites-vous sur Allaah ce que vous ne savez pas ? »'
+- ref: S.2:81
+  ar: بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ
+  trl: '*Balā man kasaba sayyiʾatan wa-aḥāṭat bihi khaṭīʾatuhu fa-ulāʾika aṣḥābu n-nāri hum fīhā khālidūn*'
+  trad: 'Bien au contraire : quiconque acquiert une mauvaise action et que sa *khaṭīʾa* l''a encerclé — ceux-là sont les gens du feu, ils y demeureront éternellement.'
+- ref: S.2:82
+  ar: وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ
+  trl: '*Wa-lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti ulāʾika aṣḥābu l-jannati hum fīhā khālidūn*'
+  trad: Ceux qui ont cru et accompli des actes droits — ceux-là sont les gens de la *janna*, ils y demeureront éternellement.
+- ref: S.2:83
+  ar: وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ
+  trl: '*Wa-idh akhadhnā mīthāqa banī Isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan wa-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-qūlū li-n-nāsi ḥusnan wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta thumma tawallaytum illā qalīlan minkum wa-antum muʿriḍūn*'
+  trad: 'Et quand Nous avons pris le *mīthāq* des fils d''Isrāʾīl : « Vous ne servirez qu''Allaah — et envers les deux parents, de l''*iḥsān* — et envers les proches, les *yatāmā* et les *masākīn* ; dites aux gens ce qui est beau ; établissez la *ṣalāt* et faites parvenir la *zakāt*. » — Puis vous avez tourné le dos, sauf un petit nombre d''entre vous, et vous vous détournez.'
+- ref: S.2:84
+  ar: وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ
+  trl: '*Wa-idh akhadhnā mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum thumma aqrartum wa-antum tashhadūn*'
+  trad: 'Et quand Nous avons pris votre *mīthāq* : « Vous ne verserez pas votre sang [les uns des autres] et vous ne vous expulserez pas [les uns les autres] de vos demeures. » Puis vous avez reconnu, et vous en étiez témoins.'
+- ref: S.2:85
+  ar: ثُمَّ أَنْتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ
+  trl: '*Thumma antum hāʾulāʾi taqtulūna anfusakum wa-tukhrijūna farīqan minkum min diyārihim taẓāharūna ʿalayhim bi-l-ithmi wa-l-ʿudwāni wa-in yaʾtūkum usārā tufādūhum wa-huwa muḥarramun ʿalaykum ikhrājuhum a-fa-tuʾminūna bi-baʿḍi l-kitābi wa-takfurūna bi-baʿḍin fa-mā jazāʾu man yafʿalu dhālika minkum illā khizyun fī l-ḥayāti d-dunyā wa-yawma l-qiyāmati yuraddūna ilā ashaddi l-ʿadhābi wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn*'
+  trad: Puis voilà que vous vous entretuez, et vous expulsez un groupe d'entre vous de leurs demeures, en vous coalisant contre eux dans l'*ithm* et l'*ʿudwān* ; et s'ils viennent à vous captifs, vous les rachetez — alors que leur expulsion vous était interdite. Croyez-vous donc en une partie du Livre et faites-vous le *kufr* d'une autre ? Quelle est la rétribution de qui fait cela parmi vous, sinon une ignominie dans la vie d'ici-bas ? Et au Jour de la *qiyāma*, ils seront ramenés au châtiment le plus intense. Et Allaah n'est pas inattentif à ce que vous faites.
+- ref: S.2:86
+  ar: أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ
+  trl: '*Ulāʾika lladhīna shtarawu l-ḥayāta d-dunyā bi-l-ākhirati fa-lā yukhaffafu ʿanhumu l-ʿadhābu wa-lā hum yunṣarūn*'
+  trad: 'Ceux-là sont ceux qui ont troqué la vie d''ici-bas contre l''*ākhira* : le châtiment ne sera pas allégé pour eux, et ils ne seront pas secourus.'
+- ref: S.2:87
+  ar: وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِنْ بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنْفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ
+  trl: '*Wa-la-qad ātaynā Mūsā l-kitāba wa-qaffaynā min baʿdihi bi-r-rusuli wa-ātaynā ʿĪsā bna Maryama l-bayyināti wa-ayyadnāhu bi-rūḥi l-qudusi a-fa-kullamā jāʾakum rasūlun bi-mā lā tahwā anfusukumu stakbartum fa-farīqan kadhdhabtum wa-farīqan taqtulūn*'
+  trad: 'Et assurément Nous avons donné à Mūsā le Livre et fait suivre après lui des *rusul* ; et Nous avons donné à ʿĪsā fils de Maryam les preuves manifestes et l''avons soutenu par le *rūḥ al-qudus*. Chaque fois donc qu''un *rasūl* vous est venu avec ce que vos âmes ne désiraient pas, vous vous êtes montrés arrogants : un groupe, vous l''avez traité de menteur, et un autre, vous le tuez.'
+- ref: S.2:88
+  ar: وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَا يُؤْمِنُونَ
+  trl: '*Wa-qālū qulūbunā ghulfun bal laʿanahumu llāhu bi-kufrihim fa-qalīlan mā yuʾminūn*'
+  trad: 'Et ils dirent : « Nos cœurs sont *ghulf*. » Bien au contraire : Allaah les a maudits à cause de leur *kufr* — ils croient bien peu.'
+- ref: S.2:89
+  ar: وَلَمَّا جَاءَهُمْ كِتَابٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ
   trl: '*Wa-lammā jāʾahum kitābun min ʿindi llāhi muṣaddiqun li-mā maʿahum wa-kānū min qablu yastaftiḥūna ʿalā lladhīna kafarū fa-lammā jāʾahum mā ʿarafū kafarū bihi fa-laʿnatu llāhi ʿalā l-kāfirīn*'
   trad: Et quand leur est venu un Livre de chez Allaah, confirmant ce qu'ils avaient avec eux — alors qu'auparavant ils demandaient l'ouverture contre ceux qui refusaient — quand ce qu'ils reconnaissaient leur est venu, ils l'ont refusé. La malédiction d'Allaah est sur les *kāfirīn*.
-- ref: S.2:94–96
-  ar: قُلْ إِن كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِندَ اللَّهِ خَالِصَةً مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ ۝ وَلَن يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
-  trl: '*Qul in kānat lakumu d-dāru l-ākhiratu ʿinda llāhi khāliṣatan min dūni n-nāsi fa-tamannawu l-mawta in kuntum ṣādiqīn · Wa-lan yatamannawhu abadan bi-mā qaddimat aydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīn*'
-  trad: 'Dis : « Si la demeure de l''*ākhira* auprès d''Allaah vous appartient en exclusivité à l''exclusion des autres gens — souhaitez la mort, si vous êtes véridiques. » — Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et Allaah est savant des *ẓālimīn*.'
-- ref: S.2:97–99
-  ar: قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ ۝ مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِّلْكَافِرِينَ
-  trl: '*Qul man kāna ʿaduwwan li-Jibrīla fa-innahu nazzalahu ʿalā qalbika bi-idhni llāhi muṣaddiqan li-mā bayna yadayhi wa-hudan wa-bushrā li-l-muʾminīn · Man kāna ʿaduwwan li-llāhi wa-malāʾikatihi wa-rusulihi wa-Jibrīla wa-Mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn*'
-  trad: 'Dis : « Quiconque est ennemi de Jibrīl — c''est lui qui l''a fait descendre sur ton cœur avec la permission d''Allaah, confirmant ce qui est devant lui, et guidance et annonce heureuse pour les croyants. » — Quiconque est ennemi d''Allaah, de Ses *malāʾika*, de Ses envoyés, de Jibrīl et de Mīkāl — Allaah est ennemi des *kāfirīn*.'
+- ref: S.2:90
+  ar: بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ
+  trl: '*Biʾsamā shtaraw bihi anfusahum an yakfurū bi-mā anzala llāhu baghyan an yunazzila llāhu min faḍlihi ʿalā man yashāʾu min ʿibādihi fa-bāʾū bi-ghaḍabin ʿalā ghaḍabin wa-li-l-kāfirīna ʿadhābun muhīn*'
+  trad: 'Quel mauvais échange que celui par lequel ils ont troqué leurs âmes : refuser ce qu''Allaah a fait descendre, par *baghy*, parce qu''Allaah fait descendre de Son *faḍl* sur qui Il veut parmi Ses serviteurs. Ils sont donc revenus avec un *ghaḍab* sur un *ghaḍab* ; et aux *kāfirīn*, un châtiment avilissant.'
+- ref: S.2:91
+  ar: وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ مُصَدِّقًا لِمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ
+  trl: '*Wa-idhā qīla lahum āminū bi-mā anzala llāhu qālū nuʾminu bi-mā unzila ʿalaynā wa-yakfurūna bi-mā warāʾahu wa-huwa l-ḥaqqu muṣaddiqan li-mā maʿahum qul fa-lima taqtulūna anbiyāʾa llāhi min qablu in kuntum muʾminīn*'
+  trad: 'Et quand on leur dit : « Croyez à ce qu''Allaah a fait descendre », ils disent : « Nous croyons à ce qui a été fait descendre sur nous » ; et ils refusent ce qui se trouve au-delà — alors que c''est le *ḥaqq*, confirmant ce qu''ils ont avec eux. Dis : « Pourquoi donc tuiez-vous auparavant les *anbiyāʾ* d''Allaah, si vous êtes croyants ? »'
+- ref: S.2:92
+  ar: ۞ وَلَقَدْ جَاءَكُمْ مُوسَىٰ بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ
+  trl: '*Wa-la-qad jāʾakum Mūsā bi-l-bayyināti thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn*'
+  trad: Et Mūsā est venu à vous avec les preuves manifestes ; puis vous avez pris le *ʿijl* après lui, alors que vous étiez des *ẓālimūn*.
+- ref: S.2:93
+  ar: وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ
+  trl: '*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū samiʿnā wa-ʿaṣaynā wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim qul biʾsamā yaʾmurukum bihi īmānukum in kuntum muʾminīn*'
+  trad: 'Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez avec force ce que Nous vous avons donné, et écoutez. » Ils dirent : « Nous avons entendu, et nous avons désobéi. » Et leurs cœurs furent abreuvés du *ʿijl* à cause de leur *kufr*. Dis : « Quel mauvais ordre que celui que votre foi vous donne, si vous êtes croyants ! »'
+- ref: S.2:94
+  ar: قُلْ إِنْ كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِنْدَ اللَّهِ خَالِصَةً مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ
+  trl: '*Qul in kānat lakumu d-dāru l-ākhiratu ʿinda llāhi khāliṣatan min dūni n-nāsi fa-tamannaw al-mawta in kuntum ṣādiqīn*'
+  trad: 'Dis : « Si la demeure de l''*ākhira* auprès d''Allaah vous appartient en exclusivité, à l''exclusion des autres gens — souhaitez la mort, si vous êtes véridiques. »'
+- ref: S.2:95
+  ar: وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
+  trl: '*Wa-lan yatamannawhu abadan bi-mā qaddamat aydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīn*'
+  trad: Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et Allaah est savant des *ẓālimīn*.
+- ref: S.2:96
+  ar: وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ
+  trl: '*Wa-la-tajidannahum aḥraṣa n-nāsi ʿalā ḥayātin wa-mina lladhīna ashrakū yawaddu aḥaduhum law yuʿammaru alfa sanatin wa-mā huwa bi-muzaḥziḥihi mina l-ʿadhābi an yuʿammara wa-llāhu baṣīrun bi-mā yaʿmalūn*'
+  trad: Et tu les trouveras, plus que tous les gens, avides d'une vie — et plus encore que ceux qui ont commis le *shirk*. L'un d'eux voudrait qu'on lui prolonge la vie mille ans. Mais qu'on la lui prolonge ne l'éloignera pas du châtiment. Et Allaah est *Baṣīr* de ce qu'ils font.
+- ref: S.2:97
+  ar: قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
+  trl: '*Qul man kāna ʿaduwwan li-Jibrīla fa-innahu nazzalahu ʿalā qalbika bi-idhni llāhi muṣaddiqan li-mā bayna yadayhi wa-hudan wa-bushrā li-l-muʾminīn*'
+  trad: 'Dis : « Quiconque est ennemi de Jibrīl — c''est lui qui l''a fait descendre sur ton cœur avec la permission d''Allaah, confirmant ce qui est devant lui, et guidance et annonce heureuse pour les croyants. »'
+- ref: S.2:98
+  ar: مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ
+  trl: '*Man kāna ʿaduwwan li-llāhi wa-malāʾikatihi wa-rusulihi wa-Jibrīla wa-Mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn*'
+  trad: Quiconque est ennemi d'Allaah, de Ses *malāʾika*, de Ses envoyés, de Jibrīl et de Mīkāl — Allaah est ennemi des *kāfirīn*.
+- ref: S.2:99
+  ar: وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ ۖ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ
+  trl: '*Wa-la-qad anzalnā ilayka āyātin bayyinātin wa-mā yakfuru bihā illā l-fāsiqūn*'
+  trad: Et Nous avons assurément fait descendre vers toi des *āyāt* manifestes, et nul n'en fait le *kufr* sinon les *fāsiqūn*.
 - ref: S.2:100–101
   ar: أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَّبَذَهُ فَرِيقٌ مِّنْهُمْ ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ ۝ وَلَمَّا جَاءَهُمْ رَسُولٌ مِّنْ عِندِ اللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
   trl: '*A-wa-kullamā ʿāhadū ʿahdan nabadha-hu farīqun minhum bal aktharuhum lā yuʾminūn · Wa-lammā jāʾahum rasūlun min ʿindi llāhi muṣaddiqun li-mā maʿahum nabadha farīqun mina lladhīna ūtū l-kitāba kitāba llāhi warāʾa ẓuhūrihim ka-annahum lā yaʿlamūn*'
   trad: Chaque fois qu'ils concluaient un *ʿahd*, un groupe d'entre eux le jetait — non, la plupart d'entre eux ne croient pas. — Quand leur est venu un *rasūl* de chez Allaah confirmant ce qui était avec eux, un groupe parmi ceux à qui le Livre avait été donné a jeté le Livre d'Allaah derrière leur dos — comme s'ils ne savaient pas.
 - ref: S.2:102
-  ar: وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ
-  trl: '*Wa-ttabaʿū mā tatlū sh-shayāṭīnu ʿalā mulki Sulaymāna · wa-mā kafara Sulaymānu wa-lākinna sh-shayāṭīna kafarū yuʿallimūna n-nāsa s-siḥra wa-mā unzila ʿalā l-malakayni bi-Bābila Hārūta wa-Mārūta · wa-mā yuʿallimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa-lā takfur*'
-  trad: 'Ils ont suivi ce que les *shayāṭīn* récitaient sur le règne de Sulaymān — Sulaymān n''avait pas commis le *kufr*, mais les *shayāṭīn* ont commis le *kufr* en enseignant aux gens le *siḥr* et ce qui est descendu sur les deux *malaks* à Bābil, Hārūt et Mārūt. Ces deux-là n''enseignaient à personne sans dire : « Nous ne sommes qu''une *fitna* — ne commets pas le *kufr*. » Ils apprenaient ce par quoi ils séparaient l''homme de son épouse — mais ils ne sont nullement en mesure de nuire par cela à quiconque sinon avec la permission d''Allaah. Ils apprenaient ce qui leur nuisait et ne leur profitait pas. Ils savaient bien que celui qui acquiert cela n''a aucun *khalāq* dans l''*ākhira*.'
+  ar: وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ
+  trl: '*Wa-ttabaʿū mā tatlū sh-shayāṭīnu ʿalā mulki Sulaymāna wa-mā kafara Sulaymānu wa-lākinna sh-shayāṭīna kafarū yuʿallimūna n-nāsa s-siḥra wa-mā unzila ʿalā l-malakayni bi-Bābila Hārūta wa-Mārūta wa-mā yuʿallimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa-lā takfur fa-yataʿallamūna minhumā mā yufarriqūna bihi bayna l-marʾi wa-zawjihi wa-mā hum bi-ḍārrīna bihi min aḥadin illā bi-idhni llāhi wa-yataʿallamūna mā yaḍurruhum wa-lā yanfaʿuhum wa-la-qad ʿalimū la-mani shtarāhu mā lahu fī l-ākhirati min khalāqin wa-la-biʾsa mā sharaw bihi anfusahum law kānū yaʿlamūn*'
+  trad: 'Ils ont suivi ce que les *shayāṭīn* récitaient sur le règne de Sulaymān — Sulaymān n''avait pas commis le *kufr*, mais les *shayāṭīn* ont commis le *kufr* en enseignant aux gens le *siḥr* et ce qui est descendu sur les deux *malaks* à Bābil, Hārūt et Mārūt. Ces deux-là n''enseignaient à personne sans dire : « Nous ne sommes qu''une *fitna* — ne commets pas le *kufr*. » Ils apprenaient d''eux ce par quoi ils séparaient l''homme de son épouse — mais ils ne sont nullement en mesure de nuire par cela à quiconque sinon avec la permission d''Allaah. Ils apprenaient ce qui leur nuisait et ne leur profitait pas. Ils savaient bien que celui qui acquiert cela n''a aucun *khalāq* dans l''*ākhira*. Et quel mauvais prix ils ont obtenu en troquant leurs âmes — s''ils savaient !'
 - ref: S.2:103
   ar: وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِّنْ عِندِ اللَّهِ خَيْرٌ ۖ لَّوْ كَانُوا يَعْلَمُونَ
   trl: '*Wa-law annahum āmanū wa-ttaqaw la-mathūbatun min ʿindi llāhi khayrun law kānū yaʿlamūn*'
   trad: S'ils avaient cru et s'étaient constitués une *taqwā*, une *mathūba* venant d'Allaah aurait été meilleure — s'ils savaient.
-- ref: S.2:104–105
-  ar: يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ ۝ مَّا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ
-  trl: '*Yā ayyuhā lladhīna āmanū lā taqūlū rāʿinā wa-qūlū unẓurnā wa-smaʿū · Mā yawaddu lladhīna kafarū min ahli l-kitābi wa-lā l-mushrikīna an yunazzala ʿalaykum min khayrin min rabbikum*'
-  trad: Ô vous qui avez cru, ne dites pas *rāʿinā* — dites *unẓurnā* et écoutez. Aux *kāfirīn* un châtiment douloureux. — Ceux qui ont commis le *kufr* parmi les gens du Livre, ni les *mushrikīn*, ne souhaitent que descende sur vous le moindre bien de la part de votre *Rabb* — Allaah réserve Sa *raḥma* à qui Il veut, et Allaah est le Détenteur de la faveur immense.
+- ref: S.2:104
+  ar: يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ
+  trl: '*Yā ayyuhā lladhīna āmanū lā taqūlū rāʿinā wa-qūlū unẓurnā wa-smaʿū wa-li-l-kāfirīna ʿadhābun alīm*'
+  trad: Ô vous qui avez cru, ne dites pas *rāʿinā* — dites *unẓurnā* et écoutez. Et aux *kāfirīn*, un châtiment douloureux.
+- ref: S.2:105
+  ar: مَا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَنْ يُنَزَّلَ عَلَيْكُمْ مِنْ خَيْرٍ مِنْ رَبِّكُمْ ۗ وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+  trl: '*Mā yawaddu lladhīna kafarū min ahli l-kitābi wa-lā l-mushrikīna an yunazzala ʿalaykum min khayrin min rabbikum wa-llāhu yakhtaṣṣu bi-raḥmatihi man yashāʾu wa-llāhu dhū l-faḍli l-ʿaẓīm*'
+  trad: Ceux qui ont commis le *kufr* parmi les gens du Livre, et les *mushrikīn*, ne souhaitent pas que descende sur vous un bien venu de votre *Rabb*. Or Allaah met à part, pour Sa *raḥma*, qui Il veut, et Allaah est le Maître du *faḍl* immense.
 - ref: S.2:106–107
   ar: مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ ۝ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۗ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ
   trl: '*Mā nansakh min āyatin aw nunsihā naʾti bi-khayrin minhā aw mithlihā a-lam taʿlam anna llāha ʿalā kulli shayʾin qadīr · A-lam taʿlam anna llāha lahu mulku s-samāwāti wa-l-arḍi wa-mā lakum min dūni llāhi min walīyin wa-lā naṣīr*'
   trad: Toute *āya* que Nous *nansakh* ou que Nous faisons oublier, Nous en apportons une meilleure ou une semblable — ne sais-tu pas qu'Allaah est capable de toute chose ? — Ne sais-tu pas qu'à Allaah appartient le *mulk* des cieux et de la terre ? Vous n'avez en dehors d'Allaah ni *walī* ni *naṣīr*.
-- ref: S.2:108–110
-  ar: أَمْ تُرِيدُونَ أَن تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ ۝ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ
-  trl: '*Am turīdūna an tasʾalū rasūlakum kamā suʾila Mūsā min qablu · wa-man yatabaddali l-kufra bi-l-īmāni fa-qad ḍalla sawāʾa s-sabīli · Wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi*'
-  trad: Voulez-vous interroger votre *rasūl* comme Mūsā fut interrogé auparavant ? Quiconque substitue le *kufr* à la foi s'est égaré loin du milieu du chemin. — Établissez la *ṣalāt* et faites parvenir la *zakāt* — tout bien que vous avancez pour vous-mêmes vous le trouverez auprès d'Allaah.
-- ref: S.2:111–113
-  ar: وَقَالُوا لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ ۝ بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِندَ رَبِّهِ
-  trl: '*Wa-qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn · Balā man aslama wajhahu li-llāhi wa-huwa muḥsinun fa-lahu ajruhu ʿinda rabbihi*'
-  trad: 'Et ils dirent : « Seul entrera dans la *janna* celui qui est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve si vous êtes véridiques. » — Bien au contraire : quiconque remet son *wajh* à Allaah tout en étant *muḥsin* — à lui sa rétribution auprès de son *Rabb* : nulle crainte sur eux et ils ne seront pas attristés.'
+- ref: S.2:108
+  ar: أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِنْ قَبْلُ ۗ وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ
+  trl: '*Am turīdūna an tasʾalū rasūlakum kamā suʾila Mūsā min qablu wa-man yatabaddali l-kufra bi-l-īmāni fa-qad ḍalla sawāʾa s-sabīl*'
+  trad: Ou bien voulez-vous interroger votre *rasūl* comme Mūsā fut interrogé auparavant ? Quiconque substitue le *kufr* à l'*īmān* s'est égaré du juste milieu du chemin.
+- ref: S.2:109
+  ar: وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِنْ عِنْدِ أَنْفُسِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+  trl: '*Wadda kathīrun min ahli l-kitābi law yaruddūnakum min baʿdi īmānikum kuffāran ḥasadan min ʿindi anfusihim min baʿdi mā tabayyana lahumu l-ḥaqqu fa-ʿfū wa-ṣfaḥū ḥattā yaʾtiya llāhu bi-amrihi inna llāha ʿalā kulli shayʾin qadīr*'
+  trad: Beaucoup parmi les gens du Livre auraient voulu, par un *ḥasad* venu d'eux-mêmes, vous ramener au *kufr* après votre *īmān*, après que le *ḥaqq* leur est devenu clair. Passez sur cela, détournez-vous, jusqu'à ce qu'Allaah amène Son *amr*. Allaah est capable de toute chose.
+- ref: S.2:110
+  ar: وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ ۗ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+  trl: '*Wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi inna llāha bi-mā taʿmalūna baṣīr*'
+  trad: Établissez la *ṣalāt* et faites parvenir la *zakāt*. Tout bien que vous avancez pour vous-mêmes, vous le retrouverez auprès d'Allaah. Allaah est *Baṣīr* de ce que vous faites.
+- ref: S.2:111
+  ar: وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ
+  trl: '*Wa-qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn*'
+  trad: 'Et ils ont dit : « Nul n''entrera dans la *janna* s''il n''est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve, si vous êtes véridiques. »'
+- ref: S.2:112
+  ar: بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+  trl: '*Balā man aslama wajhahu li-llāhi wa-huwa muḥsinun fa-lahu ajruhu ʿinda rabbihi wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn*'
+  trad: 'Bien au contraire : quiconque se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin*, aura sa rétribution auprès de son *Rabb* : nulle crainte sur eux, et ils ne seront pas attristés.'
+- ref: S.2:113
+  ar: وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ۗ كَذَٰلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ
+  trl: '*Wa-qālati l-yahūdu laysati n-naṣārā ʿalā shayʾin wa-qālati n-naṣārā laysati l-yahūdu ʿalā shayʾin wa-hum yatlūna l-kitāba ka-dhālika qāla lladhīna lā yaʿlamūna mithla qawlihim fa-llāhu yaḥkumu baynahum yawma l-qiyāmati fīmā kānū fīhi yakhtalifūn*'
+  trad: 'Les Juifs ont dit : « Les *naṣārā* ne reposent sur rien », et les *naṣārā* ont dit : « Les Juifs ne reposent sur rien » — alors qu''ils récitent le Livre. De la même manière, ceux qui ne savent pas ont tenu des paroles semblables aux leurs. Allaah tranchera entre eux, au jour de la *Qiyāma*, sur ce en quoi ils divergeaient.'
 - ref: S.2:114
-  ar: وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللَّهِ أَن يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا
-  trl: '*Wa-man aẓlamu mimman manaʿa masājida llāhi an yudhkara fīha smuhu wa-saʿā fī kharābihā*'
-  trad: Qui est plus *ẓālim* que celui qui prive les *masājid* d'Allaah de l'invocation de Son nom et qui s'emploie activement à les désoler ? Ceux-là n'avaient pas à y entrer sinon dans la crainte — à eux dans cette vie une humiliation, et pour eux dans l'*ākhira* un châtiment immense.
+  ar: وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ أُولَٰئِكَ مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ
+  trl: '*Wa-man aẓlamu mimman manaʿa masājida llāhi an yudhkara fīhā smuhu wa-saʿā fī kharābihā ulāʾika mā kāna lahum an yadkhulūhā illā khāʾifīna lahum fī d-dunyā khizyun wa-lahum fī l-ākhirati ʿadhābun ʿaẓīm*'
+  trad: 'Qui est plus *ẓālim* que celui qui prive les *masājid* d''Allaah de l''invocation de Son nom et qui s''emploie activement à les désoler ? Ceux-là n''avaient à y entrer que craintifs : à eux, dans la vie proche, une humiliation, et à eux, dans l''*ākhira*, un châtiment immense.'
 - ref: S.2:115
   ar: وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ۚ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ
   trl: '*Wa-li-llāhi l-mashriqu wa-l-maghribu fa-ayynamā tuwallū fa-thamma wajhu llāhi inna llāha wāsiʿun ʿalīm*'
@@ -250,14 +390,22 @@
   ar: وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ بَل لَّهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَهُ قَانِتُونَ ۝ بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ
   trl: '*Wa-qālū ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti wa-l-arḍi kullun lahu qānitūn · Badīʿu s-samāwāti wa-l-arḍi wa-idhā qaḍā amran fa-innamā yaqūlu lahu kun fa-yakūn*'
   trad: 'Et ils ont dit : « Allaah s''est donné un fils. » *Subḥānahu* — non, à Lui appartient ce qui est dans les cieux et la terre — tout est *qānit* devant Lui. — *Badīʿ* des cieux et de la terre — quand Il décrète une chose Il dit seulement : « Sois » — et cela est.'
-- ref: S.2:118–121
-  ar: وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ
-  trl: '*Wa-qāla lladhīna lā yaʿlamūna lawlā yukallimunā llāhu aw taʾtīnā āyatun ka-dhālika qāla lladhīna min qablihim mithla qawlihim tashābahati qulūbuhum*'
-  trad: 'Et ceux qui ne savent pas ont dit : « Que ne nous parle Allaah directement, ou qu''une *āya* nous vienne ! » — De la même manière, ceux d''avant eux avaient prononcé des paroles identiques — leurs cœurs se ressemblent. — Nous avons exposé les *āyāt* pour des gens qui ont la *yaqīn*. — Nous t''avons envoyé avec le *ḥaqq*, *bashīr* et *nadhīr* — et tu ne seras pas interrogé sur les gens du *jaḥīm*.'
-- ref: S.2:120–121
-  ar: وَلَن تَرْضَىٰ عَنكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۝ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ
-  trl: '*Wa-lan tarḍā ʿanka l-yahūdu wa-lā n-naṣārā ḥattā tattabiʿa millatahum qul inna hudā llāhi huwa l-hudā · Alladhīna ātaynāhumu l-kitāba yatlūnahu ḥaqqa tilāwatihi ulāʾika yuʾminūna bihi*'
-  trad: 'Les Juifs et les *naṣārā* ne seront jamais satisfaits de toi jusqu''à ce que tu suives leur *milla*. Dis : « Le guide d''Allaah est le seul guide. » — Ceux à qui Nous avons donné le Livre le récitent comme il mérite d''être récité — ceux-là croient en lui. Ceux qui en commettent le *kufr* — ceux-là sont les *khāsirūn*.'
+- ref: S.2:118
+  ar: وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِنْ قَبْلِهِمْ مِثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ
+  trl: '*Wa-qāla lladhīna lā yaʿlamūna lawlā yukallimunā llāhu aw taʾtīnā āyatun ka-dhālika qāla lladhīna min qablihim mithla qawlihim tashābahat qulūbuhum qad bayyannā l-āyāti li-qawmin yūqinūn*'
+  trad: 'Et ceux qui ne savent pas ont dit : « Que ne nous adresse la parole Allaah, ou qu''une *āya* nous vienne ! » De la même manière, ceux d''avant eux ont tenu des paroles semblables aux leurs : leurs cœurs se ressemblent. Nous avons rendu les *āyāt* claires pour un peuple qui a la certitude.'
+- ref: S.2:119
+  ar: إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ
+  trl: '*Innā arsalnāka bi-l-ḥaqqi bashīran wa-nadhīran wa-lā tusʾalu ʿan aṣḥābi l-jaḥīm*'
+  trad: Nous t'avons envoyé avec le *ḥaqq*, *bashīr* et *nadhīr*, et tu ne seras pas interrogé sur les gens du *jaḥīm*.
+- ref: S.2:120
+  ar: وَلَنْ تَرْضَىٰ عَنْكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۗ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ
+  trl: '*Wa-lan tarḍā ʿanka l-yahūdu wa-lā n-naṣārā ḥattā tattabiʿa millatahum qul inna hudā llāhi huwa l-hudā wa-la-ini ttabaʿta ahwāʾahum baʿda lladhī jāʾaka mina l-ʿilmi mā laka mina llāhi min waliyyin wa-lā naṣīr*'
+  trad: 'Ni les Juifs ni les *naṣārā* ne seront jamais satisfaits de toi jusqu''à ce que tu suives leur *milla*. Dis : « Le *hudā* d''Allaah est le seul *hudā*. » Et si tu suivais leurs *ahwāʾ* après ce qui t''est venu de la connaissance, tu n''aurais, du côté d''Allaah, ni *walī* ni *naṣīr*.'
+- ref: S.2:121
+  ar: الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۗ وَمَنْ يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+  trl: '*Alladhīna ātaynāhumu l-kitāba yatlūnahu ḥaqqa tilāwatihi ulāʾika yuʾminūna bihi wa-man yakfur bihi fa-ulāʾika humu l-khāsirūn*'
+  trad: 'Ceux à qui Nous avons donné le Livre le suivent comme il doit être suivi : ceux-là croient en lui. Et quiconque en fait le *kufr* — ceux-là sont les *khāsirūn*.'
 - ref: S.2:122–123
   ar: يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ ۝ وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنصَرُونَ
   trl: '*Yā banī Isrāʾīla dhkurū niʿmatiya llatī anʿamtu ʿalaykum wa-annī faḍḍaltukum ʿalā l-ʿālamīn · Wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan wa-lā yuqbalu minhā ʿadlun wa-lā tanfaʿuhā shafāʿatun wa-lā hum yunṣarūn*'
@@ -331,9 +479,9 @@
   trl: Sa-yaqūlu l-sufahāʾu mina l-nāsi mā wallāhum ʿan qiblatihimi llatī kānū ʿalayhā — qul li-llāhi l-mashriqu wa-l-maghrib — yahdī man yashāʾu ilā ṣirāṭin mustaqīm
   trad: 'Les sufahāʾ parmi les gens vont dire : « Qu''est-ce qui les a détournés de leur qibla sur laquelle ils étaient ? » Dis : « À Allaah appartiennent l''orient et l''occident — Il guide qui Il veut vers un ṣirāṭ droit. »'
 - ref: S.2:143
-  ar: وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ
-  trl: Wa-ka-dhālika jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā l-nāsi wa-yakūna l-rasūlu ʿalaykum shahīdan — wa-mā jaʿalnā l-qiblata llatī kunta ʿalayhā illā li-naʿlama man yattabiʿu l-rasūla mimman yanqalibu ʿalā ʿaqibayh
-  trad: C'est ainsi que Nous vous avons établis communauté wasaṭ, pour que vous soyez shuhadāʾ sur les gens, et que le rasūl soit sur vous shahīd — et Nous n'avons établi la qibla sur laquelle tu étais que pour savoir qui suit le rasūl de qui retourne sur ses talons.
+  ar: وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِنْ كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ ۗ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ
+  trl: Wa-ka-dhālika jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā n-nāsi wa-yakūna r-rasūlu ʿalaykum shahīdan wa-mā jaʿalnā l-qiblata llatī kunta ʿalayhā illā li-naʿlama man yattabiʿu r-rasūla mimman yanqalibu ʿalā ʿaqibayhi wa-in kānat la-kabīratan illā ʿalā lladhīna hadā llāhu wa-mā kāna llāhu li-yuḍīʿa īmānakum inna llāha bi-n-nāsi la-raʾūfun raḥīm
+  trad: C'est ainsi que Nous vous avons établis communauté *wasaṭ*, pour que vous soyez *shuhadāʾ* sur les gens et que le *rasūl* soit *shahīd* sur vous. Nous n'avons établi la *qibla* sur laquelle tu étais que pour savoir qui suit le *rasūl* et qui retourne sur ses talons. Elle était certes pesante, sauf pour ceux qu'Allaah a guidés. Allaah n'était pas pour laisser se perdre votre *īmān*. Allaah est, envers les gens, *Raʾūf*, *Raḥīm*.
 - ref: S.2:144
   ar: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ
   trl: Qad narā taqalluba wajhika fī l-samāʾ — fa-la-nuwalliyannaka qiblatan tarḍāhā — fa-walli wajhaka shaṭra l-masjidi l-ḥarām — wa-ḥaythu mā kuntum fa-wallū wujūhakum shaṭrahu — wa-inna lladhīna ūtū l-kitāba la-yaʿlamūna annahu l-ḥaqqu min rabbihim — wa-mā llāhu bi-ghāfilin ʿammā yaʿmalūn
@@ -421,7 +569,7 @@
 - ref: S.2:165
   ar: وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
   trl: Wa-mina l-nāsi man yattakhidhu min dūni llāhi andādan yuḥibbūnahum ka-ḥubbi llāh — wa-lladhīna āmanū ashaddu ḥubban li-llāh — wa-law yarā lladhīna ẓalamū idh yarawna l-ʿadhāba anna l-quwwata li-llāhi jamīʿan wa-anna llāha shadīdu l-ʿadhāb
-  trad: Et parmi les gens, certains se donnent en dehors d'Allaah des andād qu'ils aiment à la mesure de l'amour [dû] à Allaah — mais ceux qui ont cru sont plus intenses dans leur amour pour Allaah. Et si seulement ceux qui ont commis le ẓulm voyaient, lorsqu'ils verront le ʿadhāb, que la force appartient à Allaah tout entière, et qu'Allaah est intense dans le ʿadhāb.
+  trad: Et parmi les gens, certains se donnent en dehors d'Allaah des andād qu'ils honorent à la mesure de l'honneur [dû] à Allaah — mais ceux qui ont cru sont plus intenses dans l'honneur qu'ils rendent à Allaah. Et si seulement ceux qui ont commis le ẓulm voyaient, lorsqu'ils verront le ʿadhāb, que la force appartient à Allaah tout entière, et qu'Allaah est intense dans le ʿadhāb.
 - ref: S.2:166
   ar: إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ
   trl: Idh tabarraʾa lladhīna uttubiʿū mina lladhīna ttabaʿū wa-raʾawu l-ʿadhāba wa-taqaṭṭaʿat bihimu l-asbāb
@@ -521,7 +669,7 @@
 - ref: S.2:190
   ar: وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ
   trl: Wa-qātilū fī sabīli llāhi lladhīna yuqātilūnakum wa-lā taʿtadū — inna llāha lā yuḥibbu l-muʿtadīn
-  trad: Et combattez dans le sabīl d'Allaah ceux qui vous combattent, et ne transgressez pas — Allaah n'aime pas les muʿtadīn.
+  trad: Et combattez dans le sabīl d'Allaah ceux qui vous combattent, et ne transgressez pas — Allaah n'honore pas les muʿtadīn.
 - ref: S.2:191
   ar: وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ ۚ وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ ۚ وَلَا تُقَاتِلُوهُمْ عِندَ الْمَسْجِدِ الْحَرَامِ حَتَّىٰ يُقَاتِلُوكُمْ فِيهِ ۖ فَإِن قَاتَلُوكُمْ فَاقْتُلُوهُمْ ۗ كَذَٰلِكَ جَزَاءُ الْكَافِرِينَ
   trl: Wa-qtulūhum ḥaythu thaqiftumūhum wa-akhrijūhum min ḥaythu akhrajūkum — wa-l-fitnatu ashaddu mina l-qatli — wa-lā tuqātilūhum ʿinda l-masjidi l-ḥarāmi ḥattā yuqātilūkum fīhi — fa-in qātalūkum fa-qtulūhum — ka-dhālika jazāʾu l-kāfirīn
@@ -541,7 +689,7 @@
 - ref: S.2:195
   ar: وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ۛ وَأَحْسِنُوا ۛ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ
   trl: Wa-anfiqū fī sabīli llāhi wa-lā tulqū bi-aydīkum ilā l-tahlukati — wa-aḥsinū — inna llāha yuḥibbu l-muḥsinīn
-  trad: 'Et dépensez dans le sabīl d''Allaah, et ne vous jetez pas de vos propres mains vers la tahluka — et accomplissez l''iḥsān : Allaah aime les muḥsinūn.'
+  trad: 'Et dépensez dans le sabīl d''Allaah, et ne vous jetez pas de vos propres mains vers la tahluka — et accomplissez l''iḥsān : Allaah honore les muḥsinūn.'
 - ref: S.2:196
   ar: وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۖ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِ أَذًى مِّن رَّأْسِهِ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَا أَمِنتُمْ فَمَن تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
   trl: Wa-atimmū l-ḥajja wa-l-ʿumrata li-llāh — fa-in uḥṣirtum fa-mā staysara mina l-hady — wa-lā taḥliqū ruʾūsakum ḥattā yablugha l-hadyu maḥillahu — fa-man kāna minkum marīḍan aw bihi adhan min raʾsihi fa-fidyatun min ṣiyāmin aw ṣadaqatin aw nusuk — fa-idhā amintum fa-man tamattaʿa bi-l-ʿumrati ilā l-ḥajji fa-mā staysara mina l-hady — fa-man lam yajid fa-ṣiyāmu thalāthati ayyāmin fī l-ḥajji wa-sabʿatin idhā rajaʿtum — tilka ʿasharatun kāmilatun — dhālika li-man lam yakun ahluhu ḥāḍiri l-masjidi l-ḥarāmi — wa-ttaqū llāha wa-ʿlamū anna llāha shadīdu l-ʿiqāb
@@ -581,7 +729,7 @@
 - ref: S.2:205
   ar: وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ
   trl: Wa-idhā tawallā saʿā fī l-arḍi li-yufsida fīhā wa-yuhlika l-ḥartha wa-l-nasl — wa-llāhu lā yuḥibbu l-fasād
-  trad: Et lorsqu'il se détourne, il s'active sur la terre pour y corrompre l'ordre, et anéantir la culture et la descendance. Or Allaah n'aime pas la corruption de l'ordre.
+  trad: Et lorsqu'il se détourne, il s'active sur la terre pour y corrompre l'ordre, et anéantir la culture et la descendance. Or Allaah n'honore pas la corruption de l'ordre.
 - ref: S.2:206
   ar: وَإِذَا قِيلَ لَهُ اتَّقِ اللَّهَ أَخَذَتْهُ الْعِزَّةُ بِالْإِثْمِ ۚ فَحَسْبُهُ جَهَنَّمُ ۚ وَلَبِئْسَ الْمِهَادُ
   trl: Wa-idhā qīla lahu ttaqi llāha akhadhathu l-ʿizzatu bi-l-ithm — fa-ḥasbuhu jahannam — wa-la-biʾsa l-mihād
@@ -649,7 +797,7 @@
 - ref: S.2:222
   ar: وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللَّهُ ۚ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
   trl: Wa-yasʾalūnaka ʿani l-maḥīḍ — qul huwa adhan fa-ʿtazilū l-nisāʾa fī l-maḥīḍ — wa-lā taqrabūhunna ḥattā yaṭhurn — fa-idhā taṭahharna fa-ʾtūhunna min ḥaythu amarakumu llāh — inna llāha yuḥibbu l-tawwābīna wa-yuḥibbu l-mutaṭahhirīn
-  trad: 'Et ils t''interrogent sur le maḥīḍ. Dis : c''est une gêne — tenez-vous à l''écart des femmes durant le maḥīḍ, et ne les approchez pas tant qu''elles n''ont pas cessé le flux. Puis lorsqu''elles se sont purifiées, venez à elles par où Allaah vous l''a ordonné. Allaah aime ceux qui reviennent constamment, et Il aime ceux qui se purifient.'
+  trad: 'Et ils t''interrogent sur le maḥīḍ. Dis : c''est une gêne — tenez-vous à l''écart des femmes durant le maḥīḍ, et ne les approchez pas tant qu''elles n''ont pas cessé le flux. Puis lorsqu''elles se sont purifiées, venez à elles par où Allaah vous l''a ordonné. Allaah honore ceux qui reviennent constamment, et Il honore ceux qui se purifient.'
 - ref: S.2:223
   ar: نِسَاؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُم مُّلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ
   trl: Nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum annā shiʾtum — wa-qaddimū li-anfusikum — wa-ttaqū llāha wa-ʿlamū annakum mulāqūh — wa-bashshiri l-muʾminīn

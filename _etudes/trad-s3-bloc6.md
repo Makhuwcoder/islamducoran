@@ -215,12 +215,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:159"
    ar="فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ"
    trl="Fa-bi-mā raḥmatin mina llāhi linta lahum — wa-law kunta fażżan ghalīẓa l-qalbi la-nfaḍḍū min ḥawlik — fa-ʿfu ʿanhum wa-staghfir lahum wa-shāwirhum fi l-amr — fa-idhā ʿazamta fa-tawakkal ʿalā llāh — inna llāha yuḥibbu l-mutawakkilīn"
-   trad="C'est par une raḥma venue d'Allaah que tu as été doux envers eux — si tu avais été rude, au cœur dur, ils se seraient dispersés loin de toi. Pardonne-leur donc, implore le pardon pour eux, et consulte-les sur l'affaire ; puis, une fois ta décision arrêtée, place ta confiance en Allaah — Allaah aime ceux qui placent leur confiance en Lui."
+   trad="C'est par une raḥma venue d'Allaah que tu as été doux envers eux — si tu avais été rude, au cœur dur, ils se seraient dispersés loin de toi. Pardonne-leur donc, implore le pardon pour eux, et consulte-les sur l'affaire ; puis, une fois ta décision arrêtée, place ta confiance en Allaah — Allaah honore ceux qui placent leur confiance en Lui."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">لِنتَ</span><span class="lex-trl">linta</span></dt>
 <dd>racine l-y-n : être doux, souple. Ce verset qualifie le rasūl, non Allaah — la règle du site excluant les adjectifs à connotation humaine pour désigner Allaah ne concerne pas cette occurrence.</dd>

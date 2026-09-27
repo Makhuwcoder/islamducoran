@@ -138,8 +138,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:76–77"
    ar="بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ ۝ إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ"
    trl="Balā man awfā bi-ʿahdihi wa-ttaqā fa-inna llāha yuḥibbu l-muttaqīn — inna lladhīna yashtarūna bi-ʿahdi llāhi wa-aymānihim thamanan qalīlan ulāʾika lā khalāqa lahum fi l-ākhirati wa-lā yukallimuhumu llāhu wa-lā yanẓuru ilayhim yawma l-qiyāmati wa-lā yuzakkīhim wa-lahum ʿadhābun alīm"
-   trad="Bien au contraire : quiconque est fidèle à son engagement et se constitue une taqwā — Allaah aime les muttaqūn. Ceux qui échangent l'engagement d'Allaah et leurs serments contre un prix dérisoire, ceux-là n'ont aucune part dans l'ākhira — Allaah ne leur parlera pas et ne les regardera pas au Jour de la Résurrection, ne les purifiera pas — et pour eux, un châtiment douloureux."
+   trad="Bien au contraire : quiconque est fidèle à son engagement et se constitue une taqwā — Allaah honore les muttaqūn. Ceux qui échangent l'engagement d'Allaah et leurs serments contre un prix dérisoire, ceux-là n'ont aucune part dans l'ākhira — Allaah ne leur parlera pas et ne les regardera pas au Jour de la Résurrection, ne les purifiera pas — et pour eux, un châtiment douloureux."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.3:78"

@@ -26,7 +26,7 @@ methode: "Dit / Non-dit / Inférence"
 | S.2:161–162 | La *laʿna* permanente sur ceux qui meurent en *kufr* |
 | S.2:163 | La proclamation de l'unicité — *ilāhun wāḥid* |
 | S.2:164 | Les signes de la création pour ceux qui raisonnent |
-| S.2:165 | Les *andād* et l'amour mal dirigé |
+| S.2:165 | Les *andād* et l'honneur mal dirigé |
 | S.2:166–167 | La dissociation entre suivis et suiveurs, et leur regret |
 | S.2:168–169 | La permission alimentaire et l'avertissement contre le *shayṭān* |
 | S.2:170 | L'argument des pères |
@@ -256,25 +256,29 @@ methode: "Dit / Non-dit / Inférence"
 
 ---
 
-### S.2:165 · Les andād et l'amour mal dirigé
+### S.2:165 · Les andād et l'honneur mal dirigé
 
 {% include verset.html
    ref="S.2:165"
    ar="وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ"
    trl="Wa-mina l-nāsi man yattakhidhu min dūni llāhi andādan yuḥibbūnahum ka-ḥubbi llāh — wa-lladhīna āmanū ashaddu ḥubban li-llāh — wa-law yarā lladhīna ẓalamū idh yarawna l-ʿadhāba anna l-quwwata li-llāhi jamīʿan wa-anna llāha shadīdu l-ʿadhāb"
-   trad="Et parmi les gens, certains se donnent en dehors d'Allaah des andād qu'ils aiment à la mesure de l'amour [dû] à Allaah — mais ceux qui ont cru sont plus intenses dans leur amour pour Allaah. Et si seulement ceux qui ont commis le ẓulm voyaient, lorsqu'ils verront le ʿadhāb, que la force appartient à Allaah tout entière, et qu'Allaah est intense dans le ʿadhāb."
+   trad="Et parmi les gens, certains se donnent en dehors d'Allaah des andād qu'ils honorent à la mesure de l'honneur [dû] à Allaah — mais ceux qui ont cru sont plus intenses dans l'honneur qu'ils rendent à Allaah. Et si seulement ceux qui ont commis le ẓulm voyaient, lorsqu'ils verront le ʿadhāb, que la force appartient à Allaah tout entière, et qu'Allaah est intense dans le ʿadhāb."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
 <dt><span class="lex-ar">نِدّ</span><span class="lex-trl">nidd (pl. andād)</span></dt>
 <dd>racine n-d-d : Ibn Fāris (Maqāyīs) : l'équivalent, le pendant, ce qui est du même ordre et du même rang. Assigner des andād à Allaah, c'est Lui attribuer des homologues de rang égal — non simplement des associés secondaires (sharīk). Le terme souligne l'équivalence de rang, non une simple association hiérarchique. Conservé en translittération.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يُحِبُّونَهُمْ كَحُبِّ ٱللَّه</span><span class="lex-trl">yuḥibbūnahum ka-ḥubbi llāh</span></dt>
-<dd>la comparaison porte sur l'intensité de l'amour, non sur sa nature : c'est un amour qui rivalise en degré avec ce qui devrait être réservé à Allaah.</dd>
+<dd>la comparaison porte sur l'intensité de l'honneur rendu, non sur sa nature : c'est un honneur qui rivalise en degré avec ce qui devrait être réservé à Allaah.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ظَلَمُوا</span><span class="lex-trl">ẓalamū</span></dt>
@@ -282,7 +286,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
-<p><strong>Ce que le texte dit :</strong> l'erreur nommée est un déplacement d'amour — non une simple croyance erronée, un déséquilibre affectif actif.</p>
+<p><strong>Ce que le texte dit :</strong> l'erreur nommée est un honneur rendu à ce qui n'y a pas droit — non une simple croyance erronée, mais un acte : l'honneur dû à Allaah est placé ailleurs.</p>
 </div>
 </div>
 

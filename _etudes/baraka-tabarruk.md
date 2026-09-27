@@ -107,7 +107,7 @@ Ibn Fāris formule ensuite la précision morphologique la plus importante : *al-
 > **Ibn Manẓūr — Lisān al-ʿArab — racine b-r-k**
 > الْبَرَكَةُ : النَّمَاءُ وَالزِّيَادَةُ — وَتَبَارَكَ اللَّهُ : تَعَالَى وَتَقَدَّسَ — وَهِيَ صِيغَةٌ لَا تُسْتَعْمَلُ إِلَّا لِلَّهِ تَعَالَى
 
-Sur *tabāraka*, Ibn Manẓūr est explicite et décisif : *tabāraka llāhu : taʿālā wa-taqaddasa* — Allaah s'est élevé au-dessus de tout et s'est sanctifié. Puis : *kathurat khayratuhu wa-tazāyadat* — Ses bienfaits se sont multipliés et ont crû en excédant. Et enfin la précision morphologique : *wa-hiya ṣīghatun lā tustaʿmalu illā li-llāhi taʿālā* — **c'est une forme qui ne s'emploie que pour Allaah**.
+Sur *tabāraka*, Ibn Manẓūr est explicite et décisif : *tabāraka llāhu : taʿālā wa-taqaddasa*. Ces deux verbes sont conservés en translittération : *taʿālā*, dit d'Allaah, n'est pas rendu par un mot d'espace (« élevé », « au-dessus »), aucun mot français n'effaçant cette connotation ; *taqaddasa* (racine *q-d-s*) dit la mise à l'écart de toute impureté. Puis : *kathurat khayratuhu wa-tazāyadat* — Ses bienfaits se sont multipliés et ont crû en excédant. Et enfin la précision morphologique : *wa-hiya ṣīghatun lā tustaʿmalu illā li-llāhi taʿālā* — **c'est une forme qui ne s'emploie que pour Allaah**.
 
 {% include callout.html type="dit" label="Ce que Ibn Manẓūr ajoute" content="Il atteste explicitement que **tabāraka est une forme réservée à Allaah dans l'usage de la langue classique**. Il ne s'agit pas d'une interprétation théologique après coup : c'est un fait de langue documenté par le plus exhaustif des lexicographes." %}
 

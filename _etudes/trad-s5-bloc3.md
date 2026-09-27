@@ -14,14 +14,14 @@ methode: "Dit / Non-dit / Inférence"
 <div id="top-fiche"></div>
 
 {:.callout .callout--pivot}
-**Structure du Bloc III.** Trois ensembles. D'abord deux prétentions rapportées puis rejetées par le texte lui-même — « Allaah, c'est al-Masīḥ » et « nous sommes les fils d'Allaah et Ses bien-aimés » — suivies de l'annonce d'un *rasūl* venu après une *fatra* (un intervalle) sans *rusul*, ôtant toute excuse (S5:17–19). Puis un long rappel : Mūsā rappelant le *niʿma* à son peuple, l'appel à entrer dans la terre sanctifiée, le refus insolent de ce peuple, la demande de séparation formulée par Mūsā, et l'errance de quarante ans qui s'ensuit (S5:20–26). Enfin le récit des deux fils d'Ādam — l'offrande, le meurtre, le corbeau, le remords — clos par le principe posé aux Banū Isrāʾīl sur la valeur d'une vie humaine (S5:27–32).
+**Structure du Bloc III.** Trois ensembles. D'abord deux prétentions rapportées puis rejetées par le texte lui-même — « Allaah, c'est al-Masīḥ » et « nous sommes les fils d'Allaah et ceux qu'Il honore » — suivies de l'annonce d'un *rasūl* venu après une *fatra* (un intervalle) sans *rusul*, ôtant toute excuse (S5:17–19). Puis un long rappel : Mūsā rappelant le *niʿma* à son peuple, l'appel à entrer dans la terre sanctifiée, le refus insolent de ce peuple, la demande de séparation formulée par Mūsā, et l'errance de quarante ans qui s'ensuit (S5:20–26). Enfin le récit des deux fils d'Ādam — l'offrande, le meurtre, le corbeau, le remords — clos par le principe posé aux Banū Isrāʾīl sur la valeur d'une vie humaine (S5:27–32).
 
 ### Sommaire du bloc
 
 | Réf. | Titre thématique |
 |------|-----------------|
 | S.5:17 | Le rejet de « Allaah, c'est al-Masīḥ » |
-| S.5:18 | Le rejet de « nous sommes les fils d'Allaah et Ses bien-aimés » |
+| S.5:18 | Le rejet de « nous sommes les fils d'Allaah et ceux qu'Il honore » |
 | S.5:19 | Un *rasūl* venu après une *fatra* — sans excuse laissée |
 | S.5:20 | Mūsā rappelle le *niʿma* à son peuple |
 | S.5:21 | L'appel à entrer dans la terre sanctifiée |
@@ -77,13 +77,13 @@ methode: "Dit / Non-dit / Inférence"
 
 ---
 
-### S.5:18 · Le rejet de « nous sommes les fils d'Allaah et Ses bien-aimés »
+### S.5:18 · Le rejet de « nous sommes les fils d'Allaah et ceux qu'Il honore »
 
 {% include verset.html
    ref="S.5:18"
    ar="وَقَالَتِ الْيَهُودُ وَالنَّصَارَىٰ نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْ ۖ بَلْ أَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ الْمَصِيرُ"
    trl="Wa-qālati l-yahūdu wa-n-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu — qul fa-lima yuʿadhdhibukum bi-dhunūbikum — bal antum basharun mimman khalaqa — yaghfiru li-man yashāʾu wa-yuʿadhdhibu man yashāʾu — wa-lillāhi mulku s-samāwāti wa-l-arḍi wa-mā baynahumā — wa-ilayhi l-maṣīr"
-   trad="Et les *yahūd* et les *naṣārā* ont dit : « Nous sommes les fils d'Allaah et Ses bien-aimés. » Dis : « Pourquoi donc vous inflige-t-Il un châtiment pour vos fautes (*dhunūb*) ? » — vous n'êtes en réalité que des humains (*bashar*) parmi ceux qu'Il a créés : Il pardonne à qui Il veut et châtie qui Il veut. À Allaah appartient la royauté des cieux et de la terre et de ce qui est entre les deux, et c'est vers Lui qu'est l'aboutissement (*al-maṣīr*)."
+   trad="Et les *yahūd* et les *naṣārā* ont dit : « Nous sommes les fils d'Allaah et ceux qu'Il honore. » Dis : « Pourquoi donc vous inflige-t-Il un châtiment pour vos fautes (*dhunūb*) ? » — vous n'êtes en réalité que des humains (*bashar*) parmi ceux qu'Il a créés : Il pardonne à qui Il veut et châtie qui Il veut. À Allaah appartient la royauté des cieux et de la terre et de ce qui est entre les deux, et c'est vers Lui qu'est l'aboutissement (*al-maṣīr*)."
 %}
 
 {:.callout .callout--pivot}
@@ -98,7 +98,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">abnāʾu llāhi wa-aḥibbāʾuhu</span></dt>
-<dd>*abnāʾ*, pluriel de *ibn* (fils) : ici au sens figuré d'un statut de filiation revendiqué, non d'une filiation biologique. *aḥibbāʾ*, pluriel de *ḥabīb* (bien-aimé), racine *ḥ-b-b*. Aucun des deux termes n'est repris par le texte à son compte dans la suite du verset — il les cite pour les réfuter.</dd>
+<dd>*abnāʾ*, pluriel de *ibn* (fils) : ici au sens figuré d'un statut de filiation revendiqué, non d'une filiation biologique. *aḥibbāʾ*, pluriel de *ḥabīb* (celui qu'on honore, que l'on met en honneur), racine *ḥ-b-b*. Aucun des deux termes n'est repris par le texte à son compte dans la suite du verset — il les cite pour les réfuter.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bashar</span></dt>

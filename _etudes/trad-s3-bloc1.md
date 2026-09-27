@@ -405,6 +405,10 @@ methode: "Dit / Non-dit / Inférence"
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
 <dt><span class="lex-ar">نَصِيبًا مِّنَ الْكِتَاب</span><span class="lex-trl">naṣīban mina l-kitāb</span></dt>
 <dd>racine ن-ص-ب : une part, une portion assignée.</dd>
 </div>

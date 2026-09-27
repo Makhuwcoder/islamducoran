@@ -47,8 +47,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:133–134"
    ar="۞ وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ ۝ ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
    trl="Wa-sāriʿū ilā maghfiratin min rabbikum wa-jannatin ʿarḍuhā l-samāwātu wa-l-arḍu uʿiddat li-l-muttaqīn — alladhīna yunfiqūna fi l-sarrāʾi wa-l-ḍarrāʾi wa-l-kāẓimīna l-ghayẓa wa-l-ʿāfīna ʿani l-nāsi — wa-llāhu yuḥibbu l-muḥsinīn"
-   trad="Hâtez-vous vers un pardon de votre Rabb, et un jardin dont la largeur est les cieux et la terre, préparé pour les muttaqūn — ceux qui dépensent dans l'aisance comme dans l'adversité, qui contiennent leur colère et pardonnent aux gens — Allaah aime les muḥsinūn."
+   trad="Hâtez-vous vers un pardon de votre Rabb, et un jardin dont la largeur est les cieux et la terre, préparé pour les muttaqūn — ceux qui dépensent dans l'aisance comme dans l'adversité, qui contiennent leur colère et pardonnent aux gens — Allaah honore les muḥsinūn."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.3:135–136"
@@ -131,7 +141,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:140–141"
    ar="إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ ۝ وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ"
    trl="In yamsaskum qarḥun fa-qad massa l-qawma qarḥun mithluh — wa-tilka l-ayyāmu nudāwiluhā bayna l-nāsi wa-li-yaʿlama llāhu lladhīna āmanū wa-yattakhidha minkum shuhadāʾ — wa-llāhu lā yuḥibbu l-ẓālimīn — wa-li-yumaḥḥiṣa llāhu lladhīna āmanū wa-yamḥaqa l-kāfirīn"
-   trad="Si une blessure vous atteint, une blessure semblable a atteint l'autre camp — ces jours, Nous les faisons alterner parmi les gens, afin qu'Allaah distingue ceux qui ont cru, et qu'Il prenne parmi vous des témoins — Allaah n'aime pas les ẓālimūn. Et afin qu'Allaah trie ceux qui ont cru, et efface les kāfirūn."
+   trad="Si une blessure vous atteint, une blessure semblable a atteint l'autre camp — ces jours, Nous les faisons alterner parmi les gens, afin qu'Allaah distingue ceux qui ont cru, et qu'Il prenne parmi vous des témoins — Allaah n'honore pas les ẓālimūn. Et afin qu'Allaah trie ceux qui ont cru, et efface les kāfirūn."
 %}
 
 <div class="callout callout--avertissement">
@@ -191,7 +201,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:146–148"
    ar="وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ ۝ وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ ۝ فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
    trl="Wa-kaʾayyin min nabiyyin qātala maʿahu ribbiyyūna kathīrun fa-mā wahanū li-mā aṣābahum fī sabīli llāhi wa-mā ḍaʿufū wa-mā stakānū — wa-llāhu yuḥibbu l-ṣābirīn — wa-mā kāna qawlahum illā an qālū rabbanā ghfir lanā dhunūbanā wa-isrāfanā fī amrinā wa-thabbit aqdāmanā wa-nṣurnā ʿala l-qawmi l-kāfirīn — fa-ātāhumu llāhu thawāba l-dunyā wa-ḥusna thawābi l-ākhirati — wa-llāhu yuḥibbu l-muḥsinīn"
-   trad="Que de nabī ont combattu, accompagnés de nombreux ribbiyyūn, qui n'ont ni faibli devant ce qui les a atteints sur le chemin d'Allaah, ni fléchi, ni cédé — Allaah aime les ṣābirūn. Leur seule parole était : « Notre Rabb, pardonne-nous nos fautes et notre excès dans notre affaire, affermis nos pas, et secours-nous contre les gens kāfirūn. » Allaah leur donna la rétribution de ce monde, et la belle rétribution de l'ākhira — Allaah aime les muḥsinūn."
+   trad="Que de nabī ont combattu, accompagnés de nombreux ribbiyyūn, qui n'ont ni faibli devant ce qui les a atteints sur le chemin d'Allaah, ni fléchi, ni cédé — Allaah honore les ṣābirūn. Leur seule parole était : « Notre Rabb, pardonne-nous nos fautes et notre excès dans notre affaire, affermis nos pas, et secours-nous contre les gens kāfirūn. » Allaah leur donna la rétribution de ce monde, et la belle rétribution de l'ākhira — Allaah honore les muḥsinūn."
 %}
 
 <div class="notes-lexicales">

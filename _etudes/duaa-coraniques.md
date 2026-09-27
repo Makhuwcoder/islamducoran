@@ -121,7 +121,9 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html ref="Sourate Al-Qaṣaṣ · 28:16" ar="رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي" trl="*Rabbi innī ẓalamtu nafsī fa-ghfir lī*" trad="Seigneur, j'ai fait tort à moi-même — pardonne-moi." %}
 
-{% include verset.html ref="Sourate Al-Ḥashr · 59:10" ar="رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ" trl="*Rabbanā ghfir lanā wa-li-ikhwāninā lladhīna sabaqūnā bi-l-īmān · wa-lā tajʿal fī qulūbinā ghillan lilladhīna āmanū · Rabbanā innaka raʾūfun raḥīm*" trad="Seigneur, pardonne-nous et pardonne à nos frères qui nous ont précédés dans la foi, et ne mets pas dans nos poitrines de rancœur envers ceux qui ont cru — Seigneur, Tu es plein de bienveillance et de miséricorde." %}
+{% include verset.html ref="Sourate Al-Ḥashr · 59:10" ar="رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَّحِيمٌ" trl="*Rabbanā ghfir lanā wa-li-ikhwāninā lladhīna sabaqūnā bi-l-īmān · wa-lā tajʿal fī qulūbinā ghillan lilladhīna āmanū · Rabbanā innaka raʾūfun raḥīm*" trad="Seigneur, pardonne-nous et pardonne à nos frères qui nous ont précédés dans la foi, et ne mets pas dans nos poitrines de rancœur envers ceux qui ont cru — Seigneur, Tu es *Raʾūf*, *Raḥīm*." %}
+
+{% include callout.html type="inf" label="Note à venir" content="Raʾūf et Raḥīm sont conservés en translittération pour le moment : une note lexicale complète sur ces deux termes sera ajoutée ultérieurement." %}
 
 {% include verset.html ref="Sourate Nūḥ · 71:28" ar="رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ" trl="*Rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytī muʾminan wa-li-l-muʾminīna wa-l-muʾmināt*" trad="Seigneur, pardonne-moi, pardonne à mes parents, à quiconque est entré dans ma demeure en croyant, aux croyants et aux croyantes." %}
 

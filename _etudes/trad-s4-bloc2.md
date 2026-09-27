@@ -286,12 +286,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:36"
    ar="وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا"
    trl="Wa-ʿbudu llāha wa-lā tushrikū bihi shayʾā — wa-bi-l-wālidayni iḥsānā wa-bi-dhi l-qurbā wa-l-yatāmā wa-l-masākīni wa-l-jāri dhi l-qurbā wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli wa-mā malakat aymānukum — inna llāha lā yuḥibbu man kāna mukhtālan fakhūrā"
-   trad="Adorez Allaah et ne Lui associez rien — et [agissez avec] *iḥsān* envers les deux parents, les proches (*dhi l-qurbā*), les orphelins, les indigents, le voisin proche (*al-jāri dhi l-qurbā*), le voisin éloigné (*al-jāri l-junub*), le compagnon proche (*aṣ-ṣāḥib bi-l-janb*), le voyageur (*ibn as-sabīl*), et ce que possèdent vos mains droites — Allaah n'aime pas quiconque est *mukhtāl* (arrogant dans sa démarche), *fakhūr* (vantard)."
+   trad="Adorez Allaah et ne Lui associez rien — et [agissez avec] *iḥsān* envers les deux parents, les proches (*dhi l-qurbā*), les orphelins, les indigents, le voisin proche (*al-jāri dhi l-qurbā*), le voisin éloigné (*al-jāri l-junub*), le compagnon proche (*aṣ-ṣāḥib bi-l-janb*), le voyageur (*ibn as-sabīl*), et ce que possèdent vos mains droites — Allaah n'honore pas quiconque est *mukhtāl* (arrogant dans sa démarche), *fakhūr* (vantard)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-jāri l-junub / aṣ-ṣāḥib bi-l-janb</span></dt>
 <dd><strong>Non-dit</strong> : le texte distingue deux catégories de proximité (le voisin « éloigné » et le « compagnon proche ») sans préciser davantage leur identité exacte — voisinage géographique, lien de circonstance, ou compagnon de route, plusieurs lectures coexistent chez les linguistes.</dd>

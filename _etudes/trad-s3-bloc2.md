@@ -286,8 +286,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.3:56–57"
    ar="فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ ۝ وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ"
    trl="Fa-ammā lladhīna kafarū fa-uʿadhdhibuhum ʿadhāban shadīdan fi l-dunyā wa-l-ākhirati wa-mā lahum min nāṣirīn — wa-ammā lladhīna āmanū wa-ʿamilū l-ṣāliḥāti fa-yuwaffīhim ujūrahum — wa-llāhu lā yuḥibbu l-ẓālimīn"
-   trad="Quant à ceux qui sont kāfirūn, Je les châtierai d'un châtiment sévère, dans ce monde et dans l'ākhira, et ils n'auront aucun secoureur. Quant à ceux qui ont cru et ont accompli les œuvres ṣāliḥa, Il leur rendra intégralement leurs rétributions — Allaah n'aime pas les ẓālimūn."
+   trad="Quant à ceux qui sont kāfirūn, Je les châtierai d'un châtiment sévère, dans ce monde et dans l'ākhira, et ils n'auront aucun secoureur. Quant à ceux qui ont cru et ont accompli les œuvres ṣāliḥa, Il leur rendra intégralement leurs rétributions — Allaah n'honore pas les ẓālimūn."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.3:58"

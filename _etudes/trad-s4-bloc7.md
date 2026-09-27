@@ -135,8 +135,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:106–107"
    ar="وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَّحِيمًا ۝ وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا"
    trl="Wa-staghfiri llāh — inna llāha kāna ghafūran raḥīmā · Wa-lā tujādil ʿani lladhīna yakhtānūna anfusahum — inna llāha lā yuḥibbu man kāna khawwānan athīmā"
-   trad="Et demande pardon à Allaah — Allaah est *Ghafūr*, *Raḥīm*. Et ne dispute pas (*tujādil*) en faveur de ceux qui se trahissent eux-mêmes (*yakhtānūna anfusahum*) — Allaah n'aime pas qui est traître invétéré, chargé de faute."
+   trad="Et demande pardon à Allaah — Allaah est *Ghafūr*, *Raḥīm*. Et ne dispute pas (*tujādil*) en faveur de ceux qui se trahissent eux-mêmes (*yakhtānūna anfusahum*) — Allaah n'honore pas qui est traître invétéré, chargé de faute."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

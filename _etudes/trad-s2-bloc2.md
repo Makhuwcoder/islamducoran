@@ -215,11 +215,59 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include verset.html
-   ref="S.2:54–56"
-   ar="وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ"
-   trl="*Wa-idh qāla Mūsā li-qawmihi yā qawmi innakum ẓalamtum anfusakum bi-ttikhadhikumu l-ʿijla fa-tūbū ilā bāriʾikum fa-qtulū anfusakum dhālikum khayrun lakum ʿinda bāriʾikum fa-tāba ʿalaykum innahu huwa t-tawwābu r-raḥīm*"
+   ref="S.2:54"
+   ar="وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ"
+   trl="*Wa-idh qāla Mūsā li-qawmihi yā qawmi innakum ẓalamtum anfusakum bi-ttikhādhikumu l-ʿijla fa-tūbū ilā bāriʾikum fa-qtulū anfusakum dhālikum khayrun lakum ʿinda bāriʾikum fa-tāba ʿalaykum innahu huwa t-tawwābu r-raḥīm*"
    trad="Et quand Mūsā dit à son peuple : « Ô mon peuple, vous vous êtes causé le *ẓulm* à vous-mêmes en prenant le *ʿijl* — revenez vers votre *Bāriʾ* et tuez-vous les uns les autres — cela est meilleur pour vous auprès de votre *Bāriʾ* » — et Il accueillit votre retour — Il est *at-Tawwāb*, le *raḥīm*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ʿijl</span></dt>
+<dd>racine *ʿ-j-l* : le veau, le jeune bovin (et, de la même racine, la hâte). Le texte dit seulement que le peuple « a pris » le *ʿijl* ; il n'en dit ni l'origine ni la forme. Conservé en translittération.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:55"
+   ar="وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ"
+   trl="*Wa-idh qultum yā Mūsā lan nuʾmina laka ḥattā narā llāha jahratan fa-akhadhatkumu ṣ-ṣāʿiqatu wa-antum tanẓurūn*"
+   trad="Et quand vous avez dit : « Ô Mūsā, nous ne croirons pas en toi jusqu'à ce que nous voyions Allaah à découvert » — la *ṣāʿiqa* vous a saisis, alors que vous regardiez."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">jahratan</span></dt>
+<dd>racine *j-h-r* : ce qui se fait au grand jour, à découvert, sans voile. Le verset rapporte l'exigence de ceux à qui Mūsā s'adresse, puis la saisie qui la suit. Il ne dit rien de plus sur ce qui pourrait ou non être vu : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ṣāʿiqa</span></dt>
+<dd>racine *ṣ-ʿ-q* : ce qui frappe avec un fracas foudroyant. Conservé en translittération : « foudre » ou « tonnerre » précisent une nature que le verset ne donne pas. Ce qu'elle est exactement, et si elle a causé la mort, le verset ne le dit pas — le verset suivant parle d'un *baʿth* « après votre mort ».</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:56"
+   ar="ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ"
+   trl="*Thumma baʿathnākum min baʿdi mawtikum laʿallakum tashkurūn*"
+   trad="Puis Nous vous avons fait surgir après votre mort, afin que vous soyez reconnaissants."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">baʿathnākum</span></dt>
+<dd>racine *b-ʿ-th* : faire se lever, susciter, mettre en mouvement. Le verset ne dit ni la manière, ni la durée, ni l'état dans lequel ils étaient : des **non-dits**.</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -232,11 +280,125 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include verset.html
-   ref="S.2:57–61"
-   ar="وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِن طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ"
-   trl="*Wa-ẓallalnā ʿalaykumu l-ghamāma wa-anzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-mā ẓalamanā wa-lākin kānū anfusahum yaẓlimūn*"
+   ref="S.2:57"
+   ar="وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ"
+   trl="*Wa-ẓallalnā ʿalaykumu l-ghamāma wa-anzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-mā ẓalamūnā wa-lākin kānū anfusahum yaẓlimūn*"
    trad="Nous avons étendu sur vous le nuage comme ombrage, Nous avons fait descendre sur vous le *mann* et la *salwā* — mangez des bonnes choses dont Nous vous avons pourvus — et ils ne Nous ont pas causé de *ẓulm*, mais c'est à eux-mêmes qu'ils causaient le *ẓulm*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">mann / salwā</span></dt>
+<dd>*mann* : ce qui est donné sans effort, en bienfait (racine *m-n-n*) ; *salwā* : ce qui console et apaise (racine *s-l-w*). Le verset ne décrit pas ce que ces deux mots désignent concrètement : ils sont conservés en translittération.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:58"
+   ar="وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ"
+   trl="*Wa-idh qulnā dkhulū hādhihi l-qaryata fa-kulū minhā ḥaythu shiʾtum raghadan wa-dkhulū l-bāba sujjadan wa-qūlū ḥiṭṭatun naghfir lakum khaṭāyākum wa-sa-nazīdu l-muḥsinīn*"
+   trad="Et quand Nous avons dit : « Entrez dans cette *qarya* et mangez librement de ce qu'elle contient, où vous voudrez ; entrez par la porte en vous prosternant et dites : *ḥiṭṭa* — Nous vous pardonnerons vos *khaṭāyā* ; et Nous donnerons davantage aux *muḥsinūn*. »"
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">qarya</span></dt>
+<dd>racine *q-r-y* : lieu où l'on se rassemble, localité. Le verset ne la nomme pas : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ḥiṭṭa</span></dt>
+<dd>racine *ḥ-ṭ-ṭ* : déposer à terre, abaisser (un fardeau). Le mot est donné comme parole à prononcer ; le verset n'en dit pas davantage. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">khaṭāyā</span></dt>
+<dd>pluriel de *khaṭīʾa*, racine *kh-ṭ-ʾ* : dévier de la cible, manquer le but.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">muḥsinūn</span></dt>
+<dd>racine *ḥ-s-n* : ceux qui agissent avec excellence, qui rendent beau ce qu'ils font.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:59"
+   ar="فَبَدَّلَ الَّذِينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَنْزَلْنَا عَلَى الَّذِينَ ظَلَمُوا رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ"
+   trl="*Fa-baddala lladhīna ẓalamū qawlan ghayra lladhī qīla lahum fa-anzalnā ʿalā lladhīna ẓalamū rijzan mina s-samāʾi bi-mā kānū yafsuqūn*"
+   trad="Mais ceux qui avaient commis le *ẓulm* ont substitué à ce qu'on leur avait dit une parole autre. Alors Nous avons fait descendre sur ceux qui avaient commis le *ẓulm* un *rijz* venu du ciel, à cause de ce qu'ils commettaient comme *fisq*."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rijz</span></dt>
+<dd>racine *r-j-z* : trouble, agitation violente. Conservé en translittération : « peste », « tourment » ou « châtiment » précisent une nature que le verset ne donne pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">fisq</span></dt>
+<dd>racine *f-s-q* : sortir de son enveloppe (la datte qui sort de sa peau) — sortir du cadre fixé.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:60"
+   ar="۞ وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۖ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ"
+   trl="*Wa-idhi staqā Mūsā li-qawmihi fa-qulnā ḍrib bi-ʿaṣāka l-ḥajara fa-nfajarat minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum kulū wa-shrabū min rizqi llāhi wa-lā taʿthaw fī l-arḍi mufsidīn*"
+   trad="Et quand Mūsā demanda de l'eau pour son peuple, Nous dîmes : « Frappe la pierre de ton bâton. » Il en jaillit douze sources — chaque groupe d'hommes connut son lieu pour boire. « Mangez et buvez du *rizq* d'Allaah, et ne commettez pas de ravages sur la terre en y semant la corruption. »"
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">rizq</span></dt>
+<dd>racine *r-z-q* : ce qui est accordé pour subsister, la provision. Conservé en translittération : « nourriture » ou « biens » en restreignent le sens.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:61"
+   ar="وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نَصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ"
+   trl="*Wa-idh qultum yā Mūsā lan naṣbira ʿalā ṭaʿāmin wāḥidin fa-dʿu lanā rabbaka yukhrij lanā mimmā tunbitu l-arḍu min baqlihā wa-qiththāʾihā wa-fūmihā wa-ʿadasihā wa-baṣalihā · qāla a-tastabdilūna lladhī huwa adnā bi-lladhī huwa khayrun · ihbiṭū miṣran fa-inna lakum mā saʾaltum · wa-ḍuribat ʿalayhimu dh-dhillatu wa-l-maskanatu wa-bāʾū bi-ghaḍabin mina llāhi · dhālika bi-annahum kānū yakfurūna bi-āyāti llāhi wa-yaqtulūna n-nabiyyīna bi-ghayri l-ḥaqqi · dhālika bi-mā ʿaṣaw wa-kānū yaʿtadūn*"
+   trad="Et quand vous avez dit : « Ô Mūsā, nous ne supporterons pas une seule nourriture. Invoque pour nous ton *Rabb* : qu'Il fasse sortir pour nous de ce que la terre fait pousser — de ses légumes verts, de ses concombres, de son *fūm*, de ses lentilles et de ses oignons. » — Il dit : « Voulez-vous échanger ce qui est moindre contre ce qui est meilleur ? Descendez vers une ville : vous y aurez ce que vous avez demandé. » — La *dhilla* et la *maskana* furent imposées sur eux, et ils revinrent chargés d'un *ghaḍab* venu d'Allaah. Cela, parce qu'ils faisaient le *kufr* des *āyāt* d'Allaah et tuaient les *nabiyyīn* sans *ḥaqq* ; cela, parce qu'ils désobéissaient et transgressaient."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">fūm</span></dt>
+<dd>deux lectures lexicographiques sont attestées : l'ail, ou les céréales (le blé). Le verset ne tranche pas ; le mot est conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">miṣr</span></dt>
+<dd>avec la marque de l'indéfini (*miṣran*) : une ville, un centre habité, non le nom propre Miṣr. Le verset ne la nomme pas : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">dhilla / maskana</span></dt>
+<dd>*dhilla* (racine *dh-l-l*) : l'abaissement, la docilité imposée ; *maskana* (racine *s-k-n*) : le dénuement, l'immobilité de celui qui n'a plus de ressource. « Frappées sur eux » : la formule dit une marque imposée, comme on frappe une monnaie ou dresse une tente.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ghaḍab</span></dt>
+<dd>racine *gh-ḍ-b* : réaction de rejet, retrait de la faveur. Voir la note sur *al-maghḍūb ʿalayhim* en [S.1:7](/etudes/trad-s1-al-talab/). Dit d'Allaah, le terme n'est pas rendu par un mot d'affect humain.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">kufr / ḥaqq</span></dt>
+<dd>*kufr* : recouvrir, dénier ce qui devrait être reconnu → Voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/). *ḥaqq* : ce qui est établi, réel, dû. « Sans *ḥaqq* » : sans droit, sans fondement établi.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">nabiyyīn</span></dt>
+<dd>pluriel de *nabī*, racine *n-b-ʾ* : celui qui annonce, qui porte une annonce.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:62"
@@ -249,11 +411,88 @@ methode: "Dit / Non-dit / Inférence"
 **Verset pivot — S.2:62.** Ce verset énonce un principe cardinal : le critère de rétribution n'est pas l'appartenance communautaire mais la *foi en Allaah et au Jour dernier* et *l'accomplissement d'actes droits*. Quatre communautés sont nommées sans hiérarchie. **Non-dit** : le texte ne dit pas que toutes ces communautés sont également sur la *hudā* — il dit que parmi toutes, *man āmana wa-ʿamila ṣāliḥan* recevra sa rétribution.
 
 {% include verset.html
-   ref="S.2:63–66"
-   ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ ۝ ثُمَّ تَوَلَّيْتُم مِّن بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُم مِّنَ الْخَاسِرِينَ"
-   trl="*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi laʿallakum tattaqūn · Thumma tawallaytum min baʿdi dhālika fa-lawlā faḍlu llāhi ʿalaykum wa-raḥmatuhu la-kuntum mina l-khāsirīn*"
-   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s'y trouve — afin que vous vous constituiez une *taqwā*. » — Puis vous avez tourné le dos après cela — sans le *faḍl* d'Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*."
+   ref="S.2:63"
+   ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ"
+   trl="*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi laʿallakum tattaqūn*"
+   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez ce que Nous vous avons donné avec force, et rappelez-vous ce qui s'y trouve — afin que vous vous constituiez une *taqwā*. »"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">mīthāq</span></dt>
+<dd>racine *w-th-q* : ce qui lie fermement, l'engagement solennel. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">Ṭūr</span></dt>
+<dd>nom d'une montagne. Le texte dit seulement qu'elle a été « élevée au-dessus » d'eux ; il ne dit pas la manière : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:64"
+   ar="ثُمَّ تَوَلَّيْتُمْ مِنْ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ"
+   trl="*Thumma tawallaytum min baʿdi dhālika fa-lawlā faḍlu llāhi ʿalaykum wa-raḥmatuhu la-kuntum mina l-khāsirīn*"
+   trad="Puis vous avez tourné le dos après cela — sans le *faḍl* d'Allaah sur vous et Sa *raḥma*, vous auriez été parmi les *khāsirīn*."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">faḍl / raḥma / khāsirīn</span></dt>
+<dd>*faḍl* : le surplus donné au-delà de ce qui est dû ; *raḥma* : ce qui est accordé à partir d'un lien de matrice (racine *r-ḥ-m*) ; *khāsirīn* : ceux qui perdent leur mise (racine *kh-s-r*).</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:65"
+   ar="وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ"
+   trl="*Wa-la-qad ʿalimtumu lladhīna ʿtadaw minkum fī s-sabti fa-qulnā lahum kūnū qiradatan khāsiʾīn*"
+   trad="Vous avez assurément connu ceux d'entre vous qui ont transgressé à propos du *sabt*. Nous leur avons dit : « Soyez des singes *khāsiʾīn*. »"
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">sabt</span></dt>
+<dd>racine *s-b-t* : la cessation, le repos. Le texte ne détaille pas ici l'interdit transgressé : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">khāsiʾīn</span></dt>
+<dd>racine *kh-s-ʾ* : repoussés avec mépris, tenus à distance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">qiradatan</span></dt>
+<dd>*qirada*, pluriel de *qird* : singes. Deux lectures sont attestées : une transformation de corps, ou une image de l'abaissement de leur conduite. Le verset dit *kūnū* (« soyez ») et ne tranche pas : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:66"
+   ar="فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ"
+   trl="*Fa-jaʿalnāhā nakālan li-mā bayna yadayhā wa-mā khalfahā wa-mawʿiẓatan li-l-muttaqīn*"
+   trad="Nous en avons fait un *nakāl* pour ce qui se trouvait devant elle et ce qui se trouvait derrière elle, et une exhortation pour les *muttaqīn*."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">nakāl</span></dt>
+<dd>racine *n-k-l* : ce qui retient les autres, par crainte, de faire de même — un exemple qui arrête. « Elle » : le verset ne nomme pas le référent du pronom (*-hā*) : un **non-dit**. « Devant elle / derrière elle » : ce qui précède et ce qui suit, ou les contemporains et ceux d'après ; le verset ne précise pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">mawʿiẓa</span></dt>
+<dd>racine *w-ʿ-ẓ* : rappeler à quelqu'un ce qui le retient de mal agir.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

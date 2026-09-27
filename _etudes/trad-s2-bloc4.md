@@ -23,11 +23,32 @@ methode: "Dit / Non-dit / Inférence"
 ### S.2:104–107 · L'adresse · Le *naskh* · La souveraineté
 
 {% include verset.html
-   ref="S.2:104–105"
-   ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ ۝ مَّا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ"
-   trl="*Yā ayyuhā lladhīna āmanū lā taqūlū rāʿinā wa-qūlū unẓurnā wa-smaʿū · Mā yawaddu lladhīna kafarū min ahli l-kitābi wa-lā l-mushrikīna an yunazzala ʿalaykum min khayrin min rabbikum*"
-   trad="Ô vous qui avez cru, ne dites pas *rāʿinā* — dites *unẓurnā* et écoutez. Aux *kāfirīn* un châtiment douloureux. — Ceux qui ont commis le *kufr* parmi les gens du Livre, ni les *mushrikīn*, ne souhaitent que descende sur vous le moindre bien de la part de votre *Rabb* — Allaah réserve Sa *raḥma* à qui Il veut, et Allaah est le Détenteur de la faveur immense."
+   ref="S.2:104"
+   ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ"
+   trl="*Yā ayyuhā lladhīna āmanū lā taqūlū rāʿinā wa-qūlū unẓurnā wa-smaʿū wa-li-l-kāfirīna ʿadhābun alīm*"
+   trad="Ô vous qui avez cru, ne dites pas *rāʿinā* — dites *unẓurnā* et écoutez. Et aux *kāfirīn*, un châtiment douloureux."
 %}
+
+{% include verset.html
+   ref="S.2:105"
+   ar="مَا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَنْ يُنَزَّلَ عَلَيْكُمْ مِنْ خَيْرٍ مِنْ رَبِّكُمْ ۗ وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ"
+   trl="*Mā yawaddu lladhīna kafarū min ahli l-kitābi wa-lā l-mushrikīna an yunazzala ʿalaykum min khayrin min rabbikum wa-llāhu yakhtaṣṣu bi-raḥmatihi man yashāʾu wa-llāhu dhū l-faḍli l-ʿaẓīm*"
+   trad="Ceux qui ont commis le *kufr* parmi les gens du Livre, et les *mushrikīn*, ne souhaitent pas que descende sur vous un bien venu de votre *Rabb*. Or Allaah met à part, pour Sa *raḥma*, qui Il veut, et Allaah est le Maître du *faḍl* immense."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yakhtaṣṣu</span></dt>
+<dd>racine *kh-ṣ-ṣ* : mettre à part, réserver en propre. Le verset dit que la *raḥma* est réservée à qui Allaah veut ; il ne dit pas selon quel critère : un **non-dit**.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">faḍl</span></dt>
+<dd>racine *f-ḍ-l* : ce qui excède le nécessaire, le surplus. Ce que l'on peut dire lorsqu'on parle d'Allaah comme *dhū l-faḍl* : Ce qui donne au-delà de ce qui est dû.</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -61,18 +82,92 @@ methode: "Dit / Non-dit / Inférence"
 ### S.2:108–113 · Les errances · Les divergences
 
 {% include verset.html
-   ref="S.2:108–110"
-   ar="أَمْ تُرِيدُونَ أَن تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ ۝ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ"
-   trl="*Am turīdūna an tasʾalū rasūlakum kamā suʾila Mūsā min qablu · wa-man yatabaddali l-kufra bi-l-īmāni fa-qad ḍalla sawāʾa s-sabīli · Wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi*"
-   trad="Voulez-vous interroger votre *rasūl* comme Mūsā fut interrogé auparavant ? Quiconque substitue le *kufr* à la foi s'est égaré loin du milieu du chemin. — Établissez la *ṣalāt* et faites parvenir la *zakāt* — tout bien que vous avancez pour vous-mêmes vous le trouverez auprès d'Allaah."
+   ref="S.2:108"
+   ar="أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِنْ قَبْلُ ۗ وَمَنْ يَتَبَدَّلِ الْكُفْرَ بِالْإِيمَانِ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ"
+   trl="*Am turīdūna an tasʾalū rasūlakum kamā suʾila Mūsā min qablu wa-man yatabaddali l-kufra bi-l-īmāni fa-qad ḍalla sawāʾa s-sabīl*"
+   trad="Ou bien voulez-vous interroger votre *rasūl* comme Mūsā fut interrogé auparavant ? Quiconque substitue le *kufr* à l'*īmān* s'est égaré du juste milieu du chemin."
 %}
 
 {% include verset.html
-   ref="S.2:111–113"
-   ar="وَقَالُوا لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ ۝ بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِندَ رَبِّهِ"
-   trl="*Wa-qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn · Balā man aslama wajhahu li-llāhi wa-huwa muḥsinun fa-lahu ajruhu ʿinda rabbihi*"
-   trad="Et ils dirent : « Seul entrera dans la *janna* celui qui est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve si vous êtes véridiques. » — Bien au contraire : quiconque se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin* — à lui sa rétribution auprès de son *Rabb* : nulle crainte sur eux et ils ne seront pas attristés."
+   ref="S.2:109"
+   ar="وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِنْ عِنْدِ أَنْفُسِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"
+   trl="*Wadda kathīrun min ahli l-kitābi law yaruddūnakum min baʿdi īmānikum kuffāran ḥasadan min ʿindi anfusihim min baʿdi mā tabayyana lahumu l-ḥaqqu fa-ʿfū wa-ṣfaḥū ḥattā yaʾtiya llāhu bi-amrihi inna llāha ʿalā kulli shayʾin qadīr*"
+   trad="Beaucoup parmi les gens du Livre auraient voulu, par un *ḥasad* venu d'eux-mêmes, vous ramener au *kufr* après votre *īmān*, après que le *ḥaqq* leur est devenu clair. Passez sur cela, détournez-vous, jusqu'à ce qu'Allaah amène Son *amr*. Allaah est capable de toute chose."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ḥasad</span></dt>
+<dd>racine *ḥ-s-d* : désirer que l'autre perde ce qu'il possède. Conservé en translittération : « jalousie » recouvre aussi le désir de garder pour soi, ce que la racine ne dit pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ʿafw / ṣafḥ</span></dt>
+<dd>*ʿafw* (racine *ʿ-f-w*) : effacer, laisser la trace disparaître ; *ṣafḥ* (racine *ṣ-f-ḥ*) : tourner le visage de côté, passer outre. Deux impératifs qui se suivent : laisser passer, puis se détourner.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">amr</span></dt>
+<dd>racine *ʾ-m-r* : ce qui est ordonné, la chose décidée. Ce que sera cet *amr* et quand il viendra, le verset ne le dit pas : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:110"
+   ar="وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ ۗ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ"
+   trl="*Wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāhi inna llāha bi-mā taʿmalūna baṣīr*"
+   trad="Établissez la *ṣalāt* et faites parvenir la *zakāt*. Tout bien que vous avancez pour vous-mêmes, vous le retrouverez auprès d'Allaah. Allaah est *Baṣīr* de ce que vous faites."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">Baṣīr</span></dt>
+<dd>racine *b-ṣ-r* : percevoir, discerner. Conservé en translittération : « voyant » installerait l'image d'un organe ; le sens retenu est que rien de ce que vous faites ne Lui échappe.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:111"
+   ar="وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ"
+   trl="*Wa-qālū lan yadkhula l-jannata illā man kāna hūdan aw naṣārā tilka amāniyyuhum qul hātū burhānakum in kuntum ṣādiqīn*"
+   trad="Et ils ont dit : « Nul n'entrera dans la *janna* s'il n'est Juif ou *naṣrānī*. » Ce sont là leurs *amānī*. Dis : « Apportez votre preuve, si vous êtes véridiques. »"
+%}
+
+{% include verset.html
+   ref="S.2:112"
+   ar="بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ"
+   trl="*Balā man aslama wajhahu li-llāhi wa-huwa muḥsinun fa-lahu ajruhu ʿinda rabbihi wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn*"
+   trad="Bien au contraire : quiconque se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin*, aura sa rétribution auprès de son *Rabb* : nulle crainte sur eux, et ils ne seront pas attristés."
+%}
+
+{% include verset.html
+   ref="S.2:113"
+   ar="وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ۗ كَذَٰلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ"
+   trl="*Wa-qālati l-yahūdu laysati n-naṣārā ʿalā shayʾin wa-qālati n-naṣārā laysati l-yahūdu ʿalā shayʾin wa-hum yatlūna l-kitāba ka-dhālika qāla lladhīna lā yaʿlamūna mithla qawlihim fa-llāhu yaḥkumu baynahum yawma l-qiyāmati fīmā kānū fīhi yakhtalifūn*"
+   trad="Les Juifs ont dit : « Les *naṣārā* ne reposent sur rien », et les *naṣārā* ont dit : « Les Juifs ne reposent sur rien » — alors qu'ils récitent le Livre. De la même manière, ceux qui ne savent pas ont tenu des paroles semblables aux leurs. Allaah tranchera entre eux, au jour de la *Qiyāma*, sur ce en quoi ils divergeaient."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ʿalā shayʾ</span></dt>
+<dd>littéralement « sur quelque chose » : avoir une assise, un fondement. « Ne reposent sur rien » rend l'idée : n'ont aucune assise.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">yaḥkumu</span></dt>
+<dd>racine *ḥ-k-m* : trancher, mettre fin à un différend en rendant un jugement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">Qiyāma</span></dt>
+<dd>racine *q-w-m* : se dresser, se tenir debout. Le nom dit l'action de se dresser ; conservé en translittération. Le verset ne dit rien de plus sur ce jour.</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -92,9 +187,9 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html
    ref="S.2:114"
-   ar="وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللَّهِ أَن يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا"
-   trl="*Wa-man aẓlamu mimman manaʿa masājida llāhi an yudhkara fīha smuhu wa-saʿā fī kharābihā*"
-   trad="Qui est plus *ẓālim* que celui qui prive les *masājid* d'Allaah de l'invocation de Son nom et qui s'emploie activement à les désoler ? Ceux-là n'avaient pas à y entrer sinon dans la crainte — à eux dans cette vie une humiliation, et pour eux dans l'*ākhira* un châtiment immense."
+   ar="وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ أُولَٰئِكَ مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ"
+   trl="*Wa-man aẓlamu mimman manaʿa masājida llāhi an yudhkara fīhā smuhu wa-saʿā fī kharābihā ulāʾika mā kāna lahum an yadkhulūhā illā khāʾifīna lahum fī d-dunyā khizyun wa-lahum fī l-ākhirati ʿadhābun ʿaẓīm*"
+   trad="Qui est plus *ẓālim* que celui qui prive les *masājid* d'Allaah de l'invocation de Son nom et qui s'emploie activement à les désoler ? Ceux-là n'avaient à y entrer que craintifs : à eux, dans la vie proche, une humiliation, et à eux, dans l'*ākhira*, un châtiment immense."
 %}
 
 {% include verset.html
@@ -133,18 +228,88 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include verset.html
-   ref="S.2:118–121"
-   ar="وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ"
-   trl="*Wa-qāla lladhīna lā yaʿlamūna lawlā yukallimunā llāhu aw taʾtīnā āyatun ka-dhālika qāla lladhīna min qablihim mithla qawlihim tashābahati qulūbuhum*"
-   trad="Et ceux qui ne savent pas ont dit : « Que ne nous parle Allaah directement, ou qu'une *āya* nous vienne ! » — De la même manière, ceux d'avant eux avaient prononcé des paroles identiques — leurs cœurs se ressemblent. — Nous avons exposé les *āyāt* pour des gens qui ont la *yaqīn*. — Nous t'avons envoyé avec le *ḥaqq*, *bashīr* et *nadhīr* — et tu ne seras pas interrogé sur les gens du *jaḥīm*."
+   ref="S.2:118"
+   ar="وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِنْ قَبْلِهِمْ مِثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ"
+   trl="*Wa-qāla lladhīna lā yaʿlamūna lawlā yukallimunā llāhu aw taʾtīnā āyatun ka-dhālika qāla lladhīna min qablihim mithla qawlihim tashābahat qulūbuhum qad bayyannā l-āyāti li-qawmin yūqinūn*"
+   trad="Et ceux qui ne savent pas ont dit : « Que ne nous adresse la parole Allaah, ou qu'une *āya* nous vienne ! » De la même manière, ceux d'avant eux ont tenu des paroles semblables aux leurs : leurs cœurs se ressemblent. Nous avons rendu les *āyāt* claires pour un peuple qui a la certitude."
 %}
 
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yūqinūn</span></dt>
+<dd>racine *y-q-n* : la certitude ancrée. Voir la note sur *yaqīn* au Bloc I.</dd>
+</div>
+</dl>
+</div>
+
 {% include verset.html
-   ref="S.2:120–121"
-   ar="وَلَن تَرْضَىٰ عَنكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۝ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ"
-   trl="*Wa-lan tarḍā ʿanka l-yahūdu wa-lā n-naṣārā ḥattā tattabiʿa millatahum qul inna hudā llāhi huwa l-hudā · Alladhīna ātaynāhumu l-kitāba yatlūnahu ḥaqqa tilāwatihi ulāʾika yuʾminūna bihi*"
-   trad="Les Juifs et les *naṣārā* ne seront jamais satisfaits de toi jusqu'à ce que tu suives leur *milla*. Dis : « Le guide d'Allaah est le seul guide. » — Ceux à qui Nous avons donné le Livre le récitent comme il mérite d'être récité — ceux-là croient en lui. Ceux qui en commettent le *kufr* — ceux-là sont les *khāsirūn*."
+   ref="S.2:119"
+   ar="إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ"
+   trl="*Innā arsalnāka bi-l-ḥaqqi bashīran wa-nadhīran wa-lā tusʾalu ʿan aṣḥābi l-jaḥīm*"
+   trad="Nous t'avons envoyé avec le *ḥaqq*, *bashīr* et *nadhīr*, et tu ne seras pas interrogé sur les gens du *jaḥīm*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">bashīr / nadhīr</span></dt>
+<dd>*bashīr* (racine *b-sh-r*) : celui qui annonce ce qui réjouit ; *nadhīr* (racine *n-dh-r*) : celui qui avertit d'un danger. Conservés en translittération : ils nomment deux fonctions de l'envoyé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">jaḥīm</span></dt>
+<dd>racine *j-ḥ-m* : ardeur intense d'un feu attisé. Conservé en translittération : « enfer » est un mot de la tradition chrétienne latine (*infernus*, lieu d'en bas) et porte une géographie que le mot arabe ne dit pas.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:120"
+   ar="وَلَنْ تَرْضَىٰ عَنْكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۗ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ"
+   trl="*Wa-lan tarḍā ʿanka l-yahūdu wa-lā n-naṣārā ḥattā tattabiʿa millatahum qul inna hudā llāhi huwa l-hudā wa-la-ini ttabaʿta ahwāʾahum baʿda lladhī jāʾaka mina l-ʿilmi mā laka mina llāhi min waliyyin wa-lā naṣīr*"
+   trad="Ni les Juifs ni les *naṣārā* ne seront jamais satisfaits de toi jusqu'à ce que tu suives leur *milla*. Dis : « Le *hudā* d'Allaah est le seul *hudā*. » Et si tu suivais leurs *ahwāʾ* après ce qui t'est venu de la connaissance, tu n'aurais, du côté d'Allaah, ni *walī* ni *naṣīr*."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">hudā</span></dt>
+<dd>racine *h-d-y*. Conservé en translittération pour le moment — une note lexicale complète sur ce terme sera ajoutée ultérieurement.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">milla</span></dt>
+<dd>racine *m-l-l* : tracer, dicter — d'où la voie tracée, la règle de vie d'un groupe. Conservé en translittération.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ahwāʾ</span></dt>
+<dd>pluriel de *hawā*, racine *h-w-y* : pente, inclination de l'âme vers ce qu'elle désire.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">mina llāhi</span></dt>
+<dd>**deux lectures** possibles de la préposition *min* : « de la part d'Allaah » (aucun *walī* ni *naṣīr* ne te viendrait de Lui) ou « face à Allaah » (aucun ne pourrait te protéger contre ce qui vient de Lui). Les deux sont compatibles avec S.2:107 ; le verset ne tranche pas. Traduit par « du côté d'Allaah », qui reste ouvert aux deux ; **à relire**, car « côté » a une connotation spatiale que la méthode écarte.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:121"
+   ar="الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۗ وَمَنْ يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ"
+   trl="*Alladhīna ātaynāhumu l-kitāba yatlūnahu ḥaqqa tilāwatihi ulāʾika yuʾminūna bihi wa-man yakfur bihi fa-ulāʾika humu l-khāsirūn*"
+   trad="Ceux à qui Nous avons donné le Livre le suivent comme il doit être suivi : ceux-là croient en lui. Et quiconque en fait le *kufr* — ceux-là sont les *khāsirūn*."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yatlūnahu ḥaqqa tilāwatihi</span></dt>
+<dd>racine *t-l-w* : suivre, venir à la suite de. Deux lectures : « le suivent comme il doit être suivi » (le mettre en pratique pas à pas) et « le récitent comme il doit être récité » (dire les mots à la suite). La racine porte les deux ; les deux sont cohérentes avec S.91:2 (*talāhā*, « la suit »). Traduit par « suivent », la réciter n'étant qu'un cas de l'action de suivre les mots.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -208,7 +373,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:126–127"
    ar="وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ إِلَىٰ عَذَابِ النَّارِ ۝ وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا ۖ إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ"
    trl="*Wa-idh qāla Ibrāhīmu rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāti man āmana minhum bi-llāhi wa-l-yawmi l-ākhir · Qāla wa-man kafara fa-umattiʿuhu qalīlan thumma aḍṭarruhu ilā ʿadhābi n-nār · Wa-idh yarfaʿu Ibrāhīmu l-qawāʿida mina l-bayti wa-Ismāʿīlu rabbanā taqabbal minnā innaka anta s-samīʿu l-ʿalīm*"
-   trad="Et quand Ibrāhīm dit : « Mon *Rabb*, fais de ceci un *balad* en sécurité et pourvois ses habitants en fruits — ceux d'entre eux qui croient en Allaah et au Jour Dernier. » — Il dit : « Et quiconque aura commis le *kufr* — Je lui accorderai une jouissance brève puis Je l'aculerai vers le châtiment du feu — et quelle mauvaise destination ! » — Et quand Ibrāhīm élevait les *qawāʿid* de la Maison avec Ismāʿīl : « Notre *Rabb*, accepte cela de nous — Tu es *as-samīʿu l-ʿalīm*. »"
+   trad="Et quand Ibrāhīm dit : « Mon *Rabb*, fais de ceci un *balad* en sécurité et pourvois ses habitants en fruits — ceux d'entre eux qui croient en Allaah et au Jour Dernier. » — Il dit : « Et quiconque aura commis le *kufr* — Je lui accorderai une jouissance brève puis Je l'acculerai vers le châtiment du feu — et quelle mauvaise destination ! » — Et quand Ibrāhīm élevait les *qawāʿid* de la Maison avec Ismāʿīl : « Notre *Rabb*, accepte cela de nous — Tu es *as-samīʿu l-ʿalīm*. »"
 %}
 
 {% include verset.html

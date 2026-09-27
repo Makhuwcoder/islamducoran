@@ -364,12 +364,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:190"
    ar="وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ"
    trl="Wa-qātilū fī sabīli llāhi lladhīna yuqātilūnakum wa-lā taʿtadū — inna llāha lā yuḥibbu l-muʿtadīn"
-   trad="Et combattez dans le sabīl d'Allaah ceux qui vous combattent, et ne transgressez pas — Allaah n'aime pas les muʿtadīn."
+   trad="Et combattez dans le sabīl d'Allaah ceux qui vous combattent, et ne transgressez pas — Allaah n'honore pas les muʿtadīn."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-ar">قَاتِلُوا / يُقَاتِلُونَكُمْ</span><span class="lex-trl">qātilū / yuqātilūnakum</span></dt>
 <dd>racine q-t-l, forme III (réciproque) : combattre, s'engager dans un affrontement armé. Le texte lie explicitement l'objet du qitāl à ceux qui pratiquent eux-mêmes ce même verbe envers vous (*yuqātilūnakum*) — symétrie grammaticale exacte entre l'action commandée et sa cause nommée.</dd>
@@ -497,7 +501,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:195"
    ar="وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ ۛ وَأَحْسِنُوا ۛ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
    trl="Wa-anfiqū fī sabīli llāhi wa-lā tulqū bi-aydīkum ilā l-tahlukati — wa-aḥsinū — inna llāha yuḥibbu l-muḥsinīn"
-   trad="Et dépensez dans le sabīl d'Allaah, et ne vous jetez pas de vos propres mains vers la tahluka — et accomplissez l'iḥsān : Allaah aime les muḥsinūn."
+   trad="Et dépensez dans le sabīl d'Allaah, et ne vous jetez pas de vos propres mains vers la tahluka — et accomplissez l'iḥsān : Allaah honore les muḥsinūn."
 %}
 
 <div class="notes-lexicales">

@@ -383,10 +383,28 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
 
 {% include verset.html
    ref="S.2:143"
-   ar="وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ"
-   trl="Wa-ka-dhālika jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā l-nāsi wa-yakūna l-rasūlu ʿalaykum shahīdan — wa-mā jaʿalnā l-qiblata llatī kunta ʿalayhā illā li-naʿlama man yattabiʿu l-rasūla mimman yanqalibu ʿalā ʿaqibayh"
-   trad="C'est ainsi que Nous vous avons établis communauté wasaṭ, pour que vous soyez shuhadāʾ sur les gens, et que le rasūl soit sur vous shahīd — et Nous n'avons établi la qibla sur laquelle tu étais que pour savoir qui suit le rasūl de qui retourne sur ses talons."
+   ar="وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِنْ كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ ۗ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ"
+   trl="Wa-ka-dhālika jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā n-nāsi wa-yakūna r-rasūlu ʿalaykum shahīdan wa-mā jaʿalnā l-qiblata llatī kunta ʿalayhā illā li-naʿlama man yattabiʿu r-rasūla mimman yanqalibu ʿalā ʿaqibayhi wa-in kānat la-kabīratan illā ʿalā lladhīna hadā llāhu wa-mā kāna llāhu li-yuḍīʿa īmānakum inna llāha bi-n-nāsi la-raʾūfun raḥīm"
+   trad="C'est ainsi que Nous vous avons établis communauté wasaṭ, pour que vous soyez shuhadāʾ sur les gens et que le rasūl soit shahīd sur vous. Nous n'avons établi la qibla sur laquelle tu étais que pour savoir qui suit le rasūl et qui retourne sur ses talons. Elle était certes pesante, sauf pour ceux qu'Allaah a guidés. Allaah n'était pas pour laisser se perdre votre īmān. Allaah est, envers les gens, Raʾūf, Raḥīm."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">kabīra</span></dt>
+<dd>racine k-b-r : être grand, être lourd à porter. Le pronom féminin peut renvoyer à la qibla ou au changement de qibla : deux lectures, sans effet sur le sens d'ensemble.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḍīʿa</span></dt>
+<dd>racine ḍ-y-ʿ : laisser se perdre, laisser aller à la ruine. Le verset dit que l'īmān de ceux qui ont prié vers l'ancienne qibla n'est pas perdu ; il ne dit pas de quelle manière ils l'ont conservé.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">Raʾūf / Raḥīm</span></dt>
+<dd>racines r-ʾ-f et r-ḥ-m. Conservés en translittération pour le moment — une note lexicale complète sur ces deux termes sera ajoutée ultérieurement.</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>

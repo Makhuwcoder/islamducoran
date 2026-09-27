@@ -185,12 +185,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:13"
    ar="فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ ۙ وَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ ۖ فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
    trl="Fa-bimā naqḍihim mīthāqahum laʿannāhum wa-jaʿalnā qulūbahum qāsiyatan — yuḥarrifūna l-kalima ʿan mawāḍiʿihi wa-nasū ḥaẓẓan mimmā dhukkirū bihi — wa-lā tazālu taṭṭaliʿu ʿalā khāʾinatin minhum illā qalīlan minhum — fa-ʿfu ʿanhum wa-ṣfaḥ — inna llāha yuḥibbu l-muḥsinīn"
-   trad="Alors, pour avoir rompu leur *mīthāq*, Nous les avons éloignés [de Notre *raḥma*] (*laʿannāhum*) et avons rendu leurs cœurs durs (*qāsiya*) — ils déplacent les mots (*yuḥarrifūna l-kalima*) hors de leurs positions [véritables], et ils ont oublié une part de ce qui leur avait été rappelé. Tu ne cesseras de découvrir chez eux une trahison (*khāʾina*), sauf un petit nombre d'entre eux — pardonne-leur donc et passe outre (*fa-ʿfu ʿanhum wa-ṣfaḥ*) — Allaah aime les *muḥsinūn*."
+   trad="Alors, pour avoir rompu leur *mīthāq*, Nous les avons éloignés [de Notre *raḥma*] (*laʿannāhum*) et avons rendu leurs cœurs durs (*qāsiya*) — ils déplacent les mots (*yuḥarrifūna l-kalima*) hors de leurs positions [véritables], et ils ont oublié une part de ce qui leur avait été rappelé. Tu ne cesseras de découvrir chez eux une trahison (*khāʾina*), sauf un petit nombre d'entre eux — pardonne-leur donc et passe outre (*fa-ʿfu ʿanhum wa-ṣfaḥ*) — Allaah honore les *muḥsinūn*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-bimā naqḍihim mīthāqahum</span></dt>
 <dd><strong>Cohérence intra-coranique</strong> : reprise à l'identique de la formule employée en S4:155 (Bloc X de Sourate 4, déjà rencontrée dans ce projet) pour introduire, dans les deux cas, une liste de conséquences attribuées à la rupture d'un *mīthāq*.</dd>

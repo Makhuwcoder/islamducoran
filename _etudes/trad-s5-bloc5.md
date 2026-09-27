@@ -99,12 +99,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:42"
    ar="سَمَّاعُونَ لِلْكَذِبِ أَكَّالُونَ لِلسُّحْتِ ۚ فَإِنْ جَاءُوكَ فَاحْكُمْ بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِنْ تُعْرِضْ عَنْهُمْ فَلَنْ يَضُرُّوكَ شَيْئًا ۖ وَإِنْ حَكَمْتَ فَاحْكُمْ بَيْنَهُمْ بِالْقِسْطِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ"
    trl="Sammāʿūna li-l-kadhibi akkālūna li-s-suḥt — fa-in jāʾūka fa-ḥkum baynahum aw aʿriḍ ʿanhum — wa-in tuʿriḍ ʿanhum fa-lan yaḍurrūka shayʾā — wa-in ḥakamta fa-ḥkum baynahum bi-l-qisṭ — inna llāha yuḥibbu l-muqsiṭīn"
-   trad="De grands écouteurs du mensonge, de grands dévoreurs du gain illicite (*suḥt*) : s'ils viennent à toi, juge (*fa-ḥkum*) entre eux, ou détourne-toi d'eux — et si tu te détournes d'eux, ils ne te nuiront en rien. Mais si tu juges, juge entre eux avec *qisṭ* : Allaah aime les *muqsiṭūn*."
+   trad="De grands écouteurs du mensonge, de grands dévoreurs du gain illicite (*suḥt*) : s'ils viennent à toi, juge (*fa-ḥkum*) entre eux, ou détourne-toi d'eux — et si tu te détournes d'eux, ils ne te nuiront en rien. Mais si tu juges, juge entre eux avec *qisṭ* : Allaah honore les *muqsiṭūn*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">akkālūna li-s-suḥt</span></dt>
 <dd>racine *s-ḥ-t* : Ibn Fāris (*Maqāyīs*) — *al-saḥt*, ce qui est râclé, dépouillé jusqu'à l'os, anéanti sans reste. *As-suḥt* désigne un gain acquis par un moyen qui ronge et épuise ce qu'il touche — un gain illicite dont l'acquisition même use ce qu'elle prétend accumuler. Conservé en translittération, aucun mot français isolé ne portant cette image d'érosion.</dd>

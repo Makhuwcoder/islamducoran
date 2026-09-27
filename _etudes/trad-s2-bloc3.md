@@ -61,11 +61,28 @@ methode: "Dit / Non-dit / Inférence"
 ### S.2:78–86 · *Ummiyyūn*, falsification écrite, contradiction du Livre
 
 {% include verset.html
-   ref="S.2:78–79"
-   ar="وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِن هُمْ إِلَّا يَظُنُّونَ ۝ فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا"
-   trl="*Wa-minhum ummiyyūna lā yaʿlamūna l-kitāba illā amāniyya wa-in hum illā yaẓunnūn · Fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi li-yashtarū bihi thamanan qalīlan*"
-   trad="Parmi eux des *ummiyyūn* qui ne connaissent le Livre que par des *amānī* — ils ne font que conjecturer. — *Waylun* à ceux qui écrivent le Livre de leurs propres mains puis disent : « Ceci vient d'Allaah Lui-même » pour en tirer un prix dérisoire."
+   ref="S.2:78"
+   ar="وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ"
+   trl="*Wa-minhum ummiyyūna lā yaʿlamūna l-kitāba illā amāniyya wa-in hum illā yaẓunnūn*"
+   trad="Parmi eux des *ummiyyūn* qui ne connaissent le Livre que par des *amānī* — ils ne font que conjecturer."
 %}
+
+{% include verset.html
+   ref="S.2:79"
+   ar="فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ"
+   trl="*Fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi li-yashtarū bihi thamanan qalīlan fa-waylun lahum mimmā katabat aydīhim wa-waylun lahum mimmā yaksibūn*"
+   trad="*Waylun* à ceux qui écrivent le Livre de leurs propres mains puis disent : « Ceci vient d'Allaah Lui-même » pour en tirer un prix dérisoire. *Waylun* à eux pour ce que leurs mains ont écrit, et *waylun* à eux pour ce qu'ils acquièrent."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">wayl</span></dt>
+<dd>racine *w-y-l* : interjection de malheur, adressée à quelqu'un pour dire sa perte ou sa ruine. Ibn Fāris (Maqāyīs) rattache la racine à l'idée de chute et de perte irrémédiable — non à un simple regret, mais à une déploration qui vaut constat de perte. Conservé en translittération : aucun mot français unique ne porte à la fois cette plainte et cette sanction — « malheur à » s'en approche sans en couvrir tout le champ. Voir aussi son emploi dans l'étude [Les *muttaqūn*](/etudes/muttaqun/).</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -78,17 +95,80 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include verset.html
-   ref="S.2:80–82"
-   ar="وَقَالُوا لَن تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ اللَّهِ عَهْدًا فَلَن يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ"
-   trl="*Wa-qālū lan tamassanā n-nāru illā ayyāman maʿdūdatan · Qul a-ttakhadhtum ʿinda llāhi ʿahdan fa-lan yukhlifa llāhu ʿahdahu am taqūlūna ʿalā llāhi mā lā taʿlamūn*"
-   trad="Et ils dirent : « Le feu ne nous touchera que quelques jours comptés. » — Dis : « Avez-vous pris auprès d'Allaah un *ʿahd* — car Allaah ne manquera pas à Son *ʿahd* — ou dites-vous sur Allaah ce que vous ne savez pas ? » — Bien au contraire : quiconque acquiert une mauvaise action et que sa *khaṭīʾa* l'a encerclé — ceux-là sont les gens du feu, ils y demeureront éternellement. Ceux qui ont cru et accompli des actes droits — ceux-là sont les gens de la *janna*, ils y demeureront éternellement."
+   ref="S.2:80"
+   ar="وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ"
+   trl="*Wa-qālū lan tamassanā n-nāru illā ayyāman maʿdūdatan · qul a-ttakhadhtum ʿinda llāhi ʿahdan fa-lan yukhlifa llāhu ʿahdahu am taqūlūna ʿalā llāhi mā lā taʿlamūn*"
+   trad="Et ils dirent : « Le feu ne nous touchera que quelques jours comptés. » — Dis : « Avez-vous pris auprès d'Allaah un *ʿahd* — car Allaah ne manquera pas à Son *ʿahd* — ou dites-vous sur Allaah ce que vous ne savez pas ? »"
 %}
 
 {% include verset.html
-   ref="S.2:83–86"
-   ar="وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ"
-   trl="*Wa-idh akhadhnā mīthāqa banī Isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan wa-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-qūlū li-n-nāsi ḥusnan wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta*"
-   trad="Et quand Nous avons pris le *mīthāq* des fils d'Isrāʾīl : vous ne servirez qu'Allaah — et envers les deux parents de l'*iḥsān*, et envers les proches, les *yatāmā* et les *masākīn* — dites aux gens de belles paroles — établissez la *ṣalāt*, faites parvenir la *zakāt*. — Puis vous avez tourné le dos — sauf un petit nombre. — Voilà que vous vous entretuez et expulsez un groupe de vos demeures : croyez-vous donc en une partie du Livre et rejetez-vous l'autre ?"
+   ref="S.2:81"
+   ar="بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ"
+   trl="*Balā man kasaba sayyiʾatan wa-aḥāṭat bihi khaṭīʾatuhu fa-ulāʾika aṣḥābu n-nāri hum fīhā khālidūn*"
+   trad="Bien au contraire : quiconque acquiert une mauvaise action et que sa *khaṭīʾa* l'a encerclé — ceux-là sont les gens du feu, ils y demeureront éternellement."
+%}
+
+{% include verset.html
+   ref="S.2:82"
+   ar="وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ"
+   trl="*Wa-lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti ulāʾika aṣḥābu l-jannati hum fīhā khālidūn*"
+   trad="Ceux qui ont cru et accompli des actes droits — ceux-là sont les gens de la *janna*, ils y demeureront éternellement."
+%}
+
+{% include verset.html
+   ref="S.2:83"
+   ar="وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ"
+   trl="*Wa-idh akhadhnā mīthāqa banī Isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan wa-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-qūlū li-n-nāsi ḥusnan wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta thumma tawallaytum illā qalīlan minkum wa-antum muʿriḍūn*"
+   trad="Et quand Nous avons pris le *mīthāq* des fils d'Isrāʾīl : « Vous ne servirez qu'Allaah — et envers les deux parents, de l'*iḥsān* — et envers les proches, les *yatāmā* et les *masākīn* ; dites aux gens ce qui est beau ; établissez la *ṣalāt* et faites parvenir la *zakāt*. » — Puis vous avez tourné le dos, sauf un petit nombre d'entre vous, et vous vous détournez."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">iḥsān / yatāmā / masākīn</span></dt>
+<dd>*iḥsān* : agir avec excellence, rendre beau ce que l'on fait (racine *ḥ-s-n*) ; *yatāmā* : les orphelins ; *masākīn* : ceux que le dénuement a immobilisés (racine *s-k-n*).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">ṣalāt / zakāt</span></dt>
+<dd>conservés en translittération : ni « prière » ni « aumône » ne rendent le sens du texte → Voir les études dédiées sur la [zakāt](/etudes/zakat/).</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:84"
+   ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ"
+   trl="*Wa-idh akhadhnā mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum thumma aqrartum wa-antum tashhadūn*"
+   trad="Et quand Nous avons pris votre *mīthāq* : « Vous ne verserez pas votre sang [les uns des autres] et vous ne vous expulserez pas [les uns les autres] de vos demeures. » Puis vous avez reconnu, et vous en étiez témoins."
+%}
+
+{% include verset.html
+   ref="S.2:85"
+   ar="ثُمَّ أَنْتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ"
+   trl="*Thumma antum hāʾulāʾi taqtulūna anfusakum wa-tukhrijūna farīqan minkum min diyārihim taẓāharūna ʿalayhim bi-l-ithmi wa-l-ʿudwāni wa-in yaʾtūkum usārā tufādūhum wa-huwa muḥarramun ʿalaykum ikhrājuhum a-fa-tuʾminūna bi-baʿḍi l-kitābi wa-takfurūna bi-baʿḍin fa-mā jazāʾu man yafʿalu dhālika minkum illā khizyun fī l-ḥayāti d-dunyā wa-yawma l-qiyāmati yuraddūna ilā ashaddi l-ʿadhābi wa-mā llāhu bi-ghāfilin ʿammā taʿmalūn*"
+   trad="Puis voilà que vous vous entretuez, et vous expulsez un groupe d'entre vous de leurs demeures, en vous coalisant contre eux dans l'*ithm* et l'*ʿudwān* ; et s'ils viennent à vous captifs, vous les rachetez — alors que leur expulsion vous était interdite. Croyez-vous donc en une partie du Livre et faites-vous le *kufr* d'une autre ? Quelle est la rétribution de qui fait cela parmi vous, sinon une ignominie dans la vie d'ici-bas ? Et au Jour de la *qiyāma*, ils seront ramenés au châtiment le plus intense. Et Allaah n'est pas inattentif à ce que vous faites."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ithm / ʿudwān</span></dt>
+<dd>*ithm* : la faute qui alourdit, le tort (racine *ʾ-th-m*) ; *ʿudwān* : le franchissement hostile des limites (racine *ʿ-d-w*).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">qiyāma</span></dt>
+<dd>racine *q-w-m* : se lever, se tenir debout ; *yawm al-qiyāma* : le Jour où l'on se lève. Le verset n'en dit ici rien de plus.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:86"
+   ar="أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ"
+   trl="*Ulāʾika lladhīna shtarawu l-ḥayāta d-dunyā bi-l-ākhirati fa-lā yukhaffafu ʿanhumu l-ʿadhābu wa-lā hum yunṣarūn*"
+   trad="Ceux-là sont ceux qui ont troqué la vie d'ici-bas contre l'*ākhira* : le châtiment ne sera pas allégé pour eux, et ils ne seront pas secourus."
 %}
 
 ---
@@ -98,11 +178,36 @@ methode: "Dit / Non-dit / Inférence"
 ### S.2:87–96 · Les *rusul* — le défi de la mort
 
 {% include verset.html
-   ref="S.2:87–88"
-   ar="وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِن بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ"
-   trl="*Wa-laqad ātaynā Mūsā l-kitāba wa-qaffaynā min baʿdihi bi-r-rusuli wa-ātaynā ʿĪsā bna Maryama l-bayyināti wa-ayyadnāhu bi-rūḥi l-qudusi · A-fa-kullamā jāʾakum rasūlun bi-mā lā tahwā anfusakum istakbartum fa-farīqan kadhdhabtum wa-farīqan taqtulūn*"
-   trad="Et assurément Nous avons donné à Mūsā le Livre et fait suivre après lui des *rusul* ; et Nous avons donné à ʿĪsā fils de Maryam les preuves manifestes et l'avons soutenu par le *rūḥ al-qudus*. — Et c'est ainsi que, chaque fois qu'un *rasūl* vous est venu avec ce qui ne correspondait pas aux désirs de vos âmes, vous vous êtes montrés arrogants — traitant de menteurs un groupe, et en tuant un autre ?"
+   ref="S.2:87"
+   ar="وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِنْ بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنْفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ"
+   trl="*Wa-la-qad ātaynā Mūsā l-kitāba wa-qaffaynā min baʿdihi bi-r-rusuli wa-ātaynā ʿĪsā bna Maryama l-bayyināti wa-ayyadnāhu bi-rūḥi l-qudusi a-fa-kullamā jāʾakum rasūlun bi-mā lā tahwā anfusukumu stakbartum fa-farīqan kadhdhabtum wa-farīqan taqtulūn*"
+   trad="Et assurément Nous avons donné à Mūsā le Livre et fait suivre après lui des *rusul* ; et Nous avons donné à ʿĪsā fils de Maryam les preuves manifestes et l'avons soutenu par le *rūḥ al-qudus*. Chaque fois donc qu'un *rasūl* vous est venu avec ce que vos âmes ne désiraient pas, vous vous êtes montrés arrogants : un groupe, vous l'avez traité de menteur, et un autre, vous le tuez."
 %}
+
+{% include verset.html
+   ref="S.2:88"
+   ar="وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَا يُؤْمِنُونَ"
+   trl="*Wa-qālū qulūbunā ghulfun bal laʿanahumu llāhu bi-kufrihim fa-qalīlan mā yuʾminūn*"
+   trad="Et ils dirent : « Nos cœurs sont *ghulf*. » Bien au contraire : Allaah les a maudits à cause de leur *kufr* — ils croient bien peu."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ghulf</span></dt>
+<dd>pluriel de *aghlaf*, racine *gh-l-f* : ce qui est enveloppé dans une gaine, fermé. Conservé en translittération : l'image est celle d'un cœur qui se dit enfermé dans son étui.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">laʿanahum</span></dt>
+<dd>racine *l-ʿ-n* : repousser, tenir à distance.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">fa-qalīlan mā yuʾminūn</span></dt>
+<dd>deux lectures sont possibles : « ils sont peu nombreux à croire », ou « ce qu'ils croient est peu ». Le verset ne tranche pas.</dd>
+</div>
+</dl>
+</div>
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -115,28 +220,132 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 
 {% include verset.html
-   ref="S.2:89–93"
-   ar="وَلَمَّا جَاءَهُمْ كِتَابٌ مِّنْ عِندِ اللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُم مَّا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ"
+   ref="S.2:89"
+   ar="وَلَمَّا جَاءَهُمْ كِتَابٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ"
    trl="*Wa-lammā jāʾahum kitābun min ʿindi llāhi muṣaddiqun li-mā maʿahum wa-kānū min qablu yastaftiḥūna ʿalā lladhīna kafarū fa-lammā jāʾahum mā ʿarafū kafarū bihi fa-laʿnatu llāhi ʿalā l-kāfirīn*"
    trad="Et quand leur est venu un Livre de chez Allaah, confirmant ce qu'ils avaient avec eux — alors qu'auparavant ils demandaient l'ouverture contre ceux qui refusaient — quand ce qu'ils reconnaissaient leur est venu, ils l'ont refusé. La malédiction d'Allaah est sur les *kāfirīn*."
 %}
 
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yastaftiḥūn</span></dt>
+<dd>racine *f-t-ḥ* : demander une ouverture — la victoire, ou la décision. Le verset ne dit pas ce qu'ils demandaient : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
+
 {% include verset.html
-   ref="S.2:94–96"
-   ar="قُلْ إِن كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِندَ اللَّهِ خَالِصَةً مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ ۝ وَلَن يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ"
-   trl="*Qul in kānat lakumu d-dāru l-ākhiratu ʿinda llāhi khāliṣatan min dūni n-nāsi fa-tamannawu l-mawta in kuntum ṣādiqīn · Wa-lan yatamannawhu abadan bi-mā qaddimat aydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīn*"
-   trad="Dis : « Si la demeure de l'*ākhira* auprès d'Allaah vous appartient en exclusivité à l'exclusion des autres gens — souhaitez la mort, si vous êtes véridiques. » — Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et Allaah est savant des *ẓālimīn*."
+   ref="S.2:90"
+   ar="بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ"
+   trl="*Biʾsamā shtaraw bihi anfusahum an yakfurū bi-mā anzala llāhu baghyan an yunazzila llāhu min faḍlihi ʿalā man yashāʾu min ʿibādihi fa-bāʾū bi-ghaḍabin ʿalā ghaḍabin wa-li-l-kāfirīna ʿadhābun muhīn*"
+   trad="Quel mauvais échange que celui par lequel ils ont troqué leurs âmes : refuser ce qu'Allaah a fait descendre, par *baghy*, parce qu'Allaah fait descendre de Son *faḍl* sur qui Il veut parmi Ses serviteurs. Ils sont donc revenus avec un *ghaḍab* sur un *ghaḍab* ; et aux *kāfirīn*, un châtiment avilissant."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">baghy</span></dt>
+<dd>racine *b-gh-y* : chercher à outrepasser, désirer avec excès et hostilité ; envie qui devient tort.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">muhīn</span></dt>
+<dd>racine *h-w-n* : ce qui abaisse, avilit.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:91"
+   ar="وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ مُصَدِّقًا لِمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ"
+   trl="*Wa-idhā qīla lahum āminū bi-mā anzala llāhu qālū nuʾminu bi-mā unzila ʿalaynā wa-yakfurūna bi-mā warāʾahu wa-huwa l-ḥaqqu muṣaddiqan li-mā maʿahum qul fa-lima taqtulūna anbiyāʾa llāhi min qablu in kuntum muʾminīn*"
+   trad="Et quand on leur dit : « Croyez à ce qu'Allaah a fait descendre », ils disent : « Nous croyons à ce qui a été fait descendre sur nous » ; et ils refusent ce qui se trouve au-delà — alors que c'est le *ḥaqq*, confirmant ce qu'ils ont avec eux. Dis : « Pourquoi donc tuiez-vous auparavant les *anbiyāʾ* d'Allaah, si vous êtes croyants ? »"
+%}
+
+{% include verset.html
+   ref="S.2:92"
+   ar="۞ وَلَقَدْ جَاءَكُمْ مُوسَىٰ بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ"
+   trl="*Wa-la-qad jāʾakum Mūsā bi-l-bayyināti thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn*"
+   trad="Et Mūsā est venu à vous avec les preuves manifestes ; puis vous avez pris le *ʿijl* après lui, alors que vous étiez des *ẓālimūn*."
+%}
+
+{% include verset.html
+   ref="S.2:93"
+   ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ"
+   trl="*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū samiʿnā wa-ʿaṣaynā wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim qul biʾsamā yaʾmurukum bihi īmānukum in kuntum muʾminīn*"
+   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *Ṭūr* au-dessus de vous : « Saisissez avec force ce que Nous vous avons donné, et écoutez. » Ils dirent : « Nous avons entendu, et nous avons désobéi. » Et leurs cœurs furent abreuvés du *ʿijl* à cause de leur *kufr*. Dis : « Quel mauvais ordre que celui que votre foi vous donne, si vous êtes croyants ! »"
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">ushribū</span></dt>
+<dd>racine *sh-r-b* : faire boire, imprégner. L'image est celle d'une absorption : le *ʿijl* est décrit comme bu par les cœurs. Le verset ne dit rien de plus.</dd>
+</div>
+</dl>
+</div>
+
+{% include verset.html
+   ref="S.2:94"
+   ar="قُلْ إِنْ كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِنْدَ اللَّهِ خَالِصَةً مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ"
+   trl="*Qul in kānat lakumu d-dāru l-ākhiratu ʿinda llāhi khāliṣatan min dūni n-nāsi fa-tamannaw al-mawta in kuntum ṣādiqīn*"
+   trad="Dis : « Si la demeure de l'*ākhira* auprès d'Allaah vous appartient en exclusivité, à l'exclusion des autres gens — souhaitez la mort, si vous êtes véridiques. »"
+%}
+
+{% include verset.html
+   ref="S.2:95"
+   ar="وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ"
+   trl="*Wa-lan yatamannawhu abadan bi-mā qaddamat aydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīn*"
+   trad="Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et Allaah est savant des *ẓālimīn*."
+%}
+
+{% include verset.html
+   ref="S.2:96"
+   ar="وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ"
+   trl="*Wa-la-tajidannahum aḥraṣa n-nāsi ʿalā ḥayātin wa-mina lladhīna ashrakū yawaddu aḥaduhum law yuʿammaru alfa sanatin wa-mā huwa bi-muzaḥziḥihi mina l-ʿadhābi an yuʿammara wa-llāhu baṣīrun bi-mā yaʿmalūn*"
+   trad="Et tu les trouveras, plus que tous les gens, avides d'une vie — et plus encore que ceux qui ont commis le *shirk*. L'un d'eux voudrait qu'on lui prolonge la vie mille ans. Mais qu'on la lui prolonge ne l'éloignera pas du châtiment. Et Allaah est *Baṣīr* de ce qu'ils font."
+%}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">« … et plus encore que ceux qui ont commis le shirk »</span></dt>
+<dd>deux lectures sont possibles : (1) ils sont plus avides de vie que tous les gens, et même que ceux qui ont commis le *shirk* ; (2) ils sont plus avides que tous les gens, et parmi ceux qui ont commis le *shirk*, l'un voudrait aussi vivre mille ans. Le verset ne tranche pas.</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">Baṣīr</span></dt>
+<dd>racine *b-ṣ-r* : percevoir, discerner. Conservé en translittération : « voyant » installerait l'image d'un organe ; le sens retenu est que rien de ce qu'ils font ne Lui échappe.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
 ### S.2:97–103 · Jibrīl · La sorcellerie · Ce qu'aurait valu la foi
 
 {% include verset.html
-   ref="S.2:97–99"
-   ar="قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ ۝ مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِّلْكَافِرِينَ"
-   trl="*Qul man kāna ʿaduwwan li-Jibrīla fa-innahu nazzalahu ʿalā qalbika bi-idhni llāhi muṣaddiqan li-mā bayna yadayhi wa-hudan wa-bushrā li-l-muʾminīn · Man kāna ʿaduwwan li-llāhi wa-malāʾikatihi wa-rusulihi wa-Jibrīla wa-Mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn*"
-   trad="Dis : « Quiconque est ennemi de Jibrīl — c'est lui qui l'a fait descendre sur ton cœur avec la permission d'Allaah, confirmant ce qui est devant lui, et guidance et annonce heureuse pour les croyants. » — Quiconque est ennemi d'Allaah, de Ses *malāʾika*, de Ses envoyés, de Jibrīl et de Mīkāl — Allaah est ennemi des *kāfirīn*."
+   ref="S.2:97"
+   ar="قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ"
+   trl="*Qul man kāna ʿaduwwan li-Jibrīla fa-innahu nazzalahu ʿalā qalbika bi-idhni llāhi muṣaddiqan li-mā bayna yadayhi wa-hudan wa-bushrā li-l-muʾminīn*"
+   trad="Dis : « Quiconque est ennemi de Jibrīl — c'est lui qui l'a fait descendre sur ton cœur avec la permission d'Allaah, confirmant ce qui est devant lui, et guidance et annonce heureuse pour les croyants. »"
+%}
+
+{% include verset.html
+   ref="S.2:98"
+   ar="مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ"
+   trl="*Man kāna ʿaduwwan li-llāhi wa-malāʾikatihi wa-rusulihi wa-Jibrīla wa-Mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn*"
+   trad="Quiconque est ennemi d'Allaah, de Ses *malāʾika*, de Ses envoyés, de Jibrīl et de Mīkāl — Allaah est ennemi des *kāfirīn*."
+%}
+
+{% include verset.html
+   ref="S.2:99"
+   ar="وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ ۖ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ"
+   trl="*Wa-la-qad anzalnā ilayka āyātin bayyinātin wa-mā yakfuru bihā illā l-fāsiqūn*"
+   trad="Et Nous avons assurément fait descendre vers toi des *āyāt* manifestes, et nul n'en fait le *kufr* sinon les *fāsiqūn*."
 %}
 
 {% include verset.html
@@ -148,9 +357,9 @@ methode: "Dit / Non-dit / Inférence"
 
 {% include verset.html
    ref="S.2:102"
-   ar="وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ"
-   trl="*Wa-ttabaʿū mā tatlū sh-shayāṭīnu ʿalā mulki Sulaymāna · wa-mā kafara Sulaymānu wa-lākinna sh-shayāṭīna kafarū yuʿallimūna n-nāsa s-siḥra wa-mā unzila ʿalā l-malakayni bi-Bābila Hārūta wa-Mārūta · wa-mā yuʿallimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa-lā takfur*"
-   trad="Ils ont suivi ce que les *shayāṭīn* récitaient sur le règne de Sulaymān — Sulaymān n'avait pas commis le *kufr*, mais les *shayāṭīn* ont commis le *kufr* en enseignant aux gens le *siḥr* et ce qui est descendu sur les deux *malaks* à Bābil, Hārūt et Mārūt. Ces deux-là n'enseignaient à personne sans dire : « Nous ne sommes qu'une *fitna* — ne commets pas le *kufr*. » Ils apprenaient ce par quoi ils séparaient l'homme de son épouse — mais ils ne sont nullement en mesure de nuire par cela à quiconque sinon avec la permission d'Allaah. Ils apprenaient ce qui leur nuisait et ne leur profitait pas. Ils savaient bien que celui qui acquiert cela n'a aucun *khalāq* dans l'*ākhira*."
+   ar="وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ"
+   trl="*Wa-ttabaʿū mā tatlū sh-shayāṭīnu ʿalā mulki Sulaymāna wa-mā kafara Sulaymānu wa-lākinna sh-shayāṭīna kafarū yuʿallimūna n-nāsa s-siḥra wa-mā unzila ʿalā l-malakayni bi-Bābila Hārūta wa-Mārūta wa-mā yuʿallimāni min aḥadin ḥattā yaqūlā innamā naḥnu fitnatun fa-lā takfur fa-yataʿallamūna minhumā mā yufarriqūna bihi bayna l-marʾi wa-zawjihi wa-mā hum bi-ḍārrīna bihi min aḥadin illā bi-idhni llāhi wa-yataʿallamūna mā yaḍurruhum wa-lā yanfaʿuhum wa-la-qad ʿalimū la-mani shtarāhu mā lahu fī l-ākhirati min khalāqin wa-la-biʾsa mā sharaw bihi anfusahum law kānū yaʿlamūn*"
+   trad="Ils ont suivi ce que les *shayāṭīn* récitaient sur le règne de Sulaymān — Sulaymān n'avait pas commis le *kufr*, mais les *shayāṭīn* ont commis le *kufr* en enseignant aux gens le *siḥr* et ce qui est descendu sur les deux *malaks* à Bābil, Hārūt et Mārūt. Ces deux-là n'enseignaient à personne sans dire : « Nous ne sommes qu'une *fitna* — ne commets pas le *kufr*. » Ils apprenaient d'eux ce par quoi ils séparaient l'homme de son épouse — mais ils ne sont nullement en mesure de nuire par cela à quiconque sinon avec la permission d'Allaah. Ils apprenaient ce qui leur nuisait et ne leur profitait pas. Ils savaient bien que celui qui acquiert cela n'a aucun *khalāq* dans l'*ākhira*. Et quel mauvais prix ils ont obtenu en troquant leurs âmes — s'ils savaient !"
 %}
 
 {% include verset.html

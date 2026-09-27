@@ -376,12 +376,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:148"
    ar="لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا"
    trl="Lā yuḥibbu llāhu l-jahra bi-s-sūʾi mina l-qawli illā man ẓulima — wa-kāna llāhu samīʿan ʿalīmā"
-   trad="Allaah n'aime pas la proclamation publique (*al-jahr*) du mal en parole (*bi-s-sūʾi mina l-qawl*), sauf pour celui qui a subi une injustice (*man ẓulima*). Allaah est *Samīʿ*, *ʿAlīm*."
+   trad="Allaah n'honore pas la proclamation publique (*al-jahr*) du mal en parole (*bi-s-sūʾi mina l-qawl*), sauf pour celui qui a subi une injustice (*man ẓulima*). Allaah est *Samīʿ*, *ʿAlīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-jahr</span></dt>
 <dd>racine <em>j-h-r</em> : rendre manifeste, dire à voix haute et publiquement — opposé à ce qui reste discret. <strong>Dit</strong> : le texte pose une exception explicite et unique — la victime d'une injustice (*man ẓulima*) — sans en détailler davantage les conditions d'usage.</dd>

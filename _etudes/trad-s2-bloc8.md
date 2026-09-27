@@ -167,8 +167,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:205"
    ar="وَإِذَا تَوَلَّىٰ سَعَىٰ فِي الْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ الْحَرْثَ وَالنَّسْلَ ۗ وَاللَّهُ لَا يُحِبُّ الْفَسَادَ"
    trl="Wa-idhā tawallā saʿā fī l-arḍi li-yufsida fīhā wa-yuhlika l-ḥartha wa-l-nasl — wa-llāhu lā yuḥibbu l-fasād"
-   trad="Et lorsqu'il se détourne, il s'active sur la terre pour y corrompre l'ordre, et anéantir la culture et la descendance. Or Allaah n'aime pas la corruption de l'ordre."
+   trad="Et lorsqu'il se détourne, il s'active sur la terre pour y corrompre l'ordre, et anéantir la culture et la descendance. Or Allaah n'honore pas la corruption de l'ordre."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
+<dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:206"
@@ -666,7 +676,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:222"
    ar="وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللَّهُ ۚ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ"
    trl="Wa-yasʾalūnaka ʿani l-maḥīḍ — qul huwa adhan fa-ʿtazilū l-nisāʾa fī l-maḥīḍ — wa-lā taqrabūhunna ḥattā yaṭhurn — fa-idhā taṭahharna fa-ʾtūhunna min ḥaythu amarakumu llāh — inna llāha yuḥibbu l-tawwābīna wa-yuḥibbu l-mutaṭahhirīn"
-   trad="Et ils t'interrogent sur le maḥīḍ. Dis : c'est une gêne — tenez-vous à l'écart des femmes durant le maḥīḍ, et ne les approchez pas tant qu'elles n'ont pas cessé le flux. Puis lorsqu'elles se sont purifiées, venez à elles par où Allaah vous l'a ordonné. Allaah aime ceux qui reviennent constamment, et Il aime ceux qui se purifient."
+   trad="Et ils t'interrogent sur le maḥīḍ. Dis : c'est une gêne — tenez-vous à l'écart des femmes durant le maḥīḍ, et ne les approchez pas tant qu'elles n'ont pas cessé le flux. Puis lorsqu'elles se sont purifiées, venez à elles par où Allaah vous l'a ordonné. Allaah honore ceux qui reviennent constamment, et Il honore ceux qui se purifient."
 %}
 
 {% include verset.html

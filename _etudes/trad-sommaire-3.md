@@ -80,7 +80,7 @@ Ce sommaire couvre les **Blocs V à XIII** de la Sourate 2 · Al-Ijāba (S2:130�
 | S.2:161–162 | La *laʿna* permanente sur ceux qui meurent en *kufr* |
 | S.2:163 | La proclamation de l'unicité — *ilāhun wāḥid* |
 | S.2:164 | Les signes de la création pour ceux qui raisonnent |
-| S.2:165 | Les *andād* et l'amour mal dirigé |
+| S.2:165 | Les *andād* et l'honneur mal dirigé |
 | S.2:166–167 | La dissociation entre suivis et suiveurs, et leur regret |
 
 ### Licite alimentaire — S2:168–173
