@@ -143,8 +143,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:62–63"
    ar="فَكَيْفَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَاءُوكَ يَحْلِفُونَ بِاللَّهِ إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا ۝ أُولَـٰئِكَ الَّذِينَ يَعْلَمُ اللَّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلًا بَلِيغًا"
    trl="Fa-kayfa idhā aṣābathum muṣībatun bi-mā qaddamat aydīhim thumma jāʾūka yaḥlifūna bi-llāhi in aradnā illā iḥsānan wa-tawfīqā · Ulāʾika lladhīna yaʿlamu llāhu mā fī qulūbihim fa-aʿriḍ ʿanhum wa-ʿiẓhum wa-qul lahum fī anfusihim qawlan balīghā"
-   trad="Qu'en sera-t-il donc, quand un malheur les atteindra pour ce que leurs mains ont préparé, puis qu'ils viendront à toi jurant par Allaah : « Nous n'avons voulu que bienfaisance et concordance » ? — Ceux-là, Allaah sait ce qu'il y a dans leurs cœurs. Détourne-toi d'eux, exhorte-les, et dis-leur, à propos d'eux-mêmes, une parole pénétrante (*balīgh*)."
+   trad="Qu'en sera-t-il donc, quand un malheur les atteindra pour ce que leurs mains ont préparé, puis qu'ils viendront à toi jurant par Allaah : « Nous n'avons voulu que bienfaisance et concordance » ? — Ceux-là, Allaah sait ce qu'il y a dans leurs cœurs. Détourne-toi d'eux, exhorte-les, et dis-leur, à propos d'eux-mêmes, une parole *[pénétrante](#baligh)* (*balīgh*)."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="baligh">
+<dt><span class="lex-trl">qawlan balīghā</span></dt>
+<dd>racine <em>b-l-gh</em> : atteindre son but, parvenir à destination — d'où *balāgha* (l'éloquence qui atteint son objet) et *balligh* (transmettre jusqu'au destinataire). Une parole *balīgh* : qui atteint effectivement celui à qui elle s'adresse, non un simple ornement de style.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -220,7 +230,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:69–70"
    ar="وَمَن يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَـٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَـٰئِكَ رَفِيقًا ۝ ذَٰلِكَ الْفَضْلُ مِنَ اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ عَلِيمًا"
    trl="Wa-man yuṭiʿi llāha wa-r-rasūla fa-ulāʾika maʿa lladhīna anʿama llāhu ʿalayhim mina n-nabiyyīna wa-ṣ-ṣiddīqīna wa-sh-shuhadāʾi wa-ṣ-ṣāliḥīn — wa-ḥasuna ulāʾika rafīqā · Dhālika l-faḍlu mina llāh — wa-kafā bi-llāhi ʿalīmā"
-   trad="Et quiconque obéit à Allaah et au *rasūl*, ceux-là seront avec ceux qu'Allaah a comblés de Sa faveur parmi les *nabiyyīn*, les *ṣiddīqīn*, les *shuhadāʾ* et les *ṣāliḥīn* — et quelle excellente compagnie (*rafīq*) que ceux-là ! Cela est la faveur (*faḍl*) venant d'Allaah — et Allaah suffit comme *ʿAlīm*."
+   trad="Et quiconque obéit à Allaah et au *rasūl*, ceux-là seront avec ceux qu'Allaah a comblés de Sa faveur parmi les *nabiyyīn*, les *ṣiddīqīn*, les *shuhadāʾ* et les *ṣāliḥīn* — et quelle excellente *[compagnie](#rafiq)* (*rafīq*) que ceux-là ! Cela est la faveur (*faḍl*) venant d'Allaah — et Allaah suffit comme *ʿAlīm*."
 %}
 
 <div class="notes-lexicales">
@@ -241,6 +251,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">aṣ-ṣāliḥīn</span></dt>
 <dd>racine <em>ṣ-l-ḥ</em>, déjà rencontrée dans la formule récurrente *ʿamilū ṣ-ṣāliḥāt* — ceux dont l'agir est droit, en bon ordre.</dd>
+</div>
+<div class="lex-entree" id="rafiq">
+<dt><span class="lex-trl">rafīq</span></dt>
+<dd>racine <em>r-f-q</em> : accompagner avec douceur de mouvement, marcher aux côtés de. *Rafīq* : le compagnon de route — ici employé pour qualifier la compagnie même de ceux qu'Allaah a comblés (*nabiyyīn*, *ṣiddīqīn*, *shuhadāʾ*, *ṣāliḥīn*), non un simple voisinage.</dd>
 </div>
 </dl>
 </div>
