@@ -160,7 +160,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">yushraka bihi / yushrik bi-llāh</span></dt>
 <dd>racine <em>sh-r-k</em> : associer, partager une part avec un autre — conservé en translittération (*shirk*), conformément à l'étude dédiée [Le shirk dans le Coran](/etudes/shirk/). <strong>Ce que le texte dit ici précisément</strong> : une distinction entre cette faute et « ce qui est en deçà » (*mā dūna dhālika*), sans lister ce que recouvre cette seconde catégorie — le verset pose une hiérarchie sans l'exemplifier.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="iftara">
 <dt><span class="lex-trl">iftarā</span></dt>
 <dd>forme VIII de <em>f-r-y</em> : couper, tailler — d'où fabriquer de toutes pièces, inventer. Même racine qu'en S4:50 (*yaftarūna*) : les deux versets sont liés par ce terme, la fabrication d'un mensonge sur Allaah encadrant le sujet du *shirk*.</dd>
 </div>
@@ -202,7 +202,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:50"
    ar="انظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُّبِينًا"
    trl="Unẓur kayfa yaftarūna ʿalā llāhi l-kadhiba — wa-kafā bihi ithman mubīnā"
-   trad="Regarde comme ils fabriquent (*yaftarūna*) le mensonge sur Allaah — cela suffit comme faute manifeste."
+   trad="Regarde comme ils *[fabriquent](#iftara)* (*yaftarūna*) le mensonge sur Allaah — cela suffit comme faute manifeste."
 %}
 
 ---
@@ -299,7 +299,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:55"
    ar="فَمِنْهُم مَّنْ آمَنَ بِهِ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا"
    trl="Fa-minhum man āmana bihi wa-minhum man ṣadda ʿanhu — wa-kafā bi-jahannama saʿīrā"
-   trad="Parmi eux, il en est qui ont cru en lui, et parmi eux il en est qui s'en sont détournés (*ṣadda ʿanhu*) — Jahannam suffit comme brasier (*saʿīr*)."
+   trad="Parmi eux, il en est qui ont cru en lui, et parmi eux il en est qui s'en sont détournés (*ṣadda ʿanhu*) — Jahannam suffit comme *[brasier](/etudes/trad-s4-bloc1/#saair)* (*saʿīr*)."
 %}
 
 <div class="notes-lexicales">
