@@ -150,7 +150,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="ilah">
 <dt><span class="lex-ar">إِلَٰه</span><span class="lex-trl">ilāh</span></dt>
 <dd>racine ʾ-l-h. Ibn Fāris (Maqāyīs) identifie deux axes fondamentaux : l'état de saisissement total devant ce qui dépasse (al-taḥayyur wa-l-tadhallul), et ce vers quoi la créature se tourne dans cette dépendance absolue. Al-Farāhīdī (Kitāb al-ʿAyn) : taʾallaha ilayhi — se tourner vers lui avec une dépendance et une dévotion totales. Conservé en translittération.</dd>
 </div>

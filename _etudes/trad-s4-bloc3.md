@@ -58,7 +58,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">naṣīban mina l-kitāb</span></dt>
 <dd>même construction partitive qu'en S4:51 (répétition exacte de l'incipit) : une part du Livre, non le Livre en totalité — le texte ne prête à ce groupe ni l'ignorance totale ni la connaissance intégrale.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="shira">
 <dt><span class="lex-trl">yashtarūna ḍ-ḍalāla</span></dt>
 <dd>racine <em>sh-r-y</em> : acheter — figure déjà rencontrée pour l'échange d'un bien contre un autre (cf. la vente à bas prix des versets d'Allaah, ailleurs dans le Coran). Ici l'objet acquis est *aḍ-ḍalāla* elle-même : un choix actif, non une simple ignorance subie.</dd>
 </div>
@@ -187,7 +187,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">yuzakkūna anfusahum</span></dt>
 <dd>racine <em>z-k-w</em>, déjà validée dans la banque lexicale (croissance et pureté simultanément). Ici à la forme réfléchie sur soi-même (« ils se purifient eux-mêmes ») — opposée dans le même verset à *yuzakkī* porté par Allaah seul comme sujet légitime de cette action envers autrui.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="fatil">
 <dt><span class="lex-trl">fatīl</span></dt>
 <dd>racine <em>f-t-l</em> : tordre, filer (un fil). Le *fatīl* désigne le fin sillon filiforme qui marque le noyau de datte — image coranique récurrente pour l'infime, l'imperceptible. <strong>Non-dit</strong> : le texte ne chiffre rien — il pose une négation absolue de toute lésion, aussi minime soit-elle, mesurée par cette image plutôt que par un nombre.</dd>
 </div>

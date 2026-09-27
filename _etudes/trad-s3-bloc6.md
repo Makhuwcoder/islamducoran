@@ -237,7 +237,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">شَاوِرْهُمْ</span><span class="lex-trl">shāwirhum</span></dt>
 <dd>racine sh-w-r : consulter, extraire un avis (comme on extrait le miel) — la consultation (shūrā) est ici une injonction directe adressée au rasūl lui-même.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="tawakkal">
 <dt><span class="lex-ar">تَوَكَّلْ / ٱلْمُتَوَكِّلِينَ</span><span class="lex-trl">tawakkal / al-mutawakkilīn</span></dt>
 <dd>racine w-k-l : confier une affaire à un mandataire, s'en remettre — même racine que <em>al-wakīl</em> (S3:173, plus loin dans ce bloc).</dd>
 </div>

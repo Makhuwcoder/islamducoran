@@ -385,7 +385,7 @@ S2:282 est le verset le plus long du muṣḥaf. Il est donné ici intégralemen
 <dt><span class="lex-ar">سَفِيه</span><span class="lex-trl">safīh</span></dt>
 <dd>racine s-f-h : dépourvu de discernement dans la gestion de ses affaires.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="wali">
 <dt><span class="lex-ar">وَلِيّ</span><span class="lex-trl">walī</span></dt>
 <dd>(w-l-y) : celui qui a la charge, la proximité protectrice — ici au sens de représentant légal.</dd>
 </div>

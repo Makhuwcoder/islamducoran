@@ -374,7 +374,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
 <dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="qital">
 <dt><span class="lex-ar">قَاتِلُوا / يُقَاتِلُونَكُمْ</span><span class="lex-trl">qātilū / yuqātilūnakum</span></dt>
 <dd>racine q-t-l, forme III (réciproque) : combattre, s'engager dans un affrontement armé. Le texte lie explicitement l'objet du qitāl à ceux qui pratiquent eux-mêmes ce même verbe envers vous (*yuqātilūnakum*) — symétrie grammaticale exacte entre l'action commandée et sa cause nommée.</dd>
 </div>

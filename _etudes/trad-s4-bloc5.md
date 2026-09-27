@@ -49,8 +49,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:71"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانفِرُوا ثُبَاتٍ أَوِ انفِرُوا جَمِيعًا"
    trl="Yā ayyuhā lladhīna āmanū khudhū ḥidhrakum fa-nfirū thubātin awi nfirū jamīʿā"
-   trad="Ô vous qui avez cru, prenez vos précautions (*ḥidhr*), puis avancez par groupes, ou avancez tous ensemble."
+   trad="Ô vous qui avez cru, prenez vos *[précautions](#hidhr)* (*ḥidhr*), puis avancez par groupes, ou avancez tous ensemble."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="hidhr">
+<dt><span class="lex-trl">ḥidhr</span></dt>
+<dd>racine <em>ḥ-dh-r</em> : se garder de, redouter au point d'agir en conséquence. Le nom d'action ici prescrit une disposition active (« prenez ») avant l'action qui suit, non une simple émotion.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -83,8 +93,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:74"
    ar="۞ فَلْيُقَاتِلْ فِي سَبِيلِ اللَّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۚ وَمَن يُقَاتِلْ فِي سَبِيلِ اللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا"
    trl="Fa-l-yuqātil fī sabīli llāhi lladhīna yashrūna l-ḥayāta d-dunyā bi-l-ākhirah — wa-man yuqātil fī sabīli llāhi fa-yuqtal aw yaghlib fa-sawfa nuʾtīhi ajran ʿaẓīmā"
-   trad="Que combattent donc dans le *sabīl* d'Allaah ceux qui échangent (*yashrūna*) la vie de ce bas monde contre l'au-delà. Et quiconque combat dans le *sabīl* d'Allaah, qu'il soit tué ou qu'il soit vainqueur, Nous lui donnerons une rétribution immense."
+   trad="Que *[combattent](/etudes/trad-s2-bloc7/#qital)* donc dans le *sabīl* d'Allaah ceux qui *[échangent](/etudes/trad-s4-bloc3/#shira)* (*yashrūna*) la vie de ce bas monde contre l'au-delà. Et quiconque combat dans le *sabīl* d'Allaah, qu'il soit tué ou qu'il soit vainqueur, Nous lui donnerons une rétribution immense."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree">
+<dt><span class="lex-trl">yashrūna</span></dt>
+<dd>même racine <em>sh-r-y</em> que *yashtarūna* (<a href="/etudes/trad-s4-bloc3/#shira">S.4:44</a>), mais à la forme simple (Form I, vendre/échanger) plutôt qu'à la forme VIII (Form VIII, acheter) : ici ceux qui « échangent » la vie de ce bas monde contre l'au-delà — un même mouvement de racine, appliqué en sens inverse (céder au lieu d'acquérir).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -94,7 +114,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:75–76"
    ar="وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ رَبَّنَا أَخْرِجْنَا مِنْ هَـٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَاجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا ۝ الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ وَالَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ ۖ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا"
    trl="Wa-mā lakum lā tuqātilūna fī sabīli llāhi wa-l-mustaḍʿafīna mina r-rijāli wa-n-nisāʾi wa-l-wildāni lladhīna yaqūlūna rabbanā akhrijnā min hādhihi l-qaryati ẓ-ẓālimi ahluhā wa-jʿal lanā min ladunka walīyyan wa-jʿal lanā min ladunka naṣīrā · Alladhīna āmanū yuqātilūna fī sabīli llāh — wa-lladhīna kafarū yuqātilūna fī sabīli ṭ-ṭāghūt — fa-qātilū awliyāʾa sh-shayṭān — inna kayda sh-shayṭāni kāna ḍaʿīfā"
-   trad="Et qu'avez-vous à ne pas combattre dans le *sabīl* d'Allaah, et pour les *mustaḍʿafīn* (rendus faibles) parmi les hommes, les femmes et les enfants, qui disent : « Notre *Rabb*, fais-nous sortir de cette cité dont les habitants sont injustes, et donne-nous, de Ta part, un *walī*, et donne-nous, de Ta part, un *naṣīr* » ? Ceux qui ont cru combattent dans le *sabīl* d'Allaah, et ceux qui ont commis le *kufr* combattent dans le *sabīl* du *ṭāghūt* — combattez donc les *awliyāʾ* du *shayṭān* : la ruse (*kayd*) du *shayṭān* est certes faible."
+   trad="Et qu'avez-vous à ne pas combattre dans le *sabīl* d'Allaah, et pour les *mustaḍʿafīn* (rendus faibles) parmi les hommes, les femmes et les enfants, qui disent : « Notre *Rabb*, fais-nous sortir de cette cité dont les habitants sont injustes, et donne-nous, de Ta part, un *[walī](/etudes/trad-s2-bloc12/#wali)*, et donne-nous, de Ta part, un *naṣīr* » ? Ceux qui ont cru combattent dans le *sabīl* d'Allaah, et ceux qui ont commis le *kufr* combattent dans le *sabīl* du *ṭāghūt* — combattez donc les *[awliyāʾ](/etudes/trad-s2-bloc12/#wali)* du *shayṭān* : la *[ruse](#kayd)* (*kayd*) du *shayṭān* est certes faible."
 %}
 
 <div class="notes-lexicales">
@@ -103,6 +123,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">al-mustaḍʿafīn</span></dt>
 <dd>forme X passive de <em>ḍ-ʿ-f</em> (faiblesse) : ceux qui ont été rendus faibles, mis en situation de subir la force d'autrui — non une faiblesse de nature, mais une faiblesse infligée.</dd>
+</div>
+<div class="lex-entree" id="kayd">
+<dt><span class="lex-trl">kayd</span></dt>
+<dd>racine <em>k-y-d</em> : la ruse, la stratégie déployée en secret contre autrui. Le verset qualifie cette ruse de *ḍaʿīf* (faible) — même racine que *mustaḍʿafīn* juste avant dans le même verset, opposant ainsi deux faiblesses : celle, subie, des *mustaḍʿafīn*, et celle, intrinsèque, de la ruse du *shayṭān*.</dd>
 </div>
 </dl>
 </div>
@@ -117,7 +141,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:77"
    ar="أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِّمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا"
    trl="A-lam tara ilā lladhīna qīla lahum kuffū aydiyakum wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta fa-lammā kutiba ʿalayhimu l-qitālu idhā farīqun minhum yakhshawna n-nāsa ka-khashyati llāhi aw ashadda khashyah — wa-qālū rabbanā lima katabta ʿalaynā l-qitāla lawlā akhkhartanā ilā ajalin qarīb — qul matāʿu d-dunyā qalīlun wa-l-ākhiratu khayrun li-mani ttaqā wa-lā tuẓlamūna fatīlā"
-   trad="N'as-tu pas considéré ceux à qui il a été dit : « Retenez vos mains, accomplissez la *ṣalāt* et acquittez-vous de la *zakāt* » ? Puis, quand le *qitāl* leur a été prescrit, voilà qu'une partie d'entre eux redoute les gens comme on redoute Allaah, ou d'une crainte plus forte encore. Et ils dirent : « Notre *Rabb*, pourquoi nous as-Tu prescrit le *qitāl* ? Que ne nous as-Tu accordé un délai proche ! » Dis : « La jouissance de ce bas monde est peu de chose, et l'au-delà est meilleur pour qui se constitue une taqwā — et vous ne serez pas lésés d'un *fatīl*. »"
+   trad="N'as-tu pas considéré ceux à qui il a été dit : « Retenez vos mains, accomplissez la *ṣalāt* et acquittez-vous de la *zakāt* » ? Puis, quand le *qitāl* leur a été prescrit, voilà qu'une partie d'entre eux redoute les gens comme on redoute Allaah, ou d'une crainte plus forte encore. Et ils dirent : « Notre *Rabb*, pourquoi nous as-Tu prescrit le *qitāl* ? Que ne nous as-Tu accordé un délai proche ! » Dis : « La jouissance de ce bas monde est peu de chose, et l'au-delà est meilleur pour qui se constitue une taqwā — et vous ne serez pas lésés d'un *[fatīl](/etudes/trad-s4-bloc3/#fatil)*. »"
 %}
 
 <div class="notes-lexicales">
@@ -182,8 +206,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:81"
    ar="وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِندِكَ بَيَّتَ طَائِفَةٌ مِّنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا"
    trl="Wa-yaqūlūna ṭāʿatun fa-idhā barazū min ʿindika bayyata ṭāʾifatun minhum ghayra lladhī taqūl — wa-llāhu yaktubu mā yubayyitūn — fa-aʿriḍ ʿanhum wa-tawakkal ʿalā llāh — wa-kafā bi-llāhi wakīlā"
-   trad="Et ils disent : « Obéissance » ; puis, quand ils sortent de chez toi, un groupe d'entre eux complote de nuit (*bayyata*) autre chose que ce que tu dis — et Allaah inscrit ce qu'ils complotent ainsi. Détourne-toi d'eux, et repose-toi sur Allaah (*tawakkal*) : Allaah suffit comme *wakīl*."
+   trad="Et ils disent : « Obéissance » ; puis, quand ils sortent de chez toi, un groupe d'entre eux *[complote de nuit](#bayyata)* (*bayyata*) autre chose que ce que tu dis — et Allaah inscrit ce qu'ils complotent ainsi. Détourne-toi d'eux, et *[repose-toi](/etudes/trad-s3-bloc6/#tawakkal)* sur Allaah (*tawakkal*) : Allaah suffit comme *wakīl*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="bayyata">
+<dt><span class="lex-trl">bayyata</span></dt>
+<dd>racine <em>b-y-t</em> : passer la nuit — d'où, à la forme intensive employée ici, comploter dans le secret que permet la nuit. Le texte oppose explicitement cette parole nocturne à la parole diurne déclarée (« Obéissance »).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -236,8 +270,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:84"
    ar="فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَن يَكُفَّ بَأْسَ الَّذِينَ كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا"
    trl="Fa-qātil fī sabīli llāhi lā tukallafu illā nafsaka — wa-ḥarriḍi l-muʾminīn — ʿasā llāhu an yakuffa baʾsa lladhīna kafarū — wa-llāhu ashaddu baʾsan wa-ashaddu tankīlā"
-   trad="Combats donc dans le *sabīl* d'Allaah — tu n'es chargé que de toi-même — et incite (*ḥarriḍ*) les croyants [au combat]. Il se peut qu'Allaah retienne la force de ceux qui ont commis le *kufr* — et Allaah est plus fort en force et plus fort en châtiment exemplaire (*tankīl*)."
+   trad="Combats donc dans le *sabīl* d'Allaah — tu n'es chargé que de toi-même — et *[incite](#harrid)* (*ḥarriḍ*) les croyants [au combat]. Il se peut qu'Allaah retienne la force de ceux qui ont commis le *kufr* — et Allaah est plus fort en force et plus fort en *[châtiment exemplaire](#tankil)* (*tankīl*)."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="harrid">
+<dt><span class="lex-trl">ḥarriḍ</span></dt>
+<dd>racine <em>ḥ-r-ḍ</em> : pousser vivement à agir, aiguillonner. Forme II intensive : une incitation active et répétée, non un simple encouragement.</dd>
+</div>
+<div class="lex-entree" id="tankil">
+<dt><span class="lex-trl">tankīl</span></dt>
+<dd>racine <em>n-k-l</em> : le châtiment posé de façon à dissuader autrui par son exemple — non seulement une sanction, mais une sanction qui vaut leçon pour qui l'observe.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -247,8 +295,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:85"
    ar="مَّن يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُن لَّهُ نَصِيبٌ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُن لَّهُ كِفْلٌ مِّنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُّقِيتًا"
    trl="Man yashfaʿ shafāʿatan ḥasanatan yakun lahu naṣībun minhā — wa-man yashfaʿ shafāʿatan sayyiʾatan yakun lahu kiflun minhā — wa-kāna llāhu ʿalā kulli shayʾin muqītā"
-   trad="Quiconque intercède (*yashfaʿ*) d'une intercession bonne en aura une part ; et quiconque intercède d'une intercession mauvaise en portera une charge (*kifl*). Allaah est, sur toute chose, *Muqīt*."
+   trad="Quiconque *[intercède](/etudes/trad-s2-bloc4/#shafaa)* (*yashfaʿ*) d'une intercession bonne en aura une part ; et quiconque intercède d'une intercession mauvaise en portera une *[charge](#kifl)* (*kifl*). Allaah est, sur toute chose, *[Muqīt](#muqit)*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="kifl">
+<dt><span class="lex-trl">kifl</span></dt>
+<dd>racine <em>k-f-l</em> : la part qui revient en charge, ce dont on répond. Distinct de *naṣīb* (la part reçue, employée dans la première moitié du même verset pour l'intercession bonne) : le texte choisit ici un terme qui porte l'idée de responsabilité assumée plutôt que de simple attribution.</dd>
+</div>
+<div class="lex-entree" id="muqit">
+<dt><span class="lex-trl">Muqīt</span></dt>
+<dd>ce que l'on peut dire d'Allaah ici : racine <em>q-w-t</em>, celle de la subsistance qui maintient en vie. *Muqīt* : ce qui pourvoit à toute chose et la maintient dans son existence — conservé en translittération plutôt que rendu par « nourricier », qui installerait une image trop concrètement alimentaire pour ce que le texte pose ici comme une maîtrise générale sur toute chose (*ʿalā kulli shayʾin*).</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -258,8 +320,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:86"
    ar="وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ حَسِيبًا"
    trl="Wa-idhā ḥuyyītum bi-taḥiyyatin fa-ḥayyū bi-aḥsana minhā aw ruddūhā — inna llāha kāna ʿalā kulli shayʾin ḥasībā"
-   trad="Et quand on vous salue d'une salutation, saluez d'une meilleure, ou rendez-la [de façon équivalente]. Allaah est, certes, sur toute chose, *Ḥasīb*."
+   trad="Et quand on vous salue d'une salutation, saluez d'une meilleure, ou rendez-la [de façon équivalente]. Allaah est, certes, sur toute chose, *[Ḥasīb](#hasib)*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="hasib">
+<dt><span class="lex-trl">Ḥasīb</span></dt>
+<dd>ce que l'on peut dire d'Allaah ici : racine <em>ḥ-s-b</em>, compter, tenir un compte exact. *Ḥasīb* : ce qui tient un compte exact de toute chose et en répond — le verset l'emploie immédiatement après la prescription de rendre le salut, comme pour poser un rappel de mesure exacte à cet égard précis.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -269,7 +341,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:87"
    ar="اللَّهُ لَا إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثًا"
    trl="Allāhu lā ilāha illā huwa — la-yajmaʿannakum ilā yawmi l-qiyāmati lā rayba fīh — wa-man aṣdaqu mina llāhi ḥadīthā"
-   trad="Allaah — nulle *ilāh* si ce n'est Lui — Il vous rassemblera certes vers le Jour de la Résurrection, sans doute possible en cela. Et qui est plus véridique qu'Allaah en parole ?"
+   trad="Allaah — nulle *[ilāh](/etudes/trad-s2-bloc5/#ilah)* si ce n'est Lui — Il vous rassemblera certes vers le Jour de la Résurrection, sans doute possible en cela. Et qui est plus véridique qu'Allaah en parole ?"
 %}
 
 ---
@@ -306,8 +378,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:89"
    ar="وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَاءً ۖ فَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّىٰ يُهَاجِرُوا فِي سَبِيلِ اللَّهِ ۚ فَإِن تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ ۖ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا"
    trl="Waddū law takfurūna ka-mā kafarū fa-takūnūna sawāʾan — fa-lā tattakhidhū minhum awliyāʾa ḥattā yuhājirū fī sabīli llāh — fa-in tawallaw fa-khudhūhum wa-qtulūhum ḥaythu wajadtumūhum — wa-lā tattakhidhū minhum walīyyan wa-lā naṣīrā"
-   trad="Ils voudraient que vous commettiez le *kufr* comme ils l'ont commis, afin que vous soyez égaux [à eux]. Ne prenez donc pas d'*awliyāʾ* parmi eux, jusqu'à ce qu'ils émigrent (*yuhājirū*) dans le *sabīl* d'Allaah. S'ils se détournent [de cette condition], alors saisissez-les et tuez-les où que vous les trouviez — et ne prenez, parmi eux, ni *walī* ni *naṣīr*."
+   trad="Ils voudraient que vous commettiez le *kufr* comme ils l'ont commis, afin que vous soyez égaux [à eux]. Ne prenez donc pas d'*[awliyāʾ](/etudes/trad-s2-bloc12/#wali)* parmi eux, jusqu'à ce qu'ils *[émigrent](#hijra)* (*yuhājirū*) dans le *sabīl* d'Allaah. S'ils se détournent [de cette condition], alors saisissez-les et tuez-les où que vous les trouviez — et ne prenez, parmi eux, ni *[walī](/etudes/trad-s2-bloc12/#wali)* ni *naṣīr*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="hijra">
+<dt><span class="lex-trl">yuhājirū / hijra</span></dt>
+<dd>racine <em>h-j-r</em> : quitter, se séparer d'un lieu ou d'un lien. *Hijra* : le fait de quitter un lieu pour un autre, en rupture du lien qui rattachait au premier. Le texte pose ici cette rupture, « dans le *sabīl* d'Allaah », comme condition posée à la prise d'*awliyāʾ* — <strong>non-dit</strong> : le verset ne détaille pas, par lui-même, les modalités concrètes de ce déplacement au-delà de cette condition.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -342,7 +424,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:91"
    ar="سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ وَيَكُفُّوا أَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُولَـٰئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُّبِينًا"
    trl="Sa-tajidūna ākharīna yurīdūna an yaʾmanūkum wa-yaʾmanū qawmahum — kulla mā ruddū ilā l-fitnati urkisū fīhā — fa-in lam yaʿtazilūkum wa-yulqū ilaykumu s-salama wa-yakuffū aydiyahum fa-khudhūhum wa-qtulūhum ḥaythu thaqiftumūhum — wa-ulāʾikum jaʿalnā lakum ʿalayhim sulṭānan mubīnā"
-   trad="Vous trouverez d'autres qui veulent être en sécurité avec vous et en sécurité avec leur propre peuple : chaque fois qu'ils sont ramenés à la *fitna*, ils y replongent. S'ils ne se retirent pas de vous, ne vous offrent pas la paix, et ne retiennent pas leurs mains, alors saisissez-les et tuez-les où que vous les rencontriez — et ceux-là, Nous vous avons donné sur eux une autorité manifeste (*sulṭān mubīn*)."
+   trad="Vous trouverez d'autres qui veulent être en sécurité avec vous et en sécurité avec leur propre peuple : chaque fois qu'ils sont ramenés à la *[fitna](/etudes/trad-s2-bloc3/#fitna)*, ils y replongent. S'ils ne se retirent pas de vous, ne vous offrent pas la paix, et ne retiennent pas leurs mains, alors saisissez-les et tuez-les où que vous les rencontriez — et ceux-là, Nous vous avons donné sur eux une autorité manifeste (*sulṭān mubīn*)."
 %}
 
 <div class="notes-lexicales">
