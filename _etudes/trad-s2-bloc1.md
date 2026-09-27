@@ -79,7 +79,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="ghayb">
 <dt><span class="lex-trl">al-ghayb</span></dt>
 <dd>racine *gh-y-b* : ce qui est absent de la perception, ce qui échappe aux sens. Non « l'invisible » au sens mystique : tout ce qui n'est pas accessible à la perception directe.</dd>
 </div>
@@ -403,6 +403,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="haqq">
+<dt><span class="lex-trl">ḥaqq</span></dt>
+<dd>racine *ḥ-q-q* : ce qui est établi, avéré, ce qui correspond effectivement à ce qui est. Al-Farāhīdī : *al-ḥaqq naqīḍ al-bāṭil* — le *ḥaqq* est l'opposé exact du *bāṭil*. Non simplement « la vérité » (qui, en français, se limite souvent à l'énoncé vrai) : le *ḥaqq* couvre aussi ce qui est fondé, ce qui est dû, ce qui tient. Conservé en translittération faute d'un mot français unique couvrant l'ensemble de ce champ.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fāsiqīn</span></dt>
 <dd>racine *f-s-q* : sortir de l'enveloppe, éclater hors de sa limite. Al-Farāhīdī : *kharaj min ḥadd al-istiqa-ma* — sortir de la ligne droite. Non simplement « pervers » : le *fisq* est une sortie hors du cadre.</dd>

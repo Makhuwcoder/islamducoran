@@ -26,7 +26,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:30"
    ar="وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ"
    trl="*Wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi khalīfatan · qālū a-tajʿalu fīhā man yufsidu fīhā wa-yasfiku d-dimāʾa wa-naḥnu nusabbiḥu bi-ḥamdika wa-nuqaddisu laka · qāla innī aʿlamu mā lā taʿlamūn*"
-   trad="Et quand ton *Rabb* dit aux *malāʾika* : « Je vais établir sur la terre un *khalīfa* » — ils dirent : « Vas-Tu y établir des êtres qui y répandront la corruption et verseront le sang, alors que nous accomplissons le *tasbīḥ* en Ta *ḥamd* et Te sanctifions ? » — Il dit : « Je sais ce que vous ne savez pas. »"
+   trad="Et quand ton *Rabb* dit aux *malāʾika* : « Je vais établir sur la terre un *khalīfa* » — ils dirent : « Vas-Tu y établir des êtres qui y répandront la corruption et verseront le sang, alors que nous accomplissons le *tasbīḥ* en Ta *[ḥamd](/etudes/trad-s1-al-talab/#hamd)* et Te sanctifions ? » — Il dit : « Je sais ce que vous ne savez pas. »"
 %}
 
 <div class="notes-lexicales">
@@ -43,6 +43,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">man yufsidu fīhā</span></dt>
 <dd>*man* : pronom collectif englobant une catégorie, non un individu. Les *malāʾika* anticipent un comportement général. Le texte dit : *un être qui répandrait la corruption*. Non-dit : que tous les humains corrompent.</dd>
+</div>
+<div class="lex-entree" id="tasbih">
+<dt><span class="lex-trl">tasbīḥ</span></dt>
+<dd>racine *s-b-ḥ* : le même mouvement que *subḥāna* (voir la note à S.2:32, plus bas sur cette page) mis à l'infinitif d'action — nager, se mouvoir librement, sans entrave. *Nusabbiḥu bi-ḥamdika* : nous accomplissons ce mouvement de dégagement en portant Ta *ḥamd* (déjà notée en [S.1:2](/etudes/trad-s1-al-talab/#hamd)).</dd>
 </div>
 </dl>
 </div>
@@ -79,7 +83,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:33"
    ar="قَالَ يَا آدَمُ أَنبِئْهُم بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنبَأَهُم بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ"
    trl="*Qāla yā Ādamu anbiʾhum bi-asmāʾihim · fa-lammā anbaʾahum bi-asmāʾihim qāla a-lam aqul lakum innī aʿlamu ghayba s-samāwāti wa-l-arḍi wa-aʿlamu mā tubdūna wa-mā kuntum taktumūn*"
-   trad="Il dit : « Ô Ādam, informe-les de leurs noms. » Quand il les eut informés de leurs noms, Il dit : « Ne vous ai-Je pas dit que Je connais le *ghayb* des cieux et de la terre, et que Je sais ce que vous exprimez et ce que vous dissimuliez ? »"
+   trad="Il dit : « Ô Ādam, informe-les de leurs noms. » Quand il les eut informés de leurs noms, Il dit : « Ne vous ai-Je pas dit que Je connais le *[ghayb](/etudes/trad-s2-bloc1/#ghayb)* des cieux et de la terre, et que Je sais ce que vous exprimez et ce que vous dissimuliez ? »"
 %}
 
 {% include verset.html
@@ -103,6 +107,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="janna">
+<dt><span class="lex-trl">janna</span></dt>
+<dd>racine *j-n-n* : ce qui est couvert, dérobé à la vue (le même mouvement de racine que *jinn*, *janīn*). *Janna* désigne un lieu de végétation dense au point de dissimuler le sol. Ce verset ne précise ni l'emplacement ni la nature exacte de cette *janna* : des **non-dits**. Conservé en translittération plutôt que « jardin », qui ne porte pas l'idée de dissimulation par la densité du couvert.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ẓālimīn</span></dt>
 <dd>racine *ẓ-l-m* : obscurité, déplacement d'une chose hors de sa place juste. Al-Farāhīdī : *waḍʿ al-shayʾ fī ghayri mawḍiʿihi* — placer une chose là où elle n'a pas sa place. Non simplement « injustes » : le *ẓulm* est un désordre ontologique, un déséquilibre.</dd>
@@ -162,8 +170,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:42–44"
    ar="وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنتُمْ تَعْلَمُونَ ۝ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ ۝ أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ"
    trl="*Wa-lā talbisū l-ḥaqqa bi-l-bāṭili wa-taktumū l-ḥaqqa wa-antum taʿlamūn · Wa-aqīmū ṣ-ṣalāta wa-ātū z-zakāta wa-rkaʿū maʿa r-rākiʿīn · A-taʾmurūna n-nāsa bi-l-birri wa-tansawna anfusakum wa-antum tatlūna l-kitāba a-fa-lā taʿqilūn*"
-   trad="Et ne recouvrez pas le *ḥaqq* de *bāṭil* et ne dissimulez pas le *ḥaqq* alors que vous savez. — Établissez la *ṣalāt*, faites parvenir la *zakāt*, et inclinez-vous avec ceux qui s'inclinent. — Commandez-vous aux gens le *birr* tout en vous oubliant vous-mêmes, alors que vous récitez le Livre ? Ne raisonnez-vous pas ?"
+   trad="Et ne recouvrez pas le *[ḥaqq](/etudes/trad-s2-bloc1/#haqq)* de *bāṭil* et ne dissimulez pas le *ḥaqq* alors que vous savez. — Établissez la *ṣalāt*, faites parvenir la *zakāt*, et inclinez-vous avec ceux qui s'inclinent. — Commandez-vous aux gens le *birr* tout en vous oubliant vous-mêmes, alors que vous récitez le Livre ? Ne raisonnez-vous pas ?"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="batil">
+<dt><span class="lex-trl">bāṭil</span></dt>
+<dd>racine *b-ṭ-l* : ce qui est vain, sans fondement, ce qui s'évanouit et ne tient pas — opposé exact du *ḥaqq* (déjà noté en [S.2:26](/etudes/trad-s2-bloc1/#haqq)). Le verset ne dit pas ici de quel *bāṭil* précis il s'agit : un **non-dit**, l'accent portant sur la structure — mélanger et dissimuler ce qui est établi sous ce qui ne tient pas.</dd>
+</div>
+<div class="lex-entree" id="birr">
+<dt><span class="lex-trl">birr</span></dt>
+<dd>racine *b-r-r* : l'étendue vaste et dégagée (la terre ferme, par opposition à la mer) ; par extension, l'accomplissement large et généreux du bien. Non réduit à « la bonté » ou « la piété » : le verset reproche ici de commander aux autres le *birr* tout en s'oubliant soi-même — l'écart entre la parole et l'acte.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:45–48"
@@ -175,6 +197,14 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="sabr">
+<dt><span class="lex-trl">ṣabr</span></dt>
+<dd>racine *ṣ-b-r* : retenir, contenir, tenir bon sans relâcher. Ibn Fāris : *ḥabs an-nafs* — retenir l'âme, l'empêcher de céder. Conservé en translittération : « patience » restreint la racine à une durée passive, quand *ṣabr* dit d'abord une retenue active.</dd>
+</div>
+<div class="lex-entree" id="khashiin">
+<dt><span class="lex-trl">khāshiʿīn</span></dt>
+<dd>racine *kh-sh-ʿ* : s'abaisser, se faire humble et calme devant plus grand que soi. Le verset ne dit rien de la posture physique : le texte définit lui-même les *khāshiʿīn* par ce qui suit — ceux qui ont la certitude intérieure de rencontrer leur *Rabb* et d'y retourner.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ittaqū / taqwā</span></dt>
 <dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
@@ -406,6 +436,16 @@ methode: "Dit / Non-dit / Inférence"
    trl="*Inna lladhīna āmanū wa-lladhīna hādū wa-n-naṣārā wa-ṣ-ṣābiʾīna man āmana bi-llāhi wa-l-yawmi l-ākhiri wa-ʿamila ṣāliḥan fa-lahum ajruhum ʿinda rabbihim wa-lā khawfun ʿalayhim wa-lā hum yaḥzanūn*"
    trad="Ceux qui ont cru, ceux qui ont pratiqué le judaïsme, les *naṣārā* et les *ṣābiʾūn* — quiconque parmi eux a cru en Allaah et au Jour dernier et a accompli des actes droits — à eux leur rétribution auprès de leur *Rabb* : nulle crainte sur eux, et ils ne seront pas attristés."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="sabiun">
+<dt><span class="lex-trl">ṣābiʾūn</span></dt>
+<dd>racine *ṣ-b-ʾ* : sortir d'une chose, passer à une autre, changer d'appartenance. Le verset nomme ce groupe aux côtés des croyants, des juifs et des *naṣārā* sans en préciser davantage la nature ou les croyances : un **non-dit**. Conservé en translittération.</dd>
+</div>
+</dl>
+</div>
 
 {:.callout .callout--pivot}
 **Verset pivot — S.2:62.** Ce verset énonce un principe cardinal : le critère de rétribution n'est pas l'appartenance communautaire mais la *foi en Allaah et au Jour dernier* et *l'accomplissement d'actes droits*. Quatre communautés sont nommées sans hiérarchie. **Non-dit** : le texte ne dit pas que toutes ces communautés sont également sur la *hudā* — il dit que parmi toutes, *man āmana wa-ʿamila ṣāliḥan* recevra sa rétribution.

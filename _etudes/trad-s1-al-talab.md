@@ -59,7 +59,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="hamd">
 <dt><span class="lex-trl">al-ḥamd</span></dt>
 <dd>racine *ḥ-m-d* : reconnaissance due pour une excellence intrinsèque, distincte du *shukr* (gratitude pour un bienfait reçu). Ibn Fāris : *al-thanāʾ bi-l-jamīl* — l'éloge pour la beauté propre. Conservé en translittération : « louange » ne rend pas l'aspect d'appartenance ontologique que marque *al-ḥamdu li-llāhi*.</dd>
 </div>
