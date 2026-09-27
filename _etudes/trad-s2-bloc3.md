@@ -77,8 +77,8 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">wayl</span></dt>
+<div class="lex-entree" id="wayl">
+<dt><span class="lex-trl">wayl / waylun</span></dt>
 <dd>racine *w-y-l* : interjection de malheur, adressée à quelqu'un pour dire sa perte ou sa ruine. Ibn Fāris (Maqāyīs) rattache la racine à l'idée de chute et de perte irrémédiable — non à un simple regret, mais à une déploration qui vaut constat de perte. Conservé en translittération : aucun mot français unique ne porte à la fois cette plainte et cette sanction — « malheur à » s'en approche sans en couvrir tout le champ. Voir aussi son emploi dans l'étude [Les *muttaqūn*](/etudes/muttaqun/).</dd>
 </div>
 </dl>
@@ -285,7 +285,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:93"
    ar="وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ"
    trl="*Wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūra khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū samiʿnā wa-ʿaṣaynā wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim qul biʾsamā yaʾmurukum bihi īmānukum in kuntum muʾminīn*"
-   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *[Ṭūr](/etudes/trad-s2-bloc2/#tur)* au-dessus de vous : « Saisissez avec force ce que Nous vous avons donné, et écoutez. » Ils dirent : « Nous avons entendu, et nous avons désobéi. » Et leurs cœurs furent abreuvés du *ʿijl* à cause de leur *kufr*. Dis : « Quel mauvais ordre que celui que votre foi vous donne, si vous êtes croyants ! »"
+   trad="Et quand Nous avons pris votre *mīthāq* et avons élevé le *[Ṭūr](/etudes/trad-s2-bloc2/#tur)* au-dessus de vous : « Saisissez avec force ce que Nous vous avons donné, et écoutez. » Ils dirent : « Nous avons entendu, et nous avons désobéi. » Et leurs cœurs furent abreuvés du *[ʿijl](/etudes/trad-s2-bloc2/#ijl)* à cause de leur *kufr*. Dis : « Quel mauvais ordre que celui que votre foi vous donne, si vous êtes croyants ! »"
 %}
 
 <div class="notes-lexicales">

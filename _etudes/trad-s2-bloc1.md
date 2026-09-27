@@ -239,6 +239,16 @@ methode: "Dit / Non-dit / Inférence"
    trad="Et lorsqu'on leur dit : « Ne semez pas la corruption sur la terre », ils disent : « Nous ne sommes que des *muṣliḥūn*. » — Assurément, ce sont eux les *mufsidūn* — mais ils n'en ont pas conscience."
 %}
 
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="muslihun">
+<dt><span class="lex-trl">muṣliḥūn / mufsidūn</span></dt>
+<dd>couple antithétique de deux racines : *ṣ-l-ḥ* (rendre droit, remettre en bon état, faire cesser un désordre) et *f-s-d* (corrompre, faire sortir une chose de son état sain). Ibn Fāris (Maqāyīs al-Lugha) : *al-ṣalāḥ* est *naqīḍ al-fasād* — l'opposé exact du *fasād*. Le texte ne dit pas ce qui, concrètement, constitue ici le *fasād* qu'ils nient commettre : un **non-dit**. Conservés en translittération : « réformateurs » / « corrupteurs » figent le couple dans un registre social ou politique moderne que la racine ne pose pas d'elle-même.</dd>
+</div>
+</dl>
+</div>
+
 {% include verset.html
    ref="S.2:13"
    ar="وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ ۗ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَٰكِن لَّا يَعْلَمُونَ"
@@ -264,7 +274,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:14–16"
    ar="وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ ۝ اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ ۝ أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ فَمَا رَبِحَت تِّجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ"
    trl="*Wa-idhā laqū lladhīna āmanū qālū āmannā wa-idhā khalaw ilā shayāṭīnihim qālū innā maʿakum innamā naḥnu mustahziʾūn · Allāhu yastahziʾu bihim wa-yamadduhum fī ṭughyānihim yaʿmahūn · Ulāʾika lladhīna shtarawu ḍ-ḍalālata bi-l-hudā fa-mā rabiḥat tijāratuhum wa-mā kānū muhtadīn*"
-   trad="Quand ils rencontrent ceux qui ont cru, ils disent : « Nous croyons » ; et quand ils se retrouvent seuls avec leurs *shayāṭīn*, ils disent : « Nous sommes avec vous — nous les raillons. » — Allaah les rend dérisoires et les prolonge dans leur *ṭughyān* — égarés sans repère. — Voilà ceux qui ont troqué le *hudā* contre la *ḍalāla* : leur commerce n'a fait aucun profit."
+   trad="Quand ils rencontrent ceux qui ont cru, ils disent : « Nous croyons » ; et quand ils se retrouvent seuls avec leurs *shayāṭīn*, ils disent : « Nous sommes avec vous — nous les raillons. » — Allaah les rend dérisoires et les prolonge dans leur *ṭughyān* — égarés sans repère. — Voilà ceux qui ont troqué le *hudā* contre la *[ḍalāla](/etudes/trad-s1-al-talab/#dalal)* : leur commerce n'a fait aucun profit."
 %}
 
 <div class="notes-lexicales">
@@ -346,6 +356,18 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">firāsh</span></dt>
 <dd>ce sur quoi on s'étend, base plane et stable. Non simplement « tapis » : l'image est celle d'une surface habitable.</dd>
 </div>
+<div class="lex-entree" id="binaa">
+<dt><span class="lex-trl">bināʾ</span></dt>
+<dd>racine *b-n-y* : construire, bâtir, édifier. *Bināʾ* : une structure édifiée, assemblée pièce par pièce — non un simple espace, mais une architecture. Le vis-à-vis *firāsh* (surface plane où l'on s'étend) / *bināʾ* (structure édifiée au-dessus) pose la terre et le *samāʾ* comme les deux limites d'un espace habité, sans plus de précision cosmologique que cela.</dd>
+</div>
+<div class="lex-entree" id="thamarat">
+<dt><span class="lex-trl">thamarāt</span></dt>
+<dd>racine *th-m-r* : fruit, résultat, produit d'un processus. Ibn Fāris (Maqāyīs al-Lugha) rattache la racine à l'idée de ce qui est produit et récolté au terme d'une croissance. Conservé en translittération ici : le terme couvre aussi bien le fruit végétal que, par extension, le résultat de toute chose menée à son terme.</dd>
+</div>
+<div class="lex-entree" id="rizq">
+<dt><span class="lex-trl">rizq</span></dt>
+<dd>racine *r-z-q* : ce qui est alloué, part de provision accordée. Ibn Fāris (Maqāyīs al-Lugha) rattache la racine à l'idée d'une part donnée en subsistance, sans que le mot se limite à la nourriture. Conservé en translittération lorsque le terme est mis en relief comme ici : « subsistance » ou « nourriture » restreignent le champ que couvre *rizq*.</dd>
+</div>
 <div class="lex-entree" id="andad">
 <dt><span class="lex-trl">andād</span></dt>
 <dd>pluriel de *nidd* : égaux, rivaux, contreparties. Al-Farāhīdī : *al-mithl wa-n-naẓīr* — ce qui est mis en équivalence. *Andād* : ce qu'on assigne comme équivalents à Allaah. Le *shirk* au sens structurel.</dd>
@@ -361,8 +383,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:23"
    ar="وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ وَادْعُوا شُهَدَاءَكُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ"
    trl="*Wa-in kuntum fī raybin mimmā nazzalnā ʿalā ʿabdinā fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in kuntum ṣādiqīn*"
-   trad="Si vous êtes dans le doute de ce que Nous avons révélé à Notre serviteur, apportez une *sūra* comparable et invoquez vos témoins en dehors d'Allaah — si vous êtes véridiques."
+   trad="Si vous êtes dans le doute de ce que Nous avons révélé à Notre serviteur, apportez une *[sūra](#sura)* comparable et invoquez vos témoins en dehors d'Allaah — si vous êtes véridiques."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="sura">
+<dt><span class="lex-trl">sūra</span></dt>
+<dd>racine *s-w-r* : enceinte, ce qui délimite et enclôt (*sūr*, le mur d'enceinte d'une ville). Ibn Manẓūr (Lisān al-ʿArab) rattache *sūra* à une portion délimitée, détachée du reste, à la manière d'un rang ou d'un degré construit. Conservé en translittération : « chapitre » (du latin *capitulum*, petite tête) n'a pas cette image de délimitation par une enceinte.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.2:24"
@@ -379,8 +411,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:25"
    ar="وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ"
    trl="*Wa-bashshiri lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti anna lahum jannātin tajrī min taḥtihā l-anhāru — kullamā ruziqū minhā min thamaratin rizqan qālū hādhā lladhī ruziqnā min qablu wa-utū bihi mutashābihan wa-lahum fīhā azwājun muṭahharatun wa-hum fīhā khālidūn*"
-   trad="Annonce la bonne nouvelle à ceux qui ont cru et accompli les actes droits : à eux des *jannāt* sous lesquelles coulent des fleuves — chaque fois qu'on leur accordera un fruit comme *rizq*, ils diront : « C'est ce dont on nous a pourvus auparavant » — et on leur en donnera de similaires. À eux des épouses purifiées, et ils y demeureront éternellement."
+   trad="Annonce la bonne nouvelle à ceux qui ont cru et accompli les actes droits : à eux des *jannāt* sous lesquelles coulent des fleuves — chaque fois qu'on leur accordera un fruit comme *[rizq](#rizq)*, ils diront : « C'est ce dont on nous a pourvus auparavant » — et on leur en donnera de similaires. À eux des épouses purifiées, et ils y demeureront éternellement."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="janna">
+<dt><span class="lex-trl">janna / jannāt</span></dt>
+<dd>racine *j-n-n* : ce qui est couvert, dérobé à la vue (même mouvement de racine que *jinn*, *janīn*, *junna* le bouclier qui couvre). *Janna* / *jannāt* : lieu de végétation si dense qu'elle en couvre le sol. Le texte ne précise ici ni l'emplacement ni la nature exacte de ce qui est promis — un **non-dit**. Conservé en translittération plutôt que « jardin », qui ne porte pas l'idée de dissimulation par la densité du couvert. Cf. l'occurrence au singulier en S.2:35, dans le récit d'Ādam.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -397,12 +439,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:27"
    ar="الَّذِينَ يَنقُضُونَ عَهْدَ اللَّهِ مِن بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ"
    trl="*Alladhīna yanquḍūna ʿahda llāhi min baʿdi mīthāqihi wa-yaqṭaʿūna mā amara llāhu bihi an yūṣala wa-yufsidūna fī l-arḍi — ulāʾika humu l-khāsirūn*"
-   trad="Ceux qui rompent le pacte d'Allaah après l'avoir solidement scellé, qui rompent ce qu'Allaah a ordonné de relier, et qui sèment la corruption sur la terre — ceux-là sont les *khāsirūn*."
+   trad="Ceux qui rompent le pacte d'Allaah après l'avoir solidement scellé, qui rompent ce qu'Allaah a ordonné de relier, et qui sèment la corruption sur la terre — ceux-là sont les *[khāsirūn](#khasirun)*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="khasirun">
+<dt><span class="lex-trl">khāsirūn</span></dt>
+<dd>racine *kh-s-r* : perdre, subir une diminution nette, un déficit. Ibn Fāris (Maqāyīs al-Lugha) rattache la racine à l'idée d'un manque, d'une perte par rapport à un capital de départ. Conservé en translittération : « les perdants » en français a un usage trop courant et affaibli (jeu, compétition) pour porter le poids de la racine ici.</dd>
+</div>
 <div class="lex-entree" id="haqq">
 <dt><span class="lex-trl">ḥaqq</span></dt>
 <dd>racine *ḥ-q-q* : ce qui est établi, avéré, ce qui correspond effectivement à ce qui est. Al-Farāhīdī : *al-ḥaqq naqīḍ al-bāṭil* — le *ḥaqq* est l'opposé exact du *bāṭil*. Non simplement « la vérité » (qui, en français, se limite souvent à l'énoncé vrai) : le *ḥaqq* couvre aussi ce qui est fondé, ce qui est dû, ce qui tient. Conservé en translittération faute d'un mot français unique couvrant l'ensemble de ce champ.</dd>
@@ -438,6 +484,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">stawā</span></dt>
 <dd>racine *s-w-y* : s'établir, se stabiliser, se diriger vers avec maîtrise. Conservé en translittération : toute traduction de ce terme appliqué à Allaah risque d'introduire une connotation de lieu ou de mouvement spatial contraire à *laysa ka-mithlihi shayʾ* (S.42:11).</dd>
+</div>
+<div class="lex-entree" id="sama">
+<dt><span class="lex-trl">samāʾ / samāwāt</span></dt>
+<dd>racine *s-m-w* : l'élévation, la hauteur. Ibn Fāris (Maqāyīs al-Lugha) rattache la racine à *al-ʿuluww wa-l-irtifāʿ* — ce qui est élevé, haussé. Ibn Manẓūr (Lisān al-ʿArab) rapporte que *as-samāʾ* désigne tout ce qui est au-dessus et couvre celui qui est dessous — non un objet précis, localisable, identifiable au ciel bleu visible de l'atmosphère. Conservé en translittération ici pour le même motif que *stawā* ci-dessus : « ciel »/« cieux » installe une image concrète et une géographie que la racine elle-même ne pose pas nécessairement.</dd>
 </div>
 </dl>
 </div>

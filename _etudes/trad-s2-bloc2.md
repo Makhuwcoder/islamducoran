@@ -66,13 +66,13 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:32"
    ar="قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ"
    trl="*Qālū subḥānaka lā ʿilma lanā illā mā ʿallamtanā innaka anta l-ʿalīmu l-ḥakīm*"
-   trad="Ils dirent : « *Subḥānaka* — nulle connaissance pour nous sinon ce que Tu nous as enseigné — Tu es *al-ʿalīmu l-ḥakīm*. »"
+   trad="Ils dirent : « *[Subḥānaka](#subhana)* — nulle connaissance pour nous sinon ce que Tu nous as enseigné — Tu es *al-ʿalīmu l-ḥakīm*. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="subhana">
 <dt><span class="lex-trl">subḥāna</span></dt>
 <dd>racine *s-b-ḥ* : nager, se mouvoir librement dans un vaste espace. *Subḥāna llāh* : ce que l'on peut dire lorsqu'on parle d'Allaah comme entièrement dégagé de toute limitation, entièrement au-delà de toute imperfection. Non traduit par « gloire à » : cette formule fait de la phrase une louange adressée à Allaah, alors que *subḥāna* dit d'abord ce qu'on peut dire d'Allaah lui-même : dégagé de toute imperfection. La louange est une autre notion, exprimée par le mot *ḥamd*.</dd>
 </div>
@@ -101,16 +101,12 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:35"
    ar="وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ"
    trl="*Wa-qulnā yā Ādamu skun anta wa-zawjuka l-jannata wa-kulā minhā raghadam ḥaythu shiʾtumā wa-lā taqrabā hādhihi sh-shajarata fa-takūnā mina ẓ-ẓālimīn*"
-   trad="Nous dîmes : « Ô Ādam, demeure, toi et ton épouse, dans la *janna*, et mangez librement de ce qu'il s'y trouve comme nourriture, où vous voudrez — mais n'approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »"
+   trad="Nous dîmes : « Ô Ādam, demeure, toi et ton épouse, dans la *[janna](/etudes/trad-s2-bloc1/#janna)*, et mangez librement de ce qu'il s'y trouve comme nourriture, où vous voudrez — mais n'approchez pas cet arbre, autrement vous seriez des *ẓālimīn*. »"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree" id="janna">
-<dt><span class="lex-trl">janna</span></dt>
-<dd>racine *j-n-n* : ce qui est couvert, dérobé à la vue (le même mouvement de racine que *jinn*, *janīn*). *Janna* désigne un lieu de végétation dense au point de dissimuler le sol. Ce verset ne précise ni l'emplacement ni la nature exacte de cette *janna* : des **non-dits**. Conservé en translittération plutôt que « jardin », qui ne porte pas l'idée de dissimulation par la densité du couvert.</dd>
-</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ẓālimīn</span></dt>
 <dd>racine *ẓ-l-m* : obscurité, déplacement d'une chose hors de sa place juste. Al-Farāhīdī : *waḍʿ al-shayʾ fī ghayri mawḍiʿihi* — placer une chose là où elle n'a pas sa place. Non simplement « injustes » : le *ẓulm* est un désordre ontologique, un déséquilibre.</dd>

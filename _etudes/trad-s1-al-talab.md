@@ -193,7 +193,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">al-maghḍūb ʿalayhim</span></dt>
 <dd>racine *gh-ḍ-b* : le *ghaḍab* est une réaction de rejet, un retrait de la faveur. Ceux sur qui s'abat le *ghaḍab*. Le texte ne désigne nominalement aucun groupe. Toute identification spécifique excède le texte.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="dalal">
 <dt><span class="lex-trl">aḍ-ḍāllīn</span></dt>
 <dd>racine *ḍ-l-l* : ceux qui errent, qui ont perdu le chemin. Conservé en translittération pour éviter « les égarés » qui transporte des connotations extratextuelles. *Inférence non autorisée* : identifier les *ḍāllīn* à une religion ou communauté précise — le texte ne le fait pas.</dd>
 </div>
