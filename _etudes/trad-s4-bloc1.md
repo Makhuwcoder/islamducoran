@@ -151,12 +151,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:4"
    ar="وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَّرِيئًا"
    trl="Wa-ātu n-nisāʾa ṣaduqātihinna niḥlatan — fa-in ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu hanīʾan marīʾā"
-   trad="Donnez aux femmes leurs *ṣaduqāt* (dots) comme *niḥla* (don gratuit). Si elles vous cèdent volontiers, de leur propre disposition intérieure (*nafsan*), une partie de celle-ci, alors consommez-la en toute quiétude et bienfait."
+   trad="Donnez aux femmes leurs *[ṣaduqāt](#saduqat)* (dots) comme *niḥla* (don gratuit). Si elles vous cèdent volontiers, de leur propre disposition intérieure (*nafsan*), une partie de celle-ci, alors consommez-la en toute quiétude et bienfait."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="saduqat">
+<dt><span class="lex-trl">ṣaduqāt</span></dt>
+<dd>racine <em>ṣ-d-q</em> : la vérité, la sincérité, la conformité entre la parole et l'acte. *Ṣaduqa* (dot) : ce qui atteste par un acte tangible la sincérité de l'engagement pris — non un prix d'acquisition de la femme, mais un don qui vérifie l'engagement. Conservé en translittération : « dot » vient du latin *dos/dotare* et ne porte pas ce lien étymologique à la sincérité.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">niḥla</span></dt>
 <dd>racine <em>n-ḥ-l</em> : don pur, gratuit, sans contrepartie attendue. Le terme souligne que la *ṣaduqa* n'est pas un prix d'acquisition mais un don dû, remis à la femme elle-même — non à sa famille.</dd>
@@ -205,12 +209,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:6"
    ar="وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا"
    trl="Wa-btalu l-yatāmā ḥattā idhā balaghu n-nikāḥa fa-in ānastum minhum rushdan fa-dfaʿū ilayhim amwālahum — wa-lā taʾkulūhā isrāfan wa-bidāran an yakbarū — wa-man kāna ghaniyyan fa-l-yastaʿfif wa-man kāna faqīran fa-l-yaʾkul bi-l-maʿrūf — fa-idhā dafaʿtum ilayhim amwālahum fa-shhidū ʿalayhim — wa-kafā bi-llāhi ḥasībā"
-   trad="Éprouvez les orphelins jusqu'à ce qu'ils atteignent l'âge du mariage (*balaghu n-nikāḥ*) ; si vous discernez alors chez eux un *rushd* (maturité de jugement droit), remettez-leur leurs biens. Ne les dévorez pas par *isrāf* (excès) ni par *bidār* (hâte), de peur qu'ils ne grandissent. Que celui qui est aisé s'abstienne totalement (*yastaʿfif*), et que celui qui est dans le besoin en consomme selon le *maʿrūf*. Et lorsque vous leur remettez leurs biens, prenez des témoins sur eux — Allaah suffit comme *Ḥasīb* (Ce qui tient le compte exact)."
+   trad="Éprouvez les orphelins jusqu'à ce qu'ils atteignent l'âge du mariage (*[balaghu n-nikāḥ](#balagh)*) ; si vous discernez alors chez eux un *rushd* (maturité de jugement droit), remettez-leur leurs biens. Ne les dévorez pas par *isrāf* (excès) ni par *bidār* (hâte), de peur qu'ils ne grandissent. Que celui qui est aisé s'abstienne totalement (*yastaʿfif*), et que celui qui est dans le besoin en consomme selon le *maʿrūf*. Et lorsque vous leur remettez leurs biens, prenez des témoins sur eux — Allaah suffit comme *Ḥasīb* (Ce qui tient le compte exact)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="balagh">
+<dt><span class="lex-trl">balaghu n-nikāḥ</span></dt>
+<dd>*balagha* (racine <em>b-l-gh</em>) : atteindre, parvenir à un terme. *Nikāḥ* (racine <em>n-k-ḥ</em>) : l'union conjugale. « Atteindre le *nikāḥ* » : parvenir à l'âge où l'union devient concevable — le texte pose ce repère physiologique sans le chiffrer, et le distingue du *rushd* qui suit, critère de maturité de jugement, non d'âge.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">rushd</span></dt>
 <dd>racine <em>r-sh-d</em> : maturité de jugement droit, capacité avérée à gérer sagement. Le texte pose ce seul critère — constaté, non présumé — pour la remise des biens, sans mention d'un âge chiffré.</dd>
@@ -238,14 +246,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:7"
    ar="لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِّمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا"
    trl="Li-r-rijāli naṣībun mimmā taraka l-wālidāni wa-l-aqrabūna wa-li-n-nisāʾi naṣībun mimmā taraka l-wālidāni wa-l-aqrabūna mimmā qalla minhu aw kathur — naṣīban mafrūḍā"
-   trad="Aux hommes une part (*naṣīb*) de ce qu'ont laissé les deux parents et les proches, et aux femmes une part de ce qu'ont laissé les deux parents et les proches — que cela soit peu ou abondant : une part *farḍ* (fixée avec obligation)."
+   trad="Aux hommes une *[naṣīb](#nasib)* (part) de ce qu'ont laissé les deux parents et les proches, et aux femmes une part de ce qu'ont laissé les deux parents et les proches — que cela soit peu ou abondant : une part *[farḍ](#fard)* (fixée avec obligation)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">naṣīban mafrūḍan</span></dt>
+<div class="lex-entree" id="nasib">
+<dt><span class="lex-trl">naṣīb</span></dt>
+<dd>racine <em>n-ṣ-b</em> : ce qui est dressé, planté, assigné en un lieu fixe — d'où la part attribuée, fixée. Conservé en translittération : « part » en français ne porte pas cette image d'une chose dressée, assignée à demeure.</dd>
+</div>
+<div class="lex-entree" id="fard">
+<dt><span class="lex-trl">naṣīban mafrūḍan / farḍ</span></dt>
 <dd>racine <em>f-r-ḍ</em> : une fraction légale fixée, contraignante — non laissée à l'appréciation des héritiers. Le verset pose le principe général (une part pour chaque sexe) avant que S4:11–12 n'en donnent les proportions.</dd>
 </div>
 </dl>
@@ -259,8 +271,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:8"
    ar="وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينُ فَارْزُقُوهُم مِّنْهُ وَقُولُوا لَهُمْ قَوْلًا مَّعْرُوفًا"
    trl="Wa-idhā ḥaḍara l-qismata ūlu l-qurbā wa-l-yatāmā wa-l-masākīnu fa-rzuqūhum minhu wa-qūlū lahum qawlan maʿrūfā"
-   trad="Et si, lors du partage, sont présents des proches (*ūlū l-qurbā*), des orphelins et des indigents (*masākīn*), donnez-leur en une part, et adressez-leur une parole *maʿrūf*."
+   trad="Et si, lors du partage, sont présents des proches (*[ūlū l-qurbā](#qurba)*), des orphelins et des indigents (*[masākīn](#masakin)*), donnez-leur en une part, et adressez-leur une parole *maʿrūf*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="qurba">
+<dt><span class="lex-trl">ūlū l-qurbā</span></dt>
+<dd>racine <em>q-r-b</em> : la proximité. *Ūlū l-qurbā* : ceux qui détiennent la proximité — les proches, sans que le degré de parenté visé soit ici précisé par le texte lui-même.</dd>
+</div>
+<div class="lex-entree" id="masakin">
+<dt><span class="lex-trl">masākīn</span></dt>
+<dd>pluriel de *miskīn*, racine <em>s-k-n</em> : ce qui s'arrête, se stabilise, s'apaise (le même mouvement que *sakīna*). *Miskīn* : celui que le manque a rendu immobile, dépourvu de mouvement pour subvenir à ses besoins — distinct du *faqīr* (S4:6), dont le manque n'implique pas nécessairement cette immobilisation.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -270,12 +296,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:9"
    ar="وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا"
    trl="Wa-l-yakhsha lladhīna law tarakū min khalfihim dhurriyyatan ḍiʿāfan khāfū ʿalayhim fa-l-yattaqu llāha wa-l-yaqūlū qawlan sadīdā"
-   trad="Que redoutent [cette situation] ceux qui, s'ils laissaient derrière eux une descendance (*dhurriyya*) vulnérable, craindraient pour elle — qu'ils se constituent donc une taqwā d'Allaah et disent une parole *sadīd* (juste, sans faille)."
+   trad="Que redoutent [cette situation] ceux qui, s'ils laissaient derrière eux une descendance (*[dhurriyya](#dhurriyya)*) vulnérable, craindraient pour elle — qu'ils se constituent donc une taqwā d'Allaah et disent une parole *sadīd* (juste, sans faille)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="dhurriyya">
+<dt><span class="lex-trl">dhurriyya</span></dt>
+<dd>racine <em>dh-r-r</em> : ce qui est dispersé, répandu en petites parcelles (*dharra* : la particule infime). *Dhurriyya* : la descendance, envisagée comme une dissémination continue à partir d'une souche. Conservé en translittération.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">destinataire du verset</span></dt>
 <dd><strong>Non-dit</strong> : le texte ne nomme pas explicitement à qui s'adresse cette mise en garde. Sa position — immédiatement après les versets sur les biens des orphelins — suggère une analogie (traiter les orphelins d'autrui comme on voudrait que sa propre descendance soit traitée), mais ce lien reste une <em>inférence</em> de contexte, non une affirmation du texte lui-même.</dd>
@@ -295,8 +325,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:10"
    ar="إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا"
    trl="Inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna fī buṭūnihim nāran wa-sa-yaṣlawna saʿīrā"
-   trad="Ceux qui dévorent les biens des orphelins par *ẓulm* ne dévorent, dans leurs ventres, que du feu — et ils brûleront bientôt dans un *saʿīr* (brasier)."
+   trad="Ceux qui dévorent les biens des orphelins par *ẓulm* ne dévorent, dans leurs ventres, que du feu — et ils brûleront bientôt dans un *[saʿīr](#saair)* (brasier)."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="saair">
+<dt><span class="lex-trl">saʿīr</span></dt>
+<dd>racine <em>s-ʿ-r</em> : attiser, embraser, porter un feu à son intensité maximale (le mot est aussi celui du prix du marché « attisé » par la demande). *Saʿīr* : le feu porté à son comble, entretenu, attisé. Conservé en translittération : « brasier » en rend l'intensité sans le lien à l'idée d'attisement actif et continu.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -311,15 +351,19 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:11"
    ar="يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِّنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِن كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِن بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا"
    trl="Yūṣīkumu llāhu fī awlādikum — li-dh-dhakari mithlu ḥaẓẓi l-unthayayn — fa-in kunna nisāʾan fawqa thnatayni fa-lahunna thuluthā mā taraka — wa-in kānat wāḥidatan fa-lahā n-niṣf — wa-li-abawayhi li-kulli wāḥidin minhumā s-sudusu mimmā taraka in kāna lahu walad — fa-in lam yakun lahu waladun wa-warithahu abawāhu fa-li-ummihi th-thuluth — fa-in kāna lahu ikhwatun fa-li-ummihi s-sudus — min baʿdi waṣiyyatin yūṣī bihā aw dayn — ābāʾukum wa-abnāʾukum lā tadrūna ayyuhum aqrabu lakum nafʿan — farīḍatan mina llāh — inna llāha kāna ʿalīman ḥakīmā"
-   trad="Allaah vous prescrit, au sujet de vos enfants (*awlād*) : au garçon (*dhakar*) l'équivalent de la part de deux filles. S'il y a plus de deux filles, à elles les deux tiers de ce qui est laissé ; s'il n'y en a qu'une, à elle la moitié. Et pour ses deux parents, à chacun d'eux le sixième de ce qui est laissé, s'il [le défunt] a un *walad* (enfant). S'il n'a pas de *walad* et que ses deux parents héritent de lui, à sa mère le tiers. S'il a des *ikhwa* (frères et sœurs), à sa mère le sixième — après [exécution] d'un legs (*waṣiyya*) qu'il aurait ordonné, ou d'une dette. Vos pères et vos fils — vous ne savez pas lesquels d'entre eux vous sont les plus proches en utilité. [Ceci est] une prescription fixée (*farīḍa*) venant d'Allaah — Allaah est, certes, *ʿAlīm* (Savant), *Ḥakīm* (Sage)."
+   trad="Allaah vous prescrit, au sujet de vos enfants (*[awlād](#walad)*) : au garçon (*[dhakar](#dhakar)*) l'équivalent de la part de deux filles. S'il y a plus de deux filles, à elles les deux tiers de ce qui est laissé ; s'il n'y en a qu'une, à elle la moitié. Et pour ses deux parents, à chacun d'eux le sixième de ce qui est laissé, s'il [le défunt] a un *walad* (enfant). S'il n'a pas de *walad* et que ses deux parents héritent de lui, à sa mère le tiers. S'il a des *ikhwa* (frères et sœurs), à sa mère le sixième — après [exécution] d'un legs (*waṣiyya*) qu'il aurait ordonné, ou d'une dette. Vos pères et vos fils — vous ne savez pas lesquels d'entre eux vous sont les plus proches en utilité. [Ceci est] une prescription fixée (*farīḍa*) venant d'Allaah — Allaah est, certes, *ʿAlīm* (Savant), *Ḥakīm* (Sage)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">walad</span></dt>
+<div class="lex-entree" id="walad">
+<dt><span class="lex-trl">walad / awlād</span></dt>
 <dd>racine <em>w-l-d</em> (engendrer) : le terme n'est pas marqué au masculin dans sa forme lexicale — il désigne l'enfant, le descendant, indépendamment du sexe, à la différence d'*ibn* (fils) employé plus loin dans le même verset pour un autre usage (« vos fils », *abnāʾukum*). C'est un fait lexical <em>dit</em> par la langue elle-même ; ses conséquences précises sur le calcul des parts selon le sexe de ce *walad* relèvent d'un raisonnement ultérieur, non traité ici.</dd>
+</div>
+<div class="lex-entree" id="dhakar">
+<dt><span class="lex-trl">dhakar</span></dt>
+<dd>racine <em>dh-k-r</em> : le mâle — distingué ici d'*unthā* (la femelle). La racine est aussi celle du souvenir et de la mention (*dhikr*) ; les lexicographes ne rattachent pas les deux champs l'un à l'autre par une dérivation directe attestée, mais notent la coïncidence des lettres. Conservé en translittération dans ce contexte de partage successoral, où il est mis en regard direct avec *unthayayn* (deux femelles).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ikhwa</span></dt>
@@ -355,7 +399,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:12"
    ar="وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِن بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ ۚ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّن بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِّنْهُمَا السُّدُسُ ۚ فَإِن كَانُوا أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِن بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِّنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ"
    trl="Wa-lakum niṣfu mā taraka azwājukum in lam yakun lahunna walad — fa-in kāna lahunna waladun fa-lakumu r-rubuʿu mimmā tarakna — min baʿdi waṣiyyatin yūṣīna bihā aw dayn — wa-lahunna r-rubuʿu mimmā taraktum in lam yakun lakum walad — fa-in kāna lakum waladun fa-lahunna th-thumunu mimmā taraktum — min baʿdi waṣiyyatin tūṣūna bihā aw dayn — wa-in kāna rajulun yūrathu kalālatan awi mraʾatun wa-lahu akhun aw ukhtun fa-li-kulli wāḥidin minhumā s-sudus — fa-in kānū akthara min dhālika fa-hum shurakāʾu fi th-thuluth — min baʿdi waṣiyyatin yūṣā bihā aw daynin ghayra muḍārr — waṣiyyatan mina llāh — wa-llāhu ʿalīmun ḥalīm"
-   trad="À vous [les époux], la moitié de ce que laissent vos épouses, si elles n'ont pas de *walad* ; si elles ont un *walad*, à vous le quart de ce qu'elles laissent — après [exécution] d'un legs qu'elles auraient ordonné, ou d'une dette. Et à elles le quart de ce que vous laissez, si vous n'avez pas de *walad* ; si vous avez un *walad*, à elles le huitième de ce que vous laissez — après [exécution] d'un legs que vous auriez ordonné, ou d'une dette. Et si un homme dont on hérite [meurt] en *kalāla*, ou une femme [de même], et qu'il ou elle a un frère ou une sœur, à chacun des deux le sixième ; s'ils sont plus nombreux que cela, ils sont associés (*shurakāʾ*) dans le tiers — après [exécution] d'un legs qui aurait été ordonné, ou d'une dette, sans préjudice causé (*ghayra muḍārr*) — prescription venant d'Allaah. Allaah est *ʿAlīm* (Savant), *Ḥalīm* (Longanime)."
+   trad="À vous [les époux], la moitié de ce que laissent vos épouses, si elles n'ont pas de *walad* ; si elles ont un *walad*, à vous le quart de ce qu'elles laissent — après [exécution] d'un legs qu'elles auraient ordonné, ou d'une dette. Et à elles le quart de ce que vous laissez, si vous n'avez pas de *walad* ; si vous avez un *walad*, à elles le huitième de ce que vous laissez — après [exécution] d'un legs que vous auriez ordonné, ou d'une dette. Et si un homme dont on hérite [meurt] en *kalāla*, ou une femme [de même], et qu'il ou elle a un frère ou une sœur, à chacun des deux le sixième ; s'ils sont plus nombreux que cela, ils sont associés (*[shurakāʾ](/etudes/trad-s2-bloc3/#shirk)*) dans le tiers — après [exécution] d'un legs qui aurait été ordonné, ou d'une dette, sans préjudice causé (*ghayra muḍārr*) — prescription venant d'Allaah. Allaah est *ʿAlīm* (Savant), *[Ḥalīm](#halim)* (Longanime)."
 %}
 
 <div class="notes-lexicales">
@@ -368,6 +412,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">ghayra muḍārr</span></dt>
 <dd>racine <em>ḍ-r-r</em> : « sans nuire » — condition explicitement attachée à la validité du legs ou de la dette invoqués : le testateur ne doit pas s'en servir pour léser les héritiers désignés par les parts qui précèdent.</dd>
+</div>
+<div class="lex-entree" id="halim">
+<dt><span class="lex-trl">ḥalīm</span></dt>
+<dd>racine <em>ḥ-l-m</em> : la retenue devant ce qui provoquerait la précipitation ou la colère, la maîtrise de soi qui diffère la réaction. Ce que l'on peut dire lorsqu'on parle d'Allaah comme *Ḥalīm* : Ce qui ne précipite pas la sanction bien qu'Il en ait pleine capacité. Distinct de *ʿAfuww* (Ce qui efface) et de *Ghafūr* (Ce qui couvre la faute) : le *ḥilm* porte sur le délai, non sur l'effacement.</dd>
 </div>
 </dl>
 </div>
@@ -439,7 +487,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:16"
    ar="وَاللَّذَانِ يَأْتِيَانِهَا مِنكُمْ فَآذُوهُمَا ۖ فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا ۗ إِنَّ اللَّهَ كَانَ تَوَّابًا رَّحِيمًا"
    trl="Wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā — fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā — inna llāha kāna tawwāban raḥīmā"
-   trad="Et les deux d'entre vous qui la commettent, importunez-les (*ādhūhumā*) tous les deux ; mais s'ils reviennent (*tābā*) et se réforment (*aṣlaḥā*), détournez-vous d'eux — Allaah est, certes, *at-Tawwāb* (Ce qui accueille sans cesse le retour), *ar-Raḥīm*."
+   trad="Et les deux d'entre vous qui la commettent, importunez-les (*ādhūhumā*) tous les deux ; mais s'ils reviennent (*[tābā](#taba)*) et se réforment (*[aṣlaḥā](/etudes/trad-s2-bloc1/#muslihun)*), détournez-vous d'eux — Allaah est, certes, *[at-Tawwāb](#tawwab)* (Ce qui accueille sans cesse le retour), *ar-Raḥīm*."
 %}
 
 <div class="notes-lexicales">
@@ -448,6 +496,14 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">ādhūhumā</span></dt>
 <dd>racine <em>ʾ-dh-y</em> : causer un tort ou un désagrément, sans plus de précision. <strong>Non-dit</strong> : le texte ne précise pas la nature de cette mesure, à la différence de la réclusion explicitement décrite au verset précédent.</dd>
+</div>
+<div class="lex-entree" id="taba">
+<dt><span class="lex-trl">tāba / yatūbūn</span></dt>
+<dd>racine <em>t-w-b</em> : revenir, faire retour — verbe de mouvement avant d'être un terme technique. Ibn Fāris (Maqāyīs al-Lugha) rattache la racine à *al-rujūʿ* — le retour, exactement comme pour *mathāba*/*thawāb* (racine voisine *th-w-b*, voir S.2:125). Conservé en translittération sous la forme « faire un retour » plutôt que « se repentir » : le français « repentir » insiste sur le regret intérieur, quand la racine arabe insiste sur le mouvement même du retour.</dd>
+</div>
+<div class="lex-entree" id="tawwab">
+<dt><span class="lex-trl">at-Tawwāb</span></dt>
+<dd>forme d'intensité (*fawwāl*) de la racine *t-w-b* : ce qui accueille sans cesse, à chaque fois, le retour de qui revient. Ce que l'on peut dire lorsqu'on parle d'Allaah comme *at-Tawwāb* : Ce dont l'accueil du retour ne se lasse ni ne se limite dans le nombre de fois où il est sollicité.</dd>
 </div>
 </dl>
 </div>
@@ -460,7 +516,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:17"
    ar="إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُولَٰئِكَ يَتُوبُ اللَّهُ عَلَيْهِمْ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا"
    trl="Innamā t-tawbatu ʿalā llāhi li-lladhīna yaʿmalūna s-sūʾa bi-jahālatin thumma yatūbūna min qarībin fa-ulāʾika yatūbu llāhu ʿalayhim — wa-kāna llāhu ʿalīman ḥakīmā"
-   trad="Le retour [accueilli] ne revient qu'à Allaah, pour ceux qui commettent le mal par *jahāla* puis reviennent (*yatūbūn*) sans délai (*min qarīb*) — ceux-là, Allaah accueille leur retour. Allaah est *ʿAlīm*, *Ḥakīm*."
+   trad="Le retour [accueilli] ne revient qu'à Allaah, pour ceux qui commettent le mal par *jahāla* puis reviennent (*[yatūbūn](#taba)*) sans délai (*min qarīb*) — ceux-là, Allaah accueille leur retour. Allaah est *ʿAlīm*, *Ḥakīm*."
 %}
 
 {% include verset.html
