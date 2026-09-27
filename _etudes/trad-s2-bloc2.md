@@ -36,7 +36,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">khalīfa</span></dt>
 <dd>racine *kh-l-f* : celui qui vient après, qui succède, qui représente. *Inférence* : le *khalīfa* est souvent interprété comme « vicaire de Dieu sur terre ». Le texte dit seulement *khalīfa fī l-arḍ* — un successeur/représentant sur la terre. La nature précise de cette succession n'est pas explicitée.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="malaika">
 <dt><span class="lex-trl">malāʾika</span></dt>
 <dd>racine *l-ʾ-k* : les envoyés, ceux qui portent un message. Conservé en translittération.</dd>
 </div>
@@ -254,7 +254,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="ijl">
 <dt><span class="lex-trl">ʿijl</span></dt>
 <dd>racine *ʿ-j-l* : le veau, le jeune bovin (et, de la même racine, la hâte). Le texte dit seulement que le peuple « a pris » le *ʿijl* ; il n'en dit ni l'origine ni la forme. Conservé en translittération.</dd>
 </div>
@@ -344,7 +344,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">ḥiṭṭa</span></dt>
 <dd>racine *ḥ-ṭ-ṭ* : déposer à terre, abaisser (un fardeau). Le mot est donné comme parole à prononcer ; le verset n'en dit pas davantage. Conservé en translittération.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="khataya">
 <dt><span class="lex-trl">khaṭāyā</span></dt>
 <dd>pluriel de *khaṭīʾa*, racine *kh-ṭ-ʾ* : dévier de la cible, manquer le but.</dd>
 </div>
@@ -415,7 +415,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">dhilla / maskana</span></dt>
 <dd>*dhilla* (racine *dh-l-l*) : l'abaissement, la docilité imposée ; *maskana* (racine *s-k-n*) : le dénuement, l'immobilité de celui qui n'a plus de ressource. « Frappées sur eux » : la formule dit une marque imposée, comme on frappe une monnaie ou dresse une tente.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="ghadab">
 <dt><span class="lex-trl">ghaḍab</span></dt>
 <dd>racine *gh-ḍ-b* : réaction de rejet, retrait de la faveur. Voir la note sur *al-maghḍūb ʿalayhim* en [S.1:7](/etudes/trad-s1-al-talab/). Dit d'Allaah, le terme n'est pas rendu par un mot d'affect humain.</dd>
 </div>
@@ -464,7 +464,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">mīthāq</span></dt>
 <dd>racine *w-th-q* : ce qui lie fermement, l'engagement solennel. Conservé en translittération.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="tur">
 <dt><span class="lex-trl">Ṭūr</span></dt>
 <dd>nom d'une montagne. Le texte dit seulement qu'elle a été « élevée au-dessus » d'eux ; il ne dit pas la manière : un **non-dit**.</dd>
 </div>

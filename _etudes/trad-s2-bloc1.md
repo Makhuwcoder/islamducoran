@@ -346,7 +346,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">firāsh</span></dt>
 <dd>ce sur quoi on s'étend, base plane et stable. Non simplement « tapis » : l'image est celle d'une surface habitable.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="andad">
 <dt><span class="lex-trl">andād</span></dt>
 <dd>pluriel de *nidd* : égaux, rivaux, contreparties. Al-Farāhīdī : *al-mithl wa-n-naẓīr* — ce qui est mis en équivalence. *Andād* : ce qu'on assigne comme équivalents à Allaah. Le *shirk* au sens structurel.</dd>
 </div>
@@ -407,7 +407,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">ḥaqq</span></dt>
 <dd>racine *ḥ-q-q* : ce qui est établi, avéré, ce qui correspond effectivement à ce qui est. Al-Farāhīdī : *al-ḥaqq naqīḍ al-bāṭil* — le *ḥaqq* est l'opposé exact du *bāṭil*. Non simplement « la vérité » (qui, en français, se limite souvent à l'énoncé vrai) : le *ḥaqq* couvre aussi ce qui est fondé, ce qui est dû, ce qui tient. Conservé en translittération faute d'un mot français unique couvrant l'ensemble de ce champ.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="fasiqin">
 <dt><span class="lex-trl">fāsiqīn</span></dt>
 <dd>racine *f-s-q* : sortir de l'enveloppe, éclater hors de sa limite. Al-Farāhīdī : *kharaj min ḥadd al-istiqa-ma* — sortir de la ligne droite. Non simplement « pervers » : le *fisq* est une sortie hors du cadre.</dd>
 </div>
