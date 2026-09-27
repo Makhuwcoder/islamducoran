@@ -94,7 +94,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-ttaqu llāh</span></dt>
-<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 </dl>
 </div>
@@ -176,7 +176,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">al-muḥṣanāt</span></dt>
-<dd>racine *ḥ-ṣ-n* : fortifier, protéger. Le même terme a déjà porté deux sens contextuels distincts dans ce projet : en S4:24, appliqué aux femmes « déjà engagées dans un lien » (unions interdites) ; en S4:25, appliqué aux femmes « préservées » au sens de chastes et disponibles au mariage (*muḥṣanāt muʾmināt*). Ce verset (S5:5) reprend nettement le second sens, confirmé par la reprise de la formule *muḥṣinīna ghayra musāfiḥīn* déjà rencontrée en S4:24 — <strong>cohérence intra-coranique</strong> : même racine, deux applications contextuelles distinctes déjà repérées par ce projet, non contradictoires.</dd>
+<dd>racine *ḥ-ṣ-n* : fortifier, protéger. Le même terme a déjà porté deux sens contextuels distincts : en S4:24, appliqué aux femmes « déjà engagées dans un lien » (unions interdites) ; en S4:25, appliqué aux femmes « préservées » au sens de chastes et disponibles au mariage (*muḥṣanāt muʾmināt*). Ce verset (S5:5) reprend nettement le second sens, confirmé par la reprise de la formule *muḥṣinīna ghayra musāfiḥīn* déjà rencontrée en S4:24 — <strong>cohérence intra-coranique</strong> : même racine, deux applications contextuelles distinctes déjà repérées, non contradictoires.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-man yakfur bi-l-īmāni</span></dt>
@@ -203,7 +203,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-arjulakum ilā l-kaʿbayn</span></dt>
-<dd><strong>Note de grammaire — dit par la désinence casuelle.</strong> Dans le texte uthmānī ici retenu, *arjulakum* (« vos pieds ») porte la désinence à l'accusatif (*-kum*, comme *wujūhakum* et *aydiyakum*, les éléments lavés par *fa-ghsilū*), et non la désinence du génitif qu'aurait entraînée un rattachement direct à *bi-ruʾūsikum* (élément essuyé par *wa-msaḥū*, construit avec *bi-*). La structure casuelle du verset ici retenu rattache donc grammaticalement les pieds à l'action de laver, non à celle d'essuyer. Ce point a fait l'objet, dans l'histoire de la lecture du texte, de lectures et de débats différents (d'autres *qirāʾāt* portent une désinence au génitif) — ce projet rapporte ici ce que porte le texte dans la version retenue, sans trancher au-delà de ce que la désinence indique.</dd>
+<dd><strong>Note de grammaire — dit par la désinence casuelle.</strong> Dans le texte uthmānī ici retenu, *arjulakum* (« vos pieds ») porte la désinence à l'accusatif (*-kum*, comme *wujūhakum* et *aydiyakum*, les éléments lavés par *fa-ghsilū*), et non la désinence du génitif qu'aurait entraînée un rattachement direct à *bi-ruʾūsikum* (élément essuyé par *wa-msaḥū*, construit avec *bi-*). La structure casuelle du verset ici retenu rattache donc grammaticalement les pieds à l'action de laver, non à celle d'essuyer. Ce point a fait l'objet, dans l'histoire de la lecture du texte, de lectures et de débats différents (d'autres *qirāʾāt* portent une désinence au génitif) — est rapporté ici ce que porte le texte dans la version retenue, sans trancher au-delà de ce que la désinence indique.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">junuban / fa-ṭṭahharū</span></dt>

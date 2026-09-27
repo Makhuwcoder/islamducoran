@@ -68,7 +68,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">rabb</span></dt>
-<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+<dd>racine *r-b-b*. Selon la méthode retenue ici, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">مَنَاسِك</span><span class="lex-trl">manāsik</span></dt>
@@ -235,7 +235,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">رَءُوف</span><span class="lex-trl">Raʾūf</span></dt>
-<dd>racine r-ʾ-f (Ibn Fāris : intensité au sein de la *raḥma*, la matrice qui enveloppe et protège). **Note de vigilance méthodologique** : ce terme n'est jamais rendu par « doux », « tendre » ou « affectueux » — adjectifs qui importent une connotation de sentiment humain proscrite pour tout ce qui se dit d'Allaah dans ce projet. Conservé en translittération, rattaché au champ de r-ḥ-m (S2:163).</dd>
+<dd>racine r-ʾ-f (Ibn Fāris : intensité au sein de la *raḥma*, la matrice qui enveloppe et protège). **Note de vigilance méthodologique** : ce terme n'est jamais rendu par « doux », « tendre » ou « affectueux » — adjectifs qui importent une connotation de sentiment humain proscrite pour tout ce qui se dit d'Allaah. Conservé en translittération, rattaché au champ de r-ḥ-m (S2:163).</dd>
 </div>
 </dl>
 <div class="notes-lexicales__synthese">

@@ -80,7 +80,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">رَبّ</span><span class="lex-trl">Rabb</span></dt>
-<dd>racine r-b-b. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+<dd>racine r-b-b. Selon la méthode retenue ici, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱصْطَفَىٰ</span><span class="lex-trl">iṣṭafā</span></dt>
@@ -163,7 +163,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">سَيِّدًا</span><span class="lex-trl">sayyidan</span></dt>
-<dd>racine s-y-d : figure d'autorité et de dignité reconnue ; traduit par « notable » plutôt que par « seigneur », terme réservé dans ce projet au registre de Rabb appliqué à Allaah.</dd>
+<dd>racine s-y-d : figure d'autorité et de dignité reconnue ; traduit par « notable » plutôt que par « seigneur », terme réservé au registre de Rabb appliqué à Allaah.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">حَصُورًا</span><span class="lex-trl">ḥaṣūran</span></dt>
@@ -225,7 +225,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱتَّقُوا۟</span><span class="lex-trl">ittaqū</span></dt>
-<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">بَشَر</span><span class="lex-trl">bashar</span></dt>
@@ -279,7 +279,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 <div class="callout callout--avertissement">
-<p><strong>Note de vigilance méthodologique — mutawaffīka (S3:55).</strong> Le verbe est construit sur la racine و-ف-ي (waw-fāʾ-yāʾ), déjà validée dans ce projet à propos de S2:234 et S2:240 (<em>yutawaffawna</em>) : « être rappelé/repris en pleine mesure », un euphémisme du texte coranique lui-même pour désigner un rappel, sans que la racine désigne directement l'acte de « mourir ». Le verset associe grammaticalement, par quatre participes actifs coordonnés portés par Allaah (<em>mutawaffīka</em>, <em>rāfiʿuka</em>, <em>muṭahhiruka</em>, <em>jāʿilu</em>), quatre actions sans marqueur de succession temporelle explicite entre elles (aucun <em>thumma</em> ne sépare <em>mutawaffīka</em> de <em>rāfiʿuka</em> — le <em>thumma</em> du verset n'intervient qu'après, pour introduire le retour final). <strong>Ce que le texte dit</strong> : Allaah reprend ʿĪsā en pleine mesure et l'élève vers Lui, le purifie de ceux qui couvrent leur reconnaissance, et place ses disciples au-dessus d'eux jusqu'au Jour de la Résurrection. <strong>Ce que le texte ne dit pas ici</strong> : l'ordre exact entre le rappel (<em>tawaffī</em>) et l'élévation (<em>rafʿ</em>), ainsi que le mécanisme précis de cette élévation, ne sont pas spécifiés par ce verset pris isolément — une lecture intra-coranique complète supposerait de confronter ce passage à l'ensemble des occurrences de la racine و-ف-ي et de la racine ر-ف-ع dans le muṣḥaf, travail qui dépasse le cadre de ce bloc et pourrait faire l'objet d'une étude dédiée ultérieure, sur le modèle de celle consacrée à S3:7.</p>
+<p><strong>Note de vigilance méthodologique — mutawaffīka (S3:55).</strong> Le verbe est construit sur la racine و-ف-ي (waw-fāʾ-yāʾ), déjà validée à propos de S2:234 et S2:240 (<em>yutawaffawna</em>) : « être rappelé/repris en pleine mesure », un euphémisme du texte coranique lui-même pour désigner un rappel, sans que la racine désigne directement l'acte de « mourir ». Le verset associe grammaticalement, par quatre participes actifs coordonnés portés par Allaah (<em>mutawaffīka</em>, <em>rāfiʿuka</em>, <em>muṭahhiruka</em>, <em>jāʿilu</em>), quatre actions sans marqueur de succession temporelle explicite entre elles (aucun <em>thumma</em> ne sépare <em>mutawaffīka</em> de <em>rāfiʿuka</em> — le <em>thumma</em> du verset n'intervient qu'après, pour introduire le retour final). <strong>Ce que le texte dit</strong> : Allaah reprend ʿĪsā en pleine mesure et l'élève vers Lui, le purifie de ceux qui couvrent leur reconnaissance, et place ses disciples au-dessus d'eux jusqu'au Jour de la Résurrection. <strong>Ce que le texte ne dit pas ici</strong> : l'ordre exact entre le rappel (<em>tawaffī</em>) et l'élévation (<em>rafʿ</em>), ainsi que le mécanisme précis de cette élévation, ne sont pas spécifiés par ce verset pris isolément — une lecture intra-coranique complète supposerait de confronter ce passage à l'ensemble des occurrences de la racine و-ف-ي et de la racine ر-ف-ع dans le muṣḥaf, travail qui dépasse le cadre de ce bloc et pourrait faire l'objet d'une étude dédiée ultérieure, sur le modèle de celle consacrée à S3:7.</p>
 </div>
 
 {% include verset.html

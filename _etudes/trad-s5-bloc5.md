@@ -16,7 +16,7 @@ methode: "Dit / Non-dit / Inférence"
 {:.callout .callout--pivot}
 **Structure du Bloc V.** Cinq ensembles, tous articulés autour d'un même terme-pivot, *ḥukm* (juger, trancher, décider souverainement), qui revient neuf fois dans ces dix versets. D'abord une adresse au *rasūl* : ne pas s'affliger pour des cœurs discordants et des « grands écouteurs du mensonge » qui cherchent à instrumentaliser son jugement (S5:41–42). Puis le rappel que la Tawrāh contenait déjà le *ḥukm* d'Allaah, avec lequel les *nabiyyūn*, les *rabbāniyyūn* et les *aḥbār* jugeaient — et la loi du talion qu'elle prescrivait (S5:43–45). Puis ʿĪsā ibn Maryam et l'Injīl, confirmant la Tawrāh et devant être jugés par ce qu'ils contiennent (S5:46–47). Puis le Kitāb final, confirmant et *muhaymin* sur ce qui précède, avec l'affirmation qu'à chaque communauté a été donné une voie et une méthode distinctes — et l'appel à rivaliser de bien plutôt que de trancher les différends par la force (S5:48–49). Enfin la question qui referme le bloc : le *ḥukm* de la *jāhiliyya*, ou celui d'Allaah (S5:50).
 
-**Avertissement de méthode — un terme au centre d'un débat qui dépasse ce bloc.** Le triptyque *kāfirūn / ẓālimūn / fāsiqūn* (S5:44, 45, 47), rattaché à la formule *man lam yaḥkum bi-mā anzala llāh* (« quiconque ne juge pas par ce qu'Allaah a fait descendre »), est l'un des passages les plus mobilisés — dans un sens comme dans l'autre — des débats contemporains sur l'autorité législative en *dīn*. Un article distinct de ce Projet (*« Le Nabī n'est pas législateur »*) a déjà établi, à partir de ce même triptyque et d'un ensemble de versets connexes (S6:57, S6:114, S12:40, S42:21), une lecture selon laquelle le *ḥukm* n'appartiendrait qu'à Allaah seul et toute législation humaine autonome dans le *dīn* serait nommée par le texte. Ce Projet reprend ici, comme précédent lexical déjà établi, l'analyse des racines *ḥ-k-m*, *k-f-r*, *ẓ-l-m* et *f-s-q* que cet article documente — mais il tient à séparer strictement deux niveaux : (1) ce que ces dix versets, pris dans leur contexte immédiat, disent explicitement — à savoir que les *Banū Isrāʾīl* devaient juger par la Tawrāh, les *ahl al-Injīl* par l'Injīl, et les destinataires du Kitāb final par ce Kitāb ; (2) la portée que cette structure prendrait une fois étendue aux débats juridiques et théologiques postérieurs (*fiqh*, *ijtihād*, écoles de jurisprudence) — question qui déborde largement le périmètre d'une traduction verset par verset et sur laquelle ce Projet ne tranche pas ici. Le *dit* de ce bloc est nommé comme tel ; toute extension au-delà est nommée *inférence*, quelle que soit la direction — pour ou contre une lecture donnée — dans laquelle elle va.
+**Avertissement de méthode — un terme au centre d'un débat qui dépasse ce bloc.** Le triptyque *kāfirūn / ẓālimūn / fāsiqūn* (S5:44, 45, 47), rattaché à la formule *man lam yaḥkum bi-mā anzala llāh* (« quiconque ne juge pas par ce qu'Allaah a fait descendre »), est l'un des passages les plus mobilisés — dans un sens comme dans l'autre — des débats contemporains sur l'autorité législative en *dīn*. Un article dédié (*« Le Nabī n'est pas législateur »*) établit, à partir de ce même triptyque et d'un ensemble de versets connexes (S6:57, S6:114, S12:40, S42:21), une lecture selon laquelle le *ḥukm* n'appartiendrait qu'à Allaah seul et toute législation humaine autonome dans le *dīn* serait nommée par le texte. Cette note reprend ici, comme précédent lexical déjà établi, l'analyse des racines *ḥ-k-m*, *k-f-r*, *ẓ-l-m* et *f-s-q* que cet article documente — tout en séparant strictement deux niveaux : (1) ce que ces dix versets, pris dans leur contexte immédiat, disent explicitement — à savoir que les *Banū Isrāʾīl* devaient juger par la Tawrāh, les *ahl al-Injīl* par l'Injīl, et les destinataires du Kitāb final par ce Kitāb ; (2) la portée que cette structure prendrait une fois étendue aux débats juridiques et théologiques postérieurs (*fiqh*, *ijtihād*, écoles de jurisprudence) — question qui déborde largement le périmètre d'une traduction verset par verset et sur laquelle cette note ne tranche pas ici. Le *dit* de ce bloc est nommé comme tel ; toute extension au-delà est nommée *inférence*, quelle que soit la direction — pour ou contre une lecture donnée — dans laquelle elle va.
 
 ### Sommaire du bloc
 
@@ -47,22 +47,22 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — un précédent intra-coranique exact.** *Lā yaḥzunka lladhīna yusāriʿūna fi l-kufr* reprend, mot pour mot, l'ouverture de S3:176 (« Que ne t'afflige pas ceux qui se hâtent vers le *kufr* »), déjà rencontrée dans ce Projet — seule la suite diffère : S3:176 poursuit sur l'incapacité de ces gens à nuire à Allaah, tandis que S5:41 développe ici le portrait de deux groupes distincts (des cœurs discordants d'un côté, des gens du judaïsme de l'autre) unis par la même hâte. La description « ils disent nous avons cru de leurs bouches, sans que leurs cœurs n'aient cru » fait elle-même écho à S3:167 (« *yaqūlūna bi-afwāhihim mā laysa fī qulūbihim* », « ils disent de leurs bouches ce qui n'est pas dans leurs cœurs »), déjà rencontrée dans ce Projet pour décrire les *munāfiqūn* : une même discordance bouche/cœur nommée à deux endroits distincts du corpus, par des tournures voisines mais non identiques.
+**Note de méthode — un précédent intra-coranique exact.** *Lā yaḥzunka lladhīna yusāriʿūna fi l-kufr* reprend, mot pour mot, l'ouverture de S3:176 (« Que ne t'afflige pas ceux qui se hâtent vers le *kufr* »), déjà rencontrée — seule la suite diffère : S3:176 poursuit sur l'incapacité de ces gens à nuire à Allaah, tandis que S5:41 développe ici le portrait de deux groupes distincts (des cœurs discordants d'un côté, des gens du judaïsme de l'autre) unis par la même hâte. La description « ils disent nous avons cru de leurs bouches, sans que leurs cœurs n'aient cru » fait elle-même écho à S3:167 (« *yaqūlūna bi-afwāhihim mā laysa fī qulūbihim* », « ils disent de leurs bouches ce qui n'est pas dans leurs cœurs »), déjà rencontrée pour décrire les *munāfiqūn* : une même discordance bouche/cœur nommée à deux endroits distincts du corpus, par des tournures voisines mais non identiques.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">yā ayyuhā r-rasūl</span></dt>
-<dd>adresse au *rasūl* — et non au *nabī* : ce Projet a déjà établi (article dédié) que ces deux termes, bien que cumulables chez Muḥammad, ne sont pas synonymes dans le texte coranique. *Rasūl* met en avant la fonction de porteur d'un message adressé à un peuple, ce qui correspond exactement au contenu de ce verset : l'épreuve que représentent des interlocuteurs qui manipulent la fonction de juge du *rasūl*.</dd>
+<dd>adresse au *rasūl* — et non au *nabī* : un article dédié a déjà établi que ces deux termes, bien que cumulables chez Muḥammad, ne sont pas synonymes dans le texte coranique. *Rasūl* met en avant la fonction de porteur d'un message adressé à un peuple, ce qui correspond exactement au contenu de ce verset : l'épreuve que représentent des interlocuteurs qui manipulent la fonction de juge du *rasūl*.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yaḥzunka</span></dt>
-<dd>racine *ḥ-z-n* : l'affliction, le chagrin qui pèse. Voir S3:176 (déjà rencontrée dans ce Projet) pour l'emploi identique de cette même formule d'ouverture.</dd>
+<dd>racine *ḥ-z-n* : l'affliction, le chagrin qui pèse. Voir S3:176 (déjà rencontrée) pour l'emploi identique de cette même formule d'ouverture.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yusāriʿūna fi l-kufr</span></dt>
-<dd>racine *s-r-ʿ* : la hâte. Déjà rencontrée dans ce Projet en S3:133 (« *sāriʿū* », se hâter vers un pardon) et en S3:176 (la même hâte, tournée vers le *kufr*) — un contraste rhétorique que ce Projet avait déjà noté à l'échelle de S3, et qui reparaît ici à l'identique.</dd>
+<dd>racine *s-r-ʿ* : la hâte. Déjà rencontrée en S3:133 (« *sāriʿū* », se hâter vers un pardon) et en S3:176 (la même hâte, tournée vers le *kufr*) — un contraste rhétorique déjà noté à l'échelle de S3, et qui reparaît ici à l'identique.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">qālū āmannā bi-afwāhihim wa-lam tuʾmin qulūbuhum</span></dt>
@@ -70,7 +70,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">mina lladhīna hādū</span></dt>
-<dd>« parmi ceux qui pratiquent le judaïsme » — *min* est le partitif arabe, déjà signalé dans ce Projet (S4:46, Bloc III de S4) comme désignant explicitement une partie et non la totalité d'une communauté. Le texte distingue ici, par la conjonction *wa-min* (« et parmi »), un second groupe du premier — non une seule et même catégorie.</dd>
+<dd>« parmi ceux qui pratiquent le judaïsme » — *min* est le partitif arabe, déjà signalé (S4:46, Bloc III de S4) comme désignant explicitement une partie et non la totalité d'une communauté. Le texte distingue ici, par la conjonction *wa-min* (« et parmi »), un second groupe du premier — non une seule et même catégorie.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">sammāʿūna li-l-kadhib</span></dt>
@@ -78,15 +78,15 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuḥarrifūna l-kalima min baʿdi mawāḍiʿihi</span></dt>
-<dd>racine *ḥ-r-f* : déjà rencontrée dans ce Projet à trois reprises (S2:75, S4:46, S5:13 — Bloc II de S5) sous la forme *yuḥarrifūna l-kalima ʿan mawāḍiʿihi* (« hors de leurs positions »). **Point de vigilance lexicale** : ce verset emploie une préposition différente — *min baʿdi* (« après », temporel) et non *ʿan* (« hors de », spatial). Le déplacement du sens décrit ici n'est donc pas nécessairement de même nature que celui des trois occurrences précédentes : le texte pourrait viser un déplacement survenant après que les mots ont occupé leur position [véritable], plutôt qu'un simple écart spatial constant. Cette nuance n'est pas développée davantage par le texte lui-même à cet endroit — elle reste une observation grammaticale, non une conclusion tranchée.</dd>
+<dd>racine *ḥ-r-f* : déjà rencontrée à trois reprises (S2:75, S4:46, S5:13 — Bloc II de S5) sous la forme *yuḥarrifūna l-kalima ʿan mawāḍiʿihi* (« hors de leurs positions »). **Point de vigilance lexicale** : ce verset emploie une préposition différente — *min baʿdi* (« après », temporel) et non *ʿan* (« hors de », spatial). Le déplacement du sens décrit ici n'est donc pas nécessairement de même nature que celui des trois occurrences précédentes : le texte pourrait viser un déplacement survenant après que les mots ont occupé leur position [véritable], plutôt qu'un simple écart spatial constant. Cette nuance n'est pas développée davantage par le texte lui-même à cet endroit — elle reste une observation grammaticale, non une conclusion tranchée.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">man yuridi llāhu fitnatahu</span></dt>
-<dd>*fitna*, déjà rencontrée dans ce Projet (S2:191, S2:193 — conservée en translittération, aucun mot français ne couvrant seul l'épreuve qui révèle et qui égare). **Note de vigilance théologique.** Ce demi-verset associe la volonté (*irāda*) d'Allaah à la *fitna* de certains, et le suivant associe cette même volonté à l'absence de purification de leurs cœurs. **Dit** : le texte énonce ces deux liens sans détour. **Non-dit** : il ne précise, ni ici ni dans ce seul verset, le rapport exact entre cette volonté et la responsabilité propre de ceux qui « se hâtent vers le *kufr* » et « écoutent le mensonge » — actes que le même verset leur attribue par ailleurs comme des dispositions actives, non comme de simples résultantes passives. Trancher entre ces deux registres (l'acte volontaire décrit en amont, la volonté d'Allaah énoncée en aval) dépasse ce que ce seul verset formule ; ce Projet se garde ici de toute conclusion sur l'articulation exacte entre l'un et l'autre.</dd>
+<dd>*fitna*, déjà rencontrée (S2:191, S2:193 — conservée en translittération, aucun mot français ne couvrant seul l'épreuve qui révèle et qui égare). **Note de vigilance théologique.** Ce demi-verset associe la volonté (*irāda*) d'Allaah à la *fitna* de certains, et le suivant associe cette même volonté à l'absence de purification de leurs cœurs. **Dit** : le texte énonce ces deux liens sans détour. **Non-dit** : il ne précise, ni ici ni dans ce seul verset, le rapport exact entre cette volonté et la responsabilité propre de ceux qui « se hâtent vers le *kufr* » et « écoutent le mensonge » — actes que le même verset leur attribue par ailleurs comme des dispositions actives, non comme de simples résultantes passives. Trancher entre ces deux registres (l'acte volontaire décrit en amont, la volonté d'Allaah énoncée en aval) dépasse ce que ce seul verset formule ; cette note se garde ici de toute conclusion sur l'articulation exacte entre l'un et l'autre.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">khizyun … ʿadhābun ʿaẓīm</span></dt>
-<dd>même couple qu'en S5:33 (Bloc IV, déjà rencontré dans ce Projet) : l'humiliation exposée dans *ad-dunyā*, distincte du *ʿadhāb* de l'*ākhira*.</dd>
+<dd>même couple qu'en S5:33 (Bloc IV, déjà rencontré) : l'humiliation exposée dans *ad-dunyā*, distincte du *ʿadhāb* de l'*ākhira*.</dd>
 </div>
 </dl>
 </div>
@@ -119,7 +119,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bi-l-qisṭ … al-muqsiṭīn</span></dt>
-<dd>racine *q-s-ṭ*, déjà établie dans ce Projet (S3:18, S4:3, S4:135) : la répartition juste, l'équité qui donne à chaque part ce qui lui revient. Conservée en translittération. Le texte pose ici une condition explicite à l'exercice du jugement, si celui-ci a lieu : non l'issue elle-même (juger ou se détourner), mais la manière dont le jugement, s'il est rendu, doit être conduit.</dd>
+<dd>racine *q-s-ṭ*, déjà établie (S3:18, S4:3, S4:135) : la répartition juste, l'équité qui donne à chaque part ce qui lui revient. Conservée en translittération. Le texte pose ici une condition explicite à l'exercice du jugement, si celui-ci a lieu : non l'issue elle-même (juger ou se détourner), mais la manière dont le jugement, s'il est rendu, doit être conduit.</dd>
 </div>
 </dl>
 </div>
@@ -142,7 +142,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">yuḥakkimūnaka</span></dt>
-<dd>forme II intensive de *ḥ-k-m* : prendre quelqu'un pour arbitre, l'installer comme juge d'un litige. Un article distinct de ce Projet (*« Le Nabī n'est pas législateur »*) a déjà relevé le terme apparenté *ḥakam* (l'arbitre, S6:114) sur la même racine — repris ici comme précédent lexical. La question est rhétorique : le texte relève une incohérence — solliciter un arbitre extérieur alors que la Tawrāh, déjà en leur possession, contient elle-même le *ḥukm* d'Allaah.</dd>
+<dd>forme II intensive de *ḥ-k-m* : prendre quelqu'un pour arbitre, l'installer comme juge d'un litige. Un article dédié (*« Le Nabī n'est pas législateur »*) a déjà relevé le terme apparenté *ḥakam* (l'arbitre, S6:114) sur la même racine — repris ici comme précédent lexical. La question est rhétorique : le texte relève une incohérence — solliciter un arbitre extérieur alors que la Tawrāh, déjà en leur possession, contient elle-même le *ḥukm* d'Allaah.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ḥukmu llāh</span></dt>
@@ -150,7 +150,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yatawallawna</span></dt>
-<dd>racine *w-l-y*, déjà rencontrée dans ce Projet sous plusieurs formes convergentes (S3:150, S3:155, S3:175 — l'allié, celui qui se détourne, celui qui est pris comme protecteur). Ici : se détourner après avoir eu la preuve en main.</dd>
+<dd>racine *w-l-y*, déjà rencontrée sous plusieurs formes convergentes (S3:150, S3:155, S3:175 — l'allié, celui qui se détourne, celui qui est pris comme protecteur). Ici : se détourner après avoir eu la preuve en main.</dd>
 </div>
 </dl>
 </div>
@@ -167,7 +167,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — le triptyque kāfirūn/ẓālimūn/fāsiqūn et son périmètre exact.** **Dit** : la même structure conditionnelle (*wa-man lam yaḥkum bi-mā anzala llāh…*, « quiconque ne juge pas par ce qu'Allaah a fait descendre ») revient trois fois dans ce bloc (S5:44, S5:45, S5:47), chaque occurrence recevant une qualification distincte — *kāfirūn*, *ẓālimūn*, *fāsiqūn*. Dans son contexte immédiat, chacune des trois occurrences est rattachée à un destinataire nommé : S5:44 aux *nabiyyūn*, *rabbāniyyūn* et *aḥbār* jugeant par la Tawrāh pour les gens du judaïsme ; S5:47 aux *ahl al-Injīl* jugeant par l'Injīl. **Non-dit** : ce seul verset ne dit pas explicitement si la qualification *kāfirūn* s'applique à quiconque, en tout temps, ne juge pas par une révélation quelconque, ou si elle vise spécifiquement le refus, par les destinataires directs d'une Tawrāh qu'ils reconnaissent pourtant comme contenant le *ḥukm* d'Allaah, de juger par elle. Le précédent déjà établi dans ce Projet (*« Le Nabī n'est pas législateur »*) retient une lecture élargie, appuyée sur la cohérence intra-coranique avec S6:57, S12:40 et S42:21 (*ini l-ḥukmu illā li-llāh* — « le *ḥukm* n'appartient qu'à Allaah » — et l'acte de légiférer sans mandat qualifié de *shirk*). Ce Projet reprend cette cohérence lexicale comme *dit* établi ailleurs dans le corpus, mais nomme comme *inférence* — non comme donnée tranchée par ce seul verset — l'extension de cette structure aux débats postérieurs sur le *fiqh*, l'*ijtihād* et les écoles juridiques, qui engagent des questions (la nature exacte de ce qui constitue un « jugement par ce qu'Allaah a fait descendre », la place de l'effort interprétatif humain face à un texte silencieux sur un cas donné) que ce bloc, pris seul, ne tranche pas lui-même.
+**Note de méthode — le triptyque kāfirūn/ẓālimūn/fāsiqūn et son périmètre exact.** **Dit** : la même structure conditionnelle (*wa-man lam yaḥkum bi-mā anzala llāh…*, « quiconque ne juge pas par ce qu'Allaah a fait descendre ») revient trois fois dans ce bloc (S5:44, S5:45, S5:47), chaque occurrence recevant une qualification distincte — *kāfirūn*, *ẓālimūn*, *fāsiqūn*. Dans son contexte immédiat, chacune des trois occurrences est rattachée à un destinataire nommé : S5:44 aux *nabiyyūn*, *rabbāniyyūn* et *aḥbār* jugeant par la Tawrāh pour les gens du judaïsme ; S5:47 aux *ahl al-Injīl* jugeant par l'Injīl. **Non-dit** : ce seul verset ne dit pas explicitement si la qualification *kāfirūn* s'applique à quiconque, en tout temps, ne juge pas par une révélation quelconque, ou si elle vise spécifiquement le refus, par les destinataires directs d'une Tawrāh qu'ils reconnaissent pourtant comme contenant le *ḥukm* d'Allaah, de juger par elle. Le précédent déjà établi (*« Le Nabī n'est pas législateur »*) retient une lecture élargie, appuyée sur la cohérence intra-coranique avec S6:57, S12:40 et S42:21 (*ini l-ḥukmu illā li-llāh* — « le *ḥukm* n'appartient qu'à Allaah » — et l'acte de légiférer sans mandat qualifié de *shirk*). Cette note reprend cette cohérence lexicale comme *dit* établi ailleurs dans le corpus, mais nomme comme *inférence* — non comme donnée tranchée par ce seul verset — l'extension de cette structure aux débats postérieurs sur le *fiqh*, l'*ijtihād* et les écoles juridiques, qui engagent des questions (la nature exacte de ce qui constitue un « jugement par ce qu'Allaah a fait descendre », la place de l'effort interprétatif humain face à un texte silencieux sur un cas donné) que ce bloc, pris seul, ne tranche pas lui-même.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -178,11 +178,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">an-nabiyyūna lladhīna aslamū</span></dt>
-<dd>racine *s-l-m*, déjà établie dans ce Projet (S3:19, S3:83 — conservée en translittération pour *al-islām* lui-même) : *aslamū*, la remise complète, employée ici au sens générique de soumission à Allaah, pour qualifier des *nabiyyūn* antérieurs à la révélation faite au *rasūl* Muḥammad — cohérence intra-coranique déjà relevée dans ce Projet (S3:67, Ibrāhīm *ḥanīfan musliman*) : le verbe et la qualité de soumission (*islām*) ne sont, dans ce registre, pas circonscrits à une seule communauté historique.</dd>
+<dd>racine *s-l-m*, déjà établie (S3:19, S3:83 — conservée en translittération pour *al-islām* lui-même) : *aslamū*, la remise complète, employée ici au sens générique de soumission à Allaah, pour qualifier des *nabiyyūn* antérieurs à la révélation faite au *rasūl* Muḥammad — cohérence intra-coranique déjà relevée (S3:67, Ibrāhīm *ḥanīfan musliman*) : le verbe et la qualité de soumission (*islām*) ne sont, dans ce registre, pas circonscrits à une seule communauté historique.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ar-rabbāniyyūna wa-l-aḥbār</span></dt>
-<dd>*rabbāniyyūn* : précédent déjà établi dans ce Projet (S3:79) — ceux formés et attachés par une pratique constante d'enseignement et d'étude du *kitāb*. *Aḥbār*, pluriel de *ḥibr* : racine *ḥ-b-r*, Ibn Fāris (*Maqāyīs*) — *al-ḥusn wa-t-tanmīq*, la beauté et l'ornementation soignée (le même mot désigne aussi l'encre) ; par extension, le savant dont la parole et l'écrit sont conduits avec ce soin. Les deux termes sont conservés en translittération.</dd>
+<dd>*rabbāniyyūn* : précédent déjà établi (S3:79) — ceux formés et attachés par une pratique constante d'enseignement et d'étude du *kitāb*. *Aḥbār*, pluriel de *ḥibr* : racine *ḥ-b-r*, Ibn Fāris (*Maqāyīs*) — *al-ḥusn wa-t-tanmīq*, la beauté et l'ornementation soignée (le même mot désigne aussi l'encre) ; par extension, le savant dont la parole et l'écrit sont conduits avec ce soin. Les deux termes sont conservés en translittération.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bimā stuḥfiẓū min kitābi llāh</span></dt>
@@ -190,15 +190,15 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-lā takhshawu n-nāsa wa-khshawni</span></dt>
-<dd>même formule exacte qu'en S5:3 (Bloc I, déjà rencontrée dans ce Projet), employée là pour un tout autre contexte (le désespoir des *kāfirūn* de nuire au *dīn*). *Khashya*, déjà distinguée dans ce Projet de *khawf* (S2:74) : une crainte révérencielle, non une simple peur.</dd>
+<dd>même formule exacte qu'en S5:3 (Bloc I, déjà rencontrée), employée là pour un tout autre contexte (le désespoir des *kāfirūn* de nuire au *dīn*). *Khashya*, déjà distinguée de *khawf* (S2:74) : une crainte révérencielle, non une simple peur.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">lā tashtarū bi-āyātī thamanan qalīlā</span></dt>
-<dd>formule déjà rencontrée à plusieurs reprises dans ce Projet (S2:41, S2:79, S3:77, S3:187 — l'étude *Kitmān et bayān* y est consacrée) : échanger les *āyāt* contre un gain dérisoire, racine *sh-r-y* (transaction, au sens inversé de S2:207).</dd>
+<dd>formule déjà rencontrée à plusieurs reprises (S2:41, S2:79, S3:77, S3:187 — l'étude *Kitmān et bayān* y est consacrée) : échanger les *āyāt* contre un gain dérisoire, racine *sh-r-y* (transaction, au sens inversé de S2:207).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-kāfirūn</span></dt>
-<dd>racine *k-f-r*, précédent déjà établi dans ce Projet (*« Le Nabī n'est pas législateur »*) : recouvrir, occulter — *kāfir*, celui qui recouvre une chose pour la dissimuler. Voir la note de méthode ci-dessus sur la portée exacte de cette qualification.</dd>
+<dd>racine *k-f-r*, précédent déjà établi (*« Le Nabī n'est pas législateur »*) : recouvrir, occulter — *kāfir*, celui qui recouvre une chose pour la dissimuler. Voir la note de méthode ci-dessus sur la portée exacte de cette qualification.</dd>
 </div>
 </dl>
 </div>
@@ -219,7 +219,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">qiṣāṣ</span></dt>
-<dd>racine *q-ṣ-ṣ* : Ibn Fāris (*Maqāyīs*) — suivre la trace, faire correspondre exactement un fait à un autre. *Al-qiṣāṣ* n'est pas la vengeance libre, mais une correspondance mesurée, terme à terme, entre le dommage et sa réparation — le texte égrène cinq correspondances nommées avant de généraliser aux blessures (*al-jurūḥ*) par ce même mot. Conservé en translittération, déjà annoncé comme précédent dans ce Projet (S5:38, Bloc IV : « cohérent avec le principe de proportionnalité que le texte pose ici »).</dd>
+<dd>racine *q-ṣ-ṣ* : Ibn Fāris (*Maqāyīs*) — suivre la trace, faire correspondre exactement un fait à un autre. *Al-qiṣāṣ* n'est pas la vengeance libre, mais une correspondance mesurée, terme à terme, entre le dommage et sa réparation — le texte égrène cinq correspondances nommées avant de généraliser aux blessures (*al-jurūḥ*) par ce même mot. Conservé en translittération, déjà annoncé comme précédent (S5:38, Bloc IV : « cohérent avec le principe de proportionnalité que le texte pose ici »).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-man taṣaddaqa bihi fa-huwa kaffāratun lahu</span></dt>
@@ -227,7 +227,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">aẓ-ẓālimūn</span></dt>
-<dd>racine *ẓ-l-m*, déjà établie dans ce Projet (S5:39, Bloc IV, et l'article *« Le Nabī n'est pas législateur »*) : placer une chose hors de sa juste place. Deuxième terme du triptyque — voir la note de méthode posée en S5:44 (ce Bloc) sur son périmètre exact.</dd>
+<dd>racine *ẓ-l-m*, déjà établie (S5:39, Bloc IV, et l'article *« Le Nabī n'est pas législateur »*) : placer une chose hors de sa juste place. Deuxième terme du triptyque — voir la note de méthode posée en S5:44 (ce Bloc) sur son périmètre exact.</dd>
 </div>
 </dl>
 </div>
@@ -250,7 +250,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">qaffaynā ʿalā āthārihim</span></dt>
-<dd>racine *q-f-w* : faire suivre, envoyer à la suite. Déjà rencontrée dans ce Projet en S2:87 (« *wa-qaffaynā min baʿdihi bi-r-rusuli* », « Nous avons fait suivre après lui des *rusul* ») — même racine, même schéma narratif : une succession d'envoyés se répondant les uns aux autres.</dd>
+<dd>racine *q-f-w* : faire suivre, envoyer à la suite. Déjà rencontrée en S2:87 (« *wa-qaffaynā min baʿdihi bi-r-rusuli* », « Nous avons fait suivre après lui des *rusul* ») — même racine, même schéma narratif : une succession d'envoyés se répondant les uns aux autres.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">muṣaddiqan li-mā bayna yadayhi</span></dt>
@@ -258,7 +258,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">mawʿiẓatan li-l-muttaqīn</span></dt>
-<dd>*mawʿiẓa*, racine *w-ʿ-ẓ* : l'exhortation qui rappelle et qui avertit. *Muttaqīn*, déjà établi dans ce Projet (étude dédiée *Muttaqūn*) : conservé en translittération.</dd>
+<dd>*mawʿiẓa*, racine *w-ʿ-ẓ* : l'exhortation qui rappelle et qui avertit. *Muttaqīn*, déjà établi (étude dédiée *Muttaqūn*) : conservé en translittération.</dd>
 </div>
 </dl>
 </div>
@@ -279,7 +279,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">al-fāsiqūn</span></dt>
-<dd>racine *f-s-q*, déjà établie dans ce Projet (S5:3, S5:25–26, Bloc I et III) : la graine qui sort de son enveloppe — sortir hors du cadre. Troisième et dernier terme du triptyque — voir la note de méthode posée en S5:44 (ce Bloc) sur son périmètre exact. Ce Projet observe, sans en tirer de conclusion supplémentaire, que le texte fait correspondre à trois destinataires distincts (les *nabiyyūn*/*rabbāniyyūn*/*aḥbār* jugeant par la Tawrāh, ici les *ahl al-Injīl*, plus loin S5:48–49 le destinataire du Kitāb final) trois qualifications distinctes pour le même manquement — une variation lexicale que le texte ne justifie pas explicitement à cet endroit.</dd>
+<dd>racine *f-s-q*, déjà établie (S5:3, S5:25–26, Bloc I et III) : la graine qui sort de son enveloppe — sortir hors du cadre. Troisième et dernier terme du triptyque — voir la note de méthode posée en S5:44 (ce Bloc) sur son périmètre exact. Il est seulement observé ici, sans en tirer de conclusion supplémentaire, que le texte fait correspondre à trois destinataires distincts (les *nabiyyūn*/*rabbāniyyūn*/*aḥbār* jugeant par la Tawrāh, ici les *ahl al-Injīl*, plus loin S5:48–49 le destinataire du Kitāb final) trois qualifications distinctes pour le même manquement — une variation lexicale que le texte ne justifie pas explicitement à cet endroit.</dd>
 </div>
 </dl>
 </div>
@@ -298,7 +298,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — shirʿa/minhāj, et la diversité voulue.** **Dit** : le texte affirme explicitement que chaque communauté (*li-kullin minkum*) a reçu une *shirʿa* et un *minhāj* distincts, et que cette diversité résulte d'une volonté délibérée d'Allaah (*wa-law shāʾa llāhu la-jaʿalakum ummatan wāḥidah*, « s'Il avait voulu, Il aurait fait de vous une seule *umma* ») plutôt que d'une impossibilité. **Non-dit** : ce verset ne précise pas, à lui seul, l'articulation exacte entre cette diversité de *shirʿa*/*minhāj* reconnue entre communautés successives et la clôture de la révélation affirmée ailleurs dans ce Projet (S5:3, déjà rencontrée : *al-yawma akmaltu lakum dīnakum*, « aujourd'hui J'ai rendu complet pour vous votre *dīn* ») — l'un porte sur la pluralité historique des voies légiférées, l'autre sur l'achèvement d'une révélation donnée ; ce seul verset ne fusionne pas ces deux plans. **Note de vigilance théologique** : la formule *li-yabluwakum fī mā ātākum* associe cette diversité à une épreuve (*balāʾ*) voulue par Allaah — un lien que ce Projet nomme comme *dit*, sans en tirer de conclusion sur le rapport entre volonté divine et responsabilité humaine, question qui dépasse ce seul verset.
+**Note de méthode — shirʿa/minhāj, et la diversité voulue.** **Dit** : le texte affirme explicitement que chaque communauté (*li-kullin minkum*) a reçu une *shirʿa* et un *minhāj* distincts, et que cette diversité résulte d'une volonté délibérée d'Allaah (*wa-law shāʾa llāhu la-jaʿalakum ummatan wāḥidah*, « s'Il avait voulu, Il aurait fait de vous une seule *umma* ») plutôt que d'une impossibilité. **Non-dit** : ce verset ne précise pas, à lui seul, l'articulation exacte entre cette diversité de *shirʿa*/*minhāj* reconnue entre communautés successives et la clôture de la révélation affirmée ailleurs (S5:3, déjà rencontrée : *al-yawma akmaltu lakum dīnakum*, « aujourd'hui J'ai rendu complet pour vous votre *dīn* ») — l'un porte sur la pluralité historique des voies légiférées, l'autre sur l'achèvement d'une révélation donnée ; ce seul verset ne fusionne pas ces deux plans. **Note de vigilance théologique** : la formule *li-yabluwakum fī mā ātākum* associe cette diversité à une épreuve (*balāʾ*) voulue par Allaah — un lien nommé ici *dit*, sans en tirer de conclusion sur le rapport entre volonté divine et responsabilité humaine, question qui dépasse ce seul verset.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -309,11 +309,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ahwāʾahum</span></dt>
-<dd>pluriel de *hawā*, déjà établi dans ce Projet (S2:120, S2:145) : ce qui incline vers le bas, le penchant qui s'oppose à la connaissance (*ʿilm*) qui guide. Conservé en translittération.</dd>
+<dd>pluriel de *hawā*, déjà établi (S2:120, S2:145) : ce qui incline vers le bas, le penchant qui s'oppose à la connaissance (*ʿilm*) qui guide. Conservé en translittération.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">shirʿatan wa-minhājā</span></dt>
-<dd>*shirʿa*, racine *sh-r-ʿ* : Ibn Fāris (*Maqāyīs*) — tracer une voie, un chemin d'eau praticable menant à une source. *Minhāj*, racine *n-h-j* : Ibn Fāris — le chemin clairement apparent, distinctement frayé. Les deux termes désignent une voie tracée, non le *dīn* lui-même (terme que ce Projet a déjà distingué comme l'orientation totale de l'être, non un code de pratiques) : le texte nomme ici une diversité reconnue au niveau des voies légiférées entre communautés, sans que ce seul verset ne précise si cette diversité affecte également le *dīn* en son fond. Les deux termes conservés en translittération.</dd>
+<dd>*shirʿa*, racine *sh-r-ʿ* : Ibn Fāris (*Maqāyīs*) — tracer une voie, un chemin d'eau praticable menant à une source. *Minhāj*, racine *n-h-j* : Ibn Fāris — le chemin clairement apparent, distinctement frayé. Les deux termes désignent une voie tracée, non le *dīn* lui-même (terme déjà distingué ici comme l'orientation totale de l'être, non un code de pratiques) : le texte nomme ici une diversité reconnue au niveau des voies légiférées entre communautés, sans que ce seul verset ne précise si cette diversité affecte également le *dīn* en son fond. Les deux termes conservés en translittération.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">li-yabluwakum</span></dt>
@@ -325,7 +325,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">takhtalifūn</span></dt>
-<dd>racine *kh-l-f*, déjà établie dans ce Projet (S2:213, S3:19 : la divergence, ce qui vient en position différente). **Non-dit** : le texte situe ici la résolution ultime de la divergence (*ikhtilāf*) au moment du retour vers Allaah (*ilā llāhi marjiʿukum*), non par un règlement immédiat et définitif dans *ad-dunyā* — sans que ce verset ne se prononce sur les moyens de gérer cette divergence avant ce terme.</dd>
+<dd>racine *kh-l-f*, déjà établie (S2:213, S3:19 : la divergence, ce qui vient en position différente). **Non-dit** : le texte situe ici la résolution ultime de la divergence (*ikhtilāf*) au moment du retour vers Allaah (*ilā llāhi marjiʿukum*), non par un règlement immédiat et définitif dans *ad-dunyā* — sans que ce verset ne se prononce sur les moyens de gérer cette divergence avant ce terme.</dd>
 </div>
 </dl>
 </div>
@@ -373,14 +373,14 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — jāhiliyya, portée du terme.** **Dit** : le texte pose une alternative binaire — le *ḥukm* de la *jāhiliyya*, ou celui d'Allaah — sans nommer explicitement de troisième terme. **Non-dit** : ce seul verset ne précise pas si *jāhiliyya* désigne ici, strictement, l'état social et normatif de l'Arabie antérieure à la révélation faite au *rasūl* Muḥammad, ou plus largement toute organisation du *ḥukm* qui s'établirait hors de ce qu'Allaah a fait descendre, en tout temps. Le précédent déjà établi dans ce Projet (*« Le Nabī n'est pas législateur »*) retient la seconde lecture, élargie ; ce Projet la nomme ici comme lecture possible et cohérente avec la racine du terme, sans la présenter comme la seule que le mot, pris isolément dans ce verset, impose.
+**Note de méthode — jāhiliyya, portée du terme.** **Dit** : le texte pose une alternative binaire — le *ḥukm* de la *jāhiliyya*, ou celui d'Allaah — sans nommer explicitement de troisième terme. **Non-dit** : ce seul verset ne précise pas si *jāhiliyya* désigne ici, strictement, l'état social et normatif de l'Arabie antérieure à la révélation faite au *rasūl* Muḥammad, ou plus largement toute organisation du *ḥukm* qui s'établirait hors de ce qu'Allaah a fait descendre, en tout temps. Le précédent déjà établi (*« Le Nabī n'est pas législateur »*) retient la seconde lecture, élargie ; elle est nommée ici comme lecture possible et cohérente avec la racine du terme, sans être présentée comme la seule que le mot, pris isolément dans ce verset, impose.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">yabghūna</span></dt>
-<dd>racine *b-gh-y*, déjà établie dans ce Projet (S2:213, S3:19 : la rivalité, l'excès dans la revendication d'un droit, la convoitise active) — non un simple « chercher » neutre : le verbe porte, par sa racine même, une connotation de débordement, d'excès dans la recherche.</dd>
+<dd>racine *b-gh-y*, déjà établie (S2:213, S3:19 : la rivalité, l'excès dans la revendication d'un droit, la convoitise active) — non un simple « chercher » neutre : le verbe porte, par sa racine même, une connotation de débordement, d'excès dans la recherche.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-jāhiliyya</span></dt>

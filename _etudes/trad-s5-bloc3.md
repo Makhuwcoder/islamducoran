@@ -51,18 +51,18 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — ce que ce verset vise, et ce qu'il ne vise pas.** Le texte rapporte et rejette ici une identification précise : « Allaah, c'est Lui, al-Masīḥ fils de Maryam » (*inna llāha huwa l-masīḥu bnu maryama*). C'est une prétention distincte de celle traitée ailleurs dans le corpus (l'interdiction de dire « trois », déjà rencontrée en S4:171 dans ce projet) : ici, le texte vise une équivalence directe entre Allaah et al-Masīḥ, non une pluralité. **Dit** : la réfutation avancée par le texte porte sur la vulnérabilité d'al-Masīḥ — s'il était identique à Allaah, Allaah ne pourrait vouloir le faire périr, lui, sa mère, et tous ceux qui sont sur la terre, sans que cela pose de contradiction ; or le texte affirme qu'Allaah *pourrait* le faire périr (*in arāda an yuhlika*), ce qui présuppose qu'al-Masīḥ est de l'ordre de ce qui peut périr, donc distinct de la royauté (*mulk*) universelle qu'Allaah détient seul. **Non-dit** : ce verset ne précise pas qui, précisément, tenait cette parole (un groupe entier ou une partie), ni le contexte doctrinal exact dans lequel elle a été formulée.
+**Note de méthode — ce que ce verset vise, et ce qu'il ne vise pas.** Le texte rapporte et rejette ici une identification précise : « Allaah, c'est Lui, al-Masīḥ fils de Maryam » (*inna llāha huwa l-masīḥu bnu maryama*). C'est une prétention distincte de celle traitée ailleurs dans le corpus (l'interdiction de dire « trois », déjà rencontrée en S4:171) : ici, le texte vise une équivalence directe entre Allaah et al-Masīḥ, non une pluralité. **Dit** : la réfutation avancée par le texte porte sur la vulnérabilité d'al-Masīḥ — s'il était identique à Allaah, Allaah ne pourrait vouloir le faire périr, lui, sa mère, et tous ceux qui sont sur la terre, sans que cela pose de contradiction ; or le texte affirme qu'Allaah *pourrait* le faire périr (*in arāda an yuhlika*), ce qui présuppose qu'al-Masīḥ est de l'ordre de ce qui peut périr, donc distinct de la royauté (*mulk*) universelle qu'Allaah détient seul. **Non-dit** : ce verset ne précise pas qui, précisément, tenait cette parole (un groupe entier ou une partie), ni le contexte doctrinal exact dans lequel elle a été formulée.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">kafara</span></dt>
-<dd>racine *k-f-r*, voir la note déjà posée dans ce projet (S2:6, S4 *passim*) : recouvrir, dissimuler, nier ce qui devrait être reconnu. Le texte qualifie ici de *kufr* non un simple refus de croire, mais l'énoncé même de cette identification.</dd>
+<dd>racine *k-f-r*, voir la note déjà posée (S2:6, S4 *passim*) : recouvrir, dissimuler, nier ce qui devrait être reconnu. Le texte qualifie ici de *kufr* non un simple refus de croire, mais l'énoncé même de cette identification.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-Masīḥ</span></dt>
-<dd>conservé en translittération, conformément à la règle déjà posée en S3:45 et S4:171 (déjà rencontrées dans ce projet) : racine *m-s-ḥ* (essuyer, oindre) — nom propre composé, non traduit, sans qu'aucun mot français ne rende à lui seul ce titre.</dd>
+<dd>conservé en translittération, conformément à la règle déjà posée en S3:45 et S4:171 (déjà rencontrées) : racine *m-s-ḥ* (essuyer, oindre) — nom propre composé, non traduit, sans qu'aucun mot français ne rende à lui seul ce titre.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-man yamliku mina llāhi shayʾan</span></dt>
@@ -94,7 +94,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">al-yahūd wa-n-naṣārā</span></dt>
-<dd>termes déjà rencontrés séparément dans ce projet (*naṣārā* : S2:62, S5:14 ; *al-yahūd* : *passim* dans S2). <strong>Dit</strong> : le texte associe ici les deux désignations dans une même parole rapportée, sans préciser si elle fut tenue conjointement ou par chacun séparément.</dd>
+<dd>termes déjà rencontrés séparément (*naṣārā* : S2:62, S5:14 ; *al-yahūd* : *passim* dans S2). <strong>Dit</strong> : le texte associe ici les deux désignations dans une même parole rapportée, sans préciser si elle fut tenue conjointement ou par chacun séparément.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">abnāʾu llāhi wa-aḥibbāʾuhu</span></dt>
@@ -102,7 +102,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bashar</span></dt>
-<dd>racine *b-sh-r* : l'humain dans sa condition commune, par opposition à tout statut d'exception revendiqué. Terme déjà rencontré dans ce projet pour désigner la condition humaine partagée (ex. S3:47, précédent hors de ce Bloc).</dd>
+<dd>racine *b-sh-r* : l'humain dans sa condition commune, par opposition à tout statut d'exception revendiqué. Terme déjà rencontré pour désigner la condition humaine partagée (ex. S3:47, précédent hors de ce Bloc).</dd>
 </div>
 </dl>
 </div>
@@ -127,11 +127,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">an taqūlū mā jāʾanā min bashīrin wa-lā nadhīrin</span></dt>
-<dd><strong>Dit</strong> : le texte formule lui-même la finalité de cette venue — retirer une excuse précise (« aucun avertisseur ne nous est venu ») — et non une finalité que ce projet déduirait de l'extérieur.</dd>
+<dd><strong>Dit</strong> : le texte formule lui-même la finalité de cette venue — retirer une excuse précise (« aucun avertisseur ne nous est venu ») — et non une finalité déduite de l'extérieur.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bashīr / nadhīr</span></dt>
-<dd>couple déjà rencontré à l'identique dans ce projet (fonction d'annonce et de mise en garde, sans contenu autre que ce que le texte associe explicitement à chacun des deux termes selon les contextes).</dd>
+<dd>couple déjà rencontré à l'identique (fonction d'annonce et de mise en garde, sans contenu autre que ce que le texte associe explicitement à chacun des deux termes selon les contextes).</dd>
 </div>
 </dl>
 </div>
@@ -154,7 +154,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">dhkurū niʿmata llāhi ʿalaykum</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : même formule d'ouverture qu'en S5:7 et S5:11 (Bloc II, déjà rencontrées dans ce projet) — un rappel du *niʿma* introduit ici par un discours de Mūsā rapporté au style direct, plutôt qu'adressé directement aux croyants comme en S5:7 et S5:11.</dd>
+<dd><strong>Cohérence intra-coranique</strong> : même formule d'ouverture qu'en S5:7 et S5:11 (Bloc II, déjà rencontrées) — un rappel du *niʿma* introduit ici par un discours de Mūsā rapporté au style direct, plutôt qu'adressé directement aux croyants comme en S5:7 et S5:11.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">jaʿalakum mulūkan</span></dt>
@@ -179,11 +179,11 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">al-arḍ al-muqaddasa</span></dt>
-<dd>racine *q-d-s* : la sacralité, la pureté totale, ce qui est mis à part — déjà rencontrée dans ce projet pour *rūḥ al-qudus* (S2:87). <strong>Non-dit</strong> : ce verset ne délimite géographiquement en rien cette terre — il la nomme par sa qualité (*muqaddasa*), non par ses frontières.</dd>
+<dd>racine *q-d-s* : la sacralité, la pureté totale, ce qui est mis à part — déjà rencontrée pour *rūḥ al-qudus* (S2:87). <strong>Non-dit</strong> : ce verset ne délimite géographiquement en rien cette terre — il la nomme par sa qualité (*muqaddasa*), non par ses frontières.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">kataba llāhu lakum</span></dt>
-<dd>racine *k-t-b* : prescrire, décréter par écrit — même racine que le *mīthāq* « prescrit » ailleurs dans ce projet (ex. les jeûne et talion en S2). Ici appliquée à l'entrée dans cette terre comme une prescription, non une simple suggestion.</dd>
+<dd>racine *k-t-b* : prescrire, décréter par écrit — même racine que le *mīthāq* « prescrit » ailleurs (ex. les jeûne et talion en S2). Ici appliquée à l'entrée dans cette terre comme une prescription, non une simple suggestion.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">lā tartaddū ʿalā adbārikum</span></dt>
@@ -233,7 +233,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-tawakkalū</span></dt>
-<dd>même racine *w-k-l* que la formule de clôture déjà rencontrée en S5:11 et S3:122 (Bloc II de Sourate 5, déjà rencontrée dans ce projet) : remettre l'issue d'une affaire à Allaah, une confiance active.</dd>
+<dd>même racine *w-k-l* que la formule de clôture déjà rencontrée en S5:11 et S3:122 (Bloc II de Sourate 5, déjà rencontrée) : remettre l'issue d'une affaire à Allaah, une confiance active.</dd>
 </div>
 </dl>
 </div>
@@ -282,7 +282,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">lā amliku illā nafsī wa-akhī</span></dt>
-<dd>*nafs* conservé en translittération, conformément à l'usage déjà posé dans ce projet (S4:1) : un principe vivant désignant ici Mūsā lui-même, distinct de « mon frère » (Hārūn, non nommé dans ce verset).</dd>
+<dd>*nafs* conservé en translittération, conformément à l'usage déjà posé (S4:1) : un principe vivant désignant ici Mūsā lui-même, distinct de « mon frère » (Hārūn, non nommé dans ce verset).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-qawmi l-fāsiqīn</span></dt>
@@ -334,7 +334,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">ibnay ādama</span></dt>
-<dd><strong>Non-dit</strong> : le texte ne nomme à aucun moment ces deux fils. Les noms « Qābīl » et « Hābīl », couramment associés à ce récit, sont d'origine extra-coranique (tradition rapportée, non le texte lui-même) — ce projet les tient hors de la traduction, conformément à sa méthode.</dd>
+<dd><strong>Non-dit</strong> : le texte ne nomme à aucun moment ces deux fils. Les noms « Qābīl » et « Hābīl », couramment associés à ce récit, sont d'origine extra-coranique (tradition rapportée, non le texte lui-même) — ils sont tenus hors de la traduction, conformément à la méthode retenue ici.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bi-l-ḥaqqi</span></dt>
@@ -342,7 +342,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">qurbān</span></dt>
-<dd>même terme qu'en S3:183 (déjà rencontré dans ce projet), racine *q-r-b* (proximité) : ce qui est rapproché, offert. <strong>Non-dit</strong> : ce verset ne précise pas la nature de l'offrande présentée par chacun des deux fils.</dd>
+<dd>même terme qu'en S3:183 (déjà rencontré), racine *q-r-b* (proximité) : ce qui est rapproché, offert. <strong>Non-dit</strong> : ce verset ne précise pas la nature de l'offrande présentée par chacun des deux fils.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">innamā yataqabbalu llāhu mina l-muttaqīn</span></dt>
@@ -434,7 +434,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">an-nādimīn</span></dt>
-<dd>racine *n-d-m* : le remords, le regret amer — distinct de la *tawba* (le retour formel vers Allaah), racine différente (*t-w-b*), déjà rencontrée ailleurs dans ce projet. <strong>Non-dit</strong> : ce verset ne dit pas si ce remords (*nadam*) équivaut, à lui seul, à une *tawba* — il nomme seulement l'état dans lequel se trouve le meurtrier après son acte.</dd>
+<dd>racine *n-d-m* : le remords, le regret amer — distinct de la *tawba* (le retour formel vers Allaah), racine différente (*t-w-b*), déjà rencontrée ailleurs. <strong>Non-dit</strong> : ce verset ne dit pas si ce remords (*nadam*) équivaut, à lui seul, à une *tawba* — il nomme seulement l'état dans lequel se trouve le meurtrier après son acte.</dd>
 </div>
 </dl>
 </div>
@@ -458,7 +458,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">min ajli dhālika</span></dt>
-<dd><strong>Dit</strong> : le texte relie lui-même, par cette formule, le principe qui suit au récit qui précède (le meurtre du frère) — une causalité posée par le texte, non une déduction ajoutée par ce projet.</dd>
+<dd><strong>Dit</strong> : le texte relie lui-même, par cette formule, le principe qui suit au récit qui précède (le meurtre du frère) — une causalité posée par le texte, non une déduction ajoutée par l'analyse.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">katabnā ʿalā banī isrāʾīla</span></dt>
@@ -466,7 +466,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nafsan bi-ghayri nafsin aw fasādin fi l-arḍ</span></dt>
-<dd>*nafs* conservé en translittération (voir S4:1, S5:25, déjà rencontrées dans ce projet). Deux exceptions nommées par le texte à l'interdit général de tuer un *nafs* : la réparation d'un *nafs* par un autre (le talion), et la réponse à une *fasād* (racine *f-s-d*, la corruption, le désordre qui gâte) sur la terre.</dd>
+<dd>*nafs* conservé en translittération (voir S4:1, S5:25, déjà rencontrées). Deux exceptions nommées par le texte à l'interdit général de tuer un *nafs* : la réparation d'un *nafs* par un autre (le talion), et la réponse à une *fasād* (racine *f-s-d*, la corruption, le désordre qui gâte) sur la terre.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">an-nās</span></dt>

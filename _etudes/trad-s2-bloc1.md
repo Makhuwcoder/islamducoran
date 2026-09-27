@@ -131,7 +131,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">rabb</span></dt>
-<dd>racine *r-b-b*. Conformément à la règle du Projet, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
+<dd>racine *r-b-b*. Selon la méthode retenue ici, *Rabb* est conservé en translittération plutôt que traduit par « Seigneur » : la racine porte, dans son champ sémantique arabe, à la fois l'idée d'éducation et de croissance progressive (*tarbiya*) et celle de souveraineté sur ce qui est élevé et conduit à son plein accomplissement — un champ que le seul mot français « Seigneur » (registre féodal et d'autorité) ne couvre pas.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">mufliḥūn</span></dt>
@@ -158,7 +158,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">kafarū</span></dt>
-<dd>racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut dans ce projet, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.</dd>
+<dd>racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.</dd>
 </div>
 </dl>
 </div>

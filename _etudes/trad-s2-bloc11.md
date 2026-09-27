@@ -17,7 +17,7 @@ methode: "Dit / Non-dit / Inférence"
 **Structure du Bloc XI.** Cinq ensembles : dépenser avant le jour sans négoce (S2:254) ; Āyat al-Kursī (S2:255) ; l'absence de contrainte en dīn et la wilāya d'Allaah (S2:256–257) ; deux épisodes d'Ibrāhīm et du passant à la cité en ruines (S2:258–260) ; six paraboles sur la dépense (S2:261–266).
 
 {:.callout .callout--avert}
-**Avertissement méthodologique renforcé.** S2:255 (Āyat al-Kursī) et S2:256 (« lā ikrāha fī l-dīn ») comptent parmi les versets les plus commentés, les plus cités et les plus exposés à une lecture déformée — dans un sens comme dans l'autre — de tout le corpus coranique. La méthode s'y applique avec la rigueur la plus stricte : chaque terme qui pourrait laisser entendre une notion de lieu, une forme physique ou un sentiment humain appliqués à Allaah est signalé et neutralisé conformément aux règles du projet ; rien n'est ajouté à ce que le texte dit, rien n'en est retranché.
+**Avertissement méthodologique renforcé.** S2:255 (Āyat al-Kursī) et S2:256 (« lā ikrāha fī l-dīn ») comptent parmi les versets les plus commentés, les plus cités et les plus exposés à une lecture déformée — dans un sens comme dans l'autre — de tout le corpus coranique. La méthode s'y applique avec la rigueur la plus stricte : chaque terme qui pourrait laisser entendre une notion de lieu, une forme physique ou un sentiment humain appliqués à Allaah est signalé et neutralisé conformément à la méthode retenue ; rien n'est ajouté à ce que le texte dit, rien n'en est retranché.
 
 ### Sommaire du bloc
 
@@ -122,7 +122,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الْعَلِيّ / الْعَظِيم</span><span class="lex-trl">al-ʿAliyy / al-ʿAẓīm</span></dt>
-<dd>racines ʿ-l-w (élévation) et ʿ-ẓ-m (grandeur, magnitude). **Règle du projet appliquée avec la plus grande rigueur.** Conformément à la règle méthodologique retenue pour ce site, *al-ʿAliyy* n'est jamais rendu par « le Très-Haut » — cette traduction importe une connotation d'espace et de lieu qu'aucune formulation française équivalente ne permet d'effacer avec certitude. Les deux noms sont donc conservés en translittération : l'élévation désignée par ʿ-l-w est une élévation de rang, de souveraineté et de portée — non une position dans l'espace — cohérente avec le principe *laysa ka-mithlihi shayʾ* (S.42:11, hors bloc) déjà cité dans la banque lexicale de ce site à propos de *stawā* (S2:29).</dd>
+<dd>racines ʿ-l-w (élévation) et ʿ-ẓ-m (grandeur, magnitude). Conformément à la méthode retenue, *al-ʿAliyy* n'est jamais rendu par « le Très-Haut » — cette traduction importe une connotation d'espace et de lieu qu'aucune formulation française équivalente ne permet d'effacer avec certitude. Les deux noms sont donc conservés en translittération : l'élévation désignée par ʿ-l-w est une élévation de rang, de souveraineté et de portée — non une position dans l'espace — cohérente avec le principe *laysa ka-mithlihi shayʾ* (S.42:11, hors bloc) déjà cité dans la banque lexicale de ce site à propos de *stawā* (S2:29).</dd>
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
@@ -160,7 +160,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الدِّين</span><span class="lex-trl">al-dīn</span></dt>
-<dd>conservé en translittération, conformément à la règle méthodologique du projet.</dd>
+<dd>conservé en translittération, conformément à la méthode retenue.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">تَبَيَّنَ</span><span class="lex-trl">tabayyana</span></dt>

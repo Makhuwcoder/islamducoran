@@ -54,7 +54,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-ttaqu llāh</span></dt>
-<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 </dl>
 </div>
@@ -133,7 +133,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-l-yatawakkali l-muʾminūn</span></dt>
-<dd>même formule de clôture qu'en S3:122 (déjà rencontrée dans ce projet) — racine *w-k-l* : remettre une affaire à quelqu'un d'autre pour son issue, confiance active et non passivité.</dd>
+<dd>même formule de clôture qu'en S3:122 (déjà rencontrée) — racine *w-k-l* : remettre une affaire à quelqu'un d'autre pour son issue, confiance active et non passivité.</dd>
 </div>
 </dl>
 </div>
@@ -164,15 +164,15 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">qarḍan ḥasanan</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : même formule qu'en S2:245 (« *man dhā lladhī yuqriḍu llāha qarḍan ḥasanan* », déjà rencontrée dans ce projet) — le « beau prêt » fait à Allaah.</dd>
+<dd><strong>Cohérence intra-coranique</strong> : même formule qu'en S2:245 (« *man dhā lladhī yuqriḍu llāha qarḍan ḥasanan* », déjà rencontrée) — le « beau prêt » fait à Allaah.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">la-ukaffiranna ʿankum sayyiʾātikum wa-la-udkhilannakum jannātin tajrī min taḥtihā l-anhār</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : formule quasi identique à S3:195 (déjà rencontrée dans ce projet : « *la-ukaffiranna ʿanhum sayyiʾātihim wa-la-udkhilannahum jannātin tajrī min taḥtihā l-anhāru* ») — le même couple rétributif (effacement des fautes, entrée dans des jardins irrigués) revient d'un contexte à l'autre.</dd>
+<dd><strong>Cohérence intra-coranique</strong> : formule quasi identique à S3:195 (déjà rencontrée : « *la-ukaffiranna ʿanhum sayyiʾātihim wa-la-udkhilannahum jannātin tajrī min taḥtihā l-anhāru* ») — le même couple rétributif (effacement des fautes, entrée dans des jardins irrigués) revient d'un contexte à l'autre.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ḍalla sawāʾa s-sabīl</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : même expression, rendue par la même formule, qu'en S2:108 (déjà rencontrée dans ce projet : « *s'est égaré loin du milieu du chemin* ») — *sawāʾ*, l'axe médian, le point central d'un chemin ; s'en égarer, c'est quitter cet axe, non simplement « se tromper ».</dd>
+<dd><strong>Cohérence intra-coranique</strong> : même expression, rendue par la même formule, qu'en S2:108 (déjà rencontrée : « *s'est égaré loin du milieu du chemin* ») — *sawāʾ*, l'axe médian, le point central d'un chemin ; s'en égarer, c'est quitter cet axe, non simplement « se tromper ».</dd>
 </div>
 </dl>
 </div>
@@ -197,23 +197,23 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-bimā naqḍihim mīthāqahum</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : reprise à l'identique de la formule employée en S4:155 (Bloc X de Sourate 4, déjà rencontrée dans ce projet) pour introduire, dans les deux cas, une liste de conséquences attribuées à la rupture d'un *mīthāq*.</dd>
+<dd><strong>Cohérence intra-coranique</strong> : reprise à l'identique de la formule employée en S4:155 (Bloc X de Sourate 4, déjà rencontrée) pour introduire, dans les deux cas, une liste de conséquences attribuées à la rupture d'un *mīthāq*.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">laʿannāhum</span></dt>
-<dd>racine *l-ʿ-n* : éloigner, exclure — traduit ici « éloigner [de la *raḥma*] », conformément à l'usage déjà posé dans ce projet en S2:89–93 et S4:93 (« *laʿanahu* », l'a éloigné). Le terme n'est jamais rendu par une formule qui prêterait à Allaah un sentiment d'hostilité — il désigne un acte d'exclusion, non une émotion.</dd>
+<dd>racine *l-ʿ-n* : éloigner, exclure — traduit ici « éloigner [de la *raḥma*] », conformément à l'usage déjà posé en S2:89–93 et S4:93 (« *laʿanahu* », l'a éloigné). Le terme n'est jamais rendu par une formule qui prêterait à Allaah un sentiment d'hostilité — il désigne un acte d'exclusion, non une émotion.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">qulūbahum qāsiyatan</span></dt>
-<dd>racine *q-s-w* : la dureté, la rigidité. <strong>Cohérence intra-coranique</strong> : même racine qu'en S2:74 (déjà rencontrée dans ce projet : « *qasat qulūbukum min baʿdi dhālika* », à propos des mêmes Banū Isrāʾīl, après un autre épisode de rupture) — le durcissement du cœur est, dans les deux passages, posé comme une conséquence qui suit la rupture d'un engagement, non comme une cause première.</dd>
+<dd>racine *q-s-w* : la dureté, la rigidité. <strong>Cohérence intra-coranique</strong> : même racine qu'en S2:74 (déjà rencontrée : « *qasat qulūbukum min baʿdi dhālika* », à propos des mêmes Banū Isrāʾīl, après un autre épisode de rupture) — le durcissement du cœur est, dans les deux passages, posé comme une conséquence qui suit la rupture d'un engagement, non comme une cause première.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuḥarrifūna l-kalima ʿan mawāḍiʿihi</span></dt>
-<dd>même racine *ḥ-r-f* qu'en S2:75 (déjà rencontrée dans ce projet) : dévier, faire pencher vers un bord — *taḥrīf*, le déplacement du sens qui conserve l'apparence de l'original tout en le faisant glisser hors de sa position. <strong>Non-dit</strong> : ni ce verset ni S2:75 ne précisent le mécanisme concret de ce déplacement (oral, écrit, ou les deux).</dd>
+<dd>même racine *ḥ-r-f* qu'en S2:75 (déjà rencontrée) : dévier, faire pencher vers un bord — *taḥrīf*, le déplacement du sens qui conserve l'apparence de l'original tout en le faisant glisser hors de sa position. <strong>Non-dit</strong> : ni ce verset ni S2:75 ne précisent le mécanisme concret de ce déplacement (oral, écrit, ou les deux).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">khāʾinatin</span></dt>
-<dd>même racine *kh-w-n* qu'*al-khāʾinīn* en S4:105 (déjà rencontrée dans ce projet), mais ici au féminin singulier indéfini (*khāʾina*) — non un groupe de personnes qualifiées de traîtres, mais un acte, une instance ponctuelle de trahison. Le verset qualifie explicitement le sort d'un « petit nombre » comme exception.</dd>
+<dd>même racine *kh-w-n* qu'*al-khāʾinīn* en S4:105 (déjà rencontrée), mais ici au féminin singulier indéfini (*khāʾina*) — non un groupe de personnes qualifiées de traîtres, mais un acte, une instance ponctuelle de trahison. Le verset qualifie explicitement le sort d'un « petit nombre » comme exception.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-ʿfu ʿanhum wa-ṣfaḥ</span></dt>
@@ -240,7 +240,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-mina lladhīna qālū innā naṣārā</span></dt>
-<dd><strong>Dit</strong> : la particule *min* (« parmi ») restreint explicitement la portée du propos — non « les *naṣārā* » comme totalité, mais un sous-ensemble de ceux qui se sont dits tels. Même terme *naṣārā* qu'en S2:62 (déjà rencontré dans ce projet), conservé en translittération.</dd>
+<dd><strong>Dit</strong> : la particule *min* (« parmi ») restreint explicitement la portée du propos — non « les *naṣārā* » comme totalité, mais un sous-ensemble de ceux qui se sont dits tels. Même terme *naṣārā* qu'en S2:62 (déjà rencontré), conservé en translittération.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-nasū ḥaẓẓan mimmā dhukkirū bihi</span></dt>
@@ -283,7 +283,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yukhrijuhum mina ẓ-ẓulumāti ilā n-nūri bi-idhnihi</span></dt>
-<dd><strong>Cohérence intra-coranique</strong> : image quasi identique à S2:257 (déjà rencontrée dans ce projet : « *Allāhu Walīyu lladhīna āmanū yukhrijuhum mina l-ẓulumāti ilā l-nūr* »), avec ici l'ajout *bi-idhnihi* (« avec Sa permission »).</dd>
+<dd><strong>Cohérence intra-coranique</strong> : image quasi identique à S2:257 (déjà rencontrée : « *Allāhu Walīyu lladhīna āmanū yukhrijuhum mina l-ẓulumāti ilā l-nūr* »), avec ici l'ajout *bi-idhnihi* (« avec Sa permission »).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">riḍwānahu</span></dt>

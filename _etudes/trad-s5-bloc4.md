@@ -14,9 +14,9 @@ methode: "Dit / Non-dit / Inférence"
 <div id="top-fiche"></div>
 
 {:.callout .callout--pivot}
-**Structure du Bloc IV.** Quatre ensembles, tous rattachés au principe posé en S5:32 (la vie humaine, l'exception du talion et du *fasād*) qui les précède immédiatement dans ce Projet. D'abord la sentence contre la *muḥāraba* et le *fasād fī l-arḍ*, assortie d'une exception explicite pour qui revient avant d'être appréhendé (S5:33–34). Puis un appel à la *taqwā*, à la recherche d'un moyen de rapprochement (*al-wasīla*) et à l'effort (*jihād*) sur le chemin d'Allaah (S5:35). Puis l'affirmation qu'aucune rançon, fût-elle la terre entière, ne saurait racheter du châtiment ceux qui ont commis le *kufr* (S5:36–37). Enfin la sentence contre le vol, la possibilité d'un retour après la faute, et la clôture rappelant que la royauté (*mulk*) et la décision de châtier ou de pardonner appartiennent à Allaah seul (S5:38–40).
+**Structure du Bloc IV.** Quatre ensembles, tous rattachés au principe posé en S5:32 (la vie humaine, l'exception du talion et du *fasād*) qui les précède immédiatement. D'abord la sentence contre la *muḥāraba* et le *fasād fī l-arḍ*, assortie d'une exception explicite pour qui revient avant d'être appréhendé (S5:33–34). Puis un appel à la *taqwā*, à la recherche d'un moyen de rapprochement (*al-wasīla*) et à l'effort (*jihād*) sur le chemin d'Allaah (S5:35). Puis l'affirmation qu'aucune rançon, fût-elle la terre entière, ne saurait racheter du châtiment ceux qui ont commis le *kufr* (S5:36–37). Enfin la sentence contre le vol, la possibilité d'un retour après la faute, et la clôture rappelant que la royauté (*mulk*) et la décision de châtier ou de pardonner appartiennent à Allaah seul (S5:38–40).
 
-**Avertissement de méthode — versets exigeant la prudence maximale.** S5:33 et S5:38 comptent parmi les versets les plus lourds de conséquences pratiques de tout le corpus coranique : ils énoncent des sanctions corporelles précises. La méthode de ce site impose ici, plus qu'ailleurs, de séparer strictement ce que le texte formule explicitement (le *dit*), ce sur quoi il reste muet (le *non-dit*), et ce que des siècles de jurisprudence (*fiqh*) y ont ajouté par déduction, extrapolation ou consensus (l'*inférence*) — sans jamais présenter cette dernière couche comme si elle était le texte lui-même. Un article distinct de ce Projet (*« Le fasād et les mufsidūn dans le Coran »*) a déjà établi, par une analyse exhaustive des racines *ḥ-r-b*, *s-ʿ-y* et *f-s-d*, la lecture de S5:32–33 comme définition textuelle de ce qui s'apparente à la violence organisée contre l'ordre collectif — lecture reprise et prolongée ici, non recréée.
+**Avertissement de méthode — versets exigeant la prudence maximale.** S5:33 et S5:38 comptent parmi les versets les plus lourds de conséquences pratiques de tout le corpus coranique : ils énoncent des sanctions corporelles précises. La méthode de ce site impose ici, plus qu'ailleurs, de séparer strictement ce que le texte formule explicitement (le *dit*), ce sur quoi il reste muet (le *non-dit*), et ce que des siècles de jurisprudence (*fiqh*) y ont ajouté par déduction, extrapolation ou consensus (l'*inférence*) — sans jamais présenter cette dernière couche comme si elle était le texte lui-même. Un article dédié (*« Le fasād et les mufsidūn dans le Coran »*) établit, par une analyse exhaustive des racines *ḥ-r-b*, *s-ʿ-y* et *f-s-d*, la lecture de S5:32–33 comme définition textuelle de ce qui s'apparente à la violence organisée contre l'ordre collectif — lecture reprise et prolongée ici, non recréée.
 
 ### Sommaire du bloc
 
@@ -56,11 +56,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuḥāribūna llāha wa-rasūlahu</span></dt>
-<dd>racine *ḥ-r-b* : déjà analysée en détail dans ce Projet (article « Le *fasād* et les *mufsidūn* dans le Coran ») — Ibn Fāris : *al-salb*, dépouiller, arracher par la force ; *yuḥāribūna* désigne ici une guerre menée contre l'ordre de justice que le texte établit, non une simple hostilité personnelle.</dd>
+<dd>racine *ḥ-r-b* : déjà analysée en détail (article « Le *fasād* et les *mufsidūn* dans le Coran ») — Ibn Fāris : *al-salb*, dépouiller, arracher par la force ; *yuḥāribūna* désigne ici une guerre menée contre l'ordre de justice que le texte établit, non une simple hostilité personnelle.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yasʿawna fi l-arḍi fasādan</span></dt>
-<dd>racine *s-ʿ-y* (se mouvoir intentionnellement vers un but) + *f-s-d* (la sortie hors de l'équilibre — voir S5:32, précédent immédiat dans ce Projet) : un *fasād* recherché, planifié, non accidentel — déjà établi comme définition textuelle de la violence organisée contre l'espace collectif.</dd>
+<dd>racine *s-ʿ-y* (se mouvoir intentionnellement vers un but) + *f-s-d* (la sortie hors de l'équilibre — voir S5:32, précédent immédiat) : un *fasād* recherché, planifié, non accidentel — déjà établi comme définition textuelle de la violence organisée contre l'espace collectif.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">an yuqattalū</span></dt>
@@ -68,11 +68,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuṣallabū</span></dt>
-<dd>racine *ṣ-l-b*. Traduction retenue par cohérence avec le précédent déjà posé dans ce Projet pour la même racine (S4:157–158, *mā ṣalabūhu* — « ils ne l'ont pas crucifié »).</dd>
+<dd>racine *ṣ-l-b*. Traduction retenue par cohérence avec le précédent déjà posé pour la même racine (S4:157–158, *mā ṣalabūhu* — « ils ne l'ont pas crucifié »).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāf</span></dt>
-<dd>racine *q-ṭ-ʿ* (couper, sectionner — même racine que *yaqṭaʿūna* en S2:27, déjà rencontrée dans ce Projet pour « rompre » un lien) ; *khilāf*, racine *kh-l-f* (la différence, ce qui vient après ou à l'opposé). Voir la note de méthode ci-dessus sur l'étendue exacte de ce que ce verset précise et ne précise pas.</dd>
+<dd>racine *q-ṭ-ʿ* (couper, sectionner — même racine que *yaqṭaʿūna* en S2:27, déjà rencontrée pour « rompre » un lien) ; *khilāf*, racine *kh-l-f* (la différence, ce qui vient après ou à l'opposé). Voir la note de méthode ci-dessus sur l'étendue exacte de ce que ce verset précise et ne précise pas.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yunfaw mina l-arḍ</span></dt>
@@ -101,7 +101,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">tābū</span></dt>
-<dd>racine *t-w-b* : le retour, déjà rencontrée à plusieurs reprises dans ce Projet (S5:31, Bloc III — distinguée du simple remords, *nadam*). **Dit** : le texte pose une clause d'exception explicite, intégrée à la structure même de la sentence de S5:33 — non une atténuation ajoutée après coup.</dd>
+<dd>racine *t-w-b* : le retour, déjà rencontrée à plusieurs reprises (S5:31, Bloc III — distinguée du simple remords, *nadam*). **Dit** : le texte pose une clause d'exception explicite, intégrée à la structure même de la sentence de S5:33 — non une atténuation ajoutée après coup.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">min qabli an taqdirū ʿalayhim</span></dt>
@@ -109,7 +109,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ghafūr, raḥīm</span></dt>
-<dd>couple déjà établi dans ce Projet (conservé en translittération). Le texte referme cette sentence, l'une des plus sévères du corpus, sur une clause de retour possible — non sur son seul aspect punitif.</dd>
+<dd>couple déjà établi (conservé en translittération). Le texte referme cette sentence, l'une des plus sévères du corpus, sur une clause de retour possible — non sur son seul aspect punitif.</dd>
 </div>
 </dl>
 </div>
@@ -132,15 +132,15 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">al-wasīla</span></dt>
-<dd>racine *w-s-l* : Ibn Fāris (*Maqāyīs*) — *al-waṣl*, la jonction, l'attache entre deux choses. *Al-wasīla* désigne ce par quoi on parvient à rejoindre, à se rapprocher de quelque chose ou de quelqu'un. **Non-dit** : ce verset ne précise pas la nature de ce moyen de rapprochement — obéissance, œuvre, connaissance, ou toute autre disposition. Le même terme reparaît, à propos d'Allaah également, en S17:57 (hors du périmètre déjà traduit dans ce Projet), sans qu'aucune des deux occurrences ne le définisse davantage. Toute identification précise (une pratique donnée, une personne intercédant) relève de l'*inférence* extérieure au texte, non du *dit*. Conservé en translittération à défaut d'un mot français unique couvrant ce sens.</dd>
+<dd>racine *w-s-l* : Ibn Fāris (*Maqāyīs*) — *al-waṣl*, la jonction, l'attache entre deux choses. *Al-wasīla* désigne ce par quoi on parvient à rejoindre, à se rapprocher de quelque chose ou de quelqu'un. **Non-dit** : ce verset ne précise pas la nature de ce moyen de rapprochement — obéissance, œuvre, connaissance, ou toute autre disposition. Le même terme reparaît, à propos d'Allaah également, en S17:57 (hors du périmètre déjà traduit), sans qu'aucune des deux occurrences ne le définisse davantage. Toute identification précise (une pratique donnée, une personne intercédant) relève de l'*inférence* extérieure au texte, non du *dit*. Conservé en translittération à défaut d'un mot français unique couvrant ce sens.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ittaqū llāh</span></dt>
-<dd>racine *w-q-y*, déjà établie dans ce Projet (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Conformément à la règle du Projet, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">jāhidū fī sabīlihi</span></dt>
-<dd>racine *j-h-d* : effort intense, acharnement soutenu — déjà établie dans ce Projet (S4:95, *al-mujāhidūn* : « ceux qui s'efforcent »). *Fī sabīlihi* (« sur Son chemin ») reste ici général : le texte, à cet endroit, ne restreint pas cet effort à une forme unique (armée, financière, ou autre) — cette précision est apportée ailleurs dans le corpus selon les contextes (ex. S4:95, *bi-amwālihim wa-anfusihim*, « par leurs biens et leurs personnes »), non par ce seul verset.</dd>
+<dd>racine *j-h-d* : effort intense, acharnement soutenu — déjà établie (S4:95, *al-mujāhidūn* : « ceux qui s'efforcent »). *Fī sabīlihi* (« sur Son chemin ») reste ici général : le texte, à cet endroit, ne restreint pas cet effort à une forme unique (armée, financière, ou autre) — cette précision est apportée ailleurs dans le corpus selon les contextes (ex. S4:95, *bi-amwālihim wa-anfusihim*, « par leurs biens et leurs personnes »), non par ce seul verset.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">tufliḥūn</span></dt>
@@ -171,7 +171,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">mā tuqubbila minhum</span></dt>
-<dd>même racine *q-b-l* (accepter) qu'en S5:27, déjà rencontrée dans ce Projet (« *innamā yataqabbalu llāhu mina l-muttaqīn* », « Allaah n'accepte que de la part des *muttaqīn* »). **Cohérence intra-coranique** : l'acceptation par Allaah, dans les deux passages, est liée à une disposition intérieure (*taqwā*), non à une transaction matérielle — ce que ce verset confirme négativement : aucune quantité de richesse, fût-elle la terre entière doublée, ne peut s'y substituer.</dd>
+<dd>même racine *q-b-l* (accepter) qu'en S5:27, déjà rencontrée (« *innamā yataqabbalu llāhu mina l-muttaqīn* », « Allaah n'accepte que de la part des *muttaqīn* »). **Cohérence intra-coranique** : l'acceptation par Allaah, dans les deux passages, est liée à une disposition intérieure (*taqwā*), non à une transaction matérielle — ce que ce verset confirme négativement : aucune quantité de richesse, fût-elle la terre entière doublée, ne peut s'y substituer.</dd>
 </div>
 </dl>
 </div>
@@ -192,11 +192,11 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">mā hum bi-khārijīna minhā</span></dt>
-<dd>tournure *mā… bi-* : négation catégorique, renforcée — plus ferme que la simple négation *lā*, déjà relevée sur ce même verset dans un autre document de ce Projet (« *sortir-du-feu* ») : **Dit** — le désir de sortie est expressément mentionné, puis expressément et catégoriquement nié dans la même phrase.</dd>
+<dd>tournure *mā… bi-* : négation catégorique, renforcée — plus ferme que la simple négation *lā*, déjà relevée sur ce même verset dans une autre étude (« *sortir-du-feu* ») : **Dit** — le désir de sortie est expressément mentionné, puis expressément et catégoriquement nié dans la même phrase.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ʿadhābun muqīm</span></dt>
-<dd>racine *q-w-m* : se tenir debout, être établi, persister, durer. **Non-dit** : ce terme dit la persistance, l'établissement durable — il n'est pas la racine *kh-l-d* (« demeurer, éternel ») employée ailleurs dans le corpus pour qualifier le séjour des *aṣḥāb an-nār*. Ce verset choisit un mot distinct ; ce Projet se garde de les fondre en un synonyme unique sans justification textuelle propre à chaque emploi.</dd>
+<dd>racine *q-w-m* : se tenir debout, être établi, persister, durer. **Non-dit** : ce terme dit la persistance, l'établissement durable — il n'est pas la racine *kh-l-d* (« demeurer, éternel ») employée ailleurs dans le corpus pour qualifier le séjour des *aṣḥāb an-nār*. Ce verset choisit un mot distinct ; cette note se garde de les fondre en un synonyme unique sans justification textuelle propre à chaque emploi.</dd>
 </div>
 </dl>
 </div>
@@ -215,7 +215,7 @@ methode: "Dit / Non-dit / Inférence"
 %}
 
 {:.callout .callout--pivot}
-**Note de méthode — un point de grammaire à ne pas trancher par prudence pour la commodité.** *Aydiyahumā* est le pluriel *aydī* (mains) suivi du pronom duel *humā* (« d'eux deux »). **Non-dit** : grammaticalement, cette forme désigne « les mains d'eux deux » — une expression qui, prise seule, n'indique pas explicitement qu'une seule main par personne est visée. La lecture unanime en jurisprudence (*fiqh*) — une main coupée par personne, la main droite lors d'une première infraction, une sanction graduée en cas de récidive — s'appuie sur d'autres sources (pratique rapportée, consensus juridique) extérieures à ce seul verset ; elle est cohérente avec le principe de proportionnalité que le texte pose ailleurs (S5:45, *al-jurūḥa qiṣāṣ* — la juste correspondance), mais ce verset, pris seul et strictement, ne formule pas lui-même cette précision. Ce Projet la nomme comme *inférence*, non comme *dit*, conformément à sa méthode.
+**Note de méthode — un point de grammaire à ne pas trancher par prudence pour la commodité.** *Aydiyahumā* est le pluriel *aydī* (mains) suivi du pronom duel *humā* (« d'eux deux »). **Non-dit** : grammaticalement, cette forme désigne « les mains d'eux deux » — une expression qui, prise seule, n'indique pas explicitement qu'une seule main par personne est visée. La lecture unanime en jurisprudence (*fiqh*) — une main coupée par personne, la main droite lors d'une première infraction, une sanction graduée en cas de récidive — s'appuie sur d'autres sources (pratique rapportée, consensus juridique) extérieures à ce seul verset ; elle est cohérente avec le principe de proportionnalité que le texte pose ailleurs (S5:45, *al-jurūḥa qiṣāṣ* — la juste correspondance), mais ce verset, pris seul et strictement, ne formule pas lui-même cette précision. Elle est nommée ici *inférence*, non *dit*, conformément à la méthode retenue.
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
@@ -226,7 +226,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-qṭaʿū</span></dt>
-<dd>racine *q-ṭ-ʿ* (couper, sectionner) — voir la note déjà posée en S5:33 (ce Bloc) et le précédent de S2:27 (« rompre un lien »), déjà rencontrés dans ce Projet.</dd>
+<dd>racine *q-ṭ-ʿ* (couper, sectionner) — voir la note déjà posée en S5:33 (ce Bloc) et le précédent de S2:27 (« rompre un lien »), déjà rencontrés.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nakālan mina llāh</span></dt>
@@ -234,7 +234,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ʿazīz, ḥakīm</span></dt>
-<dd>couple déjà établi dans ce Projet (conservé en translittération) : la puissance qui ne peut être défaite, et la sagesse qui place chaque chose à sa juste place.</dd>
+<dd>couple déjà établi (conservé en translittération) : la puissance qui ne peut être défaite, et la sagesse qui place chaque chose à sa juste place.</dd>
 </div>
 </dl>
 </div>
@@ -258,11 +258,11 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">tāba… yatūbu ʿalayhi</span></dt>
-<dd>racine *t-w-b*, même racine employée pour les deux mouvements — celui de l'humain et celui d'Allaah — déjà rencontrée à plusieurs reprises dans ce Projet (S5:31, S5:34, ce Bloc). Le texte ne distingue pas, lexicalement, ces deux mouvements : un même terme les nomme l'un et l'autre.</dd>
+<dd>racine *t-w-b*, même racine employée pour les deux mouvements — celui de l'humain et celui d'Allaah — déjà rencontrée à plusieurs reprises (S5:31, S5:34, ce Bloc). Le texte ne distingue pas, lexicalement, ces deux mouvements : un même terme les nomme l'un et l'autre.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ẓulmihi</span></dt>
-<dd>racine *ẓ-l-m*, déjà établie dans ce Projet : placer une chose hors de sa juste place. Le texte désigne ainsi, ici, l'acte de vol qui vient d'être nommé.</dd>
+<dd>racine *ẓ-l-m*, déjà établie : placer une chose hors de sa juste place. Le texte désigne ainsi, ici, l'acte de vol qui vient d'être nommé.</dd>
 </div>
 </dl>
 </div>
@@ -283,7 +283,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">lahu mulku s-samāwāti wa-l-arḍi</span></dt>
-<dd>même formule que S5:17–18 (Bloc III, déjà rencontrée dans ce Projet) : la royauté universelle qu'Allaah détient seul.</dd>
+<dd>même formule que S5:17–18 (Bloc III, déjà rencontrée) : la royauté universelle qu'Allaah détient seul.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuʿadhdhibu man yashāʾu wa-yaghfiru li-man yashāʾ</span></dt>
