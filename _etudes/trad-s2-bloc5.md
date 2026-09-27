@@ -245,7 +245,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="shiqaq">
 <dt><span class="lex-ar">شِقَاق</span><span class="lex-trl">shiqāq</span></dt>
 <dd>racine sh-q-q : la fissure, la division active dans ce qui était ou devrait être un. Le shiqāq n'est pas un simple désaccord : c'est une mise en opposition structurelle, une fracture délibérée. Ceux qui se détournent ne sont pas simplement absents : ils se sont placés dans une position de rupture.</dd>
 </div>
@@ -438,7 +438,7 @@ Répétition exacte de S.2:134. La double occurrence encadre les versets S.2:134
 <dt><span class="lex-ar">تَقَلُّب</span><span class="lex-trl">taqallub</span></dt>
 <dd>racine q-l-b, forme V (tafaʿʿul). Ibn Fāris (Maqāyīs) : aṣlun yadullu ʿalā qalbi l-shayʾi wa-taḥwīlihi — un sens fondamental de retournement et de transformation d'une chose dans sa direction. La forme V ajoute la progressivité et la répétition : l'action ne se produit pas une fois mais s'inscrit dans une insistance répétée — le mouvement du visage vers le ciel est décrit comme réitéré, non ponctuel.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="tarad">
 <dt><span class="lex-ar">تَرْضَىٰهَا</span><span class="lex-trl">tarḍāhā</span></dt>
 <dd>racine r-ḍ-w : la satisfaction, l'assentiment.</dd>
 </div>

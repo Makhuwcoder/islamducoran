@@ -47,19 +47,23 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:24"
    ar="وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُم مَّا وَرَاءَ ذَٰلِكُمْ أَن تَبْتَغُوا بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُم بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَاضَيْتُم بِهِ مِن بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا"
    trl="Wa-l-muḥṣanātu mina n-nisāʾi illā mā malakat aymānukum — kitāba llāhi ʿalaykum — wa-uḥilla lakum mā warāʾa dhālikum an tabtaghū bi-amwālikum muḥṣinīna ghayra musāfiḥīn — fa-mā stamtaʿtum bihi minhunna fa-ātūhunna ujūrahunna farīḍatan — wa-lā junāḥa ʿalaykum fīmā tarāḍaytum bihi min baʿdi l-farīḍah — inna llāha kāna ʿalīman ḥakīmā"
-   trad="[Sont interdites] les *muḥṣanāt* (femmes déjà engagées dans un lien) parmi les femmes — sauf ce que possèdent vos mains droites [dans les conditions déjà posées] : prescription d'Allaah pour vous. Vous est rendu licite, au-delà de cela, de rechercher [des épouses] par vos biens, en *muḥṣinīn* (dans une visée d'engagement protégé), non en *musāfiḥīn* (dans une visée de débauche). Ce dont vous avez joui (*istamtaʿtum*) auprès d'elles, donnez-leur leurs *ujūr* (rétributions) comme *farīḍa* (obligation fixée). Nulle faute sur vous concernant ce dont vous vous seriez accordés mutuellement au-delà de la *farīḍa*. Allaah est, certes, *ʿAlīm*, *Ḥakīm*."
+   trad="[Sont interdites] les *[muḥṣanāt](#muhsanat)* (femmes déjà engagées dans un lien) parmi les femmes — sauf ce que possèdent vos mains droites [dans les conditions déjà posées] : prescription d'Allaah pour vous. Vous est rendu licite, au-delà de cela, de rechercher [des épouses] par vos biens, en *muḥṣinīn* (dans une visée d'engagement protégé), non en *musāfiḥīn* (dans une visée de débauche). Ce dont vous avez joui (*istamtaʿtum*) auprès d'elles, donnez-leur leurs *[ujūr](#ujur)* (rétributions) comme *[farīḍa](/etudes/trad-s4-bloc1/#fard)* (obligation fixée). Nulle faute sur vous concernant ce dont vous vous seriez accordés mutuellement au-delà de la *[farīḍa](/etudes/trad-s4-bloc1/#fard)*. Allaah est, certes, *ʿAlīm*, *Ḥakīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">muḥṣinīn / musāfiḥīn</span></dt>
+<div class="lex-entree" id="muhsanat">
+<dt><span class="lex-trl">muḥṣanāt / muḥṣinīn / musāfiḥīn</span></dt>
 <dd>opposition de racines : <em>ḥ-ṣ-n</em> (fortifier, protéger — d'où l'engagement qui met à l'abri) contre <em>s-f-ḥ</em> (verser librement, d'où la débauche sans engagement). Le texte qualifie l'intention derrière la recherche d'une épouse, non les femmes elles-mêmes.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">istamtaʿtum</span></dt>
 <dd>racine <em>m-t-ʿ</em> : jouir de, tirer un bénéfice ou un plaisir de. <strong>Non-dit</strong> : le texte ne nomme ici aucune forme contractuelle particulière — il décrit la relation conjugale consommée en général et lie les *ujūr* à ce qui en a été vécu.</dd>
+</div>
+<div class="lex-entree" id="ujur">
+<dt><span class="lex-trl">ujūr</span></dt>
+<dd>pluriel d'*ajr*, racine <em>ʾ-j-r</em> : la rétribution due pour un service ou un engagement rendu. Conservé en translittération lorsqu'il est mis en relief comme ici : « rétribution » couvre le sens général sans marquer le lien de dû qui caractérise l'*ajr*.</dd>
 </div>
 </dl>
 </div>
@@ -72,7 +76,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:25"
    ar="وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِن مَّا مَلَكَتْ أَيْمَانُكُم مِّن فَتَيَاتِكُمُ الْمُؤْمِنَاتِ ۚ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُم ۚ بَعْضُكُم مِّن بَعْضٍ ۚ فَانكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ ۚ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا خَيْرٌ لَّكُمْ ۗ وَاللَّهُ غَفُورٌ رَّحِيمٌ"
    trl="Wa-man lam yastaṭiʿ minkum ṭawlan an yankiḥa l-muḥṣanāti l-muʾmināti fa-min mā malakat aymānukum min fatayātikumu l-muʾmināt — wa-llāhu aʿlamu bi-īmānikum — baʿḍukum min baʿḍin — fa-nkiḥūhunna bi-idhni ahlihinna wa-ātūhunna ujūrahunna bi-l-maʿrūfi muḥṣanātin ghayra musāfiḥātin wa-lā muttakhidhāti akhdān — fa-idhā uḥṣinna fa-in atayna bi-fāḥishatin fa-ʿalayhinna niṣfu mā ʿalā l-muḥṣanāti mina l-ʿadhāb — dhālika li-man khashiya l-ʿanata minkum — wa-an taṣbirū khayrun lakum — wa-llāhu ghafūrun raḥīm"
-   trad="Et quiconque parmi vous n'a pas les moyens (*ṭawlan*) d'épouser des *muḥṣanāt* croyantes, [qu'il épouse] parmi ce que possèdent vos mains droites, d'entre vos jeunes femmes (*fatayāt*) croyantes — Allaah connaît mieux votre foi. Vous êtes les uns des autres [d'une même origine]. Épousez-les donc avec la permission de leur *ahl* (proches), et donnez-leur leurs *ujūr* selon le *maʿrūf*, [étant] *muḥṣanāt*, non *musāfiḥāt*, ni prenant des *akhdān* (amants secrets). Si, une fois engagées [par le mariage], elles commettent une *fāḥisha*, à elles la moitié de ce qui [serait imposé] aux *muḥṣanāt* comme châtiment. Cela est pour qui craint parmi vous le *ʿanat* (la détresse qui pousse à la faute) — et que vous patientiez est meilleur pour vous. Allaah est *Ghafūr*, *Raḥīm*."
+   trad="Et quiconque parmi vous n'a pas les moyens (*ṭawlan*) d'épouser des *muḥṣanāt* croyantes, [qu'il épouse] parmi ce que possèdent vos mains droites, d'entre vos jeunes femmes (*[fatayāt](#fatayat)*) croyantes — Allaah connaît mieux votre foi. Vous êtes les uns des autres [d'une même origine]. Épousez-les donc avec la permission de leur *ahl* (proches), et donnez-leur leurs *ujūr* selon le *maʿrūf*, [étant] *muḥṣanāt*, non *[musāfiḥāt](#muhsanat)*, ni prenant des *[akhdān](#akhdan)* (amants secrets). Si, une fois engagées [par le mariage], elles commettent une *[fāḥisha](/etudes/trad-s4-bloc1/#fahisha)*, à elles la moitié de ce qui [serait imposé] aux *muḥṣanāt* comme châtiment. Cela est pour qui craint parmi vous le *ʿanat* (la détresse qui pousse à la faute) — et que vous patientiez est meilleur pour vous. Allaah est *Ghafūr*, *Raḥīm*."
 %}
 
 <div class="notes-lexicales">
@@ -81,6 +85,14 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">ṭawlan</span></dt>
 <dd>racine <em>ṭ-w-l</em> : aisance, capacité — ici d'ordre matériel.</dd>
+</div>
+<div class="lex-entree" id="fatayat">
+<dt><span class="lex-trl">fatayāt</span></dt>
+<dd>pluriel de *fatāt*, racine <em>f-t-y</em> : la jeunesse, la vigueur du début de l'âge adulte. Conservé en translittération : « jeune femme » traduit le sens général sans le lien de la racine à l'entrée dans la pleine capacité (cf. *fatwā*, l'avis qui tranche avec autorité, même racine).</dd>
+</div>
+<div class="lex-entree" id="akhdan">
+<dt><span class="lex-trl">akhdān</span></dt>
+<dd>pluriel de *khidn*, racine <em>kh-d-n</em> : le compagnon secret, l'ami dissimulé aux autres. Le texte oppose ce lien caché au lien conjugal déclaré et assumé publiquement (*muḥṣanāt*).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">baʿḍukum min baʿḍ</span></dt>
@@ -103,29 +115,41 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:26"
    ar="يُرِيدُ اللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ"
    trl="Yurīdu llāhu li-yubayyina lakum wa-yahdiyakum sunana lladhīna min qablikum wa-yatūba ʿalaykum — wa-llāhu ʿalīmun ḥakīm"
-   trad="Allaah veut vous rendre les choses manifestes (*li-yubayyina lakum*), vous guider selon les *sunan* (voies suivies) de ceux d'avant vous, et accueillir votre retour — Allaah est *ʿAlīm*, *Ḥakīm*."
+   trad="Allaah veut vous rendre les choses manifestes (*[li-yubayyina lakum](#bayan)*), vous guider selon les *sunan* (voies suivies) de ceux d'avant vous, et accueillir votre retour (*[yatūba ʿalaykum](/etudes/trad-s4-bloc1/#taba)*) — Allaah est *ʿAlīm*, *Ḥakīm*."
 %}
 
 {% include verset.html
    ref="S.4:27"
    ar="وَاللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ يَتَّبِعُونَ الشَّهَوَاتِ أَن تَمِيلُوا مَيْلًا عَظِيمًا"
    trl="Wa-llāhu yurīdu an yatūba ʿalaykum wa-yurīdu lladhīna yattabiʿūna sh-shahawāti an tamīlū maylan ʿaẓīmā"
-   trad="Allaah veut accueillir votre retour, tandis que ceux qui suivent les *shahawāt* (désirs) veulent que vous déviiez d'une déviation immense."
+   trad="Allaah veut accueillir votre retour, tandis que ceux qui suivent les *[shahawāt](#shahawat)* (désirs) veulent que vous déviiez d'une déviation immense."
 %}
 
 {% include verset.html
    ref="S.4:28"
    ar="يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ الْإِنسَانُ ضَعِيفًا"
    trl="Yurīdu llāhu an yukhaffifa ʿankum — wa-khuliqa l-insānu ḍaʿīfā"
-   trad="Allaah veut alléger [Sa charge] sur vous — et l'humain (*al-insān*) a été créé faible (*ḍaʿīf*)."
+   trad="Allaah veut alléger [Sa charge] sur vous — et l'humain (*al-insān*) a été créé *[ḍaʿīf](#daif)* (faible)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="bayan">
+<dt><span class="lex-trl">li-yubayyina lakum</span></dt>
+<dd>racine <em>b-y-n</em> : la clarté, ce qui rend visible et distinct, ce qui sépare pour rendre reconnaissable. *Bayyana* (forme II) : rendre manifeste par un acte de clarification. Le même mouvement de racine porte *bayyina* (preuve manifeste, déjà rencontrée) et *mubayyina* (une *fāḥisha* « rendue manifeste », S.4:19).</dd>
+</div>
+<div class="lex-entree" id="daif">
+<dt><span class="lex-trl">ḍaʿīf</span></dt>
+<dd>racine <em>ḍ-ʿ-f</em> : la faiblesse, le manque de force propre à soutenir seul une charge. Le texte pose cette faiblesse comme un fait de création (*khuliqa*), non comme une déficience morale.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">sunan</span></dt>
 <dd>pluriel de *sunna* : voies suivies, pratiques répétées — emploi descriptif ici, non un sens juridique technique.</dd>
+</div>
+<div class="lex-entree" id="shahawat">
+<dt><span class="lex-trl">shahawāt</span></dt>
+<dd>pluriel de *shahwa*, racine <em>sh-h-w</em> : l'attrait, l'inclination forte vers une chose — sans jugement porté par la racine elle-même sur la légitimité de cet attrait ; c'est l'emploi qui en est fait (« suivre » les *shahawāt* au point de dévier) que le verset qualifie.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">lladhīna yattabiʿūna sh-shahawāt</span></dt>
@@ -146,12 +170,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:29"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ إِلَّا أَن تَكُونَ تِجَارَةً عَن تَرَاضٍ مِّنكُمْ ۚ وَلَا تَقْتُلُوا أَنفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا"
    trl="Yā ayyuhā lladhīna āmanū lā taʾkulū amwālakum baynakum bi-l-bāṭili illā an takūna tijāratan ʿan tarāḍin minkum — wa-lā taqtulū anfusakum — inna llāha kāna bikum raḥīmā"
-   trad="Ô vous qui avez cru, ne dévorez pas vos biens entre vous par *al-bāṭil* (le sans-fondement) — sauf s'il s'agit d'un commerce (*tijāra*) par consentement mutuel entre vous (*ʿan tarāḍin*) — et ne vous tuez pas vous-mêmes (*lā taqtulū anfusakum*) — Allaah est, envers vous, *Raḥīm*."
+   trad="Ô vous qui avez cru, ne dévorez pas vos biens entre vous par *[al-bāṭil](/etudes/trad-s2-bloc2/#batil)* (le sans-fondement) — sauf s'il s'agit d'un *[tijāra](#tijara)* (commerce) par *[ʿan tarāḍin](/etudes/trad-s2-bloc5/#tarad)* (consentement mutuel entre vous) — et ne vous tuez pas vous-mêmes (*lā taqtulū anfusakum*) — Allaah est, envers vous, *Raḥīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="tijara">
+<dt><span class="lex-trl">tijāra</span></dt>
+<dd>racine <em>t-j-r</em> : le commerce, l'échange organisé en vue d'un profit. Le texte l'exempte explicitement de l'interdit qui précède, à la condition du consentement mutuel qui suit.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">lā taqtulū anfusakum</span></dt>
 <dd>littéralement « ne tuez pas vos *nafs* [propres] ». La grammaire admet ici deux lectures légitimes, non tranchées par le texte seul : (1) lecture réciproque — « ne vous entretuez pas les uns les autres », cohérente avec l'adresse collective *baynakum* (entre vous) qui ouvre le verset ; (2) lecture individuelle — « ne mettez pas fin à votre propre vie ». Les deux sont retenues.</dd>
@@ -174,15 +202,23 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:31"
    ar="إِن تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا"
    trl="In tajtanibū kabāʾira mā tunhawna ʿanhu nukaffir ʿankum sayyiʾātikum wa-nudkhilkum mudkhalan karīmā"
-   trad="Si vous évitez les *kabāʾir* (fautes majeures) qui vous sont interdites, Nous effacerons vos *sayyiʾāt* (fautes) et vous ferons entrer dans une entrée (*mudkhal*) noble."
+   trad="Si vous évitez les *[kabāʾir](#kabair)* (fautes majeures) qui vous sont interdites, Nous effacerons vos *[sayyiʾāt](#sayyiat)* (fautes) et vous ferons entrer dans un *[mudkhal](#mudkhal)* (lieu d'entrée) noble."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">kabāʾira mā tunhawna ʿanhu</span></dt>
-<dd><strong>Non-dit</strong> : le texte ne fournit pas ici de liste close des « grandes fautes » — leur identification précise n'est pas donnée par ce verset seul.</dd>
+<div class="lex-entree" id="kabair">
+<dt><span class="lex-trl">kabāʾir</span></dt>
+<dd>pluriel de *kabīra*, racine <em>k-b-r</em> : ce qui est grand, lourd, considérable. Appliqué à la faute : une faute dont le poids dépasse la mesure ordinaire. <strong>Non-dit</strong> : le texte ne fournit pas ici de liste close des « grandes fautes » — leur identification précise n'est pas donnée par ce verset seul.</dd>
+</div>
+<div class="lex-entree" id="sayyiat">
+<dt><span class="lex-trl">sayyiʾāt</span></dt>
+<dd>pluriel de *sayyiʾa*, racine <em>s-w-ʾ</em> : ce qui est mauvais, ce qui fait du mal. Distinct de *kabāʾir* : la *sayyiʾa* n'est pas nécessairement une faute majeure — le verset promet leur effacement en échange de l'évitement des *kabāʾir*.</dd>
+</div>
+<div class="lex-entree" id="mudkhal">
+<dt><span class="lex-trl">mudkhal</span></dt>
+<dd>racine <em>d-kh-l</em> : nom de lieu de l'entrée, l'endroit et l'acte par lequel on pénètre. Conservé en translittération : « entrée » en français désigne surtout le seuil, quand le terme arabe porte aussi l'acte même d'entrer.</dd>
 </div>
 </dl>
 </div>
@@ -197,12 +233,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:32"
    ar="وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِّلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِّمَّا اكْتَسَبْنَ ۚ وَاسْأَلُوا اللَّهَ مِن فَضْلِهِ ۗ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا"
    trl="Wa-lā tatamannaw mā faḍḍala llāhu bihi baʿḍakum ʿalā baʿḍin — li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna — wa-sʾalu llāha min faḍlihi — inna llāha kāna bi-kulli shayʾin ʿalīmā"
-   trad="Ne convoitez pas (*lā tatamannaw*) ce par quoi Allaah a favorisé certains d'entre vous par rapport à d'autres. Aux hommes une part de ce qu'ils ont acquis (*iktasabū*), et aux femmes une part de ce qu'elles ont acquis (*iktasabna*). Demandez à Allaah de Son *faḍl* (surcroît) — Allaah est, de toute chose, *ʿAlīm*."
+   trad="Ne *[tatamannaw](#tamanna)* (convoitez) pas ce par quoi Allaah a favorisé certains d'entre vous par rapport à d'autres. Aux hommes une part de ce qu'ils ont acquis (*iktasabū*), et aux femmes une part de ce qu'elles ont acquis (*iktasabna*). Demandez à Allaah de Son *faḍl* (surcroît) — Allaah est, de toute chose, *ʿAlīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="tamanna">
+<dt><span class="lex-trl">tatamannaw</span></dt>
+<dd>racine <em>m-n-y</em> : souhaiter, désirer une chose non acquise — le même mouvement de racine que *munya* (le souhait) et *maniyy* (ce qui est mesuré, versé). *Tamannī* : se figurer et désirer ce qui n'est pas à soi, par contraste avec l'acquis effectif (*iktasabū*/*iktasabna*) mentionné juste après.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">iktasabū / iktasabna</span></dt>
 <dd>même racine (<em>k-s-b</em>, acquérir) appliquée symétriquement aux deux sexes, sous la même forme verbale (Form VIII) — le texte ne pose ici aucune distinction de nature entre ce que les hommes acquièrent et ce que les femmes acquièrent.</dd>
@@ -243,7 +283,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:34"
    ar="الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنفَقُوا مِنْ أَمْوَالِهِمْ ۚ فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِّلْغَيْبِ بِمَا حَفِظَ اللَّهُ ۚ وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا"
    trl="Al-rijālu qawwāmūna ʿalā n-nisāʾi bimā faḍḍala llāhu baʿḍahum ʿalā baʿḍin wa-bimā anfaqū min amwālihim — fa-ṣ-ṣāliḥātu qānitātun ḥāfiẓātun li-l-ghaybi bimā ḥafiẓa llāh — wa-llātī takhāfūna nushūzahunna fa-ʿiẓūhunna wa-hjurūhunna fi l-maḍājiʿi wa-ḍribūhunna — fa-in aṭaʿnakum fa-lā tabghū ʿalayhinna sabīlā — inna llāha kāna ʿaliyyan kabīrā"
-   trad="Les hommes sont *qawwāmūn* (en charge, tenant fermement leur rôle) envers les femmes, en raison de ce par quoi Allaah a favorisé certains d'entre eux par rapport à d'autres, et en raison de ce qu'ils dépensent (*anfaqū*) de leurs biens. Les femmes *ṣāliḥāt* (droites) sont *qānitāt* (dévouées), gardiennes (*ḥāfiẓāt*) de ce qui est absent (*al-ghayb*) par ce qu'Allaah a gardé. Et celles dont vous craignez le *nushūz*, admonestez-les (*ʿiẓūhunna*) ; [puis] délaissez-les dans les couches (*wa-hjurūhunna fi l-maḍājiʿ*) ; [puis] *ḍribūhunna*. Si elles vous obéissent, ne cherchez pas de voie contre elles (*fa-lā tabghū ʿalayhinna sabīlā*). Allaah est, certes, *ʿAliyy*, *Kabīr*."
+   trad="Les hommes sont *[qawwāmūn](#qawwamun)* (en charge, tenant fermement leur rôle) envers les femmes, en raison de ce par quoi Allaah a favorisé certains d'entre eux par rapport à d'autres, et en raison de ce qu'ils *[anfaqū](#anfaqu)* (dépensent) de leurs biens. Les femmes *ṣāliḥāt* (droites) sont *[qānitāt](/etudes/trad-s2-bloc4/#qanitun)* (dévouées), *[ḥāfiẓāt](#hafizat)* (gardiennes) de ce qui est absent (*[al-ghayb](/etudes/trad-s2-bloc1/#ghayb)*) par ce qu'Allaah a gardé. Et celles dont vous craignez le *nushūz*, *[ʿiẓūhunna](#waz)* (admonestez-les) ; [puis] délaissez-les dans les couches (*wa-hjurūhunna fi l-maḍājiʿ*) ; [puis] *[ḍribūhunna](#darb)*. Si elles vous obéissent, ne cherchez pas de voie contre elles (*fa-lā tabghū ʿalayhinna sabīlā*). Allaah est, certes, *ʿAliyy*, *[Kabīr](#kabir)*."
 %}
 
 {:.callout .callout--avert}
@@ -260,9 +300,29 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
-<dt><span class="lex-trl">nushūz</span></dt>
-<dd>racine <em>n-sh-z</em> : s'élever, faire saillie — d'où, au sens figuré, une rupture ou un refus du lien dû dans la relation conjugale. Le texte ne définit pas ici précisément l'acte visé au-delà de ce terme.</dd>
+<div class="lex-entree" id="qawwamun">
+<dt><span class="lex-trl">qawwāmūn</span></dt>
+<dd>racine <em>q-w-m</em> : se tenir debout, se tenir fermement en charge de. *Qawwām* (forme intensive) : celui qui assume une charge avec constance, qui la « tient debout ». Rendu par « en charge » plutôt que par un terme d'autorité pure : la racine porte le maintien actif d'une chose, non la simple domination. Voir l'analyse détaillée ci-dessus (point 1) sur les deux causes que le texte rattache à cette charge.</dd>
+</div>
+<div class="lex-entree" id="anfaqu">
+<dt><span class="lex-trl">anfaqū</span></dt>
+<dd>racine <em>n-f-q</em> : dépenser, faire sortir un bien de sa possession vers un usage. Verbe à l'accompli ici : une dépense effectivement réalisée, non une simple capacité à dépenser — voir point 1 ci-dessus.</dd>
+</div>
+<div class="lex-entree" id="hafizat">
+<dt><span class="lex-trl">ḥāfiẓāt</span></dt>
+<dd>racine <em>ḥ-f-ẓ</em> : garder, préserver de l'altération ou de la perte. Participe actif féminin pluriel : celles qui gardent activement — ici, « ce qui est absent » (*al-ghayb*), c'est-à-dire ce qui échappe au regard direct d'autrui.</dd>
+</div>
+<div class="lex-entree" id="waz">
+<dt><span class="lex-trl">ʿiẓūhunna</span></dt>
+<dd>racine <em>w-ʿ-ẓ</em> : exhorter, rappeler par la parole ce qui devrait être su ou fait. Premier terme de la séquence de trois mesures — un acte de langage, non un acte physique.</dd>
+</div>
+<div class="lex-entree" id="darb">
+<dt><span class="lex-trl">ḍribūhunna</span></dt>
+<dd>racine <em>ḍ-r-b</em>. Voir l'analyse de méthode ci-dessus (point 3) : la construction grammaticale employée ici (verbe transitif direct + pronom-objet humain, dans la même série que *ʿiẓūhunna* et *uhjurūhunna*) porte, chez les lexicographes anciens, le sens premier de frappe physique ; une lecture minoritaire propose « séparez-vous d'elles », linguistiquement possible mais faiblement soutenue par cette construction précise. Le texte ne qualifie l'acte d'aucun adjectif d'intensité ou de retenue — ce qui n'est pas dit ne doit pas être ajouté par une source extérieure au texte.</dd>
+</div>
+<div class="lex-entree" id="kabir">
+<dt><span class="lex-trl">ʿAliyy · Kabīr</span></dt>
+<dd>ce que l'on peut dire d'Allaah ici : deux termes de grandeur — *ʿAliyy* (racine <em>ʿ-l-w</em>) et *Kabīr* (racine <em>k-b-r</em>, déjà rencontrée dans *kabāʾir*, les fautes majeures, S4:31) — désignant l'un et l'autre une prééminence absolue, sans commune mesure avec ce qui est créé. Conservés en translittération : « le Très-Haut » ou « le Grand » installeraient, en français, une connotation de position dans l'espace ou de taille physique que ces termes ne portent pas lorsqu'ils qualifient Allaah.</dd>
 </div>
 </dl>
 </div>
@@ -275,8 +335,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:35"
    ar="وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِّنْ أَهْلِهِ وَحَكَمًا مِّنْ أَهْلِهَا إِن يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا"
    trl="Wa-in khiftum shiqāqa baynihimā fa-bʿathū ḥakaman min ahlihi wa-ḥakaman min ahlihā — in yurīdā iṣlāḥan yuwaffiqi llāhu baynahumā — inna llāha kāna ʿalīman khabīrā"
-   trad="Et si vous craignez un *shiqāq* (rupture, scission) entre les deux, envoyez un *ḥakam* (arbitre) de la famille de l'un et un *ḥakam* de la famille de l'autre. S'ils veulent tous deux un *iṣlāḥ* (réconciliation), Allaah accordera l'harmonie entre eux — Allaah est *ʿAlīm*, *Khabīr*."
+   trad="Et si vous craignez un *[shiqāq](/etudes/trad-s2-bloc5/#shiqaq)* (rupture, scission) entre les deux, envoyez un *[ḥakam](#hakam)* (arbitre) de la famille de l'un et un *ḥakam* de la famille de l'autre. S'ils veulent tous deux un *[iṣlāḥ](#islah)* (réconciliation), Allaah accordera l'harmonie entre eux — Allaah est *ʿAlīm*, *Khabīr*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="hakam">
+<dt><span class="lex-trl">ḥakam</span></dt>
+<dd>racine <em>ḥ-k-m</em> : celui qui tranche, qui rend un jugement — même mouvement de racine que *ḥukm* (jugement) et *ḥakīm* (l'un des noms d'Allaah). Le *ḥakam* ici est désigné dans chaque famille : le texte ne précise pas son mode de désignation ni l'étendue exacte de son mandat — <strong>non-dit</strong>.</dd>
+</div>
+<div class="lex-entree" id="islah">
+<dt><span class="lex-trl">iṣlāḥ</span></dt>
+<dd>racine <em>ṣ-l-ḥ</em>, déjà rencontrée dans l'opposition *muṣliḥūn / mufsidūn* (cf. <a href="/etudes/trad-s2-bloc1/#muslihun">note S.2:11-12</a>) : remettre en état ce qui était rompu ou dégradé. Ici appliqué à la relation conjugale elle-même.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -286,7 +360,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:36"
    ar="وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا"
    trl="Wa-ʿbudu llāha wa-lā tushrikū bihi shayʾā — wa-bi-l-wālidayni iḥsānā wa-bi-dhi l-qurbā wa-l-yatāmā wa-l-masākīni wa-l-jāri dhi l-qurbā wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli wa-mā malakat aymānukum — inna llāha lā yuḥibbu man kāna mukhtālan fakhūrā"
-   trad="Adorez Allaah et ne Lui associez rien — et [agissez avec] *iḥsān* envers les deux parents, les proches (*dhi l-qurbā*), les orphelins, les indigents, le voisin proche (*al-jāri dhi l-qurbā*), le voisin éloigné (*al-jāri l-junub*), le compagnon proche (*aṣ-ṣāḥib bi-l-janb*), le voyageur (*ibn as-sabīl*), et ce que possèdent vos mains droites — Allaah n'honore pas quiconque est *mukhtāl* (arrogant dans sa démarche), *fakhūr* (vantard)."
+   trad="Adorez Allaah et ne Lui associez rien — et [agissez avec] *[iḥsān](/etudes/trad-s2-bloc4/#muhsin)* envers les deux parents, les proches (*[dhi l-qurbā](/etudes/trad-s4-bloc1/#qurba)*), les orphelins, les indigents, le voisin proche (*al-jāri dhi l-qurbā*), le voisin éloigné (*al-jāri l-junub*), le compagnon proche (*aṣ-ṣāḥib bi-l-janb*), le voyageur (*[ibn as-sabīl](#ibnsabil)*), et ce que possèdent vos mains droites — Allaah n'honore pas quiconque est *[mukhtāl](#mukhtal)* (arrogant dans sa démarche), *fakhūr* (vantard)."
 %}
 
 <div class="notes-lexicales">
@@ -300,6 +374,14 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">al-jāri l-junub / aṣ-ṣāḥib bi-l-janb</span></dt>
 <dd><strong>Non-dit</strong> : le texte distingue deux catégories de proximité (le voisin « éloigné » et le « compagnon proche ») sans préciser davantage leur identité exacte — voisinage géographique, lien de circonstance, ou compagnon de route, plusieurs lectures coexistent chez les linguistes.</dd>
 </div>
+<div class="lex-entree" id="ibnsabil">
+<dt><span class="lex-trl">ibn as-sabīl</span></dt>
+<dd>littéralement « le fils du chemin » : celui qui est en déplacement, hors de son lieu d'attache — le voyageur, quelle que soit sa condition de fortune par ailleurs.</dd>
+</div>
+<div class="lex-entree" id="mukhtal">
+<dt><span class="lex-trl">mukhtāl / fakhūr</span></dt>
+<dd><em>mukhtāl</em> : racine <em>kh-y-l</em>, celui qui se déplace avec une démarche affectée par l'idée qu'il se fait de lui-même. <em>fakhūr</em> : racine <em>f-kh-r</em>, celui qui affiche et proclame ses mérites. Les deux termes qualifient un même mouvement — l'affichage de soi — l'un dans le port du corps, l'autre dans la parole.</dd>
+</div>
 </dl>
 </div>
 
@@ -311,15 +393,33 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:37"
    ar="الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ ۗ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُّهِينًا"
    trl="Alladhīna yabkhalūna wa-yaʾmurūna n-nāsa bi-l-bukhli wa-yaktumūna mā ātāhumu llāhu min faḍlih — wa-aʿtadnā li-l-kāfirīna ʿadhāban muhīnā"
-   trad="Ceux qui sont avares (*yabkhalūn*), ordonnent aux gens l'avarice, et dissimulent ce qu'Allaah leur a donné de Son *faḍl* — Nous avons préparé pour les *kāfirīn* un châtiment humiliant."
+   trad="Ceux qui sont *[avares](#bukhl)* (*yabkhalūn*), ordonnent aux gens l'avarice, et dissimulent ce qu'Allaah leur a donné de Son *faḍl* — Nous avons préparé pour les *kāfirīn* un châtiment humiliant."
 %}
 
 {% include verset.html
    ref="S.4:38"
    ar="وَالَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ ۗ وَمَن يَكُنِ الشَّيْطَانُ لَهُ قَرِينًا فَسَاءَ قَرِينًا"
    trl="Wa-lladhīna yunfiqūna amwālahum riʾāʾa n-nāsi wa-lā yuʾminūna bi-llāhi wa-lā bi-l-yawmi l-ākhir — wa-man yakuni sh-shayṭānu lahu qarīnan fa-sāʾa qarīnā"
-   trad="Et ceux qui dépensent leurs biens par *riʾāʾ* (ostentation devant les gens), sans croire en Allaah ni au Jour dernier — et quiconque a pour compagnon (*qarīn*) le *shayṭān*, quel détestable compagnon."
+   trad="Et ceux qui dépensent leurs biens par *[riʾāʾ](#riaa)* (ostentation devant les gens), sans croire en Allaah ni au Jour dernier — et quiconque a pour *[qarīn](#qarin)* (compagnon) le *shayṭān*, quel détestable compagnon."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="bukhl">
+<dt><span class="lex-trl">yabkhalūn</span></dt>
+<dd>racine <em>b-kh-l</em> : retenir ce que l'on possède, refuser de le faire sortir vers autrui. Le texte associe cette rétention au fait d'en faire une injonction pour autrui (*yaʾmurūna n-nāsa bi-l-bukhl*) et à la dissimulation de ce qui a été reçu.</dd>
+</div>
+<div class="lex-entree" id="riaa">
+<dt><span class="lex-trl">riʾāʾ</span></dt>
+<dd>racine <em>r-ʾ-y</em>, celle de la vue : faire un acte pour qu'il soit vu — l'acte accompli non pour lui-même mais pour le regard d'autrui qu'il capte.</dd>
+</div>
+<div class="lex-entree" id="qarin">
+<dt><span class="lex-trl">qarīn</span></dt>
+<dd>racine <em>q-r-n</em> : ce qui est joint, accouplé à autre chose de façon durable — d'où le compagnon inséparable. Le texte ne précise pas ici la nature exacte de ce lien (compagnonnage constant, influence, ou proximité au Jour du jugement) — plusieurs lectures coexistent chez les linguistes.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -342,8 +442,22 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:40"
    ar="إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ ۖ وَإِن تَكُ حَسَنَةً يُضَاعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا"
    trl="Inna llāha lā yaẓlimu mithqāla dharratin — wa-in taku ḥasanatan yuḍāʿifhā wa-yuʾti min ladunhu ajran ʿaẓīmā"
-   trad="Allaah ne lèse pas [même] du poids d'une *dharra* (particule infime) — et s'il s'agit d'une *ḥasana* (bonne action), Il la multiplie et accorde, de Sa part, une récompense immense."
+   trad="Allaah ne lèse pas [même] du poids d'une *[dharra](#dharra)* (particule infime) — et s'il s'agit d'une *[ḥasana](#hasana)* (bonne action), Il la multiplie et accorde, de Sa part, une récompense immense."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="dharra">
+<dt><span class="lex-trl">dharra</span></dt>
+<dd>racine <em>dh-r-r</em> : la particule la plus infime, ce qui échappe presque à la perception — même mouvement de racine que *dhurriyya* (la descendance, <a href="/etudes/trad-s4-bloc1/#dhurriyya">déjà rencontrée</a>), l'un et l'autre portant l'idée d'une unité minuscule qui se répand ou se disperse. Ici : une mesure d'injustice si infime qu'elle en devient le plancher absolu — Allaah n'en commet aucune, pas même à ce degré.</dd>
+</div>
+<div class="lex-entree" id="hasana">
+<dt><span class="lex-trl">ḥasana</span></dt>
+<dd>racine <em>ḥ-s-n</em> : ce qui est bon, ce qui plaît par sa qualité propre. Mise en regard, dans ce même bloc, de *sayyiʾa* (<a href="#sayyiat">S.4:31</a>) : les deux termes forment une paire antithétique récurrente dans le Coran, le bien et le mal comme catégories générales d'action.</dd>
+</div>
+</dl>
+</div>
 
 ---
 
@@ -353,8 +467,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:41"
    ar="فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰؤُلَاءِ شَهِيدًا"
    trl="Fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa-jiʾnā bika ʿalā hāʾulāʾi shahīdā"
-   trad="Comment sera-ce, lorsque Nous ferons venir, de chaque *umma*, un témoin, et que Nous te ferons venir, toi, comme témoin sur ceux-ci ?"
+   trad="Comment sera-ce, lorsque Nous ferons venir, de chaque *[umma](#umma)*, un témoin, et que Nous te ferons venir, toi, comme témoin sur ceux-ci ?"
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="umma">
+<dt><span class="lex-trl">umma</span></dt>
+<dd>racine <em>ʾ-m-m</em> (celle de *umm*, la mère, et d'*imām*, celui qui va devant) : un groupe humain rassemblé autour d'un point commun — origine, temps, voie suivie, ou destinée. Conservé en translittération : « nation » ou « communauté » restreignent le terme à une seule de ses acceptions possibles, quand le texte l'emploie ici de façon générale, pour désigner chaque groupe humain qui aura eu son propre témoin.</dd>
+</div>
+</dl>
+</div>
 
 {% include verset.html
    ref="S.4:42"
@@ -371,7 +495,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:43"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا ۚ وَإِن كُنتُم مَّرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِّنكُم مِّنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا"
    trl="Yā ayyuhā lladhīna āmanū lā taqrabu ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūna wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū — wa-in kuntum marḍā aw ʿalā safarin aw jāʾa aḥadun minkum mina l-ghāʾiṭi aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum wa-aydīkum — inna llāha kāna ʿafuwwan ghafūrā"
-   trad="Ô vous qui avez cru, ne vous approchez pas de la *ṣalāt* alors que vous êtes *sukārā* (dans un état d'ivresse), jusqu'à ce que vous sachiez ce que vous dites — ni en état de *junub* (impureté majeure), sauf en simples passants (*ʿābirī sabīl*), jusqu'à ce que vous vous laviez entièrement (*taghtasilū*). Et si vous êtes malades, ou en voyage, ou que l'un de vous revient du *ghāʾiṭ* (lieu retiré, besoin naturel), ou que vous avez eu un contact avec les femmes (*lāmastumu n-nisāʾ*), et que vous ne trouvez pas d'eau, alors recourez au *tayammum* sur une surface pure (*ṣaʿīd ṭayyib*), et passez-en sur vos visages et vos mains — Allaah est, certes, *ʿAfuww* (Ce qui efface), *Ghafūr*."
+   trad="Ô vous qui avez cru, ne vous approchez pas de la *ṣalāt* alors que vous êtes *sukārā* (dans un état d'ivresse), jusqu'à ce que vous sachiez ce que vous dites — ni en état de *[junub](#junub)* (impureté majeure), sauf en simples passants (*ʿābirī sabīl*), jusqu'à ce que vous vous *[laviez entièrement](#ightisal)* (*taghtasilū*). Et si vous êtes malades, ou en voyage, ou que l'un de vous revient du *[ghāʾiṭ](#ghait)* (lieu retiré, besoin naturel), ou que vous avez eu un contact avec les femmes (*lāmastumu n-nisāʾ*), et que vous ne trouvez pas d'eau, alors recourez au *[tayammum](#tayammum)* sur une surface pure (*ṣaʿīd ṭayyib*), et passez-en sur vos visages et vos mains — Allaah est, certes, *ʿAfuww* (Ce qui efface), *Ghafūr*."
 %}
 
 <div class="notes-lexicales">
@@ -381,13 +505,29 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">sukārā</span></dt>
 <dd>état d'ivresse. <strong>Non-dit</strong> : ce verset pose une limitation temporelle à l'approche de la *ṣalāt* dans cet état ; il ne traite pas, dans son énoncé, du statut de la consommation elle-même — question abordée ailleurs dans le Coran, hors de ce bloc.</dd>
 </div>
+<div class="lex-entree" id="junub">
+<dt><span class="lex-trl">junub</span></dt>
+<dd>racine <em>j-n-b</em>, celle du « côté » ou du « flanc » (déjà rencontrée dans *al-jāri l-junub*, le voisin éloigné, et *aṣ-ṣāḥib bi-l-janb*, S.4:36) : ce qui est mis de côté, à l'écart. Appliqué à la personne : l'état d'impureté majeure qui la met, temporairement, à l'écart de la *ṣalāt*. <strong>Non-dit</strong> : le texte ne définit pas ici la cause exacte de cet état, au-delà de ce que le reste du verset énumère (contact avec les femmes, etc.).</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ʿābirī sabīl</span></dt>
 <dd>littéralement « ceux qui traversent un chemin » — simples passants, en mouvement. <strong>Non-dit</strong> : le texte ne précise pas exhaustivement à quoi s'applique cette exception (au lieu traversé, à la durée, ou aux deux) ; plusieurs lectures coexistent chez les linguistes anciens.</dd>
 </div>
+<div class="lex-entree" id="ightisal">
+<dt><span class="lex-trl">taghtasilū</span></dt>
+<dd>racine <em>gh-s-l</em> : laver, faire couler l'eau sur l'ensemble du corps — distinct de *tayammum* qui suit, lequel n'intervient qu'à défaut d'eau.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">lāmastumu n-nisāʾ</span></dt>
 <dd>racine <em>l-m-s</em> : le contact physique. Les lexicographes anciens eux-mêmes divergent sur la portée du terme ici : simple contact physique (au sens le plus littéral de la racine), ou désignation pudique du rapport charnel (un procédé attesté ailleurs dans le Coran). Le texte seul, pris hors de toute exégèse, ne permet pas de trancher — les deux lectures sont retenues.</dd>
+</div>
+<div class="lex-entree" id="ghait">
+<dt><span class="lex-trl">al-ghāʾiṭ</span></dt>
+<dd>racine <em>gh-y-ṭ</em> : à l'origine, un terrain bas et creux, un lieu retiré du regard — d'où, par métonymie du lieu vers l'acte qui s'y accomplit, le besoin naturel lui-même. Le texte emploie ici la désignation la plus indirecte disponible pour cet acte.</dd>
+</div>
+<div class="lex-entree" id="tayammum">
+<dt><span class="lex-trl">tayammum</span></dt>
+<dd>racine <em>ʾ-m-m</em> (celle d'*umma*, S.4:41 : ce qui rassemble, ce vers quoi l'on se dirige) : forme V, se diriger intentionnellement vers une chose. *Tayammum* : le fait de se tourner délibérément vers une surface pure pour y recourir à défaut d'eau — l'acte est nommé par l'intention qui le porte, non par le geste matériel lui-même (détaillé dans la suite du verset : « passez-en sur vos visages et vos mains »).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ṣaʿīd ṭayyib</span></dt>

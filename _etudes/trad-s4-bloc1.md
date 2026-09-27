@@ -468,7 +468,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="fahisha">
 <dt><span class="lex-trl">fāḥisha</span></dt>
 <dd>racine <em>f-ḥ-sh</em> : un acte dont la laideur dépasse la mesure — terme générique. <strong>Non-dit</strong> : le texte ne précise pas ici, par lui-même, la nature exacte de l'acte visé.</dd>
 </div>
