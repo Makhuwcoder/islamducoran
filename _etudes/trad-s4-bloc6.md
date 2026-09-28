@@ -38,7 +38,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:92"
    ar="وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَن يَصَّدَّقُوا ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ وَإِن كَانَ مِن قَوْمٍ بَيْنَكُمْ وَبَيْنَهُم مِّيثَاقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا"
    trl="Wa-mā kāna li-muʾminin an yaqtula muʾminan illā khaṭaʾā — wa-man qatala muʾminan khaṭaʾan fa-taḥrīru raqabatin muʾminatin wa-diyatun musallamatun ilā ahlihi illā an yaṣṣaddaqū — fa-in kāna min qawmin ʿaduwwin lakum wa-huwa muʾminun fa-taḥrīru raqabatin muʾminah — wa-in kāna min qawmin baynakum wa-baynahum mīthāqun fa-diyatun musallamatun ilā ahlihi wa-taḥrīru raqabatin muʾminah — fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayni tawbatan mina llāh — wa-kāna llāhu ʿalīman ḥakīmā"
-   trad="Il n'appartient pas à un croyant de tuer un croyant, si ce n'est par erreur (*khaṭaʾ*). Quiconque tue un croyant par erreur : affranchir un captif (*taḥrīr raqaba*) croyant, et une *diya* (compensation) remise à sa famille, à moins qu'ils n'y renoncent par générosité (*yaṣṣaddaqū*). S'il appartenait à un peuple ennemi pour vous, mais était lui-même croyant : affranchir un captif croyant [seul]. Et s'il appartenait à un peuple avec qui vous avez un *mīthāq* : une *diya* remise à sa famille, et affranchir un captif croyant. Qui n'en trouve pas les moyens : jeûner deux mois consécutifs, comme retour (*tawba*) vers Allaah. Allaah est *ʿAlīm*, *Ḥakīm*."
+   trad="Il n'appartient pas à un croyant de tuer un croyant, si ce n'est par *[erreur](#khataa)* (*khaṭaʾ*). Quiconque tue un croyant par erreur : affranchir un captif (*taḥrīr raqaba*) croyant, et une *diya* (compensation) remise à sa famille, à moins qu'ils n'y renoncent par générosité (*yaṣṣaddaqū*). S'il appartenait à un peuple ennemi pour vous, mais était lui-même croyant : affranchir un captif croyant [seul]. Et s'il appartenait à un peuple avec qui vous avez un *mīthāq* : une *diya* remise à sa famille, et affranchir un captif croyant. Qui n'en trouve pas les moyens : jeûner deux mois consécutifs, comme *[retour](/etudes/trad-s4-bloc1/#taba)* (*tawba*) vers Allaah. Allaah est *ʿAlīm*, *Ḥakīm*."
 %}
 
 <div class="notes-lexicales">
@@ -56,6 +56,10 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">yaṣṣaddaqū</span></dt>
 <dd>forme V de <em>ṣ-d-q</em>, même racine que *ṣadaqa* : ici, renoncer par don volontaire à ce qui est dû. <strong>Non-dit</strong> : le texte ne précise pas si ce renoncement porte sur la totalité ou une partie de la *diya*.</dd>
 </div>
+<div class="lex-entree" id="khataa">
+<dt><span class="lex-trl">khaṭaʾ</span></dt>
+<dd>racine <em>kh-ṭ-ʾ</em> : manquer sa cible, s'écarter sans intention de la voie visée — même racine que *[khaṭāyā](/etudes/trad-s2-bloc2/#khataya)* (S2:58, les fautes), qui porte davantage sur l'acte manqué lui-même que sur l'absence d'intention. Ici, opposé terme à terme à *mutaʿammidan* (« intentionnellement ») du verset suivant.</dd>
+</div>
 </dl>
 </div>
 
@@ -67,7 +71,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:93"
    ar="وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا عَظِيمًا"
    trl="Wa-man yaqtul muʾminan mutaʿammidan fa-jazāʾuhu jahannamu khālidan fīhā wa-ghaḍiba llāhu ʿalayhi wa-laʿanahu wa-aʿadda lahu ʿadhāban ʿaẓīmā"
-   trad="Et quiconque tue un croyant intentionnellement (*mutaʿammidan*), sa rétribution est Jahannam, y demeurant fixement ; Allaah s'est courroucé contre lui, l'a éloigné (*laʿana*), et lui a préparé un châtiment immense."
+   trad="Et quiconque tue un croyant intentionnellement (*mutaʿammidan*), sa rétribution est Jahannam, y demeurant fixement ; Allaah s'est courroucé contre lui, *[l'a éloigné](/etudes/trad-s4-bloc3/#laana)* (*laʿana*), et lui a préparé un châtiment immense."
 %}
 
 <div class="notes-lexicales">
@@ -90,7 +94,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:94"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا فَعِندَ اللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ اللَّهُ عَلَيْكُمْ فَتَبَيَّنُوا ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
    trl="Yā ayyuhā lladhīna āmanū idhā ḍarabtum fī sabīli llāhi fa-tabayyanū wa-lā taqūlū li-man alqā ilaykumu s-salāma lasta muʾminan tabtaghūna ʿaraḍa l-ḥayāti d-dunyā fa-ʿinda llāhi maghānimu kathīrah — ka-dhālika kuntum min qablu fa-manna llāhu ʿalaykum fa-tabayyanū — inna llāha kāna bi-mā taʿmalūna khabīrā"
-   trad="Ô vous qui avez cru, quand vous partez dans le *sabīl* d'Allaah, vérifiez (*tabayyanū*) — et ne dites pas à qui vous offre la paix (*alqā ilaykumu s-salām*) : « Tu n'es pas croyant », convoitant les biens de la vie de ce bas monde. Auprès d'Allaah se trouvent d'abondants butins (*maghānim*). Ainsi étiez-vous auparavant, puis Allaah vous a comblés — vérifiez donc. Allaah est, de ce que vous faites, *Khabīr*."
+   trad="Ô vous qui avez cru, quand vous partez dans le *sabīl* d'Allaah, vérifiez (*tabayyanū*) — et ne dites pas à qui vous offre la paix (*alqā ilaykumu s-salām*) : « Tu n'es pas croyant », convoitant les biens de la vie de ce bas monde. Auprès d'Allaah se trouvent d'*[abondants butins](#maghanim)* (*maghānim*). Ainsi étiez-vous auparavant, puis Allaah vous a comblés — vérifiez donc. Allaah est, de ce que vous faites, *Khabīr*."
 %}
 
 <div class="notes-lexicales">
@@ -103,6 +107,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">alqā ilaykumu s-salām</span></dt>
 <dd>même expression qu'en S4:90–91 (*alqaw ilaykumu s-salam*) : ce verset applique concrètement, à un cas individuel, le principe de réciprocité déjà posé dans le bloc précédent — celui qui offre la paix ne doit pas être présumé hostile pour un gain matériel.</dd>
+</div>
+<div class="lex-entree" id="maghanim">
+<dt><span class="lex-trl">maghānim</span></dt>
+<dd>pluriel de *maghnam*, racine <em>gh-n-m</em> : ce qui est obtenu en surplus, acquis sans effort proportionné — d'où le butin. Le verset l'oppose ici à *ʿaraḍ al-ḥayāt ad-dunyā* (« les biens de la vie de ce bas monde »), comme une richesse dont la source véritable (Allaah) est distincte du gain immédiat convoité.</dd>
 </div>
 </dl>
 </div>
@@ -117,12 +125,20 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:95–96"
    ar="لَّا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا ۝ دَرَجَاتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا"
    trl="Lā yastawī l-qāʿidūna mina l-muʾminīna ghayru ūlī ḍ-ḍarari wa-l-mujāhidūna fī sabīli llāhi bi-amwālihim wa-anfusihim — faḍḍala llāhu l-mujāhidīna bi-amwālihim wa-anfusihim ʿalā l-qāʿidīna darajah — wa-kullan waʿada llāhu l-ḥusnā — wa-faḍḍala llāhu l-mujāhidīna ʿalā l-qāʿidīna ajran ʿaẓīmā · Darajātin minhu wa-maghfiratan wa-raḥmah — wa-kāna llāhu ghafūran raḥīmā"
-   trad="Ne sont pas égaux ceux des croyants qui restent assis (*al-qāʿidūn*) — hors ceux touchés d'un empêchement (*ghayru ūlī ḍ-ḍarar*) — et ceux qui s'efforcent (*al-mujāhidūn*) dans le *sabīl* d'Allaah par leurs biens et leurs personnes. Allaah a placé ceux qui s'efforcent par leurs biens et leurs personnes un degré au-dessus de ceux qui restent assis. À chacun Allaah a promis le meilleur (*al-ḥusnā*) — mais Allaah a placé ceux qui s'efforcent au-dessus de ceux qui restent assis d'une rétribution immense : des degrés venant de Lui, un pardon et une *raḥma*. Allaah est *Ghafūr*, *Raḥīm*."
+   trad="Ne sont pas égaux ceux des croyants qui *[restent assis](#qaidun)* (*al-qāʿidūn*) — hors ceux touchés d'un empêchement (*ghayru ūlī ḍ-ḍarar*) — et ceux qui s'efforcent (*al-mujāhidūn*) dans le *sabīl* d'Allaah par leurs biens et leurs personnes. Allaah a placé ceux qui s'efforcent par leurs biens et leurs personnes un degré au-dessus de ceux qui restent assis. À chacun Allaah a promis *[le meilleur](#husna)* (*al-ḥusnā*) — mais Allaah a placé ceux qui s'efforcent au-dessus de ceux qui restent assis d'une rétribution immense : des degrés venant de Lui, un pardon et une *raḥma*. Allaah est *Ghafūr*, *Raḥīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="qaidun">
+<dt><span class="lex-trl">al-qāʿidūn</span></dt>
+<dd>racine <em>q-ʿ-d</em> : s'asseoir, rester en place. Le texte ne qualifie pas en soi ceux qui restent assis d'un défaut — l'exemption qui suit immédiatement montre que ce terme décrit une position, non un jugement moral fixe.</dd>
+</div>
+<div class="lex-entree" id="husna">
+<dt><span class="lex-trl">al-ḥusnā</span></dt>
+<dd>féminin superlatif de *ḥasan* (beau, bon) substantivé : « la plus belle chose », le bien dans sa forme la plus accomplie. Le texte promet cela également aux deux catégories — la différence porte sur le surcroît de rétribution accordé à l'effort, non sur l'accès à ce bien commun.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ghayru ūlī ḍ-ḍarar</span></dt>
 <dd>racine <em>ḍ-r-r</em> : dommage, empêchement. Le texte pose lui-même l'exemption au cœur même de l'énoncé, avant toute comparaison de degré — elle n'est pas une atténuation ajoutée après coup mais une clause intégrée à la structure de la phrase.</dd>
@@ -165,15 +181,19 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:98–99"
    ar="إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا ۝ فَأُولَـٰئِكَ عَسَى اللَّهُ أَن يَعْفُوَ عَنْهُمْ ۚ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا"
    trl="Illā l-mustaḍʿafīna mina r-rijāli wa-n-nisāʾi wa-l-wildāni lā yastaṭīʿūna ḥīlatan wa-lā yahtadūna sabīlā · Fa-ulāʾika ʿasā llāhu an yaʿfuwa ʿanhum — wa-kāna llāhu ʿafuwwan ghafūrā"
-   trad="Sauf les *mustaḍʿafīn* parmi les hommes, les femmes et les enfants, qui ne peuvent trouver aucun moyen (*ḥīla*) ni ne trouvent de chemin. Ceux-là, il se peut qu'Allaah les efface (*yaʿfuwa*) — Allaah est *ʿAfuww*, *Ghafūr*."
+   trad="Sauf les *mustaḍʿafīn* parmi les hommes, les femmes et les enfants, qui ne peuvent trouver aucun *[moyen](#hila)* (*ḥīla*) ni ne trouvent de chemin. Ceux-là, il se peut qu'Allaah les *[efface](#yafwu)* (*yaʿfuwa*) — Allaah est *ʿAfuww*, *Ghafūr*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="hila">
 <dt><span class="lex-trl">lā yastaṭīʿūna ḥīlatan wa-lā yahtadūna sabīlā</span></dt>
-<dd>le texte pose ici un double critère cumulatif — absence de moyen (*ḥīla*) ET absence de chemin connu (*sabīl*) — qui distingue cette catégorie de celle de S4:97. La différence entre les deux versets n'est donc pas la faiblesse elle-même (même terme, *mustaḍʿafīn*, employé dans les deux cas), mais la capacité effective d'agir.</dd>
+<dd>racine <em>ḥ-y-l</em> : le moyen de contourner une difficulté, la ressource dont on dispose pour agir. Le texte pose ici un double critère cumulatif — absence de moyen (*ḥīla*) ET absence de chemin connu (*sabīl*) — qui distingue cette catégorie de celle de S4:97. La différence entre les deux versets n'est donc pas la faiblesse elle-même (même terme, *mustaḍʿafīn*, employé dans les deux cas), mais la capacité effective d'agir.</dd>
+</div>
+<div class="lex-entree" id="yafwu">
+<dt><span class="lex-trl">yaʿfuwa</span></dt>
+<dd>racine <em>ʿ-f-w</em> : effacer une trace, ne rien laisser subsister d'une chose — le même mouvement de racine que *ʿAfuww*, l'un des noms qu'Allaah se donne (déjà rencontré en S4:43 et repris à la clôture de ce même verset).</dd>
 </div>
 </dl>
 </div>
@@ -188,7 +208,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:100"
    ar="۞ وَمَن يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِن بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا"
    trl="Wa-man yuhājir fī sabīli llāhi yajid fī l-arḍi murāghaman kathīran wa-saʿah — wa-man yakhruj min baytihi muhājiran ilā llāhi wa-rasūlihi thumma yudrikhu l-mawtu fa-qad waqaʿa ajruhu ʿalā llāh — wa-kāna llāhu ghafūran raḥīmā"
-   trad="Et quiconque émigre dans le *sabīl* d'Allaah trouvera sur la terre un large refuge (*murāgham*) et une aisance (*saʿa*). Et quiconque sort de sa demeure en émigrant vers Allaah et Son *rasūl*, puis que la mort l'atteint [en chemin], sa rétribution incombe alors à Allaah. Allaah est *Ghafūr*, *Raḥīm*."
+   trad="Et quiconque émigre dans le *sabīl* d'Allaah trouvera sur la terre un large refuge (*murāgham*) et une *[aisance](/etudes/trad-s2-bloc4/#wasi)* (*saʿa*). Et quiconque sort de sa demeure en émigrant vers Allaah et Son *rasūl*, puis que la mort l'atteint [en chemin], sa rétribution incombe alors à Allaah. Allaah est *Ghafūr*, *Raḥīm*."
 %}
 
 <div class="notes-lexicales">

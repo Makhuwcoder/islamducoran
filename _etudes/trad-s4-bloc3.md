@@ -106,7 +106,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">رَاعِنَا</span><span class="lex-trl">rāʿinā</span></dt>
 <dd>même équivoque que celle déjà rencontrée et traitée en S2:104 : en arabe, « prends soin de nous / prête-nous attention » ; mais la forme peut être retournée en une insulte dans d'autres langues sémitiques d'usage courant à Madīna à l'époque. Le texte oppose ici *rāʿinā* à *unẓurnā* (« regarde-nous, prends-nous en considération »), formule sans ambiguïté, déjà prescrite en S2:104.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="laana">
 <dt><span class="lex-trl">laʿanahumu llāh</span></dt>
 <dd>racine <em>l-ʿ-n</em> : éloigner, exclure de la miséricorde/proximité — rendu par « éloigner » plutôt que par un terme à connotation seulement punitive, pour porter le sens spatial-relationnel de la racine plutôt qu'un simple verdict moral.</dd>
 </div>
