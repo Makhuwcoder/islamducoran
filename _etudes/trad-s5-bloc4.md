@@ -50,7 +50,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="jaza">
 <dt><span class="lex-trl">jazāʾ</span></dt>
 <dd>racine *j-z-y* : Ibn Fāris (*Maqāyīs*) — rendre en juste proportion, faire correspondre une réponse à un fait accompli. *Jazāʾ* nomme la rétribution proportionnée, distincte de *ʿadhāb* (le châtiment lui-même, nommé plus loin dans le même verset pour l'*ākhira*).</dd>
 </div>
@@ -211,7 +211,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:38"
    ar="وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ"
    trl="Wa-s-sāriqu wa-s-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bimā kasabā nakālan mina llāh — wa-llāhu ʿazīzun ḥakīm"
-   trad="Le voleur (*as-sāriq*) et la voleuse (*as-sāriqa*) : coupez-leur la main (*fa-qṭaʿū aydiyahumā*), en rétribution (*jazāʾan*) de ce qu'ils ont acquis, en sanction dissuasive (*nakālan*) venant d'Allaah. Allaah est *ʿazīz*, *ḥakīm*."
+   trad="Le voleur (*as-sāriq*) et la voleuse (*as-sāriqa*) : coupez-leur la main (*fa-qṭaʿū aydiyahumā*), en rétribution (*[jazāʾan](#jaza)*) de ce qu'ils ont acquis, en sanction dissuasive (*nakālan*) venant d'Allaah. Allaah est *ʿazīz*, *ḥakīm*."
 %}
 
 {:.callout .callout--pivot}
@@ -247,7 +247,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:39"
    ar="فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ"
    trl="Fa-man tāba min baʿdi ẓulmihi wa-aṣlaḥa fa-inna llāha yatūbu ʿalayhi — inna llāha ghafūrun raḥīm"
-   trad="Quiconque revient (*tāba*) après son *ẓulm*, et se réforme (*aṣlaḥa*) — alors Allaah revient vers lui (*yatūbu ʿalayhi*). Allaah est, certes, *ghafūr*, *raḥīm*."
+   trad="Quiconque revient (*tāba*) après son *ẓulm*, et se réforme (*[aṣlaḥa](/etudes/trad-s2-bloc1/#muslihun)*) — alors Allaah revient vers lui (*yatūbu ʿalayhi*). Allaah est, certes, *ghafūr*, *raḥīm*."
 %}
 
 {:.callout .callout--pivot}
