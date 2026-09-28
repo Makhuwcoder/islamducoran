@@ -73,7 +73,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:117–118"
    ar="إِن يَدْعُونَ مِن دُونِهِ إِلَّا إِنَاثًا وَإِن يَدْعُونَ إِلَّا شَيْطَانًا مَرِيدًا * لَعَنَهُ اللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَفْرُوضًا"
    trl="In yadʿūna min dūnihi illā ināthan wa-in yadʿūna illā shayṭānan marīdā * Laʿanahu llāhu wa-qāla la-attakhidhanna min ʿibādika naṣīban mafrūḍā"
-   trad="Ils n'invoquent, en dehors de Lui, que des *ināth* — ils n'invoquent qu'un *shayṭān* rebelle (*marīd*), qu'Allaah a maudit (*laʿanahu*), et qui a dit : « Je prendrai certainement, parmi Tes serviteurs, une part fixée (*naṣīban mafrūḍā*). »"
+   trad="Ils n'invoquent, en dehors de Lui, que des *ināth* — ils n'invoquent qu'un *shayṭān* rebelle (*marīd*), qu'*[Allaah a maudit](/etudes/trad-s4-bloc3/#laana)* (*laʿanahu*), et qui a dit : « Je prendrai certainement, parmi Tes serviteurs, une part fixée (*naṣīban mafrūḍā*). »"
 %}
 
 <div class="notes-lexicales">
@@ -104,7 +104,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:119"
    ar="وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللَّهِ ۚ وَمَن يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِن دُونِ اللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُبِينًا"
    trl="Wa-la-uḍillannahum wa-la-umanniyannahum wa-la-āmurannahum fa-la-yubattikunna ādhāna l-anʿāmi wa-la-āmurannahum fa-la-yughayyirunna khalqa llāhi — wa-man yattakhidhi sh-shayṭāna waliyyan min dūni llāhi fa-qad khasira khusrānan mubīnā"
-   trad="« Je les égarerai certainement, je leur ferai certainement miroiter (*umanniyannahum*), je leur ordonnerai certainement — ils fendront alors les oreilles du bétail — je leur ordonnerai certainement — ils altéreront alors la création (*khalq*) d'Allaah. » Et quiconque prend le *shayṭān* comme *walī* en dehors d'Allaah a subi une perte (*khasira*) manifeste."
+   trad="« Je les égarerai certainement, je leur ferai certainement miroiter (*umanniyannahum*), je leur ordonnerai certainement — ils fendront alors les oreilles du bétail — je leur ordonnerai certainement — ils altéreront alors la création (*khalq*) d'Allaah. » Et quiconque prend le *shayṭān* comme *walī* en dehors d'Allaah a subi une *[perte](/etudes/trad-s2-bloc1/#khasirun)* (*khasira*) manifeste."
 %}
 
 <div class="notes-lexicales">
@@ -150,12 +150,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:121–122"
    ar="أُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا * وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلًا"
    trl="Ulāʾika maʾwāhum jahannamu wa-lā yajidūna ʿanhā maḥīṣā * Wa-lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti sa-nudkhiluhum jannātin tajrī min taḥtihā l-anhāru khālidīna fīhā abadan — waʿda llāhi ḥaqqan — wa-man aṣdaqu mina llāhi qīlā"
-   trad="Ceux-là, leur refuge (*maʾwā*) est Jahannam, et ils n'y trouveront pas d'échappatoire (*maḥīṣ*). Et ceux qui ont cru et fait ce qui est droit (*ṣāliḥāt*), Nous les ferons entrer dans des jardins sous lesquels coulent les rivières, s'y établissant (*khālidīna*) pour toujours — promesse d'Allaah, en vérité (*ḥaqqan*) — et qui est plus véridique qu'Allaah dans Sa parole (*qīl*) ?"
+   trad="Ceux-là, leur *[refuge](#mawa)* (*maʾwā*) est Jahannam, et ils n'y trouveront pas d'échappatoire (*maḥīṣ*). Et ceux qui ont cru et fait ce qui est droit (*ṣāliḥāt*), Nous les ferons entrer dans des jardins sous lesquels coulent les rivières, s'y établissant (*khālidīna*) pour toujours — promesse d'Allaah, en vérité (*ḥaqqan*) — et qui est plus véridique qu'Allaah dans Sa parole (*qīl*) ?"
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="mawa">
+<dt><span class="lex-trl">maʾwā</span></dt>
+<dd>racine <em>ʾ-w-y</em> : se retirer vers un lieu, y trouver refuge — le nom de lieu *maʾwā* désigne ce vers quoi l'on se retourne en dernier ressort. Employé ici pour Jahannam, il est repris ailleurs dans le corpus pour désigner d'autres destinations, positives ou négatives selon le contexte.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">maḥīṣ</span></dt>
 <dd>racine <em>ḥ-y-ṣ</em> : se détourner, s'écarter, chercher une échappatoire — terme rare, employé ici pour marquer l'absence de toute issue.</dd>
@@ -177,7 +181,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:123"
    ar="لَيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا"
    trl="Laysa bi-amāniyyikum wa-lā amāniyyi ahli l-kitābi — man yaʿmal sūʾan yujza bihi wa-lā yajid lahu min dūni llāhi waliyyan wa-lā naṣīrā"
-   trad="Cela ne dépend ni de vos *amānī*, ni des *amānī* des gens du Livre : quiconque fait un mal en sera rétribué (*yujzā bihi*), et ne trouvera pour lui, en dehors d'Allaah, ni *walī* ni *naṣīr*."
+   trad="Cela ne dépend ni de vos *amānī*, ni des *amānī* des gens du Livre : quiconque fait un mal en sera *[rétribué](#jaza)* (*yujzā bihi*), et ne trouvera pour lui, en dehors d'Allaah, ni *walī* ni *naṣīr*."
 %}
 
 <div class="notes-lexicales">
@@ -186,6 +190,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">amānī</span></dt>
 <dd>pluriel de <em>umniyya</em>, racine <em>m-n-y</em> — souhait, désir projeté, sans garantie de réalisation (même racine que *umanniyannahum* en S4:119–120). <strong>Dit</strong> : le texte pose que ni le souhait des uns ni celui des autres ne détermine l'issue — c'est l'acte (*man yaʿmal sūʾan*) qui est rétribué.</dd>
+</div>
+<div class="lex-entree" id="jaza">
+<dt><span class="lex-trl">yujzā bihi</span></dt>
+<dd>racine <em>j-z-y</em> : rendre à quelqu'un l'exact équivalent de ce qu'il a fait — une rétribution proportionnée à l'acte, non une sanction arbitraire.</dd>
 </div>
 </dl>
 </div>
@@ -223,7 +231,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:125"
    ar="وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا"
    trl="Wa-man aḥsanu dīnan mimman aslama wajhahu li-llāhi wa-huwa muḥsinun wa-ttabaʿa millata ibrāhīma ḥanīfā — wa-ttakhadha llāhu ibrāhīma khalīlā"
-   trad="Et qui est meilleur en *dīn* que celui qui se voue, tout entier et sans partage, à Allaah, tout en étant *muḥsin* (agissant avec excellence), et qui suit la *milla* d'Ibrāhīm en *ḥanīf* ? Et Allaah a pris Ibrāhīm comme *khalīl*."
+   trad="Et qui est meilleur en *dīn* que celui qui se voue, tout entier et sans partage, à Allaah, tout en étant *[muḥsin](/etudes/trad-s2-bloc4/#muhsin)* (agissant avec excellence), et qui suit la *milla* d'Ibrāhīm en *ḥanīf* ? Et Allaah a pris Ibrāhīm comme *khalīl*."
 %}
 
 <div class="notes-lexicales">
@@ -320,7 +328,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:128"
    ar="وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ الْأَنفُسُ الشُّحَّ ۚ وَإِن تُحْسِنُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
    trl="Wa-ini mraʾatun khāfat min baʿlihā nushūzan aw iʿrāḍan fa-lā junāḥa ʿalayhimā an yuṣliḥā baynahumā ṣulḥan — wa-ṣ-ṣulḥu khayrun — wa-uḥḍirati l-anfusu sh-shuḥḥa — wa-in tuḥsinū wa-tattaqū fa-inna llāha kāna bimā taʿmalūna khabīrā"
-   trad="Et si une femme craint de la part de son époux (*baʿl*) un *nushūz* ou un détournement (*iʿrāḍ*), nul grief à leur porter s'ils trouvent entre eux un arrangement (*yuṣliḥā... ṣulḥan*) — l'arrangement (*ṣulḥ*) est meilleur. Les âmes (*al-anfus*) sont portées (*uḥḍirat*) à l'avarice (*shuḥḥ*). Mais si vous agissez avec excellence (*tuḥsinū*) et vous constituez une taqwā, Allaah est, de ce que vous faites, *khabīr* (pleinement informé)."
+   trad="Et si une femme craint de la part de son époux (*baʿl*) un *[nushūz](/etudes/trad-s4-bloc2/#nushuz)* ou un détournement (*iʿrāḍ*), nul grief à leur porter s'ils trouvent entre eux un arrangement (*yuṣliḥā... ṣulḥan*) — l'arrangement (*[ṣulḥ](#sulh)*) est meilleur. Les âmes (*al-anfus*) sont portées (*uḥḍirat*) à l'avarice (*shuḥḥ*). Mais si vous *[agissez avec excellence](/etudes/trad-s2-bloc4/#muhsin)* (*tuḥsinū*) et vous constituez une taqwā, Allaah est, de ce que vous faites, *khabīr* (pleinement informé)."
 %}
 
 {:.callout .callout--pivot}
@@ -341,7 +349,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">iʿrāḍ</span></dt>
 <dd>forme IV de <em>ʿ-r-ḍ</em> : se détourner, tourner le flanc — un retrait, une distance prise, distinct du *nushūz* (la rupture ouverte).</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="sulh">
 <dt><span class="lex-trl">ṣulḥ</span></dt>
 <dd>racine <em>ṣ-l-ḥ</em> (le droit, ce qui est en bon état) — l'arrangement, la remise en ordre trouvée entre deux parties. Terme distinct de *ṣāliḥāt* (les œuvres droites) mais de même racine.</dd>
 </div>
@@ -362,7 +370,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:129"
    ar="وَلَن تَسْتَطِيعُوا أَن تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا"
    trl="Wa-lan tastaṭīʿū an taʿdilū bayna n-nisāʾi wa-law ḥaraṣtum — fa-lā tamīlū kulla l-mayli fa-tadharūhā ka-l-muʿallaqati — wa-in tuṣliḥū wa-tattaqū fa-inna llāha kāna ghafūran raḥīmā"
-   trad="Vous ne pourrez jamais être équitables (*taʿdilū*) entre les femmes, même si vous y tenez (*ḥaraṣtum*) — ne penchez donc pas d'un penchant total (*kulla l-mayl*), au point de la laisser comme suspendue (*ka-l-muʿallaqa*). Et si vous trouvez un arrangement (*tuṣliḥū*) et vous constituez une taqwā, Allaah est *ghafūr*, *raḥīm*."
+   trad="Vous ne pourrez jamais être équitables (*taʿdilū*) entre les femmes, même si vous *[y tenez](#hars)* (*ḥaraṣtum*) — ne penchez donc pas d'un penchant total (*kulla l-mayl*), au point de la laisser comme suspendue (*ka-l-muʿallaqa*). Et si vous *[trouvez un arrangement](#sulh)* (*tuṣliḥū*) et vous constituez une taqwā, Allaah est *ghafūr*, *raḥīm*."
 %}
 
 <div class="notes-lexicales">
@@ -371,6 +379,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">taʿdilū</span></dt>
 <dd>même racine <em>ʿ-d-l</em> que S4:3 (*taʿdilū*, y être déjà employé pour la même impossibilité anticipée — « craignez de ne pas être équitables » — voir Bloc I). Le texte confirme ici, dans un contexte de polygamie déjà installée, ce que S4:3 annonçait par avance.</dd>
+</div>
+<div class="lex-entree" id="hars">
+<dt><span class="lex-trl">ḥaraṣtum</span></dt>
+<dd>racine <em>ḥ-r-ṣ</em> : désirer ardemment, s'attacher avec insistance à obtenir une chose. Le texte reconnaît ici que la volonté seule (*wa-law ḥaraṣtum*, « même si vous y tenez ») ne suffit pas à produire l'équité totale entre épouses — l'impossibilité posée n'est donc pas imputée à un manque d'effort.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ka-l-muʿallaqa</span></dt>
@@ -389,12 +401,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:130"
    ar="وَإِن يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِن سَعَتِهِ ۚ وَكَانَ اللَّهُ وَاسِعًا حَكِيمًا"
    trl="Wa-in yatafarraqā yughni llāhu kullan min saʿatihi — wa-kāna llāhu wāsiʿan ḥakīmā"
-   trad="Et s'ils se séparent (*yatafarraqā*), Allaah rendra chacun autonome (*yughni*) par Son ampleur (*saʿatihi*) — Allaah est *Wāsiʿ*, *Ḥakīm*."
+   trad="Et s'ils *[se séparent](#tafarruq)* (*yatafarraqā*), Allaah rendra chacun autonome (*yughni*) par Son ampleur (*saʿatihi*) — Allaah est *[Wāsiʿ](/etudes/trad-s2-bloc4/#wasi)*, *Ḥakīm*."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="tafarruq">
+<dt><span class="lex-trl">yatafarraqā</span></dt>
+<dd>racine <em>f-r-q</em> : séparer, diviser en parties distinctes — même mouvement de racine que *tafarraqū* (la division entre groupes, ailleurs dans le corpus) et *al-furqān* (ce qui distingue et sépare le vrai du faux). Ici appliquée à la séparation conjugale elle-même.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yughni... min saʿatihi</span></dt>
 <dd>*yughnī* (racine <em>gh-n-y</em>, rendre autonome, suffire) et *saʿa* (racine <em>w-s-ʿ</em>, l'ampleur, ce qui embrasse largement — même racine que *Wāsiʿ*). Le verset répond directement à la crainte matérielle qui pourrait retenir dans une union insatisfaisante : la séparation n'est pas présentée comme une impasse.</dd>
@@ -462,12 +478,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:133"
    ar="إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ ۚ وَكَانَ اللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا"
    trl="In yashaʾ yudhhibkum ayyuhā n-nāsu wa-yaʾti bi-ākharīn — wa-kāna llāhu ʿalā dhālika qadīrā"
-   trad="S'Il le veut, Il vous fera disparaître (*yudhhibkum*), ô les humains, et en fera venir d'autres — Allaah est, sur cela, *Qadīr* (Ce qui a pleine capacité)."
+   trad="S'Il le veut, Il vous fera *[disparaître](#dhahab)* (*yudhhibkum*), ô les humains, et en fera venir d'autres — Allaah est, sur cela, *Qadīr* (Ce qui a pleine capacité)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="dhahab">
+<dt><span class="lex-trl">yudhhibkum</span></dt>
+<dd>racine <em>dh-h-b</em> : partir, s'en aller — ici à la forme causative (« faire partir »), donc « faire disparaître ». Le verset pose une capacité conditionnelle (*in yashaʾ*, « s'Il le veut »), non un fait déjà advenu.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">qadīr</span></dt>
 <dd>racine <em>q-d-r</em> : la capacité, la mesure exacte de ce qui peut être accompli. <strong>Dit</strong> : le verset pose une capacité (*in yashaʾ*, « s'Il le veut ») — une condition posée par le texte lui-même, non un fait accompli ni une menace à échéance annoncée.</dd>

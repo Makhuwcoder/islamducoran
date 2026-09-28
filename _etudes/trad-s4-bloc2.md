@@ -324,6 +324,10 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">ʿAliyy · Kabīr</span></dt>
 <dd>ce que l'on peut dire d'Allaah ici : deux termes de grandeur — *ʿAliyy* (racine <em>ʿ-l-w</em>) et *Kabīr* (racine <em>k-b-r</em>, déjà rencontrée dans *kabāʾir*, les fautes majeures, S4:31) — désignant l'un et l'autre une prééminence absolue, sans commune mesure avec ce qui est créé. Conservés en translittération : « le Très-Haut » ou « le Grand » installeraient, en français, une connotation de position dans l'espace ou de taille physique que ces termes ne portent pas lorsqu'ils qualifient Allaah.</dd>
 </div>
+<div class="lex-entree" id="nushuz">
+<dt><span class="lex-trl">nushūz</span></dt>
+<dd>racine <em>n-sh-z</em> : s'élever, faire saillie — d'où, au sens figuré, une rupture ou un refus du lien dû dans la relation conjugale. Le texte ne définit pas ici précisément l'acte visé au-delà de ce terme. Voir aussi le cas symétrique du *nushūz* de l'époux, traité par une procédure distincte en S4:128.</dd>
+</div>
 </dl>
 </div>
 
