@@ -307,7 +307,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">muhayminan ʿalayhi</span></dt>
 <dd>racine quadrilitère *h-y-m-n*, rare dans le corpus : Ibn Fāris et Ibn Manẓūr (*Lisān al-ʿArab*) la rattachent au sens de veiller sur, attester, garantir l'exactitude — le même terme, à la forme substantive *al-Muhaymin*, qualifie Allaah Lui-même en S59:23 (« Ce qui accorde la sécurité, Ce qui veille sur toute chose »). Ici, appliqué au *kitāb* et non à Allaah directement, il désigne la fonction de ce *kitāb* envers les révélations qui l'ont précédé : il en atteste la teneur et en garantit l'exactitude, sans que ce seul verset ne détaille le mécanisme concret de cette garantie. Conservé en translittération, aucun mot français isolé ne portant à la fois l'idée d'attestation et de garde.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="ahwa">
 <dt><span class="lex-trl">ahwāʾahum</span></dt>
 <dd>pluriel de *hawā*, déjà établi (S2:120, S2:145) : ce qui incline vers le bas, le penchant qui s'oppose à la connaissance (*ʿilm*) qui guide. Conservé en translittération.</dd>
 </div>
@@ -338,7 +338,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:49"
    ar="وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ النَّاسِ لَفَاسِقُونَ"
    trl="Wa-ani ḥkum baynahum bimā anzala llāhu wa-lā tattabiʿ ahwāʾahum wa-ḥdharhum an yaftinūka ʿan baʿḍi mā anzala llāhu ilayk — fa-in tawallaw fa-ʿlam annamā yurīdu llāhu an yuṣībahum bi-baʿḍi dhunūbihim — wa-inna kathīran mina n-nāsi la-fāsiqūn"
-   trad="Et juge entre eux par ce qu'Allaah a fait descendre, ne suis pas leurs *ahwāʾ*, et prends garde qu'ils ne te détournent par épreuve (*yaftinūka*) d'une partie de ce qu'Allaah a fait descendre vers toi. S'ils se détournent, sache alors qu'Allaah veut seulement les atteindre par une partie de leurs fautes (*dhunūbihim*). Beaucoup de gens, certes, sont des *fāsiqūn*."
+   trad="Et juge entre eux par ce qu'Allaah a fait descendre, ne suis pas leurs *[ahwāʾ](#ahwa)*, et prends garde qu'ils ne te détournent par épreuve (*yaftinūka*) d'une partie de ce qu'Allaah a fait descendre vers toi. S'ils se détournent, sache alors qu'Allaah veut seulement les atteindre par une partie de leurs fautes (*dhunūbihim*). Beaucoup de gens, certes, sont des *fāsiqūn*."
 %}
 
 <div class="notes-lexicales">
