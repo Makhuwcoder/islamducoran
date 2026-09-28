@@ -345,7 +345,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">baʿl</span></dt>
 <dd>racine <em>b-ʿ-l</em> : le maître, celui qui a autorité sur une chose — employé dans le Coran pour désigner l'époux, à distinguer de *zawj* (le conjoint, terme plus fréquent et plus neutre).</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="irad">
 <dt><span class="lex-trl">iʿrāḍ</span></dt>
 <dd>forme IV de <em>ʿ-r-ḍ</em> : se détourner, tourner le flanc — un retrait, une distance prise, distinct du *nushūz* (la rupture ouverte).</dd>
 </div>

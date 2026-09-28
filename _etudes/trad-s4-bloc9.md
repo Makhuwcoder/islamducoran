@@ -46,7 +46,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:135"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَن تَعْدِلُوا ۚ وَإِن تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا"
    trl="Yā ayyuhā lladhīna āmanū kūnū qawwāmīna bi-l-qisṭi shuhadāʾa li-llāhi wa-law ʿalā anfusikum awi l-wālidayni wa-l-aqrabīna — in yakun ghaniyyan aw faqīran fa-llāhu awlā bihimā — fa-lā tattabiʿū l-hawā an taʿdilū — wa-in talwū aw tuʿriḍū fa-inna llāha kāna bimā taʿmalūna khabīrā"
-   trad="Ô vous qui croyez, soyez fermement établis (*qawwāmīn*) dans le *qisṭ*, témoins (*shuhadāʾ*) pour Allaah, même si c'est contre vous-mêmes, ou vos deux parents, ou vos proches. Qu'il soit riche ou pauvre, Allaah est plus proche d'eux deux (*awlā bihimā*) [que vous ne l'êtes] — ne suivez donc pas le désir (*al-hawā*) au point de ne plus être justes (*an taʿdilū*). Et si vous déviez (*talwū*) ou vous détournez (*tuʿriḍū*), Allaah est, de ce que vous faites, *Khabīr*."
+   trad="Ô vous qui croyez, soyez fermement établis (*qawwāmīn*) dans le *qisṭ*, témoins (*shuhadāʾ*) pour Allaah, même si c'est contre vous-mêmes, ou vos deux parents, ou vos proches. Qu'il soit riche ou pauvre, Allaah est plus proche d'eux deux (*awlā bihimā*) [que vous ne l'êtes] — ne suivez donc pas le *[désir](#hawa)* (*al-hawā*) au point de ne plus être justes (*an taʿdilū*). Et si vous déviez (*talwū*) ou vous *[détournez](/etudes/trad-s4-bloc8/#irad)* (*tuʿriḍū*), Allaah est, de ce que vous faites, *Khabīr*."
 %}
 
 {:.callout .callout--pivot}
@@ -70,6 +70,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">talwū</span></dt>
 <dd>racine <em>l-w-y</em> : tordre, plier, détourner de sa trajectoire droite — employé ici au sens figuré pour la déviation du témoignage.</dd>
+</div>
+<div class="lex-entree" id="hawa">
+<dt><span class="lex-trl">al-hawā</span></dt>
+<dd>racine <em>h-w-y</em> : tomber, pencher, être entraîné vers le bas — d'où l'inclination qui emporte sans que la raison en garde la maîtrise. Le texte l'oppose ici directement à *taʿdilū* (être juste) : ce n'est pas le désir en tant que tel qui est nommé fautif, mais le fait de le suivre au point de perdre l'équité.</dd>
 </div>
 </dl>
 </div>
@@ -153,7 +157,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:139"
    ar="الَّذِينَ يَتَّخِذُونَ الْكَافِرِينَ أَوْلِيَاءَ مِن دُونِ الْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ الْعِزَّةَ فَإِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا"
    trl="Alladhīna yattakhidhūna l-kāfirīna awliyāʾa min dūni l-muʾminīna — a-yabtaghūna ʿindahumu l-ʿizzata fa-inna l-ʿizzata li-llāhi jamīʿā"
-   trad="Ceux qui prennent les *kāfirīn* comme *awliyāʾ* en dehors des croyants — recherchent-ils (*a-yabtaghūna*) auprès d'eux la puissance (*al-ʿizza*) ? — l'*ʿizza* appartient à Allaah tout entière (*jamīʿā*)."
+   trad="Ceux qui prennent les *kāfirīn* comme *[awliyāʾ](/etudes/trad-s2-bloc12/#wali)* en dehors des croyants — recherchent-ils (*a-yabtaghūna*) auprès d'eux la puissance (*al-ʿizza*) ? — l'*ʿizza* appartient à Allaah tout entière (*jamīʿā*)."
 %}
 
 <div class="notes-lexicales">
@@ -176,12 +180,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:140"
    ar="وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ جَمِيعًا"
    trl="Wa-qad nazzala ʿalaykum fi l-kitābi an idhā samiʿtum āyāti llāhi yukfaru bihā wa-yustahzaʾu bihā fa-lā taqʿudū maʿahum ḥattā yakhūḍū fī ḥadīthin ghayrihi — innakum idhan mithluhum — inna llāha jāmiʿu l-munāfiqīna wa-l-kāfirīna fī jahannama jamīʿā"
-   trad="Et il vous a déjà été révélé dans le Livre que, lorsque vous entendez les *āyāt* d'Allaah rejetées (*yukfaru bihā*) et raillées (*yustahzaʾu bihā*), ne restez pas assis avec eux tant qu'ils ne se tournent pas vers un autre propos — sinon vous seriez alors comme eux. Allaah rassemblera les *munāfiqūn* et les *kāfirīn* dans Jahannam, tous ensemble."
+   trad="Et il vous a déjà été révélé dans le Livre que, lorsque vous entendez les *āyāt* d'Allaah rejetées (*yukfaru bihā*) et *[raillées](#hazi)* (*yustahzaʾu bihā*), ne restez pas assis avec eux tant qu'ils ne se tournent pas vers un autre propos — sinon vous seriez alors comme eux. Allaah rassemblera les *munāfiqūn* et les *kāfirīn* dans Jahannam, tous ensemble."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="hazi">
+<dt><span class="lex-trl">yustahzaʾu bihā</span></dt>
+<dd>forme X de <em>h-z-ʾ</em> : tourner en dérision, prendre pour objet de moquerie. Le texte associe ce verbe à *yukfaru bihā* (rejeter) dans la même clause — deux façons distinctes de recevoir les *āyāt*, l'une par le rejet, l'autre par la raillerie.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-qad nazzala ʿalaykum fi l-kitāb</span></dt>
 <dd>le texte se renvoie explicitement à une prescription antérieure déjà posée « dans le Livre » — cohérence intra-coranique assumée par le texte lui-même, sans que ce verset précise ici la référence exacte visée.</dd>
@@ -203,7 +211,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:141"
    ar="الَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِنَ اللَّهِ قَالُوا أَلَمْ نَكُن مَعَكُمْ وَإِن كَانَ لِلْكَافِرِينَ نَصِيبٌ قَالُوا أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُم مِنَ الْمُؤْمِنِينَ ۚ فَاللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ ۗ وَلَن يَجْعَلَ اللَّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا"
    trl="Alladhīna yatarabbaṣūna bikum fa-in kāna lakum fatḥun mina llāhi qālū a-lam nakun maʿakum wa-in kāna li-l-kāfirīna naṣībun qālū a-lam nastaḥwidh ʿalaykum wa-namnaʿkum mina l-muʾminīna — fa-llāhu yaḥkumu baynakum yawma l-qiyāmati — wa-lan yajʿala llāhu li-l-kāfirīna ʿalā l-muʾminīna sabīlā"
-   trad="Ceux qui vous observent en attendant (*yatarabbaṣūna*) : si une victoire (*fatḥ*) venant d'Allaah vous échoit, ils disent : « N'étions-nous pas avec vous ? » — et si les *kāfirīn* ont une part, ils disent : « N'avons-nous pas pris l'avantage sur vous (*nastaḥwidh ʿalaykum*), et ne vous avons-nous pas protégés des croyants ? » Allaah jugera entre vous au Jour de la Résurrection — et Allaah ne donnera jamais aux *kāfirīn* de voie sur les croyants."
+   trad="Ceux qui vous observent en attendant (*yatarabbaṣūna*) : si une *[victoire](#fath)* (*fatḥ*) venant d'Allaah vous échoit, ils disent : « N'étions-nous pas avec vous ? » — et si les *kāfirīn* ont une part, ils disent : « N'avons-nous pas pris l'avantage sur vous (*nastaḥwidh ʿalaykum*), et ne vous avons-nous pas protégés des croyants ? » Allaah jugera entre vous au Jour de la Résurrection — et Allaah ne donnera jamais aux *kāfirīn* de voie sur les croyants."
 %}
 
 <div class="notes-lexicales">
@@ -212,6 +220,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">yatarabbaṣūna</span></dt>
 <dd>racine <em>r-b-ṣ</em> : attendre, observer sans s'engager, guetter l'issue avant de se positionner — même racine que la *tarabbuṣ* déjà rencontrée pour d'autres contextes d'attente dans le corpus (S2).</dd>
+</div>
+<div class="lex-entree" id="fath">
+<dt><span class="lex-trl">fatḥ</span></dt>
+<dd>racine <em>f-t-ḥ</em> : ouvrir — d'où, appliqué à un affrontement, l'ouverture d'une issue favorable, la victoire qui débloque une situation fermée.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nastaḥwidh</span></dt>
@@ -234,12 +246,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:142"
    ar="إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا"
    trl="Inna l-munāfiqīna yukhādiʿūna llāha wa-huwa khādiʿuhum wa-idhā qāmū ila ṣ-ṣalāti qāmū kusālā yurāʾūna n-nāsa wa-lā yadhkurūna llāha illā qalīlā"
-   trad="Les *munāfiqūn* cherchent à tromper (*yukhādiʿūna*) Allaah, alors que c'est Lui qui les trompe. Et lorsqu'ils se lèvent pour la *ṣalāt*, ils se lèvent paresseusement (*kusālā*), se donnant en spectacle aux gens (*yurāʾūna n-nās*), et ne se rappellent (*yadhkurūna*) Allaah que peu."
+   trad="Les *munāfiqūn* cherchent à tromper (*yukhādiʿūna*) Allaah, alors que c'est Lui qui les trompe. Et lorsqu'ils se lèvent pour la *ṣalāt*, ils se lèvent *[paresseusement](#kasal)* (*kusālā*), se donnant en spectacle aux gens (*yurāʾūna n-nās*), et ne se rappellent (*yadhkurūna*) Allaah que peu."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="kasal">
+<dt><span class="lex-trl">kusālā</span></dt>
+<dd>pluriel de *kaslān*, racine <em>k-s-l</em> : la lenteur qui traîne, l'absence d'élan. Le texte oppose cette lenteur à l'empressement (*yurāʾūna n-nās*, se donner en spectacle) : ce n'est donc pas un simple manque de vigueur physique, mais l'indice d'une disposition intérieure.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yukhādiʿūna / khādiʿuhum</span></dt>
 <dd>racine <em>kh-d-ʿ</em> (tromper), à la forme III (chercher à tromper). Le texte emploie la même racine pour les deux sujets dans une construction en miroir : leur tentative retournée contre eux, sans que ce miroir suppose une identité de nature entre les deux actions — la forme grammaticale marque un retournement, non une symétrie de sens.</dd>
@@ -284,7 +300,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:144"
    ar="يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِن دُونِ الْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَن تَجْعَلُوا لِلَّهِ عَلَيْكُمْ سُلْطَانًا مُبِينًا"
    trl="Yā ayyuhā lladhīna āmanū lā tattakhidhū l-kāfirīna awliyāʾa min dūni l-muʾminīna — a-turīdūna an tajʿalū li-llāhi ʿalaykum sulṭānan mubīnā"
-   trad="Ô vous qui croyez, ne prenez pas les *kāfirīn* comme *awliyāʾ* en dehors des croyants — voulez-vous donner à Allaah, contre vous-mêmes, un *sulṭān* manifeste ?"
+   trad="Ô vous qui croyez, ne prenez pas les *kāfirīn* comme *[awliyāʾ](/etudes/trad-s2-bloc12/#wali)* en dehors des croyants — voulez-vous donner à Allaah, contre vous-mêmes, un *sulṭān* manifeste ?"
 %}
 
 <div class="notes-lexicales">
@@ -326,7 +342,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:146"
    ar="إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَاعْتَصَمُوا بِاللَّهِ وَأَخْلَصُوا دِينَهُمْ لِلَّهِ فَأُولَٰئِكَ مَعَ الْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ اللَّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا"
    trl="Illā lladhīna tābū wa-aṣlaḥū wa-ʿtaṣamū bi-llāhi wa-akhlaṣū dīnahum li-llāhi fa-ulāʾika maʿa l-muʾminīna — wa-sawfa yuʾti llāhu l-muʾminīna ajran ʿaẓīmā"
-   trad="Excepté ceux qui reviennent (*tābū*), se corrigent (*aṣlaḥū*), s'accrochent fermement (*iʿtaṣamū*) à Allaah, et rendent leur *dīn* exclusif (*akhlaṣū*) pour Allaah — ceux-là sont avec les croyants, et Allaah donnera aux croyants une immense rétribution."
+   trad="Excepté ceux qui *[reviennent](/etudes/trad-s4-bloc1/#taba)* (*tābū*), *[se corrigent](/etudes/trad-s2-bloc1/#muslihun)* (*aṣlaḥū*), s'accrochent fermement (*iʿtaṣamū*) à Allaah, et rendent leur *dīn* exclusif (*akhlaṣū*) pour Allaah — ceux-là sont avec les croyants, et Allaah donnera aux croyants une immense rétribution."
 %}
 
 <div class="notes-lexicales">
@@ -426,7 +442,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:150–151"
    ar="إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَن يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَن يَتَّخِذُوا بَيْنَ ذَٰلِكَ سَبِيلًا * أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا"
    trl="Inna lladhīna yakfurūna bi-llāhi wa-rusulihi wa-yurīdūna an yufarriqū bayna llāhi wa-rusulihi wa-yaqūlūna nuʾminu bi-baʿḍin wa-nakfuru bi-baʿḍin wa-yurīdūna an yattakhidhū bayna dhālika sabīlā * Ulāʾika humu l-kāfirūna ḥaqqan wa-aʿtadnā li-l-kāfirīna ʿadhāban muhīnā"
-   trad="Ceux qui rejettent Allaah et Ses *rusul*, et veulent différencier (*yufarriqū*) entre Allaah et Ses *rusul*, et disent : « Nous croyons en une partie, et nous rejetons une partie », et veulent prendre entre cela un chemin — ceux-là sont les *kāfirūn* en vérité (*ḥaqqan*), et Nous avons préparé pour les *kāfirīn* un châtiment humiliant."
+   trad="Ceux qui rejettent Allaah et Ses *rusul*, et veulent *[différencier](/etudes/trad-s4-bloc8/#tafarruq)* (*yufarriqū*) entre Allaah et Ses *rusul*, et disent : « Nous croyons en une partie, et nous rejetons une partie », et veulent prendre entre cela un chemin — ceux-là sont les *kāfirūn* en vérité (*ḥaqqan*), et Nous avons préparé pour les *kāfirīn* un châtiment humiliant."
 %}
 
 <div class="notes-lexicales">
@@ -449,7 +465,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:152"
    ar="وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا"
    trl="Wa-lladhīna āmanū bi-llāhi wa-rusulihi wa-lam yufarriqū bayna aḥadin minhum ulāʾika sawfa yuʾtīhim ujūrahum — wa-kāna llāhu ghafūran raḥīmā"
-   trad="Et ceux qui croient en Allaah et en Ses *rusul*, et ne différencient entre aucun d'eux (*lam yufarriqū bayna aḥadin minhum*) — ceux-là, Il leur donnera leurs rétributions. Allaah est *Ghafūr*, *Raḥīm*."
+   trad="Et ceux qui croient en Allaah et en Ses *rusul*, et ne *[différencient](/etudes/trad-s4-bloc8/#tafarruq)* entre aucun d'eux (*lam yufarriqū bayna aḥadin minhum*) — ceux-là, Il leur donnera leurs rétributions. Allaah est *Ghafūr*, *Raḥīm*."
 %}
 
 <div class="notes-lexicales">
