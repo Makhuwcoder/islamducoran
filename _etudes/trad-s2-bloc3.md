@@ -222,7 +222,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="ruh-qudus">
 <dt><span class="lex-trl">rūḥ al-qudus</span></dt>
 <dd>*rūḥ* : le souffle, la réalité spirituelle. *al-qudus* : la pureté absolue, la sainteté. Ce que l'on peut dire : le souffle de la pureté absolue. Le texte ne précise pas la nature de ce *rūḥ*. Toute identification à une entité particulière excède ce que le texte dit.</dd>
 </div>

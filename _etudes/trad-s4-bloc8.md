@@ -299,7 +299,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="fatwa">
 <dt><span class="lex-trl">yastaftūnaka / yuftīkum</span></dt>
 <dd>racine <em>f-t-y</em> : donner un éclaircissement, une réponse à une question posée (d'où *fatwā*) — voir l'étude dédiée [La fatwā](/etudes/fatwa/).</dd>
 </div>

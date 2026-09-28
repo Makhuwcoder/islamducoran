@@ -286,7 +286,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">فَضَّلْنَا</span><span class="lex-trl">faḍḍalnā</span></dt>
 <dd>(f-ḍ-l) : le texte affirme lui-même une distinction de faḍl entre les rusul — une hiérarchie explicitement posée par le texte, non une inférence extérieure.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="kallama">
 <dt><span class="lex-ar">كَلَّمَ اللَّه</span><span class="lex-trl">kallama llāh</span></dt>
 <dd>racine k-l-m, la parole adressée. **Note de vigilance méthodologique.** Le texte attribue à Allaah l'acte de « parler » à l'un des rusul (non nommé dans ce verset précis) — le non-dit porte ici sur la modalité de cette parole, que le texte ne décrit pas ; aucune image sensorielle ou physique n'est ajoutée à ce que le verset énonce. رَفَعَ...</dd>
 </div>

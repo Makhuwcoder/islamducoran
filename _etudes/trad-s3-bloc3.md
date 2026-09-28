@@ -77,7 +77,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="kalima-sawa">
 <dt><span class="lex-ar">كَلِمَةٍ سَوَآءٍۭ</span><span class="lex-trl">kalimatin sawāʾin</span></dt>
 <dd>racine s-w-y : une parole d'égale mesure, équitablement partagée entre les parties — non une concession, un terrain commun défini par son contenu (S3:64 le précise immédiatement).</dd>
 </div>

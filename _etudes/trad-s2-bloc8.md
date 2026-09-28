@@ -400,7 +400,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">بَعَثَ</span><span class="lex-trl">baʿatha</span></dt>
 <dd>racine b-ʿ-th : mettre en mouvement depuis un état de repos, susciter.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="mubashshirin">
 <dt><span class="lex-ar">مُبَشِّرِين / مُنذِرِين</span><span class="lex-trl">mubashshirīn / mundhirīn</span></dt>
 <dd>b-sh-r (annonce qui se manifeste, littéralt liée à la surface visible/la peau) et n-dh-r (alerter d'un danger à venir) : les deux fonctions associées aux nabī-s.</dd>
 </div>
@@ -637,7 +637,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">الْمُشْرِكَات / الْمُشْرِكِين</span><span class="lex-trl">al-mushrikāt / al-mushrikīn</span></dt>
 <dd>participes de sh-r-k (du corpus via *andād*, S2:22 : mettre en équivalence de rang) : celles et ceux qui associent une mise en équivalence à Allaah.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="abd">
 <dt><span class="lex-ar">أَمَة / عَبْد</span><span class="lex-trl">ama / ʿabd</span></dt>
 <dd>servante/serviteur au sens du statut servile reconnu par le texte dans son contexte social propre. **Note de dit/non-dit.** Le texte pose une comparaison de valeur (*khayr*) entre un statut social inférieur assorti de la foi, et un statut social supérieur assorti du shirk — il ne légifère pas ici sur l'institution servile elle-même, dont le traitement fait l'objet d'une étude lexicale indépendante sur ce site.</dd>
 </div>

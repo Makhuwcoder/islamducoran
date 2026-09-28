@@ -177,7 +177,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">ٱلْمَسِيح</span><span class="lex-trl">al-Masīḥ</span></dt>
 <dd>conservé translittéré ; racine m-s-ḥ (essuyer/oindre) — **non-dit** sur la nuance précise retenue par ce titre dans ce contexte ; le terme est un nom propre composé, non traduit.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="muqarrabin">
 <dt><span class="lex-ar">ٱلْمُقَرَّبِينَ</span><span class="lex-trl">al-muqarrabīn</span></dt>
 <dd>racine q-r-b : ceux rapprochés, mis en proximité.</dd>
 </div>

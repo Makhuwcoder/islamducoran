@@ -91,7 +91,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">كَتَمَ</span><span class="lex-trl">k-t-m</span></dt>
 <dd>Ibn Fāris (Maqāyīs) : enfermer, retenir ce qui devrait circuler. Acte actif de dissimulation de ce qui est su — non l'ignorance, non l'omission : le katm suppose que la chose est connue et délibérément cachée.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="bayyinat">
 <dt><span class="lex-ar">الْبَيِّنَات</span><span class="lex-trl">al-bayyināt</span></dt>
 <dd>racine b-y-n : ce qui est distinct, séparé, visible par lui-même. Les bayyināt s'imposent d'elles-mêmes, sans avoir besoin d'être interprétées pour être comprises. Conservé en translittération.</dd>
 </div>
@@ -280,7 +280,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">يُحِبُّونَهُمْ كَحُبِّ ٱللَّه</span><span class="lex-trl">yuḥibbūnahum ka-ḥubbi llāh</span></dt>
 <dd>la comparaison porte sur l'intensité de l'honneur rendu, non sur sa nature : c'est un honneur qui rivalise en degré avec ce qui devrait être réservé à Allaah.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="zalamu">
 <dt><span class="lex-ar">ظَلَمُوا</span><span class="lex-trl">ẓalamū</span></dt>
 <dd>racine ẓ-l-m : placer une chose hors de sa place propre, déséquilibrer un ordre juste.</dd>
 </div>
@@ -482,7 +482,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="tayyibat">
 <dt><span class="lex-ar">طَيِّبَات</span><span class="lex-trl">ṭayyibāt</span></dt>
 <dd>pluriel de ṭayyib (voir S2:168) : ce qui est bon par sa nature propre. Ce que le texte dit ici, comparé à S.2:168 : l'adresse aux nās posait deux critères simultanés — ḥalālan ṭayyiban. L'adresse aux croyants ne mentionne que ṭayyibāt. Le critère ḥalāl n'est pas répété — silence du texte à nommer comme tel, non à combler par une règle qui ne serait pas énoncée ici.</dd>
 </div>

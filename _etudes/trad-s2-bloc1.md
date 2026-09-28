@@ -108,7 +108,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="yaqin">
 <dt><span class="lex-trl">yūqinūn</span></dt>
 <dd>racine *y-q-n* : la *yaqīn* est la certitude ancrée, sans fissure. Supérieure au *ʿilm* (connaissance) : c'est une certitude de l'être, non seulement de l'intellect. Traduit par « certitude » — adéquat.</dd>
 </div>

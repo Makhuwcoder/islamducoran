@@ -352,7 +352,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="bighayrihaqq">
 <dt><span class="lex-ar">بِغَيْرِ حَقٍّ</span><span class="lex-trl">bi-ghayri ḥaqq</span></dt>
 <dd>(ḥ-q-q) : sans droit légitime — précision qui borne l'accusation à un acte spécifique, non une généralité.</dd>
 </div>

@@ -244,7 +244,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">aṣ-ṣiddīqīn</span></dt>
 <dd>racine <em>ṣ-d-q</em> : la véracité portée à son degré le plus confirmé — ceux dont la conformité entre parole et réalité est constante.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="shuhada">
 <dt><span class="lex-trl">ash-shuhadāʾ</span></dt>
 <dd>racine <em>sh-h-d</em> : témoigner, attester de ce que l'on a constaté. <strong>Non-dit</strong> : ce verset ne restreint pas le mot à une catégorie de personnes tuées dans une cause précise — sens que la tradition postérieure lui attache largement ; le texte, pris seul ici, porte le sens premier de témoin.</dd>
 </div>

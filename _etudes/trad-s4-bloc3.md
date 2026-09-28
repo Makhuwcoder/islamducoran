@@ -305,7 +305,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="sadd">
 <dt><span class="lex-trl">ṣadda ʿanhu</span></dt>
 <dd>racine <em>ṣ-d-d</em> : barrer, détourner de la voie — même racine que <em>aṣ-ṣadd ʿan sabīli llāh</em> (S2:217, S4:167, S8:47), l'une des deux manipulations nommées dans la note méthodologique de ce site : bloquer l'accès au texte par l'interposition d'une médiation entre le lecteur et lui. Ici le verbe est employé sans complément prépositionnel de manière ; il décrit un simple constat : une partie s'est détournée.</dd>
 </div>

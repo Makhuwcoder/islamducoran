@@ -428,7 +428,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="intaha">
 <dt><span class="lex-ar">انتَهَوْا</span><span class="lex-trl">intahaw</span></dt>
 <dd>racine n-h-y, forme VIII : cesser, s'arrêter de soi-même. Verset le plus court du passage : la cessation de l'affrontement (côté de « ceux qui vous combattent ») appelle immédiatement, sans condition supplémentaire énoncée, le rappel de la Ghafūriyya et de la Raḥma d'Allaah — non une condition posée aux croyants eux-mêmes.</dd>
 </div>

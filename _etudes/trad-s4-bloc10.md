@@ -44,7 +44,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:153"
    ar="يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِنَ السَّمَاءِ ۚ فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِنْ ذَٰلِكَ فَقَالُوا أَرِنَا اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَنْ ذَٰلِكَ ۚ وَآتَيْنَا مُوسَىٰ سُلْطَانًا مُبِينًا"
    trl="Yasʾaluka ahlu l-kitābi an tunazzila ʿalayhim kitāban mina s-samāʾi — fa-qad saʾalū mūsā akbara min dhālika fa-qālū arinā llāha jahratan fa-akhadhathumu ṣ-ṣāʿiqatu bi-ẓulmihim — thumma ttakhadhū l-ʿijla min baʿdi mā jāʾathumu l-bayyinātu fa-ʿafawnā ʿan dhālika — wa-ātaynā mūsā sulṭānan mubīnā"
-   trad="Les gens du Livre te demandent de faire descendre sur eux un Livre du ciel — or ils ont demandé à Mūsā plus grand que cela : ils ont dit : « Montre-nous Allaah ouvertement (*jahratan*) » — la *ṣāʿiqa* les saisit alors pour leur injustice. Puis ils prirent le veau après que les preuves manifestes (*al-bayyināt*) leur furent venues — Nous avons pardonné cela — et Nous avons donné à Mūsā un *sulṭān* manifeste."
+   trad="Les gens du Livre te demandent de faire descendre sur eux un Livre du ciel — or ils ont demandé à Mūsā plus grand que cela : ils ont dit : « Montre-nous Allaah *[ouvertement](/etudes/trad-s2-bloc2/#jahratan)* (*jahratan*) » — la *ṣāʿiqa* les saisit alors pour leur injustice. Puis ils prirent le veau après que les *[preuves manifestes](/etudes/trad-s2-bloc6/#bayyinat)* (*al-bayyināt*) leur furent venues — Nous avons pardonné cela — et Nous avons donné à Mūsā un *sulṭān* manifeste."
 %}
 
 <div class="notes-lexicales">
@@ -67,12 +67,20 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:154–155"
    ar="وَرَفَعْنَا فَوْقَهُمُ الطُّورَ بِمِيثَاقِهِمْ وَقُلْنَا لَهُمُ ادْخُلُوا الْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا فِي السَّبْتِ وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا * فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ وَكُفْرِهِمْ بِآيَاتِ اللَّهِ وَقَتْلِهِمُ الْأَنْبِيَاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ ۚ بَلْ طَبَعَ اللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا"
    trl="Wa-rafaʿnā fawqahumu ṭ-ṭūra bi-mīthāqihim wa-qulnā lahumu dkhulū l-bāba sujjadan wa-qulnā lahum lā taʿdū fi s-sabti wa-akhadhnā minhum mīthāqan ghalīẓā * Fa-bimā naqḍihim mīthāqahum wa-kufrihim bi-āyāti llāhi wa-qatlihimu l-anbiyāʾa bi-ghayri ḥaqqin wa-qawlihim qulūbunā ghulfun — bal ṭabaʿa llāhu ʿalayhā bi-kufrihim fa-lā yuʾminūna illā qalīlā"
-   trad="Et Nous avons élevé au-dessus d'eux le Mont, pour leur *mīthāq*, et Nous leur avons dit : « Entrez par la porte en vous prosternant (*sujjadan*) », et Nous leur avons dit : « Ne transgressez pas (*lā taʿdū*) le *sabt* » — et Nous avons pris d'eux un *mīthāq* ferme (*ghalīẓ*). Alors, pour avoir rompu leur *mīthāq*, rejeté (*kufr*) les *āyāt* d'Allaah, tué les *anbiyāʾ* sans droit (*bi-ghayri ḥaqq*), et dit : « Nos cœurs sont *ghulf* » — c'est plutôt qu'Allaah les a scellés (*ṭabaʿa*) pour leur *kufr* : ils ne croient que peu."
+   trad="Et Nous avons élevé au-dessus d'eux le Mont, pour leur *mīthāq*, et Nous leur avons dit : « Entrez par la porte en vous prosternant (*sujjadan*) », et Nous leur avons dit : « Ne transgressez pas (*lā taʿdū*) le *sabt* » — et Nous avons pris d'eux un *mīthāq* *[ferme](/etudes/trad-s3-bloc6/#ghaliz)* (*ghalīẓ*). Alors, pour avoir rompu leur *mīthāq*, rejeté (*kufr*) les *āyāt* d'Allaah, tué les *anbiyāʾ* *[sans droit](/etudes/trad-s3-bloc1/#bighayrihaqq)* (*bi-ghayri ḥaqq*), et dit : « Nos cœurs sont *ghulf* » — c'est plutôt qu'Allaah les a scellés (*ṭabaʿa*) pour leur *kufr* : ils ne croient que peu."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="sujjadan">
+<dt><span class="lex-trl">sujjadan</span></dt>
+<dd>racine <em>s-j-d</em> : se prosterner, front contre terre. Le même geste est déjà rapporté en S2:58 pour ce même épisode (« entrez par la porte en vous prosternant »), mais le terme y était alors rendu en français sans être conservé en translittération ; ce verset-ci le conserve tel quel.</dd>
+</div>
+<div class="lex-entree" id="taada">
+<dt><span class="lex-trl">lā taʿdū</span></dt>
+<dd>racine <em>ʿ-d-w</em> : dépasser une limite posée, transgresser une borne fixée — sens premier de course rapide, d'où le franchissement au-delà de ce qui est permis. Le texte pose ici une limite précise (le *sabt*) sans en détailler par ailleurs la teneur exacte.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">as-sabt</span></dt>
 <dd>déjà rencontré en S4:47 (Bloc III), référence allusive au groupe qui a transgressé le *sabt* (*aṣḥāb as-sabt*) — voir la note posée à cet endroit.</dd>
@@ -80,6 +88,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">qulūbunā ghulf</span></dt>
 <dd>racine <em>gh-l-f</em> : enveloppé, recouvert, muni d'une gaine — la prétention rapportée (« nos cœurs sont recouverts », donc incapables de recevoir le message) est directement corrigée par le texte lui-même (*bal ṭabaʿa llāhu ʿalayhā bi-kufrihim* : « c'est plutôt qu'Allaah les a scellés pour leur *kufr* ») — le texte inverse la cause invoquée par les locuteurs eux-mêmes.</dd>
+</div>
+<div class="lex-entree" id="tabaa">
+<dt><span class="lex-trl">ṭabaʿa</span></dt>
+<dd>racine <em>ṭ-b-ʿ</em> : imprimer une marque, apposer un sceau qui rend étanche. <strong>Note de méthode</strong> : ce que l'on peut dire lorsqu'on parle d'Allaah ici est la conséquence directe et constatable d'un rejet déjà installé (*bi-kufrihim*, « pour leur *kufr* ») — le texte pose un rapport de cause à effet entre l'acte des locuteurs et cette fermeture, non un scellement arbitraire précédant toute disposition de leur part.</dd>
 </div>
 </dl>
 </div>
@@ -117,7 +129,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:157"
    ar="وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ ۚ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِنْهُ ۚ مَا لَهُمْ بِهِ مِنْ عِلْمٍ إِلَّا اتِّبَاعَ الظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًا"
    trl="Wa-qawlihim innā qatalnā l-masīḥa ʿīsā bna maryama rasūla llāhi wa-mā qatalūhu wa-mā ṣalabūhu wa-lākin shubbiha lahum — wa-inna lladhīna khtalafū fīhi la-fī shakkin minhu — mā lahum bihi min ʿilmin illā ttibāʿa ẓ-ẓanni — wa-mā qatalūhu yaqīnā"
-   trad="Et pour avoir dit : « Nous avons tué le Messie, ʿĪsā fils de Maryam, *rasūl* d'Allaah » — alors qu'ils ne l'ont pas tué et ne l'ont pas crucifié, mais cela leur a été rendu semblable (*shubbiha lahum*). Et ceux qui divergent à son sujet sont, certes, dans le doute (*shakk*) à son égard — ils n'en ont aucune connaissance, sinon de suivre la conjecture (*ẓann*) — et ils ne l'ont assurément pas tué (*yaqīnan*)."
+   trad="Et pour avoir dit : « Nous avons tué le Messie, ʿĪsā fils de Maryam, *rasūl* d'Allaah » — alors qu'ils ne l'ont pas tué et ne l'ont pas crucifié, mais cela leur a été rendu semblable (*shubbiha lahum*). Et ceux qui divergent à son sujet sont, certes, dans le doute (*shakk*) à son égard — ils n'en ont aucune connaissance, sinon de suivre la conjecture (*ẓann*) — et ils ne l'ont *[assurément](/etudes/trad-s2-bloc1/#yaqin)* pas tué (*yaqīnan*)."
 %}
 
 {:.callout .callout--pivot}
@@ -129,6 +141,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">shubbiha lahum</span></dt>
 <dd>forme II passive de <em>sh-b-h</em> (ressembler, être semblable) : « cela leur a été rendu semblable ». Verbe impersonnel, sans sujet nommé dans le texte — la question de savoir *quoi* a été rendu semblable à *quoi* n'est pas résolue par ce seul verset.</dd>
+</div>
+<div class="lex-entree" id="shakk">
+<dt><span class="lex-trl">shakk</span></dt>
+<dd>racine <em>sh-k-k</em> : le doute intellectuel, neutre — l'esprit hésite entre deux possibilités sans pencher pour l'une. Distinct du *rayb* (le trouble qui inquiète, déjà noté en S2:2, Bloc I), avec lequel il est mis en contraste dans cette même note antérieure.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ẓann</span></dt>
@@ -189,7 +205,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:160–161"
    ar="فَبِظُلْمٍ مِنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَنْ سَبِيلِ اللَّهِ كَثِيرًا * وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا"
    trl="Fa-bi-ẓulmin mina lladhīna hādū ḥarramnā ʿalayhim ṭayyibātin uḥillat lahum wa-bi-ṣaddihim ʿan sabīli llāhi kathīrā * Wa-akhdhihimu r-ribā wa-qad nuhū ʿanhu wa-aklihim amwāla n-nāsi bi-l-bāṭili — wa-aʿtadnā li-l-kāfirīna minhum ʿadhāban alīmā"
-   trad="Pour l'injustice de ceux qui pratiquent le judaïsme, Nous leur avons interdit des choses bonnes (*ṭayyibāt*) qui leur étaient permises, et pour avoir beaucoup détourné (*ṣadd*) du *sabīl* d'Allaah — et pour avoir pris le *ribā* alors qu'il leur avait été interdit, et pour avoir consommé les biens des gens par le *bāṭil* — Nous avons préparé, pour les *kāfirūn* parmi eux, un châtiment douloureux."
+   trad="Pour l'injustice de ceux qui pratiquent le judaïsme, Nous leur avons interdit des *[choses bonnes](/etudes/trad-s2-bloc6/#tayyibat)* (*ṭayyibāt*) qui leur étaient permises, et pour avoir beaucoup détourné (*ṣadd*) du *sabīl* d'Allaah — et pour avoir pris le *ribā* alors qu'il leur avait été interdit, et pour avoir consommé les biens des gens par le *bāṭil* — Nous avons préparé, pour les *kāfirūn* parmi eux, un châtiment douloureux."
 %}
 
 <div class="notes-lexicales">
@@ -253,6 +269,10 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">nabiyyīn</span></dt>
 <dd>voir l'étude dédiée [Khātam an-Nabiyyīn](/etudes/khatam-nabiyyin/) sur la distinction entre *nabī* et *rasūl* — cette liste mêle des figures désignées ailleurs comme *rusul* et d'autres comme *nabiyyīn*, sans que ce verset seul n'opère cette distinction terminologique.</dd>
 </div>
+<div class="lex-entree" id="zabur">
+<dt><span class="lex-trl">Zabūr</span></dt>
+<dd>conservé en translittération — racine <em>z-b-r</em> : écrire, consigner par écrit. Désigne ici ce qui a été donné à Dāwūd ; ce seul verset ne précise pas davantage la nature ou le contenu de ce *Zabūr*, au-delà du fait qu'il lui a été donné (*ātaynā*).</dd>
+</div>
 </dl>
 </div>
 
@@ -262,7 +282,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:164–165"
    ar="وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا * رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا"
    trl="Wa-rusulan qad qaṣaṣnāhum ʿalayka min qablu wa-rusulan lam naqṣuṣhum ʿalayka — wa-kallama llāhu mūsā taklīmā * Rusulan mubashshirīna wa-mundhirīna li-allā yakūna li-n-nāsi ʿalā llāhi ḥujjatun baʿda r-rusuli — wa-kāna llāhu ʿazīzan ḥakīmā"
-   trad="Et des *rusul* dont Nous t'avons déjà fait le récit auparavant, et des *rusul* dont Nous ne t'avons pas fait le récit — et Allaah a parlé (*kallama*) à Mūsā d'une parole directe (*taklīmā*). Des *rusul* annonciateurs (*mubashshirīn*) et avertisseurs (*mundhirīn*), afin qu'il n'y ait pas, pour les gens, d'argument (*ḥujja*) contre Allaah après les *rusul* — Allaah est *ʿAzīz*, *Ḥakīm*."
+   trad="Et des *rusul* dont Nous t'avons déjà fait le récit auparavant, et des *rusul* dont Nous ne t'avons pas fait le récit — et Allaah a parlé (*kallama*) à Mūsā d'une parole directe (*taklīmā*). Des *rusul* *[annonciateurs](/etudes/trad-s2-bloc8/#mubashshirin)* (*mubashshirīn*) et avertisseurs (*mundhirīn*), afin qu'il n'y ait pas, pour les gens, d'argument (*ḥujja*) contre Allaah après les *rusul* — Allaah est *ʿAzīz*, *Ḥakīm*."
 %}
 
 <div class="notes-lexicales">
@@ -270,7 +290,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">kallama llāhu mūsā taklīmā</span></dt>
-<dd>racine <em>k-l-m</em> à la forme II (*kallama*), renforcée par le complément absolu (*taklīmā*) qui insiste sur la réalité directe de l'acte, sans détailler par quel moyen. <strong>Non-dit</strong> : le texte ne précise pas ici la modalité de cette parole.</dd>
+<dd>racine <em>k-l-m</em> à la forme II (*kallama*), renforcée par le complément absolu (*taklīmā*) qui insiste sur la réalité directe de l'acte, sans détailler par quel moyen. <strong>Non-dit</strong> : le texte ne précise pas ici la modalité de cette parole. <strong>Note de cohérence intra-coranique</strong> : le même verbe est déjà employé en *[S2:253](/etudes/trad-s2-bloc10/#kallama)*, mais sans y nommer le *rasūl* concerné (« l'un des *rusul*, non nommé ») — ce verset-ci lève cette réserve en identifiant explicitement Mūsā.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ḥujja</span></dt>
@@ -289,7 +309,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:166"
    ar="لَٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنْزَلَ إِلَيْكَ ۖ أَنْزَلَهُ بِعِلْمِهِ ۖ وَالْمَلَائِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا"
    trl="Lākini llāhu yashhadu bimā anzala ilayka — anzalahu bi-ʿilmihi — wa-l-malāʾikatu yashhadūna — wa-kafā bi-llāhi shahīdā"
-   trad="Mais Allaah témoigne (*yashhadu*) de ce qu'Il a fait descendre vers toi — Il l'a fait descendre avec Sa science (*bi-ʿilmihi*) — et les anges témoignent — Allaah suffit comme *Shahīd* (Ce qui témoigne)."
+   trad="Mais Allaah *[témoigne](/etudes/trad-s4-bloc4/#shuhada)* (*yashhadu*) de ce qu'Il a fait descendre vers toi — Il l'a fait descendre avec Sa science (*bi-ʿilmihi*) — et les anges témoignent — Allaah suffit comme *Shahīd* (Ce qui témoigne)."
 %}
 
 <div class="notes-lexicales">
@@ -312,7 +332,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:167–169"
    ar="إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا * إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا * إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا"
    trl="Inna lladhīna kafarū wa-ṣaddū ʿan sabīli llāhi qad ḍallū ḍalālan baʿīdā * Inna lladhīna kafarū wa-ẓalamū lam yakuni llāhu li-yaghfira lahum wa-lā li-yahdiyahum ṭarīqā * Illā ṭarīqa jahannama khālidīna fīhā abadan — wa-kāna dhālika ʿalā llāhi yasīrā"
-   trad="Ceux qui ont rejeté et détourné (*ṣaddū*) du *sabīl* d'Allaah se sont égarés d'un égarement lointain. Ceux qui ont rejeté et commis l'injustice (*ẓalamū*), Allaah ne va pas leur pardonner, ni les guider vers un chemin — sinon le chemin de Jahannam, où ils demeurent pour toujours — et cela est, pour Allaah, chose aisée (*yasīr*)."
+   trad="Ceux qui ont rejeté et *[détourné](/etudes/trad-s4-bloc3/#sadd)* (*ṣaddū*) du *sabīl* d'Allaah se sont égarés d'un égarement lointain. Ceux qui ont rejeté et *[commis l'injustice](/etudes/trad-s2-bloc6/#zalamu)* (*ẓalamū*), Allaah ne va pas leur pardonner, ni les guider vers un chemin — sinon le chemin de Jahannam, où ils demeurent pour toujours — et cela est, pour Allaah, chose aisée (*yasīr*)."
 %}
 
 <div class="notes-lexicales">
@@ -358,7 +378,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:171"
    ar="يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا"
    trl="Yā ahla l-kitābi lā taghlū fī dīnikum wa-lā taqūlū ʿalā llāhi illā l-ḥaqqa — innamā l-masīḥu ʿīsā bnu maryama rasūlu llāhi wa-kalimatuhu alqāhā ilā maryama wa-rūḥun minhu — fa-āminū bi-llāhi wa-rusulihi — wa-lā taqūlū thalāthatun — ntahū khayran lakum — innamā llāhu ilāhun wāḥidun — subḥānahu an yakūna lahu waladun — lahu mā fi s-samāwāti wa-mā fi l-arḍi — wa-kafā bi-llāhi wakīlā"
-   trad="Ô gens du Livre, n'excédez pas (*lā taghlū*) dans votre *dīn*, et ne dites sur Allaah que le *ḥaqq*. Le Messie, ʿĪsā fils de Maryam, n'est que *rasūl* d'Allaah, Sa *kalima* qu'Il a lancée (*alqāhā*) vers Maryam, et un *rūḥ* venant de Lui (*minhu*). Croyez donc en Allaah et en Ses *rusul*, et ne dites pas « trois ». Cessez (*intahū*), c'est meilleur pour vous. Allaah n'est qu'un *ilāh* unique (*wāḥid*) — gloire à Lui (*subḥānahu*) — Il est au-dessus d'avoir un *walad*. À Lui appartient ce qui est dans les cieux et ce qui est sur la terre — Allaah suffit comme *wakīl*."
+   trad="Ô gens du Livre, n'excédez pas (*lā taghlū*) dans votre *dīn*, et ne dites sur Allaah que le *ḥaqq*. Le Messie, ʿĪsā fils de Maryam, n'est que *rasūl* d'Allaah, Sa *kalima* qu'Il a lancée (*alqāhā*) vers Maryam, et un *[rūḥ](/etudes/trad-s2-bloc3/#ruh-qudus)* venant de Lui (*minhu*). Croyez donc en Allaah et en Ses *rusul*, et ne dites pas « trois ». *[Cessez](/etudes/trad-s2-bloc7/#intaha)* (*intahū*), c'est meilleur pour vous. Allaah n'est qu'un *ilāh* unique (*wāḥid*) — *[gloire à Lui](/etudes/trad-s2-bloc2/#subhana)* (*subḥānahu*) — Il est au-dessus d'avoir un *walad*. À Lui appartient ce qui est dans les cieux et ce qui est sur la terre — Allaah suffit comme *wakīl*."
 %}
 
 {:.callout .callout--pivot}
@@ -370,6 +390,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">taghlū</span></dt>
 <dd>racine <em>gh-l-w</em> : dépasser la juste mesure, excéder une limite — même racine que *ghuluww*, l'excès dans une pratique ou une croyance.</dd>
+</div>
+<div class="lex-entree" id="kalima">
+<dt><span class="lex-trl">kalima</span></dt>
+<dd>racine <em>k-l-m</em> : la parole, le mot prononcé ou envoyé. Première occurrence du terme conservé tel quel en translittération dans le corpus : la même désignation d'ʿĪsā est déjà rapportée en S3:45–46 (Bloc II de Sourate 3), mais y est rendue en français (« une parole venue de Lui ») sans y être conservée comme terme arabe. Le terme y désigne également, dans un tout autre emploi, une *[parole commune](/etudes/trad-s3-bloc3/#kalima-sawa)* (*kalimatin sawāʾin*, S3:64) entre gens du Livre et croyants — un sens distinct de celui retenu ici pour ʿĪsā. <strong>Non-dit</strong> : voir l'avertissement de méthode ci-dessus — ce seul verset ne développe pas davantage le contenu de cette désignation.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">alqāhā</span></dt>
@@ -392,7 +416,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:172"
    ar="لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا"
    trl="Lan yastankifa l-masīḥu an yakūna ʿabdan li-llāhi wa-lā l-malāʾikatu l-muqarrabūna — wa-man yastankif ʿan ʿibādatihi wa-yastakbir fa-sa-yaḥshuruhum ilayhi jamīʿā"
-   trad="Jamais le Messie ne dédaignera (*lan yastankifa*) d'être *ʿabd* d'Allaah, ni les anges *muqarrabūn* (rapprochés). Et quiconque dédaigne Son *ʿibāda* et s'enorgueillit (*yastakbir*), Il les rassemblera tous vers Lui."
+   trad="Jamais le Messie ne dédaignera (*lan yastankifa*) d'être *[ʿabd](/etudes/trad-s2-bloc8/#abd)* d'Allaah, ni les anges *[muqarrabūn](/etudes/trad-s3-bloc2/#muqarrabin)* (rapprochés). Et quiconque dédaigne Son *[ʿibāda](/etudes/trad-s2-bloc8/#abd)* et *[s'enorgueillit](#yastakbir)* (*yastakbir*), Il les rassemblera tous vers Lui."
 %}
 
 <div class="notes-lexicales">
@@ -401,6 +425,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">yastankifa</span></dt>
 <dd>forme X de <em>n-k-f</em> : refuser avec dédain, considérer indigne de soi. Le texte pose explicitement que le Messie lui-même, et les anges les plus proches, n'ont ni ce dédain ni cette prétention — le statut de *ʿabd* (serviteur, celui qui est soumis) est présenté comme non dégradant, y compris pour les figures les plus élevées nommées dans le verset.</dd>
+</div>
+<div class="lex-entree" id="yastakbir">
+<dt><span class="lex-trl">yastakbir</span></dt>
+<dd>forme X de <em>k-b-r</em> (grand) : se faire grand, s'estimer au-dessus de ce qui est demandé — le texte associe ce verbe à *yastankif* (dédaigner) dans la même clause, comme deux faces d'une même disposition refusée.</dd>
 </div>
 </dl>
 </div>
@@ -465,7 +493,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:176"
    ar="يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ"
    trl="Yastaftūnaka quli llāhu yuftīkum fi l-kalālati — ini mruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka — wa-huwa yarithuhā in lam yakun lahā waladun — fa-in kānatā thnatayni fa-lahumā th-thuluthāni mimmā taraka — wa-in kānū ikhwatan rijālan wa-nisāʾan fa-li-dh-dhakari mithlu ḥaẓẓi l-unthayayni — yubayyinu llāhu lakum an taḍillū — wa-llāhu bi-kulli shayʾin ʿalīmun"
-   trad="Ils te demandent une *fatwā*. Dis : « Allaah vous éclaire (*yuftīkum*) au sujet de la *kalāla*. Si un homme meurt sans avoir de *walad*, et qu'il a une sœur, à elle la moitié de ce qu'il laisse ; et lui hérite d'elle si elle n'a pas de *walad*. S'il y en a deux [sœurs], à elles les deux tiers de ce qu'il laisse. Et s'ils sont des frères et sœurs, hommes et femmes, alors au mâle la part de deux femelles (*mithlu ḥaẓẓi l-unthayayn*). » Allaah vous explique clairement (*yubayyinu*), afin que vous ne vous égariez pas — Allaah est, de toute chose, *ʿAlīm*."
+   trad="Ils te demandent une *[fatwā](/etudes/trad-s4-bloc8/#fatwa)*. Dis : « Allaah vous *[éclaire](/etudes/trad-s4-bloc8/#fatwa)* (*yuftīkum*) au sujet de la *kalāla*. Si un homme meurt sans avoir de *walad*, et qu'il a une sœur, à elle la moitié de ce qu'il laisse ; et lui hérite d'elle si elle n'a pas de *walad*. S'il y en a deux [sœurs], à elles les deux tiers de ce qu'il laisse. Et s'ils sont des frères et sœurs, hommes et femmes, alors au mâle la part de deux femelles (*mithlu ḥaẓẓi l-unthayayn*). » Allaah vous explique clairement (*yubayyinu*), afin que vous ne vous égariez pas — Allaah est, de toute chose, *ʿAlīm*."
 %}
 
 {:.callout .callout--pivot}

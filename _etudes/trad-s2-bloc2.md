@@ -267,7 +267,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="jahratan">
 <dt><span class="lex-trl">jahratan</span></dt>
 <dd>racine *j-h-r* : ce qui se fait au grand jour, à découvert, sans voile. Le verset rapporte l'exigence de ceux à qui Mūsā s'adresse, puis la saisie qui la suit. Il ne dit rien de plus sur ce qui pourrait ou non être vu : un **non-dit**.</dd>
 </div>

@@ -229,7 +229,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">لِنتَ</span><span class="lex-trl">linta</span></dt>
 <dd>racine l-y-n : être doux, souple. Ce verset qualifie le rasūl, non Allaah — la règle du site excluant les adjectifs à connotation humaine pour désigner Allaah ne concerne pas cette occurrence.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="ghaliz">
 <dt><span class="lex-ar">فَظًّا غَلِيظَ ٱلْقَلْبِ</span><span class="lex-trl">fażżan ghalīẓa l-qalb</span></dt>
 <dd>rudesse (f-ẓ-ẓ) et dureté du cœur (gh-l-ẓ) — image opposée à <em>linta</em>.</dd>
 </div>
