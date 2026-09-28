@@ -83,7 +83,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:18"
    ar="وَقَالَتِ الْيَهُودُ وَالنَّصَارَىٰ نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْ ۖ بَلْ أَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ الْمَصِيرُ"
    trl="Wa-qālati l-yahūdu wa-n-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu — qul fa-lima yuʿadhdhibukum bi-dhunūbikum — bal antum basharun mimman khalaqa — yaghfiru li-man yashāʾu wa-yuʿadhdhibu man yashāʾu — wa-lillāhi mulku s-samāwāti wa-l-arḍi wa-mā baynahumā — wa-ilayhi l-maṣīr"
-   trad="Et les *yahūd* et les *naṣārā* ont dit : « Nous sommes les fils d'Allaah et ceux qu'Il honore. » Dis : « Pourquoi donc vous inflige-t-Il un châtiment pour vos fautes (*dhunūb*) ? » — vous n'êtes en réalité que des humains (*bashar*) parmi ceux qu'Il a créés : Il pardonne à qui Il veut et châtie qui Il veut. À Allaah appartient la royauté des cieux et de la terre et de ce qui est entre les deux, et c'est vers Lui qu'est l'aboutissement (*al-maṣīr*)."
+   trad="Et les *yahūd* et les *naṣārā* ont dit : « Nous sommes les fils d'Allaah et ceux qu'Il honore. » Dis : « Pourquoi donc vous inflige-t-Il un châtiment pour vos fautes (*dhunūb*) ? » — vous n'êtes en réalité que des humains (*bashar*) parmi ceux qu'Il a créés : Il pardonne à qui Il veut et châtie qui Il veut. À Allaah appartient la royauté des cieux et de la terre et de ce qui est entre les deux, et c'est vers Lui qu'est l'aboutissement (*[al-maṣīr](/etudes/trad-s2-bloc13/#masir)*)."
 %}
 
 {:.callout .callout--pivot}
@@ -171,7 +171,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:21"
    ar="يَا قَوْمِ ادْخُلُوا الْأَرْضَ الْمُقَدَّسَةَ الَّتِي كَتَبَ اللَّهُ لَكُمْ وَلَا تَرْتَدُّوا عَلَىٰ أَدْبَارِكُمْ فَتَنْقَلِبُوا خَاسِرِينَ"
    trl="Yā qawmi dkhulū l-arḍa l-muqaddasata llatī kataba llāhu lakum wa-lā tartaddū ʿalā adbārikum fa-tanqalibū khāsirīn"
-   trad="« Ô mon peuple, entrez dans la terre sanctifiée (*al-arḍ al-muqaddasa*) qu'Allaah a prescrite (*kataba*) pour vous, et ne rebroussez pas chemin (*lā tartaddū ʿalā adbārikum*) : vous vous retourneriez perdants (*khāsirīn*). »"
+   trad="« Ô mon peuple, entrez dans la terre sanctifiée (*al-arḍ al-muqaddasa*) qu'Allaah a prescrite (*kataba*) pour vous, et ne rebroussez pas chemin (*lā tartaddū ʿalā adbārikum*) : vous vous retourneriez perdants (*[khāsirīn](/etudes/trad-s2-bloc1/#khasirun)*). »"
 %}
 
 <div class="notes-lexicales">
@@ -231,6 +231,10 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">mina lladhīna yakhāfūna</span></dt>
 <dd><strong>Non-dit</strong> : l'objet de cette crainte n'est pas nommé dans le texte — craignant Allaah, ou craignant la situation elle-même. Le rapprochement immédiat avec *anʿama llāhu ʿalayhimā* (« Allaah leur avait accordé un bienfait ») oriente vers une crainte tournée vers Allaah, sans que le texte le formule explicitement — <em>inférence</em>.</dd>
 </div>
+<div class="lex-entree" id="ghalib">
+<dt><span class="lex-trl">ghālibūn</span></dt>
+<dd>racine *gh-l-b* : l'emporter sur, prévaloir, dominer une résistance. Conservé en translittération ici (à distinguer de S3:160, où la même racine — *ghālib* — est rendue par « vaincre », sans translittération conservée, dans un contexte différent où elle qualifiait Allaah seul).</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">fa-tawakkalū</span></dt>
 <dd>même racine *w-k-l* que la formule de clôture déjà rencontrée en S5:11 et S3:122 (Bloc II de Sourate 5, déjà rencontrée) : remettre l'issue d'une affaire à Allaah, une confiance active.</dd>
@@ -274,7 +278,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:25"
    ar="قَالَ رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي ۖ فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ"
    trl="Qāla rabbi innī lā amliku illā nafsī wa-akhī — fa-fruq baynanā wa-bayna l-qawmi l-fāsiqīn"
-   trad="Il dit : « Mon *Rabb*, je ne détiens de pouvoir que sur moi-même (*nafsī*) et mon frère — sépare-nous donc (*fa-fruq*) de ce peuple *fāsiq*. »"
+   trad="Il dit : « Mon *Rabb*, je ne détiens de pouvoir que sur moi-même (*nafsī*) et mon frère — sépare-nous donc (*[fa-fruq](/etudes/trad-s4-bloc8/#tafarruq)*) de ce peuple *fāsiq*. »"
 %}
 
 <div class="notes-lexicales">
@@ -283,6 +287,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">lā amliku illā nafsī wa-akhī</span></dt>
 <dd>*nafs* conservé en translittération, conformément à l'usage déjà posé (S4:1) : un principe vivant désignant ici Mūsā lui-même, distinct de « mon frère » (Hārūn, non nommé dans ce verset).</dd>
+</div>
+<div class="lex-entree">
+<dt><span class="lex-trl">fa-fruq</span></dt>
+<dd>impératif de la racine *f-r-q* (séparer, distinguer) — même racine que *yatafarraqā* (S4:130, déjà rencontrée) et *al-furqān*. Ici au sens de « juge et sépare-nous », non de la discorde entre groupes visée par *tafarruq* ailleurs dans le corpus.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-qawmi l-fāsiqīn</span></dt>
@@ -335,6 +343,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">ibnay ādama</span></dt>
 <dd><strong>Non-dit</strong> : le texte ne nomme à aucun moment ces deux fils. Les noms « Qābīl » et « Hābīl », couramment associés à ce récit, sont d'origine extra-coranique (tradition rapportée, non le texte lui-même) — ils sont tenus hors de la traduction, conformément à la méthode retenue ici.</dd>
+</div>
+<div class="lex-entree" id="naba">
+<dt><span class="lex-trl">nabaʾ</span></dt>
+<dd>racine *n-b-ʾ* : l'information de portée grave, le récit chargé de conséquence — distinct de *qawl* (simple parole) ou de *ḥadīth* (propos, récit courant) : le *nabaʾ* est ce qui informe d'une chose importante, souvent un événement passé dont la portée dépasse le fait rapporté.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">bi-l-ḥaqqi</span></dt>
@@ -401,7 +413,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:30"
    ar="فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ فَقَتَلَهُ فَأَصْبَحَ مِنَ الْخَاسِرِينَ"
    trl="Fa-ṭawwaʿat lahu nafsuhu qatla akhīhi fa-qatalahu fa-aṣbaḥa mina l-khāsirīn"
-   trad="Son *nafs* le disposa alors docilement (*ṭawwaʿat*) au meurtre de son frère : il le tua, et il devint alors du nombre des perdants (*khāsirīn*)."
+   trad="Son *nafs* le disposa alors docilement (*ṭawwaʿat*) au meurtre de son frère : il le tua, et il devint alors du nombre des perdants (*[khāsirīn](/etudes/trad-s2-bloc1/#khasirun)*)."
 %}
 
 <div class="notes-lexicales">
@@ -428,6 +440,14 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="ghurab">
+<dt><span class="lex-trl">ghurāb</span></dt>
+<dd>racine *gh-r-b* : ce qui s'éloigne, disparaît, se tient à l'écart (d'où *gharb*, l'occident, le lieu où le soleil s'absente) — ici au sens concret de l'oiseau (le corbeau), sans qu'aucun lien ne soit établi par le texte entre ce sens concret et le sens abstrait de la racine.</dd>
+</div>
+<div class="lex-entree" id="yuwari">
+<dt><span class="lex-trl">yuwārī</span></dt>
+<dd>racine *w-r-y* : cacher, soustraire à la vue, recouvrir — distincte de *k-t-m* (dissimuler ce qui est su, déjà rencontrée en S2:42) : le *tawriya* porte sur une chose physiquement visible qu'on rend invisible, non sur une information qu'on retient.</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">sawʾata akhīhi</span></dt>
 <dd>racine *s-w-ʾ* : ce qui est laid, ce que l'on cherche à soustraire au regard. Ici appliqué à la dépouille du frère tué, qu'il s'agit de recouvrir.</dd>
@@ -447,7 +467,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:32"
    ar="مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا ۚ وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَٰلِكَ فِي الْأَرْضِ لَمُسْرِفُونَ"
    trl="Min ajli dhālika katabnā ʿalā banī isrāʾīla annahu man qatala nafsan bi-ghayri nafsin aw fasādin fi l-arḍi fa-ka-annamā qatala n-nāsa jamīʿan wa-man aḥyāhā fa-ka-annamā aḥyā n-nāsa jamīʿan — wa-la-qad jāʾathum rusulunā bi-l-bayyināti thumma inna kathīran minhum baʿda dhālika fi l-arḍi la-musrifūn"
-   trad="C'est pour cela que Nous avons prescrit (*katabnā*) aux Banū Isrāʾīl : quiconque tue un *nafs* sans que ce soit [en réparation] d'un *nafs*, ou pour une corruption (*fasād*) sur la terre, c'est comme s'il avait tué les gens (*an-nās*) tous ensemble ; et quiconque en préserve la vie (*aḥyāhā*), c'est comme s'il avait donné la vie aux gens tous ensemble. Nos *rusul* leur sont certes venus avec les preuves manifestes (*al-bayyināt*) ; pourtant, beaucoup d'entre eux, après cela, ne cessent d'excéder toute mesure (*la-musrifūn*) sur la terre."
+   trad="C'est pour cela que Nous avons prescrit (*katabnā*) aux Banū Isrāʾīl : quiconque tue un *nafs* sans que ce soit [en réparation] d'un *nafs*, ou pour une corruption (*[fasād](/etudes/trad-s2-bloc8/#fasad)*) sur la terre, c'est comme s'il avait tué les gens (*an-nās*) tous ensemble ; et quiconque en préserve la vie (*aḥyāhā*), c'est comme s'il avait donné la vie aux gens tous ensemble. Nos *rusul* leur sont certes venus avec les preuves manifestes (*[al-bayyināt](/etudes/trad-s2-bloc6/#bayyinat)*) ; pourtant, beaucoup d'entre eux, après cela, ne cessent d'excéder toute mesure (*la-musrifūn*) sur la terre."
 %}
 
 {:.callout .callout--pivot}

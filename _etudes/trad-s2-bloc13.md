@@ -113,7 +113,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">غُفْرَانَك</span><span class="lex-trl">ghufrānaka</span></dt>
 <dd>même racine que *maghfira* (gh-f-r), sous une forme nominale différente : le pardon, appelé directement dans l'invocation.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="masir">
 <dt><span class="lex-ar">الْمَصِير</span><span class="lex-trl">al-maṣīr</span></dt>
 <dd>(ṣ-y-r) : le devenir, le point d'aboutissement.</dd>
 </div>

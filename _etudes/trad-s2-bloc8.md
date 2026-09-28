@@ -213,7 +213,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-ar">سَعَىٰ</span><span class="lex-trl">saʿā</span></dt>
 <dd>mouvement empressé vers un but ; ici orienté vers *li-yufsida*, la corruption de l'ordre.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="fasad">
 <dt><span class="lex-ar">فَسَاد</span><span class="lex-trl">fasād</span></dt>
 <dd>racine f-s-d : sortie de l'état d'équilibre, dérèglement — opposé exact de *ṣalāḥ* (S2:11, S2:160 ).</dd>
 </div>
