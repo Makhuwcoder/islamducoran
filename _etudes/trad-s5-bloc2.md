@@ -185,7 +185,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.5:13"
    ar="فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ ۙ وَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ ۖ فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ"
    trl="Fa-bimā naqḍihim mīthāqahum laʿannāhum wa-jaʿalnā qulūbahum qāsiyatan — yuḥarrifūna l-kalima ʿan mawāḍiʿihi wa-nasū ḥaẓẓan mimmā dhukkirū bihi — wa-lā tazālu taṭṭaliʿu ʿalā khāʾinatin minhum illā qalīlan minhum — fa-ʿfu ʿanhum wa-ṣfaḥ — inna llāha yuḥibbu l-muḥsinīn"
-   trad="Alors, pour avoir rompu leur *mīthāq*, Nous les avons éloignés [de Notre *raḥma*] (*laʿannāhum*) et avons rendu leurs cœurs durs (*qāsiya*) — ils déplacent les mots (*yuḥarrifūna l-kalima*) hors de leurs positions [véritables], et ils ont oublié une part de ce qui leur avait été rappelé. Tu ne cesseras de découvrir chez eux une trahison (*khāʾina*), sauf un petit nombre d'entre eux — pardonne-leur donc et passe outre (*fa-ʿfu ʿanhum wa-ṣfaḥ*) — Allaah honore les *muḥsinūn*."
+   trad="Alors, pour avoir rompu leur *mīthāq*, Nous les avons éloignés [de Notre *raḥma*] (*laʿannāhum*) et avons rendu leurs cœurs durs (*qāsiya*) — ils déplacent les mots (*yuḥarrifūna l-kalima*) hors de leurs positions [véritables], et ils ont oublié une part de ce qui leur avait été rappelé. Tu ne cesseras de découvrir chez eux une trahison (*khāʾina*), sauf un petit nombre d'entre eux — pardonne-leur donc et passe outre (*fa-ʿfu ʿanhum wa-ṣfaḥ*) — Allaah honore les *[muḥsinūn](/etudes/trad-s2-bloc4/#muhsin)*."
 %}
 
 <div class="notes-lexicales">
