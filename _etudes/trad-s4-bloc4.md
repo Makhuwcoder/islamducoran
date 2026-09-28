@@ -186,7 +186,7 @@ methode: "Dit / Non-dit / Inférence"
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="haraj">
 <dt><span class="lex-trl">ḥaraj</span></dt>
 <dd>racine <em>ḥ-r-j</em> : étroitesse, resserrement — l'absence de *ḥaraj* est l'absence de gêne intérieure, non l'absence de désaccord d'opinion.</dd>
 </div>

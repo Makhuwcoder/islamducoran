@@ -533,7 +533,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">tayammum</span></dt>
 <dd>racine <em>ʾ-m-m</em> (celle d'*umma*, S.4:41 : ce qui rassemble, ce vers quoi l'on se dirige) : forme V, se diriger intentionnellement vers une chose. *Tayammum* : le fait de se tourner délibérément vers une surface pure pour y recourir à défaut d'eau — l'acte est nommé par l'intention qui le porte, non par le geste matériel lui-même (détaillé dans la suite du verset : « passez-en sur vos visages et vos mains »).</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="said-tayyib">
 <dt><span class="lex-trl">ṣaʿīd ṭayyib</span></dt>
 <dd>surface minérale pure — non « terre » au sens restrictif, la racine *ṣ-ʿ-d* désignant plus largement une surface élevée/dégagée.</dd>
 </div>
