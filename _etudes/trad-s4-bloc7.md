@@ -43,7 +43,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:101"
    ar="وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ۚ إِنَّ الْكَافِرِينَ كَانُوا لَكُمْ عَدُوًّا مُّبِينًا"
    trl="Wa-idhā ḍarabtum fī l-arḍi fa-laysa ʿalaykum junāḥun an taqṣurū mina ṣ-ṣalāti in khiftum an yaftinakumu lladhīna kafarū — inna l-kāfirīna kānū lakum ʿaduwwan mubīnā"
-   trad="Et quand vous parcourez la terre, nulle faute sur vous à raccourcir (*taqṣurū*) la *ṣalāt*, si vous craignez que ceux qui ont commis le *kufr* ne vous mettent à l'épreuve (*yaftinakum*) — les *kāfirūn* sont pour vous un ennemi manifeste."
+   trad="Et quand vous parcourez la terre, nulle faute sur vous à raccourcir (*taqṣurū*) la *ṣalāt*, si vous craignez que ceux qui ont commis le *kufr* ne vous *[mettent à l'épreuve](/etudes/trad-s2-bloc3/#fitna)* (*yaftinakum*) — les *kāfirūn* sont pour vous un ennemi manifeste."
 %}
 
 <div class="notes-lexicales">
@@ -114,15 +114,19 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:105"
    ar="إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُن لِّلْخَائِنِينَ خَصِيمًا"
    trl="Innā anzalnā ilayka l-kitāba bi-l-ḥaqqi li-taḥkuma bayna n-nāsi bi-mā arāka llāh — wa-lā takun li-l-khāʾinīna khaṣīmā"
-   trad="Nous avons fait descendre sur toi le Livre avec le *ḥaqq*, afin que tu juges entre les gens selon ce qu'Allaah t'a montré. Et ne sois pas, pour les traîtres (*al-khāʾinīn*), un défenseur (*khaṣīm*)."
+   trad="Nous avons fait descendre sur toi le Livre avec le *ḥaqq*, afin que tu juges entre les gens selon ce qu'Allaah t'a montré. Et ne sois pas, pour les traîtres (*al-khāʾinīn*), un *[défenseur](#khasim)* (*khaṣīm*)."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
-<div class="lex-entree">
+<div class="lex-entree" id="khawn">
 <dt><span class="lex-trl">al-khāʾinīn</span></dt>
 <dd>racine <em>kh-w-n</em> : trahir une confiance donnée. <strong>Non-dit</strong> : ce verset ne nomme aucun individu ni groupe précis — il pose un principe général qui s'applique quelle que soit l'identité du traître, comme le confirment les versets suivants.</dd>
+</div>
+<div class="lex-entree" id="khasim">
+<dt><span class="lex-trl">khaṣīm</span></dt>
+<dd>racine <em>kh-ṣ-m</em> : disputer, prendre parti dans un différend — d'où *khaṣīm*, celui qui plaide activement pour une partie contre une autre. Le texte interdit ici au *rasūl* lui-même cette posture envers les traîtres, dans le même mouvement que l'interdiction de disputer en leur faveur (*tujādil*, S4:107).</dd>
 </div>
 </dl>
 </div>
@@ -135,12 +139,16 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:106–107"
    ar="وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَّحِيمًا ۝ وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا"
    trl="Wa-staghfiri llāh — inna llāha kāna ghafūran raḥīmā · Wa-lā tujādil ʿani lladhīna yakhtānūna anfusahum — inna llāha lā yuḥibbu man kāna khawwānan athīmā"
-   trad="Et demande pardon à Allaah — Allaah est *Ghafūr*, *Raḥīm*. Et ne dispute pas (*tujādil*) en faveur de ceux qui se trahissent eux-mêmes (*yakhtānūna anfusahum*) — Allaah n'honore pas qui est traître invétéré, chargé de faute."
+   trad="Et demande pardon à Allaah — Allaah est *Ghafūr*, *Raḥīm*. Et ne *[dispute](#jadal)* pas (*tujādil*) en faveur de ceux qui se *[trahissent eux-mêmes](#khawn)* (*yakhtānūna anfusahum*) — Allaah n'honore pas qui est traître invétéré, chargé de faute."
 %}
 
 <div class="notes-lexicales">
 <span class="notes-lexicales__titre">Notes lexicales</span>
 <dl class="lexique">
+<div class="lex-entree" id="jadal">
+<dt><span class="lex-trl">tujādil</span></dt>
+<dd>racine <em>j-d-l</em> : tordre, torsader solidement une corde — d'où, au figuré, l'argumentation qui cherche à faire tenir sa position envers et contre l'autre. Le texte interdit ici de mettre cette capacité au service de qui se trahit lui-même, en écho direct à *khaṣīm* (S4:105).</dd>
+</div>
 <div class="lex-entree">
 <dt><span class="lex-trl">yuḥibbu / lā yuḥibbu</span></dt>
 <dd>racine *ḥ-b-b* : rendue par « honorer » lorsqu'Allaah est concerné, comme sujet ou comme objet. « Aimer » installerait un sentiment de type humain que le texte ne pose pas à propos d'Allaah. Le verset ne dit pas en quoi consiste cet honneur : un **non-dit**.</dd>
@@ -169,7 +177,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:110–111"
    ar="وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا ۝ وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا"
    trl="Wa-man yaʿmal sūʾan aw yaẓlim nafsahu thumma yastaghfiri llāha yajidi llāha ghafūran raḥīmā · Wa-man yaksib ithman fa-innamā yaksibuhu ʿalā nafsih — wa-kāna llāhu ʿalīman ḥakīmā"
-   trad="Et quiconque fait un mal, ou se fait tort à lui-même, puis demande pardon à Allaah, trouve Allaah *Ghafūr*, *Raḥīm*. Et quiconque acquiert (*yaksib*) une faute, ne l'acquiert que contre lui-même. Allaah est *ʿAlīm*, *Ḥakīm*."
+   trad="Et quiconque fait un mal, ou se fait tort à lui-même, puis demande pardon à Allaah, trouve Allaah *Ghafūr*, *Raḥīm*. Et quiconque *[acquiert](/etudes/trad-s4-bloc2/#kasb)* (*yaksib*) une faute, ne l'acquiert que contre lui-même. Allaah est *ʿAlīm*, *Ḥakīm*."
 %}
 
 ---
@@ -180,7 +188,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:112"
    ar="وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا"
    trl="Wa-man yaksib khaṭīʾatan aw ithman thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan wa-ithman mubīnā"
-   trad="Et quiconque acquiert une faute ou un péché, puis en accuse un innocent, porte alors une calomnie (*buhtān*) et une faute manifeste."
+   trad="Et quiconque *[acquiert](/etudes/trad-s4-bloc2/#kasb)* une faute ou un péché, puis en accuse un innocent, porte alors une calomnie (*buhtān*) et une faute manifeste."
 %}
 
 <div class="notes-lexicales">
@@ -216,7 +224,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.4:114"
    ar="۞ لَّا خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا"
    trl="Lā khayra fī kathīrin min najwāhum illā man amara bi-ṣadaqatin aw maʿrūfin aw iṣlāḥin bayna n-nās — wa-man yafʿal dhālika btighāʾa marḍāti llāhi fa-sawfa nuʾtīhi ajran ʿaẓīmā"
-   trad="Nul bien dans la plupart de leurs conciliabules (*najwā*), sauf pour qui ordonne une *ṣadaqa*, ou un acte *maʿrūf*, ou une réconciliation (*iṣlāḥ*) entre les gens. Quiconque fait cela en recherchant l'agrément d'Allaah, Nous lui donnerons une rétribution immense."
+   trad="Nul bien dans la plupart de leurs conciliabules (*najwā*), sauf pour qui ordonne une *[ṣadaqa](#sadaqa2)*, ou un acte *maʿrūf*, ou une *[réconciliation](/etudes/trad-s4-bloc2/#islah)* (*iṣlāḥ*) entre les gens. Quiconque fait cela en recherchant l'agrément d'Allaah, Nous lui donnerons une rétribution immense."
 %}
 
 <div class="notes-lexicales">
@@ -225,6 +233,10 @@ methode: "Dit / Non-dit / Inférence"
 <div class="lex-entree">
 <dt><span class="lex-trl">najwā</span></dt>
 <dd>racine <em>n-j-w</em> : l'entretien tenu à voix basse, en aparté. Le texte pose une exception explicite à l'intérieur même de l'énoncé négatif — trois cas nommés (*ṣadaqa*, *maʿrūf*, *iṣlāḥ*) où le conciliabule secret porte du bien.</dd>
+</div>
+<div class="lex-entree" id="sadaqa2">
+<dt><span class="lex-trl">ṣadaqa</span></dt>
+<dd>racine <em>ṣ-d-q</em>, celle de la véracité (déjà rencontrée dans *ṣaduqāt*, S4 Bloc I, un sens distinct — les rétributions dues à l'épouse) : ici, le don fait de sa propre initiative, dont la sincérité se vérifie dans l'acte lui-même plutôt que dans la seule parole.</dd>
 </div>
 </dl>
 </div>

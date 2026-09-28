@@ -243,7 +243,7 @@ methode: "Dit / Non-dit / Inférence"
 <dt><span class="lex-trl">tatamannaw</span></dt>
 <dd>racine <em>m-n-y</em> : souhaiter, désirer une chose non acquise — le même mouvement de racine que *munya* (le souhait) et *maniyy* (ce qui est mesuré, versé). *Tamannī* : se figurer et désirer ce qui n'est pas à soi, par contraste avec l'acquis effectif (*iktasabū*/*iktasabna*) mentionné juste après.</dd>
 </div>
-<div class="lex-entree">
+<div class="lex-entree" id="kasb">
 <dt><span class="lex-trl">iktasabū / iktasabna</span></dt>
 <dd>même racine (<em>k-s-b</em>, acquérir) appliquée symétriquement aux deux sexes, sous la même forme verbale (Form VIII) — le texte ne pose ici aucune distinction de nature entre ce que les hommes acquièrent et ce que les femmes acquièrent.</dd>
 </div>
