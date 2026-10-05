@@ -434,12 +434,127 @@ permalink: /traduction/
       <option value="/etudes/trad-s4-bloc9/">↓ Bloc IX · S4:135–152 — Se tenir pour la justice, même contre soi-même · Les munāfiqūn démasqués · Ne pas différencier entre les rusul</option>
       <option value="/etudes/trad-s4-bloc10/">↓ Bloc X · S4:153–176 — Ce que les gens du Livre ont demandé · Ils ne l'ont pas tué avec certitude · Ne pas dire « trois » · Clôture de la sourate</option>
     </optgroup>
-    <optgroup label="Sourate 5 · Al-Māʾida — La Table — S5:1–50 (en cours)">
-      <option value="/etudes/trad-s5-bloc1/">↓ Bloc I · S5:1–6 — Al-ʿuqūd · Licite du bétail · Shaʿāʾir · Illicite alimentaire · Achèvement du dīn · Wuḍūʾ et tayammum</option>
-      <option value="/etudes/trad-s5-bloc2/">↓ Bloc II · S5:7–16 — Mīthāq rappelé · Qawwāmīn dans le qisṭ · Mīthāq rompu de Banū Isrāʾīl et des Naṣārā · Nūr et kitāb mubīn</option>
-      <option value="/etudes/trad-s5-bloc3/">↓ Bloc III · S5:17–32 — Rejet de « Allaah, c'est al-Masīḥ » · Mūsā et le refus d'entrer en terre sanctifiée · Les deux fils d'Ādam</option>
-      <option value="/etudes/trad-s5-bloc4/">↓ Bloc IV · S5:33–40 — La muḥāraba et le fasād fī l-arḍ · L'exception du retour avant capture · La taqwā, la wasīla et l'effort · Le vol et son retour possible</option>
+    <optgroup label="Sourate 5 · Al-Māʾida — La Table — S5:1–120 (complète)">
+      <option value="/etudes/trad-s5-bloc1/">↓ Bloc I · S5:1–6 — Al-ʿuqūd · Les shaʿāʾir · L'illicite alimentaire · L'achèvement du dīn · Wuḍūʾ et tayammum</option>
+      <option value="/etudes/trad-s5-bloc2/">↓ Bloc II · S5:7–16 — Le mīthāq rappelé · La justice envers ceux qu'on hait · Le mīthāq rompu de Banū Isrāʾīl et des Naṣārā · Le nūr et le kitāb mubīn</option>
+      <option value="/etudes/trad-s5-bloc3/">↓ Bloc III · S5:17–32 — Le rejet de « Allaah, c'est al-Masīḥ » et de « nous sommes les fils d'Allaah » · Mūsā et le refus d'entrer en terre sanctifiée · Le récit des deux fils d'Ādam · Le principe posé sur la vie humaine</option>
+      <option value="/etudes/trad-s5-bloc4/">↓ Bloc IV · S5:33–40 — La muḥāraba et le fasād fī l-arḍ · L'exception du retour avant capture · La taqwā, la wasīla et l'effort · Nulle rançon contre le châtiment · Le vol et son retour possible</option>
       <option value="/etudes/trad-s5-bloc5/">↓ Bloc V · S5:41–50 — Le ḥukm dans la Tawrāh, l'Injīl et le Kitāb · La shirʿa et le minhāj distincts · Le ḥukm de la jāhiliyya</option>
+      <option value="/etudes/trad-s5-bloc6/">↓ Bloc VI · S5:51–64 — La wilāya interdite · Le ḥizb d'Allaah · La dérision du dīn et de la ṣalāt · Yad Allaah face à l'accusation d'avarice</option>
+      <option value="/etudes/trad-s5-bloc7/">↓ Bloc VII · S5:65–71 — L'iqāma des Livres · Le tablīgh, essence de la risāla · Le critère universel de la foi · Le mīthāq des Banū Isrāʾīl</option>
+      <option value="/etudes/trad-s5-bloc8/">↓ Bloc VIII · S5:72–81 — Le rejet de « Allaah, c'est al-Masīḥ » et de « le troisième de trois » · L'humanité du Masīḥ et de sa mère · Ne pas excéder dans le dīn · La malédiction des Banū Isrāʾīl kāfirūn · L'alliance interdite, le sakhaṭ</option>
+      <option value="/etudes/trad-s5-bloc9/">↓ Bloc IX · S5:82–89 — Hostilité et proximité affective · Qissīsūn et ruhbān sans istikbār · Ne pas interdire ce qu'Allaah a rendu licite · Laghw et serment délibéré, la kaffāra</option>
+      <option value="/etudes/trad-s5-bloc10/">↓ Bloc X · S5:90–108 — Khamr et maysir, rijs et œuvre du shayṭān · Le gibier en ḥurum et sa kaffāra · La Kaʿba, qiyām pour les gens · Ne pas interroger, rejeter la fabrication ancestrale · Le témoignage de la waṣiyya</option>
+      <option value="/etudes/trad-s5-bloc11/">↓ Bloc XI · S5:109–120 — Le jour du rassemblement des rusul · Le bienfait sur ʿĪsā · La Māʾida, qui donne son nom à la sourate · Le désaveu d'ʿĪsā · Clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 6 · Al-Anʿām — S6:1–165 (complète)">
+      <option value="/etudes/trad-s6-bloc1/">↓ Bloc I · S6:1–18 — La création · Ténèbres et lumière · Les mukadhdhibīn · La raḥma prescrite · Al-Qāhir</option>
+      <option value="/etudes/trad-s6-bloc2/">↓ Bloc II · S6:19–45 — Le témoignage suprême · La reconnaissance dissimulée · La scène du Feu · La parole immuable · L'endurcissement des cœurs</option>
+      <option value="/etudes/trad-s6-bloc3/">↓ Bloc III · S6:46–73 — Ni trésors ni ghayb ni malak · La raḥma prescrite · Les clefs du ghayb · Le shirk qui suit le salut · Sois, et cela est</option>
+      <option value="/etudes/trad-s6-bloc4/">↓ Bloc IV · S6:74–90 — Ibrāhīm face aux astres · le ḥanīf · la ḥujja contre son peuple · la lignée des nabiyyūn · Kitāb, ḥukm, nubuwwa</option>
+      <option value="/etudes/trad-s6-bloc5/">↓ Bloc V · S6:91–108 — qadr d'Allaah · Umm al-Qurā · la scène de la mort · signes de la rubūbiyya · badīʿ, walad et ṣāḥiba écartés · lā tudrikuhu l-abṣār</option>
+      <option value="/etudes/trad-s6-bloc6/">↓ Bloc VI · S6:109–135 — l'ennemi de chaque nabī · chercher un juge autre qu'Allaah · l'invocation du nom sur la nourriture · dār as-salām · al-Ghanī</option>
+      <option value="/etudes/trad-s6-bloc7/">↓ Bloc VII · S6:136–165 — pratiques préislamiques du bétail · le grand passage éthique · les āyāt ultimes · clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 7 · Al-Aʿrāf — S7:1–206 (complète)">
+      <option value="/etudes/trad-s7-bloc1/">↓ Bloc I · S7:1–34 — le Kitāb et l'avertissement · les cités anéanties · Ādam et Iblīs · le vêtement et la zīna</option>
+      <option value="/etudes/trad-s7-bloc2/">↓ Bloc II · S7:35–58 — les deux compagnies et les gens des Aʿrāf · le taʾwīl attendu · création, istiwāʾ et tabāraka · la terre revivifiée</option>
+      <option value="/etudes/trad-s7-bloc3/">↓ Bloc III · S7:59–93 — Nūḥ, Hūd, Ṣāliḥ, Lūṭ, Shuʿayb · le malaʾ contre les mustaḍʿafūn · fasād et iṣlāḥ · pleine mesure et pleine pesée</option>
+      <option value="/etudes/trad-s7-bloc4/">↓ Bloc IV · S7:94–129 — Épreuve des nations · makr Allaah · Mūsā et Firʿawn · magiciens convertis · succession de la terre</option>
+      <option value="/etudes/trad-s7-bloc5/">↓ Bloc V · S7:130–156 — Les plaies d'Égypte · la traversée de la mer · les quarante nuits · la demande de voir Allaah · le veau d'or</option>
+      <option value="/etudes/trad-s7-bloc6/">↓ Bloc VI · S7:157–178 — Le nabī ummī annoncé · Le sabbat transgressé · Le mīthāq primordial · La parabole du chien</option>
+      <option value="/etudes/trad-s7-bloc7/">↓ Bloc VII · S7:179–206 — Les Noms d'excellence · L'istidrāj · Le nafs unique et le shirk du couple · La clôture sur la sajda</option>
+    </optgroup>
+    <optgroup label="Sourate 8 · Al-Anfāl — S8:1–75 (complète)">
+      <option value="/etudes/trad-s8-bloc1/">↓ Bloc I · S8:1–19 — Les anfāl · Les muʾminūn véritables · Badr : l'invocation exaucée · « Tu n'as pas jeté »</option>
+      <option value="/etudes/trad-s8-bloc2/">↓ Bloc II · S8:20–40 — Entendre vraiment · Allaah s'interpose entre l'homme et son cœur · Le complot mecquois et le makr d'Allaah · La fitna et le dīn tout entier</option>
+      <option value="/etudes/trad-s8-bloc3/">↓ Bloc III · S8:41–75 — Le khumus et le jour du Furqān · Badr revécu · La sunna d'Āl Firʿawn · La force préparée et l'inclination à la paix · Les asrā · La walāya selon l'hijra</option>
+    </optgroup>
+    <optgroup label="Sourate 9 · At-Tawba — S9:1–129 (complète)">
+      <option value="/etudes/trad-s9-bloc1/">↓ Bloc I · S9:1–28 — La barāʾa et les quatre mois · Le sillage sacré expiré · Le ʿahd tenu ou rompu · Les mosquées d'Allaah · Ḥunayn</option>
+      <option value="/etudes/trad-s9-bloc2/">↓ Bloc II · S9:29–60 — Le combat jusqu'à la jizya · Uzayr et al-Masīḥ « ibn Allaah » · Les aḥbār et ruhbān pris comme arbāb · Le kanz de l'or et de l'argent · Les quatre mois et le nasīʾ · L'épreuve de ceux qui restent en arrière · Les huit catégories de la zakāt</option>
+      <option value="/etudes/trad-s9-bloc3/">↓ Bloc III · S9:61–89 — Le nabī qualifié d'oreille · Munāfiqūn et munāfiqāt, muʾminūn et muʾmināt · Fermeté envers kuffār et munāfiqūn · Le serment nié · La joie des différés et l'absence de prière sur leurs tombes</option>
+      <option value="/etudes/trad-s9-bloc4/">↓ Bloc IV · S9:90–110 — Excuseurs bédouins · Sābiqūn al-awwalūn · Munāfiqūn connus d'Allaah seul · Ṣadaqa et at-Tawwāb · Masjid ḍirār</option>
+      <option value="/etudes/trad-s9-bloc5/">↓ Bloc V · S9:111–129 — L'achat des croyants · Istighfar interdit et Ibrāhīm · Le retour accueilli · Le rasūl issu de vous-mêmes</option>
+    </optgroup>
+    <optgroup label="Sourate 10 · Yūnus — S10:1–109 (complète)">
+      <option value="/etudes/trad-s10-bloc1/">↓ Bloc I · S10:1–20 — Lettres séparées · rubūbiyya et istiwāʾ · les deux issues · la hâte humaine · le Kitāb inaltéré</option>
+      <option value="/etudes/trad-s10-bloc2/">↓ Bloc II · S10:21–40 — Makr en miroir · parabole de l'eau · Demeure de la Salām · défi du Qurʾān</option>
+      <option value="/etudes/trad-s10-bloc3/">↓ Bloc III · S10:41–70 — Désolidarisation des œuvres · le qisṭ répété · ḥalāl/ḥarām · awliyāʾ Allaah · le rejet du walad</option>
+      <option value="/etudes/trad-s10-bloc4/">↓ Bloc IV · S10:71–103 — Nūḥ · Mūsā et Firʿawn · la déclaration tardive rejetée · le peuple de Yūnus · la mashīʾa</option>
+      <option value="/etudes/trad-s10-bloc5/">↓ Bloc V · S10:104–109 — Le doute sur le dīn · le ḥanīf · nuire et être utile · chacun pour son nafs · patienter jusqu'au jugement</option>
+    </optgroup>
+    <optgroup label="Sourate 11 · Hūd — S11:1–123 (complète)">
+      <option value="/etudes/trad-s11-bloc1/">↓ Bloc I · S11:1–24 — Le Kitāb uḥkimat · nadhīr et bashīr · le bienfait retiré/rendu · le shāhid et le Kitāb de Mūsā · les deux groupes</option>
+      <option value="/etudes/trad-s11-bloc2/">↓ Bloc II · S11:25–49 — Nūḥ envoyé à son peuple · le rejet du malaʾ · l'arche sous Nos aʿyun · le déluge · l'intercession pour le fils · le débarquement béni</option>
+      <option value="/etudes/trad-s11-bloc3/">↓ Bloc III · S11:50–83 — Hūd et ʿĀd · Ṣāliḥ et Thamūd · les rusul chez Ibrāhīm · les rusul chez Lūṭ</option>
+      <option value="/etudes/trad-s11-bloc4/">↓ Bloc IV · S11:84–109 — Shuʿayb à Madyan · pleine mesure · Mūsā/Firʿawn · les cités racontées · le Jour et la mashīʾa</option>
+      <option value="/etudes/trad-s11-bloc5/">↓ Bloc V · S11:110–123 — Clôture · Mūsā et le Kitāb · istiqāma et la ṣalāt · la mashīʾa et l'ikhtilāf · le ghayb rendu à Allaah</option>
+    </optgroup>
+    <optgroup label="Sourate 12 · Yūsuf — S12:1–111 (complète)">
+      <option value="/etudes/trad-s12-bloc1/">↓ Bloc I · S12:1–20 — Ouverture · Songe de Yūsuf · Complot fraternel · Puits · Vente comme marchandise</option>
+      <option value="/etudes/trad-s12-bloc2/">↓ Bloc II · S12:21–35 — Installation en Égypte · Tentation · Preuve du Rabb · Femmes de la cité · Prison</option>
+      <option value="/etudes/trad-s12-bloc3/">↓ Bloc III · S12:36–57 — Compagnons de prison · Appel à l'unicité · Songe du roi · Exonération et nomination de Yūsuf</option>
+      <option value="/etudes/trad-s12-bloc4/">↓ Bloc IV · S12:58–79 — Retour des frères · coupe cachée · dīn du roi · kayd</option>
+      <option value="/etudes/trad-s12-bloc5/">↓ Bloc V · S12:80–111 — Retour à Yaʿqūb · Reconnaissance · Vue recouvrée · Clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 13 · Ar-Raʿd — S13:1–43 (complète)">
+      <option value="/etudes/trad-s13-bloc1/">↓ Bloc I · S13:1–18 — Lettres séparées · rubūbiyya et istiwāʾ · al-Kabīr al-Mutaʿāl · les muʿaqqibāt · le tonnerre qui glorifie · la parabole de l'écume</option>
+      <option value="/etudes/trad-s13-bloc2/">↓ Bloc II · S13:19–43 — ulū l-albāb · pacte et fasād · dhikr et apaisement · le mecr d'Allaah · Umm al-Kitāb</option>
+    </optgroup>
+    <optgroup label="Sourate 14 · Ibrāhīm — S14:1–52 (complète)">
+      <option value="/etudes/trad-s14-bloc1/">↓ Bloc I · S14:1–18 — Lettres séparées · faire sortir des ẓulumāt vers le nūr · le récit de Mūsā · dialogue des rusul · la parabole de la cendre</option>
+      <option value="/etudes/trad-s14-bloc2/">↓ Bloc II · S14:19–52 — Parabole de la bonne et de la mauvaise parole · niʿma substitué en kufr · l'invocation d'Ibrāhīm · clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 15 · Al-Ḥijr — S15:1–99 (complète)">
+      <option value="/etudes/trad-s15-bloc1/">↓ Bloc I · S15:1–25 — Lettres séparées · Kitāb et Dhikr préservés · moquerie des rusul · ciel gardé des shayāṭīn · terre mesurée</option>
+      <option value="/etudes/trad-s15-bloc2/">↓ Bloc II · S15:26–48 — Création d'Ādam et du jānn · refus d'Iblīs · délai accordé · sept portes de Jahannam · la Janna des muttaqīn</option>
+      <option value="/etudes/trad-s15-bloc3/">↓ Bloc III · S15:49–77 — Ghafūr et le châtiment douloureux · l'annonce à Ibrāhīm · les hôtes de Lūṭ · le Cri et sijjīl</option>
+      <option value="/etudes/trad-s15-bloc4/">↓ Bloc IV · S15:78–99 — aṣḥāb al-Aykah · aṣḥāb al-Ḥijr · sabʿ al-mathānī · muqtasimīn · adoration jusqu'à la certitude</option>
+    </optgroup>
+    <optgroup label="Sourate 16 · An-Naḥl — S16:1–128 (complète)">
+      <option value="/etudes/trad-s16-bloc1/">↓ Bloc I · S16:1–29 — amr d'Allaah et création · anʿām et bienfaits · le chemin et les entités invoquées hors d'Allaah · l'orgueil</option>
+      <option value="/etudes/trad-s16-bloc2/">↓ Bloc II · S16:30–63 — la demeure des muttaqīn · l'envoi des rusul · kun fa-yakūn · la prosternation universelle · l'ilāh unique · les filles attribuées à Allaah</option>
+      <option value="/etudes/trad-s16-bloc3/">↓ Bloc III · S16:64–97 — l'abeille et le miel · les deux paraboles · le témoin de chaque umma · al-ʿadl wa-l-iḥsān · la fidélité au pacte</option>
+      <option value="/etudes/trad-s16-bloc4/">↓ Bloc IV · S16:98–128 — istiʿādha et le shayṭān sans pouvoir · naskh et Rūḥ al-Qudus · kufr après īmān · ḥalāl et ḥarām · Ibrāhīm umma</option>
+    </optgroup>
+    <optgroup label="Sourate 17 · Al-Isrāʾ — S17:1–111 (complète)">
+      <option value="/etudes/trad-s17-bloc1/">↓ Bloc I · S17:1–22 — isrāʾ nocturne · Banū Isrāʾīl et les deux fasād · le Qurʾān guide vers l'aqwam · ṭāʾir et le livre au cou · nul ilāh autre qu'Allaah</option>
+      <option value="/etudes/trad-s17-bloc2/">↓ Bloc II · S17:23–39 — grand passage éthique · parents · proche et nécessiteux · vie protégée · orphelin et mesure · clôture sur le shirk</option>
+      <option value="/etudes/trad-s17-bloc3/">↓ Bloc III · S17:40–70 — les filles attribuées à Allaah · le hijāb et les akinna · la moquerie envers la résurrection · le récit d'Iblīs · l'honneur des fils d'Ādam</option>
+      <option value="/etudes/trad-s17-bloc4/">↓ Bloc IV · S17:71–93 — l'appel par l'imām · la sunna immuable · l'établissement de la ṣalāt · le ḥaqq et le bāṭil · la question sur le Rūḥ · les demandes de miracles</option>
+      <option value="/etudes/trad-s17-bloc5/">↓ Bloc V · S17:94–111 — un rasūl humain · le rassemblement aveugle, muet, sourd · Mūsā et Firʿawn · le Qurʾān fractionné · la voix dans la ṣalāt · clôture sur le rejet du walad et du sharīk</option>
+    </optgroup>
+    <optgroup label="Sourate 18 · Al-Kahf — S18:1–110 (complète)">
+      <option value="/etudes/trad-s18-bloc1/">↓ Bloc I · S18:1–26 — exorde et rejet du walad · l'ornement périssable de la terre · les Compagnons de la Caverne · signes autour du sommeil · clôture sur le ghayb</option>
+      <option value="/etudes/trad-s18-bloc2/">↓ Bloc II · S18:27–59 — réciter sans détour · la parabole des deux jardins · la parabole de la vie d'ici-bas · le refus d'Iblīs</option>
+      <option value="/etudes/trad-s18-bloc3/">↓ Bloc III · S18:60–82 — Mūsā et le serviteur aux deux mers · l'épreuve de la patience · le tawʾīl des trois actes</option>
+      <option value="/etudes/trad-s18-bloc4/">↓ Bloc IV · S18:83–110 — Le récit de Dhū l-Qarnayn · le rempart contre Yaʾjūj et Maʾjūj · la Trompe et le rassemblement · clôture sur le rejet du shirk dans le culte</option>
+    </optgroup>
+    <optgroup label="Sourate 19 · Maryam — S19:1–98 (complète)">
+      <option value="/etudes/trad-s19-bloc1/">↓ Bloc I · S19:1–33 — Les lettres séparées · l'invocation de Zakariyyā · la naissance de Yaḥyā · Maryam et la naissance d'ʿĪsā</option>
+      <option value="/etudes/trad-s19-bloc2/">↓ Bloc II · S19:34–65 — Le rejet du walad · Ibrāhīm et son père · Mūsā, Hārūn, Ismāʿīl, Idrīs · La Janna d'ʿAdn</option>
+      <option value="/etudes/trad-s19-bloc3/">↓ Bloc III · S19:66–98 — La résurrection niée et le wārid · les faux dieux disqualifiés · le rejet le plus sévère du walad · le wudd · clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 20 · Ṭā-Hā — S20:1–135 (complète)">
+      <option value="/etudes/trad-s20-bloc1/">↓ Bloc I · S20:1–24 — Lettres séparées · istiwāʾ sur le ʿArsh · les Noms de la plus grande excellence · l'appel au buisson · les deux signes de Mūsā</option>
+      <option value="/etudes/trad-s20-bloc2/">↓ Bloc II · S20:25–56 — La supplication de Mūsā · le rappel du bienfait initial · l'envoi vers Firʿawn · le dialogue sur le Rabb et les générations anciennes</option>
+      <option value="/etudes/trad-s20-bloc3/">↓ Bloc III · S20:57–76 — Le rendez-vous fixé · le duel des magiciens · leur prosternation et leur foi · le critère ultime</option>
+      <option value="/etudes/trad-s20-bloc4/">↓ Bloc IV · S20:77–98 — La traversée de la mer · le veau d'or · le dialogue avec Hārūn · as-Sāmirī</option>
+      <option value="/etudes/trad-s20-bloc5/">↓ Bloc V · S20:99–114 — L'avertissement eschatologique · le Jour de la Résurrection · le Qurʾān en langue arabe</option>
+      <option value="/etudes/trad-s20-bloc6/">↓ Bloc VI · S20:115–135 — Ādam et Iblīs · la faute et le retour accueilli · la ṣalāt · clôture de la sourate</option>
+    </optgroup>
+    <optgroup label="Sourate 21 · Al-Anbiyāʾ — S21:1–112 (complète)">
+      <option value="/etudes/trad-s21-bloc1/">↓ Bloc I · S21:1–29 — Le Compte proche · le dhikr accusé · les rusul humains · le shirk réfuté</option>
+      <option value="/etudes/trad-s21-bloc2/">↓ Bloc II · S21:30–50 — Ciel et terre séparés · nulle immortalité · les balances de l'exacte pesée</option>
+      <option value="/etudes/trad-s21-bloc3/">↓ Bloc III · S21:51–75 — Ibrāhīm et les idoles · le feu sans nuisance · Lūṭ sauvé de la cité des khabāʾith</option>
+      <option value="/etudes/trad-s21-bloc4/">↓ Bloc IV · S21:76–93 — Nūḥ · Dāwūd et Sulaymān · Ayyūb · Dhū n-Nūn · Zakariyyā · Maryam</option>
+      <option value="/etudes/trad-s21-bloc5/">↓ Bloc V · S21:94–112 — Yaʾjūj et Maʾjūj · le combustible de Jahannam · le Zabūr · raḥma pour les mondes · clôture</option>
+    </optgroup>
+    <optgroup label="Sourate 22 · Al-Ḥajj — S22:1–78 (complète)">
+      <option value="/etudes/trad-s22-bloc1/">↓ Bloc I · S22:1–24 — l'ébranlement de l'Heure · la dispute sans science · les étapes de la création · la prosternation universelle</option>
+      <option value="/etudes/trad-s22-bloc2/">↓ Bloc II · S22:25–54 — le Bayt établi pour Ibrāhīm · l'appel au Ḥajj · les budn · la permission de combattre · le shayṭān et l'umniyyah des rusul</option>
+      <option value="/etudes/trad-s22-bloc3/">↓ Bloc III · S22:55–78 — la royauté du Jour · la raḥma et la force assujetties · un mansak pour chaque umma · la parabole de la mouche · clôture sur la milla d'Ibrāhīm</option>
     </optgroup>
   </select>
 
@@ -456,6 +571,24 @@ permalink: /traduction/
     <option value="/sourate/2/">↓ Sourate 2 · Al-Ijāba — S2:1–286 (complète)</option>
     <option value="/sourate/3/">↓ Sourate 3 · Al-Tamḥīṣ, al-Tabyīn wa-l-Iʿtiṣām — Le tri par l'épreuve, la clarification et l'attachement ferme — S3:1–200 (complète)</option>
     <option value="/sourate/4/">↓ Sourate 4 · Al-ʿAdl wa-l-Qisṭ — La justice et l'équité — S4:1–176 (complète)</option>
+    <option value="/sourate/5/">↓ Sourate 5 · Al-Māʾida — La Table — S5:1–120 (complète)</option>
+    <option value="/sourate/6/">↓ Sourate 6 · Al-Anʿām — S6:1–165 (complète)</option>
+    <option value="/sourate/7/">↓ Sourate 7 · Al-Aʿrāf — S7:1–206 (complète)</option>
+    <option value="/sourate/8/">↓ Sourate 8 · Al-Anfāl — S8:1–75 (complète)</option>
+    <option value="/sourate/9/">↓ Sourate 9 · At-Tawba — S9:1–129 (complète)</option>
+    <option value="/sourate/10/">↓ Sourate 10 · Yūnus — S10:1–109 (complète)</option>
+    <option value="/sourate/11/">↓ Sourate 11 · Hūd — S11:1–123 (complète)</option>
+    <option value="/sourate/12/">↓ Sourate 12 · Yūsuf — S12:1–111 (complète)</option>
+    <option value="/sourate/13/">↓ Sourate 13 · Ar-Raʿd — S13:1–43 (complète)</option>
+    <option value="/sourate/14/">↓ Sourate 14 · Ibrāhīm — S14:1–52 (complète)</option>
+    <option value="/sourate/15/">↓ Sourate 15 · Al-Ḥijr — S15:1–99 (complète)</option>
+    <option value="/sourate/16/">↓ Sourate 16 · An-Naḥl — S16:1–128 (complète)</option>
+    <option value="/sourate/17/">↓ Sourate 17 · Al-Isrāʾ — S17:1–111 (complète)</option>
+    <option value="/sourate/18/">↓ Sourate 18 · Al-Kahf — S18:1–110 (complète)</option>
+    <option value="/sourate/19/">↓ Sourate 19 · Maryam — S19:1–98 (complète)</option>
+    <option value="/sourate/20/">↓ Sourate 20 · Ṭā-Hā — S20:1–135 (complète)</option>
+    <option value="/sourate/21/">↓ Sourate 21 · Al-Anbiyāʾ — S21:1–112 (complète)</option>
+    <option value="/sourate/22/">↓ Sourate 22 · Al-Ḥajj — S22:1–78 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
