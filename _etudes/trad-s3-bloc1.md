@@ -107,7 +107,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الَّذِينَ كَفَرُوا بِآيَاتِ اللَّه</span><span class="lex-trl">alladhīna kafarū bi-āyāti llāh</span></dt>
-<dd>racine k-f-r : voir l'étude dédiée [Kāfir](/etudes/kafir-coran/), qui établit, sur l'ensemble du corpus, trois dimensions possibles du sens (ingratitude, refus délibéré après reconnaissance, incroyance générale) à partir du sens premier lexicographique (Farāhīdī, Ibn Fāris, Ibn Manẓūr : le recouvrement, la dissimulation). Sans marqueur contextuel désignant explicitement l'une de ces trois dimensions, le terme est conservé translittéré (*kāfir/kāfirūn/kufr*) plutôt que rendu par une formule française fixe — règle appliquée systématiquement dans la suite du corpus.</dd>
+<dd>racine k-f-r : voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>, qui établit, sur l'ensemble du corpus, trois dimensions possibles du sens (ingratitude, refus délibéré après reconnaissance, incroyance générale) à partir du sens premier lexicographique (Farāhīdī, Ibn Fāris, Ibn Manẓūr : le recouvrement, la dissimulation). Sans marqueur contextuel désignant explicitement l'une de ces trois dimensions, le terme est conservé translittéré (*kāfir/kāfirūn/kufr*) plutôt que rendu par une formule française fixe — règle appliquée systématiquement dans la suite du corpus.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يُصَوِّرُكُمْ</span><span class="lex-trl">yuṣawwirukum</span></dt>
@@ -327,7 +327,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">الْأُمِّيِّين</span><span class="lex-trl">al-ummiyyīn</span></dt>
-<dd>racine ʾ-m-m : voir l'étude dédiée [Le nabī était-il illettré ?](/etudes/ummi-illettre/), qui établit, sur l'ensemble des six occurrences coraniques du terme, qu'*ummī/ummiyyūn* désigne l'appartenance aux peuples non-scripturaires — ceux à qui aucune scripture révélée antérieure n'a été donnée — et non une incapacité à lire ou écrire. Ce sens est repris ici : le verset distingue deux catégories — ceux à qui le Livre a été donné, et les ummiyyūn, ceux qui n'en ont pas reçu.</dd>
+<dd>racine ʾ-m-m : voir l'étude dédiée <a href="/etudes/ummi-illettre/">Le nabī était-il illettré ?</a>, qui établit, sur l'ensemble des six occurrences coraniques du terme, qu'*ummī/ummiyyūn* désigne l'appartenance aux peuples non-scripturaires — ceux à qui aucune scripture révélée antérieure n'a été donnée — et non une incapacité à lire ou écrire. Ce sens est repris ici : le verset distingue deux catégories — ceux à qui le Livre a été donné, et les ummiyyūn, ceux qui n'en ont pas reçu.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">اهْتَدَوا</span><span class="lex-trl">htadaw</span></dt>

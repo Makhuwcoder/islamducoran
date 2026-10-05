@@ -158,7 +158,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">kafarū</span></dt>
-<dd>racine *k-f-r*, voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/) : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.</dd>
+<dd>racine *k-f-r*, voir l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a> : la racine désigne fondamentalement l'acte de recouvrir, dissimuler, nier ce qui devrait être reconnu (Al-Farāhīdī : *al-kufr* — le recouvrement, la dissimulation ; Ibn Fāris : *al-sitr wa-t-tughyān*). Ce sens se décline, selon le contexte, en ingratitude, refus délibéré après reconnaissance, ou incroyance générale — trois dimensions distinctes, non un sens unique. Faute d'un mot français qui les couvre toutes, *kāfir/kāfirūn/kufr* sont conservés translittérés par défaut, et traduits en français seulement lorsque le contexte précise laquelle des trois dimensions est en jeu (voir la note méthodologique dédiée dans la banque lexicale). **Non-dit** : le texte décrit ici un état de fait (*ils ne croiront pas*) — il ne dit pas que ces personnes sont condamnées de toute éternité sans recours ; voir aussi l'étude dédiée sur ce qu'Allaah seul connaît des cœurs, et sur l'absence, dans le texte, d'un droit humain à déclarer autrui *kāfir*.</dd>
 </div>
 </dl>
 </div>
@@ -400,8 +400,18 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:24"
    ar="فَإِن لَّمْ تَفْعَلُوا وَلَن تَفْعَلُوا فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ"
    trl="*Fa-in lam tafʿalū wa-lan tafʿalū fa-ttaqū n-nāra llatī waqūduhā n-nāsu wa-l-ḥijāra — uʿiddat li-l-kāfirīn*"
-   trad="Si vous ne le faites pas — et vous ne le ferez jamais — gardez-vous du feu dont le combustible est les hommes et les pierres, préparé pour les *kāfirīn*."
+   trad="Si vous ne le faites pas — et vous ne le ferez jamais — gardez-vous du feu dont le combustible est composé d'humains et de roches, préparé pour les *kāfirīn*."
 %}
+
+<div class="notes-lexicales">
+<span class="notes-lexicales__titre">Notes lexicales</span>
+<dl class="lexique">
+<div class="lex-entree" id="nas-hijara">
+<dt><span class="lex-trl">an-nās / al-ḥijāra</span></dt>
+<dd>*an-nās* : les humains, l'espèce humaine (voir déjà la note à l'ouverture de ce Bloc, S.2:21). *Al-ḥijāra* : pluriel de *ḥajar*, les pierres, les roches. Le verset ne vise pas l'ensemble indifférencié des humains comme combustible de ce feu : la clause finale, « *uʿiddat li-l-kāfirīn* » (préparé pour les *kāfirīn*), précise que ce feu est destiné aux *kāfirīn* — ce sont donc eux, parmi *an-nās*, qui en constituent le combustible aux côtés des *ḥijāra*, non l'humanité tout entière.</dd>
+</div>
+</dl>
+</div>
 
 ---
 

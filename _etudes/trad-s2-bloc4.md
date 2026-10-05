@@ -72,7 +72,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">nansakh</span></dt>
-<dd>racine *n-s-kh* : copier, transcrire, puis par extension : remplacer, substituer. Le *naskh* coranique ici : toute *āya* que Nous *nansakh* — Nous en apportons une meilleure ou semblable. → Voir l'étude dédiée [Le *Naskh*](/etudes/naskh/).</dd>
+<dd>racine *n-s-kh* : copier, transcrire, puis par extension : remplacer, substituer. Le *naskh* coranique ici : toute *āya* que Nous *nansakh* — Nous en apportons une meilleure ou semblable. → Voir l'étude dédiée <a href="/etudes/naskh/">Le <em>Naskh</em></a>.</dd>
 </div>
 </dl>
 </div>
@@ -373,7 +373,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">ittaqū / taqwā</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree" id="shafaa">
 <dt><span class="lex-trl">shafāʿa</span></dt>

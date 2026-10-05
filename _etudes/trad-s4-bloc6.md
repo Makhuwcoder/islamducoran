@@ -46,7 +46,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">taḥrīru raqabatin</span></dt>
-<dd>déjà traité en profondeur dans l'étude dédiée [Le Coran et l'esclavage](/etudes/esclavage/), qui établit que *raqaba* (littéralement la nuque) désigne par métonymie la personne captive dans son entier, et que *taḥrīr* est l'acte actif d'affranchissement. Traduction reprise ici par cohérence.</dd>
+<dd>déjà traité en profondeur dans l'étude dédiée <a href="/etudes/esclavage/">Le Coran et l'esclavage</a>, qui établit que *raqaba* (littéralement la nuque) désigne par métonymie la personne captive dans son entier, et que *taḥrīr* est l'acte actif d'affranchissement. Traduction reprise ici par cohérence.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">diya</span></dt>

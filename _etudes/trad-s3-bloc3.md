@@ -163,7 +163,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱتَّقَىٰ</span><span class="lex-trl">ittaqā</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree" id="yad-s3-73">
 <dt><span class="lex-ar">بِيَدِ ٱللَّهِ</span><span class="lex-trl">bi-yadi llāhi</span></dt>

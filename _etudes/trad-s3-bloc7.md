@@ -95,7 +95,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">تَتَّقُوا۟</span><span class="lex-trl">tattaqū</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ذَآئِقَةُ</span><span class="lex-trl">dhāʾiqa</span></dt>
@@ -233,7 +233,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">كَفِّرْ</span><span class="lex-trl">kaffir</span></dt>
-<dd>racine k-f-r, forme II ici au sens d'« effacer/couvrir » une faute — à distinguer nettement de l'emploi de <em>kafarū</em> ailleurs dans le corpus (voir l'étude dédiée [Kāfir](/etudes/kafir-coran/)) : même, mais orientée ici vers l'action d'Allaah d'effacer, non vers l'attitude reprochée aux hommes — les deux emplois partagent l'image de « couvrir », appliquée à des objets opposés (la faute qu'Allaah efface vs ce que <em>kafarū</em> désigne selon le contexte).</dd>
+<dd>racine k-f-r, forme II ici au sens d'« effacer/couvrir » une faute — à distinguer nettement de l'emploi de <em>kafarū</em> ailleurs dans le corpus (voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>) : même, mais orientée ici vers l'action d'Allaah d'effacer, non vers l'attitude reprochée aux hommes — les deux emplois partagent l'image de « couvrir », appliquée à des objets opposés (la faute qu'Allaah efface vs ce que <em>kafarū</em> désigne selon le contexte).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱلْأَبْرَارِ</span><span class="lex-trl">al-abrār</span></dt>

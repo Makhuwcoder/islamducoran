@@ -79,7 +79,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree" id="wayl">
 <dt><span class="lex-trl">wayl / waylun</span></dt>
-<dd>racine *w-y-l* : interjection de malheur, adressée à quelqu'un pour dire sa perte ou sa ruine. Ibn Fāris (Maqāyīs) rattache la racine à l'idée de chute et de perte irrémédiable — non à un simple regret, mais à une déploration qui vaut constat de perte. Conservé en translittération : aucun mot français unique ne porte à la fois cette plainte et cette sanction — « malheur à » s'en approche sans en couvrir tout le champ. Voir aussi son emploi dans l'étude [Les *muttaqūn*](/etudes/muttaqun/).</dd>
+<dd>racine *w-y-l* : interjection de malheur, adressée à quelqu'un pour dire sa perte ou sa ruine. Ibn Fāris (Maqāyīs) rattache la racine à l'idée de chute et de perte irrémédiable — non à un simple regret, mais à une déploration qui vaut constat de perte. Conservé en translittération : aucun mot français unique ne porte à la fois cette plainte et cette sanction — « malheur à » s'en approche sans en couvrir tout le champ. Voir aussi son emploi dans l'étude <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>.</dd>
 </div>
 </dl>
 </div>
@@ -89,7 +89,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">ummiyyūn</span></dt>
-<dd>racine *ʾ-m-m* : les gens de l'*umma* non scripturaire, ceux qui n'ont pas reçu de Livre. Dans ce contexte, les *ummiyyūn* parmi les descendants d'Isrāʾīl sont ceux qui ne connaissent pas directement le Livre — contrairement aux savants qui le falsifient en connaissance de cause. → Voir l'étude dédiée [*Ummī* dans le Coran](/etudes/ummi-illettre/).</dd>
+<dd>racine *ʾ-m-m* : les gens de l'*umma* non scripturaire, ceux qui n'ont pas reçu de Livre. Dans ce contexte, les *ummiyyūn* parmi les descendants d'Isrāʾīl sont ceux qui ne connaissent pas directement le Livre — contrairement aux savants qui le falsifient en connaissance de cause. → Voir l'étude dédiée <a href="/etudes/ummi-illettre/"><em>Ummī</em> dans le Coran</a>.</dd>
 </div>
 </dl>
 </div>
@@ -141,7 +141,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ṣalāt / zakāt</span></dt>
-<dd>conservés en translittération : ni « prière » ni « aumône » ne rendent le sens du texte → Voir les études dédiées sur la [zakāt](/etudes/zakat/).</dd>
+<dd>conservés en translittération : ni « prière » ni « aumône » ne rendent le sens du texte → Voir les études dédiées sur la <a href="/etudes/zakat/">zakāt</a>.</dd>
 </div>
 </dl>
 </div>

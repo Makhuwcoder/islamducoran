@@ -217,7 +217,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ar-ribā</span></dt>
-<dd>conservé en translittération, conformément à l'étude dédiée [Le ribā dans le Coran](/etudes/riba/). Le texte précise ici que l'interdiction leur avait déjà été signifiée (*wa-qad nuhū ʿanhu*, « alors qu'il leur avait été interdit »).</dd>
+<dd>conservé en translittération, conformément à l'étude dédiée <a href="/etudes/riba/">Le ribā dans le Coran</a>. Le texte précise ici que l'interdiction leur avait déjà été signifiée (*wa-qad nuhū ʿanhu*, « alors qu'il leur avait été interdit »).</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">al-bāṭil</span></dt>
@@ -267,7 +267,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nabiyyīn</span></dt>
-<dd>voir l'étude dédiée [Khātam an-Nabiyyīn](/etudes/khatam-nabiyyin/) sur la distinction entre *nabī* et *rasūl* — cette liste mêle des figures désignées ailleurs comme *rusul* et d'autres comme *nabiyyīn*, sans que ce verset seul n'opère cette distinction terminologique.</dd>
+<dd>voir l'étude dédiée <a href="/etudes/khatam-nabiyyin/">Khātam an-Nabiyyīn</a> sur la distinction entre *nabī* et *rasūl* — cette liste mêle des figures désignées ailleurs comme *rusul* et d'autres comme *nabiyyīn*, sans que ce verset seul n'opère cette distinction terminologique.</dd>
 </div>
 <div class="lex-entree" id="zabur">
 <dt><span class="lex-trl">Zabūr</span></dt>

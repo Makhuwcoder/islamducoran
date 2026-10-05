@@ -54,7 +54,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">yushraka bihi / yushrik</span></dt>
-<dd>racine <em>sh-r-k</em>, conservée en translittération (*shirk*) — voir l'étude dédiée [Le shirk dans le Coran](/etudes/shirk/) et la note déjà posée en S4:48 (Bloc III). Ce verset reprend la première moitié de S4:48 mot pour mot, mais diffère dans sa clôture.</dd>
+<dd>racine <em>sh-r-k</em>, conservée en translittération (*shirk*) — voir l'étude dédiée <a href="/etudes/shirk/">Le shirk dans le Coran</a> et la note déjà posée en S4:48 (Bloc III). Ce verset reprend la première moitié de S4:48 mot pour mot, mais diffère dans sa clôture.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ḍalla ḍalālan baʿīdā</span></dt>
@@ -239,7 +239,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">dīn</span></dt>
-<dd>conservé en translittération, conformément à la règle du site : ne pas traduire *dīn* par « religion ». Voir la [Note méthodologique](/etudes/trad-methode-note/).</dd>
+<dd>conservé en translittération, conformément à la règle du site : ne pas traduire *dīn* par « religion ». Voir la <a href="/etudes/trad-methode-note/">Note méthodologique</a>.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">aslama wajhahu li-llāh</span></dt>
@@ -301,7 +301,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree" id="fatwa">
 <dt><span class="lex-trl">yastaftūnaka / yuftīkum</span></dt>
-<dd>racine <em>f-t-y</em> : donner un éclaircissement, une réponse à une question posée (d'où *fatwā*) — voir l'étude dédiée [La fatwā](/etudes/fatwa/).</dd>
+<dd>racine <em>f-t-y</em> : donner un éclaircissement, une réponse à une question posée (d'où *fatwā*) — voir l'étude dédiée <a href="/etudes/fatwa/">La fatwā</a>.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">wa-mā yutlā ʿalaykum fi l-kitāb</span></dt>
@@ -339,7 +339,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">tattaqū</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir » ou « craindre », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir » ou « craindre », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">baʿl</span></dt>

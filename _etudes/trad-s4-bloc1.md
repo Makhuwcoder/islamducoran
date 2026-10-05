@@ -59,7 +59,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">ttaqū</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nafs wāḥida</span></dt>
@@ -539,7 +539,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">kuffār</span></dt>
-<dd>pluriel de *kāfir* — conservé en translittération par défaut, conformément à l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/).</dd>
+<dd>pluriel de *kāfir* — conservé en translittération par défaut, conformément à l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a>.</dd>
 </div>
 </dl>
 </div>

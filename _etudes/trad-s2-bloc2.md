@@ -203,11 +203,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">ittaqū / taqwā</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">shafāʿa</span></dt>
-<dd>racine *sh-f-ʿ* : al-Farāhīdī — *al-izdiwāj*, le fait de se joindre par deux, de former une paire. Non pas « intercession » au sens d'une plaidoirie qui arracherait une décision : le texte dit ici que nulle *shafāʿa* ne sera acceptée (*yuqbal*) en ce Jour. → Voir l'étude dédiée [La *shafāʿa* dans le Coran](/etudes/shafaa/).</dd>
+<dd>racine *sh-f-ʿ* : al-Farāhīdī — *al-izdiwāj*, le fait de se joindre par deux, de former une paire. Non pas « intercession » au sens d'une plaidoirie qui arracherait une décision : le texte dit ici que nulle *shafāʿa* ne sera acceptée (*yuqbal*) en ce Jour. → Voir l'étude dédiée <a href="/etudes/shafaa/">La <em>shafāʿa</em> dans le Coran</a>.</dd>
 </div>
 </dl>
 </div>
@@ -261,7 +261,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:55"
    ar="وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ"
    trl="*Wa-idh qultum yā Mūsā lan nuʾmina laka ḥattā narā llāha jahratan fa-akhadhatkumu ṣ-ṣāʿiqatu wa-antum tanẓurūn*"
-   trad="Et quand vous avez dit : « Ô Mūsā, nous ne croirons pas en toi jusqu'à ce que nous voyions Allaah à découvert » — la *ṣāʿiqa* vous a saisis, alors que vous regardiez."
+   trad="Et quand vous avez dit : « Ô Mūsā, nous ne croirons pas en toi jusqu'à ce que nous voyions Allaah *jahratan* » — la *ṣāʿiqa* vous a saisis, alors que vous regardiez."
 %}
 
 <div class="notes-lexicales">
@@ -282,7 +282,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:56"
    ar="ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ"
    trl="*Thumma baʿathnākum min baʿdi mawtikum laʿallakum tashkurūn*"
-   trad="Puis Nous vous avons fait surgir après votre mort, afin que vous soyez reconnaissants."
+   trad="Puis Nous vous avons ressuscités après votre mort, afin que vous soyez reconnaissants."
 %}
 
 <div class="notes-lexicales">
@@ -413,11 +413,11 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree" id="ghadab">
 <dt><span class="lex-trl">ghaḍab</span></dt>
-<dd>racine *gh-ḍ-b* : réaction de rejet, retrait de la faveur. Voir la note sur *al-maghḍūb ʿalayhim* en [S.1:7](/etudes/trad-s1-al-talab/). Dit d'Allaah, le terme n'est pas rendu par un mot d'affect humain.</dd>
+<dd>racine *gh-ḍ-b* : réaction de rejet, retrait de la faveur. Voir la note sur *al-maghḍūb ʿalayhim* en <a href="/etudes/trad-s1-al-talab/">S.1:7</a>. Dit d'Allaah, le terme n'est pas rendu par un mot d'affect humain.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">kufr / ḥaqq</span></dt>
-<dd>*kufr* : recouvrir, dénier ce qui devrait être reconnu → Voir l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/). *ḥaqq* : ce qui est établi, réel, dû. « Sans *ḥaqq* » : sans droit, sans fondement établi.</dd>
+<dd>*kufr* : recouvrir, dénier ce qui devrait être reconnu → Voir l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a>. *ḥaqq* : ce qui est établi, réel, dû. « Sans *ḥaqq* » : sans droit, sans fondement établi.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">nabiyyīn</span></dt>
@@ -595,7 +595,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:72"
    ar="وَإِذْ قَتَلْتُمْ نَفْسًا فَادَّارَأْتُمْ فِيهَا ۖ وَاللَّهُ مُخْرِجٌ مَا كُنْتُمْ تَكْتُمُونَ"
    trl="*Wa-idh qataltum nafsan fa-ddāraʾtum fīhā · wa-llāhu mukhrijun mā kuntum taktumūn*"
-   trad="Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fait sortir ce que vous dissimuliez."
+   trad="Et quand vous avez tué une âme et vous en êtes rejeté la responsabilité — Allaah fit sortir ce que vous dissimuliez."
 %}
 
 {% include verset.html

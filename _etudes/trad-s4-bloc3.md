@@ -158,7 +158,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">yushraka bihi / yushrik bi-llāh</span></dt>
-<dd>racine <em>sh-r-k</em> : associer, partager une part avec un autre — conservé en translittération (*shirk*), conformément à l'étude dédiée [Le shirk dans le Coran](/etudes/shirk/). <strong>Ce que le texte dit ici précisément</strong> : une distinction entre cette faute et « ce qui est en deçà » (*mā dūna dhālika*), sans lister ce que recouvre cette seconde catégorie — le verset pose une hiérarchie sans l'exemplifier.</dd>
+<dd>racine <em>sh-r-k</em> : associer, partager une part avec un autre — conservé en translittération (*shirk*), conformément à l'étude dédiée <a href="/etudes/shirk/">Le shirk dans le Coran</a>. <strong>Ce que le texte dit ici précisément</strong> : une distinction entre cette faute et « ce qui est en deçà » (*mā dūna dhālika*), sans lister ce que recouvre cette seconde catégorie — le verset pose une hiérarchie sans l'exemplifier.</dd>
 </div>
 <div class="lex-entree" id="iftara">
 <dt><span class="lex-trl">iftarā</span></dt>

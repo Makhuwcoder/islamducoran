@@ -277,7 +277,7 @@ Ce passage fait l'objet d'une étude dédiée et approfondie, qui confronte les 
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">ittaqū / taqwā</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée [*muttaqun.md*](/etudes/muttaqun/)) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسّ</span><span class="lex-trl">yatakhabbaṭuhu l-shayṭānu mina l-mass</span></dt>

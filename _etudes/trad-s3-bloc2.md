@@ -225,7 +225,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱتَّقُوا۟</span><span class="lex-trl">ittaqū</span></dt>
-<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">muttaqun.md</a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
+<dd>racine *w-q-y*, déjà établie (étude dédiée <a href="/etudes/muttaqun/">Les <em>muttaqūn</em></a>) : « ceux qui se constituent une protection, une mise à l'abri » — non simplement « les pieux ». Selon la méthode retenue ici, *taqwā* est conservé en translittération ; la forme verbale est rendue par « se constituer une taqwā », non par « se prémunir », afin de garder visible en français le nom d'action *taqwā* lui-même.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">بَشَر</span><span class="lex-trl">bashar</span></dt>
@@ -332,7 +332,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱلْكُفْر</span><span class="lex-trl">al-kufr</span></dt>
-<dd>racine k-f-r : le couvrement, le refus de reconnaissance ; substantif de la même famille que le verbe kafara/kafarū, conservé translittéré (*kāfir/kāfirūn/kufr*) — voir l'étude dédiée [Kāfir](/etudes/kafir-coran/).</dd>
+<dd>racine k-f-r : le couvrement, le refus de reconnaissance ; substantif de la même famille que le verbe kafara/kafarū, conservé translittéré (*kāfir/kāfirūn/kufr*) — voir l'étude dédiée <a href="/etudes/kafir-coran/">Kāfir</a>.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">ٱلْحَوَارِيُّونَ</span><span class="lex-trl">al-ḥawāriyyūn</span></dt>

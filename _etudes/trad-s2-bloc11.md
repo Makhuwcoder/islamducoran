@@ -176,7 +176,7 @@ methode: "Dit / Non-dit / Inférence"
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">يَكْفُرْ بِالطَّاغُوت</span><span class="lex-trl">yakfur bi-l-ṭāghūt</span></dt>
-<dd>racine k-f-r (voir la règle méthodologique validée dans la banque lexicale, et l'étude dédiée [Le kāfir dans le Coran](/etudes/kafir-coran/)) : construction *kafara bi-* dont l'objet nommé est explicitement une fausse divinité, non le ḥaqq ou les āyāt d'Allaah — rendue ici par un verbe français direct, « renier », plutôt que par la translittération par défaut réservée au kufr envers ce qui devrait être reconnu.</dd>
+<dd>racine k-f-r (voir la règle méthodologique validée dans la banque lexicale, et l'étude dédiée <a href="/etudes/kafir-coran/">Le kāfir dans le Coran</a>) : construction *kafara bi-* dont l'objet nommé est explicitement une fausse divinité, non le ḥaqq ou les āyāt d'Allaah — rendue ici par un verbe français direct, « renier », plutôt que par la translittération par défaut réservée au kufr envers ce qui devrait être reconnu.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">اسْتَمْسَكَ</span><span class="lex-trl">stamsaka</span></dt>

@@ -238,7 +238,7 @@ methode: "Dit / Non-dit / Inférence"
 <dl class="lexique">
 <div class="lex-entree">
 <dt><span class="lex-trl">an-nabiyyīn</span></dt>
-<dd>déjà traité en profondeur dans l'étude dédiée [Khātam al-nabiyyīn](/etudes/khatam-nabiyyin/) : catégorie la plus large, dont les *rusul* forment un sous-ensemble. Conservé en translittération, en cohérence avec le reste du site.</dd>
+<dd>déjà traité en profondeur dans l'étude dédiée <a href="/etudes/khatam-nabiyyin/">Khātam al-nabiyyīn</a> : catégorie la plus large, dont les *rusul* forment un sous-ensemble. Conservé en translittération, en cohérence avec le reste du site.</dd>
 </div>
 <div class="lex-entree">
 <dt><span class="lex-trl">aṣ-ṣiddīqīn</span></dt>
