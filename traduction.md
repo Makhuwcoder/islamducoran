@@ -570,6 +570,12 @@ permalink: /traduction/
       <option value="/etudes/trad-s24-bloc4/">↓ Bloc IV · S24:35–46 — āyat an-Nūr · les deux paraboles · tasbīḥ universel · création de toute dābba</option>
       <option value="/etudes/trad-s24-bloc5/">↓ Bloc V · S24:47–64 — faux-semblants de la foi · istikhlāf conditionné · istiʾdhān dans les maisons · amr jāmiʿ · clôture</option>
     </optgroup>
+    <optgroup label="Sourate 25 · Al-Furqān — S25:1–77 (complète)">
+      <option value="/etudes/trad-s25-bloc1/">↓ Bloc I · S25:1–20 — Tabāraka · le Furqān · l'ifk · le rasūl qui mange et marche · le Jour du rassemblement</option>
+      <option value="/etudes/trad-s25-bloc2/">↓ Bloc II · S25:21–44 — La demande de voir Allaah · le ẓālim et le khalīl · le Qurʾān récité avec mesure · Mūsā, Nūḥ, ʿĀd, Thamūd · l'ilāh du hawā</option>
+      <option value="/etudes/trad-s25-bloc3/">↓ Bloc III · S25:45–59 — L'ombre étendue · la nuit-vêtement · les vents et l'eau purificatrice · les deux mers · al-Ḥayy · l'istiwāʾ</option>
+      <option value="/etudes/trad-s25-bloc4/">↓ Bloc IV · S25:60–77 — Le refus de se prosterner · les ʿibād ar-Raḥmān · la ghurfa · le poids de l'invocation</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -605,6 +611,7 @@ permalink: /traduction/
     <option value="/sourate/22/">↓ Sourate 22 · Al-Ḥajj — S22:1–78 (complète)</option>
     <option value="/sourate/23/">↓ Sourate 23 · Al-Muʾminūn — S23:1–118 (complète)</option>
     <option value="/sourate/24/">↓ Sourate 24 · An-Nūr — S24:1–64 (complète)</option>
+    <option value="/sourate/25/">↓ Sourate 25 · Al-Furqān — S25:1–77 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
