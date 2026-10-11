@@ -195,7 +195,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
 </div>
 <div class="lex-entree">
 <dt><span class="lex-ar">حَنِيف</span><span class="lex-trl">ḥanīf</span></dt>
-<dd>racine ḥ-n-f : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes. Conservé en translittération.</dd>
+<dd>racine ḥ-n-f : celui qui s'incline résolument dans une seule direction, en s'écartant des voies divergentes. Cohérence intra-coranique, régularité totale et non un ajout extérieur : chaque occurrence coranique de ḥanīf appliquée à Ibrāhīm, ou à quiconque s'en réclame, est systématiquement et immédiatement accolée à une négation explicite du shirk — dans ce verset même (« wa-mā kāna mina l-mushrikīn », juste après), et de façon identique en S3:67, S6:79, S16:120, S10:105, S30:30, et de façon encore plus explicite en S22:31 (« ḥunafāʾa lillāhi ghayra mushrikīna bihi »). Cette régularité, posée par le texte lui-même et non par une lecture extérieure, montre que s'incliner résolument dans une seule direction et être exempt de toute forme de shirk sont, dans l'usage coranique constant de ce terme, une seule et même réalité. Conservé en translittération.</dd>
 </div>
 </dl>
 <div class="notes-lexicales__synthese">
@@ -211,7 +211,7 @@ Principe posé par le texte : la filiation ancestrale — quelle qu'elle soit �
    ref="S.2:136"
    ar="قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ"
    trl="Qūlū āmannā bi-llāhi wa-mā unzila ilaynā wa-mā unzila ilā Ibrāhīma wa-Ismāʿīla wa-Isḥāqa wa-Yaʿqūba wa-l-asbāṭi wa-mā ūtiya Mūsā wa-ʿĪsā wa-mā ūtiya l-nabiyyūna min rabbihim lā nufarriqu bayna aḥadin minhum wa-naḥnu lahu muslimūn"
-   trad="Dites : « Nous croyons en Allaah, en ce qui a été fait descendre vers nous, en ce qui a été fait descendre vers Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā et à ʿĪsā, et en ce qui a été donné aux nabiyyūn de la part de leur Rabb — nous ne faisons pas de différence entre l'un quelconque d'entre eux, et nous Lui sommes soumis. »"
+   trad="Dites : « Nous croyons en Allaah, en ce qui a été fait descendre vers nous, en ce qui a été fait descendre vers Ibrāhīm, Ismāʿīl, Isḥāq, Yaʿqūb et les asbāṭ, en ce qui a été donné à Mūsā et à ʿĪsā, et en ce qui a été donné aux nabiyyūn de la part de leur Rabb — nous ne faisons aucune différence entre eux, et nous Lui sommes soumis. »"
 %}
 
 <div class="notes-lexicales">

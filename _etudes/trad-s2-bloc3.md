@@ -309,7 +309,7 @@ methode: "Dit / Non-dit / Inférence"
    ref="S.2:95"
    ar="وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ"
    trl="*Wa-lan yatamannawhu abadan bi-mā qaddamat aydīhim wa-llāhu ʿalīmun bi-ẓ-ẓālimīn*"
-   trad="Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et Allaah est savant des *ẓālimīn*."
+   trad="Ils ne la souhaiteront jamais, à cause de ce que leurs mains ont avancé — et rien n'échappe à Allaah au sujet des *ẓālimīn*."
 %}
 
 {% include verset.html
