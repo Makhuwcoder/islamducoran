@@ -576,6 +576,15 @@ permalink: /traduction/
       <option value="/etudes/trad-s25-bloc3/">↓ Bloc III · S25:45–59 — L'ombre étendue · la nuit-vêtement · les vents et l'eau purificatrice · les deux mers · al-Ḥayy · l'istiwāʾ</option>
       <option value="/etudes/trad-s25-bloc4/">↓ Bloc IV · S25:60–77 — Le refus de se prosterner · les ʿibād ar-Raḥmān · la ghurfa · le poids de l'invocation</option>
     </optgroup>
+    <optgroup label="Sourate 26 · Ash-Shuʿarāʾ — S26:1–227 (complète)">
+      <option value="/etudes/trad-s26-bloc1/">↓ Bloc I · S26:1–33 — Ṭā-Sīn-Mīm · le dhikr renouvelé · l'appel de Mūsā · le Rabb des ʿālamīn · les deux signes</option>
+      <option value="/etudes/trad-s26-bloc2/">↓ Bloc II · S26:34–68 — L'assemblée des notables · le duel des signes · la conversion des saḥara · la mer fendue</option>
+      <option value="/etudes/trad-s26-bloc3/">↓ Bloc III · S26:69–104 — Ibrāhīm face à son père et son peuple · sa supplication · la scène du Jour · la dispute dans le Feu</option>
+      <option value="/etudes/trad-s26-bloc4/">↓ Bloc IV · S26:105–140 — Le récit de Nūḥ · le récit de Hūd et ʿĀd · le refrain répété</option>
+      <option value="/etudes/trad-s26-bloc5/">↓ Bloc V · S26:141–159 — Ṣāliḥ et Thamūd · la chamelle, signe · le sacrifice mutilant · le refrain</option>
+      <option value="/etudes/trad-s26-bloc6/">↓ Bloc VI · S26:160–191 — Lūṭ et l'acte contre nature · l'expulsion menacée · les gens du Fourré et Shuʿayb · la pleine mesure · la huitième occurrence du refrain</option>
+      <option value="/etudes/trad-s26-bloc7/">↓ Bloc VII · S26:192–227 — la descente par ar-Rūḥ al-Amīn · langue arabe manifeste · les shayāṭīn écartés de l'écoute · avertir les proches · les poètes et les égarés</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -612,6 +621,7 @@ permalink: /traduction/
     <option value="/sourate/23/">↓ Sourate 23 · Al-Muʾminūn — S23:1–118 (complète)</option>
     <option value="/sourate/24/">↓ Sourate 24 · An-Nūr — S24:1–64 (complète)</option>
     <option value="/sourate/25/">↓ Sourate 25 · Al-Furqān — S25:1–77 (complète)</option>
+    <option value="/sourate/26/">↓ Sourate 26 · Ash-Shuʿarāʾ — S26:1–227 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
