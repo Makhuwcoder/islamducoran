@@ -563,6 +563,13 @@ permalink: /traduction/
       <option value="/etudes/trad-s23-bloc4/">↓ Bloc IV · S23:78–100 — L'ouïe, la vue, les afʾida · le déni de la résurrection · le refrain « à Allaah » · le rejet du walad · l'invocation du rasūl · le barzakh</option>
       <option value="/etudes/trad-s23-bloc5/">↓ Bloc V · S23:101–118 — Le Ṣūr · la pesée · le Feu · le groupe moqué · combien de temps ? · taʿālā llāhu l-Malik al-Ḥaqq</option>
     </optgroup>
+    <optgroup label="Sourate 24 · An-Nūr — S24:1–64 (complète)">
+      <option value="/etudes/trad-s24-bloc1/">↓ Bloc I · S24:1–10 — zinā · qadhf · liʿān · ḥudūd · at-Tawwāb</option>
+      <option value="/etudes/trad-s24-bloc2/">↓ Bloc II · S24:11–20 — al-ifk · ʿuṣba · ẕann · buhtān · fāḥisha</option>
+      <option value="/etudes/trad-s24-bloc3/">↓ Bloc III · S24:21–34 — khuṭuwāt ash-shayṭān · qadhf · ghaḑḑ al-baṣar · khimār · nikāḥ et mukātaba</option>
+      <option value="/etudes/trad-s24-bloc4/">↓ Bloc IV · S24:35–46 — āyat an-Nūr · les deux paraboles · tasbīḥ universel · création de toute dābba</option>
+      <option value="/etudes/trad-s24-bloc5/">↓ Bloc V · S24:47–64 — faux-semblants de la foi · istikhlāf conditionné · istiʾdhān dans les maisons · amr jāmiʿ · clôture</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -597,6 +604,7 @@ permalink: /traduction/
     <option value="/sourate/21/">↓ Sourate 21 · Al-Anbiyāʾ — S21:1–112 (complète)</option>
     <option value="/sourate/22/">↓ Sourate 22 · Al-Ḥajj — S22:1–78 (complète)</option>
     <option value="/sourate/23/">↓ Sourate 23 · Al-Muʾminūn — S23:1–118 (complète)</option>
+    <option value="/sourate/24/">↓ Sourate 24 · An-Nūr — S24:1–64 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
