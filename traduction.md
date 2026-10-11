@@ -556,6 +556,13 @@ permalink: /traduction/
       <option value="/etudes/trad-s22-bloc2/">↓ Bloc II · S22:25–54 — le Bayt établi pour Ibrāhīm · l'appel au Ḥajj · les budn · la permission de combattre · le shayṭān et l'umniyyah des rusul</option>
       <option value="/etudes/trad-s22-bloc3/">↓ Bloc III · S22:55–78 — la royauté du Jour · la raḥma et la force assujetties · un mansak pour chaque umma · la parabole de la mouche · clôture sur la milla d'Ibrāhīm</option>
     </optgroup>
+    <optgroup label="Sourate 23 · Al-Muʾminūn — S23:1–118 (complète)">
+      <option value="/etudes/trad-s23-bloc1/">↓ Bloc I · S23:1–30 — Les muflihūn · l'humain en étapes · les sept ṭarāʾiq · le récit de Nūḥ</option>
+      <option value="/etudes/trad-s23-bloc2/">↓ Bloc II · S23:31–50 — Une génération nouvelle · hayhāta · rusul envoyés tatrā · Mūsā-Hārūn · ibn Maryam</option>
+      <option value="/etudes/trad-s23-bloc3/">↓ Bloc III · S23:51–77 — L'umma une · la division en zubur · wusʿahā · sāmiran tahjurūn · mublisūn</option>
+      <option value="/etudes/trad-s23-bloc4/">↓ Bloc IV · S23:78–100 — L'ouïe, la vue, les afʾida · le déni de la résurrection · le refrain « à Allaah » · le rejet du walad · l'invocation du rasūl · le barzakh</option>
+      <option value="/etudes/trad-s23-bloc5/">↓ Bloc V · S23:101–118 — Le Ṣūr · la pesée · le Feu · le groupe moqué · combien de temps ? · taʿālā llāhu l-Malik al-Ḥaqq</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -589,6 +596,7 @@ permalink: /traduction/
     <option value="/sourate/20/">↓ Sourate 20 · Ṭā-Hā — S20:1–135 (complète)</option>
     <option value="/sourate/21/">↓ Sourate 21 · Al-Anbiyāʾ — S21:1–112 (complète)</option>
     <option value="/sourate/22/">↓ Sourate 22 · Al-Ḥajj — S22:1–78 (complète)</option>
+    <option value="/sourate/23/">↓ Sourate 23 · Al-Muʾminūn — S23:1–118 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
