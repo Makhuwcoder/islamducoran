@@ -600,6 +600,12 @@ permalink: /traduction/
       <option value="/etudes/trad-s28-bloc5/">↓ Bloc V · S28:58 — Les cités détruites par ingratitude</option>
       <option value="/etudes/trad-s28-bloc6/">↓ Bloc VI · S28:59–88 — Nul châtiment sans rasūl envoyé · le mutaʿ d'ici-bas · Qārūn englouti · clôture sur Son wajh</option>
     </optgroup>
+    <optgroup label="Sourate 29 · Al-ʿAnkabūt — S29:1–69 (complète)">
+      <option value="/etudes/trad-s29-bloc1/">↓ Bloc I · S29:1–13 — Exorde : l'épreuve de la foi (fitna) · le commandement envers les parents · le portrait des munāfiqūn</option>
+      <option value="/etudes/trad-s29-bloc2/">↓ Bloc II · S29:14–27 — Nūḥ et le ṭūfān · l'appel d'Ibrāhīm contre les idoles · la création répétée · le sauvetage du feu</option>
+      <option value="/etudes/trad-s29-bloc3/">↓ Bloc III · S29:28–43 — Lūṭ : la fāḥisha et la réponse unique · les envoyés chez Ibrāhīm et chez Lūṭ · Shuʿayb à Madyan · la parabole de l'araignée</option>
+      <option value="/etudes/trad-s29-bloc4/">↓ Bloc IV · S29:44–69 — Ṣalāt et dhikr · dialogue avec les Ahl al-Kitāb · impatience du châtiment · le ḥaram sûr · clôture sur le jihâd</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -639,6 +645,7 @@ permalink: /traduction/
     <option value="/sourate/26/">↓ Sourate 26 · Ash-Shuʿarāʾ — S26:1–227 (complète)</option>
     <option value="/sourate/27/">↓ Sourate 27 · An-Naml — S27:1–93 (complète)</option>
     <option value="/sourate/28/">↓ Sourate 28 · Al-Qaṣaṣ — S28:1–88 (complète)</option>
+    <option value="/sourate/29/">↓ Sourate 29 · Al-ʿAnkabūt — S29:1–69 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
