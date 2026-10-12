@@ -614,6 +614,9 @@ permalink: /traduction/
     <optgroup label="Sourate 31 · Luqmān — S31:1–34 (complète)">
       <option value="/etudes/trad-s31-bloc1/">↓ Bloc unique · S31:1–34 — Le Kitāb al-Ḥakīm · la ḥikma donnée à Luqmān · ses conseils à son fils · signes de la création · les cinq réalités connues d'Allaah seul</option>
     </optgroup>
+    <optgroup label="Sourate 32 · As-Sajda — S32:1–30 (complète)">
+      <option value="/etudes/trad-s32-bloc1/">↓ Bloc unique · S32:1–30 — La création en six jours · l'istiwāʾ sur le ʿArsh · l'humain d'argile et de rūḥ · le malak al-mawt · la prosternation des croyants</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -656,6 +659,7 @@ permalink: /traduction/
     <option value="/sourate/29/">↓ Sourate 29 · Al-ʿAnkabūt — S29:1–69 (complète)</option>
     <option value="/sourate/30/">↓ Sourate 30 · Ar-Rūm — S30:1–60 (complète)</option>
     <option value="/sourate/31/">↓ Sourate 31 · Luqmān — S31:1–34 (complète)</option>
+    <option value="/sourate/32/">↓ Sourate 32 · As-Sajda — S32:1–30 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
