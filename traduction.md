@@ -592,6 +592,14 @@ permalink: /traduction/
       <option value="/etudes/trad-s27-bloc4/">↓ Bloc IV · S27:59–75 — La ḥamd et les cinq questions rhétoriques · le ghayb exclusif · légendes des anciens · consolation du nabī</option>
       <option value="/etudes/trad-s27-bloc5/">↓ Bloc V · S27:76–93 — Le Qurʾān et les Banū Isrāʾīl · la dābba · le jour du Ṣūr · ḥasana/sayyiʾa · clôture de la sourate</option>
     </optgroup>
+    <optgroup label="Sourate 28 · Al-Qaṣaṣ — S28:1–88 (complète)">
+      <option value="/etudes/trad-s28-bloc1/">↓ Bloc I · S28:1–21 — Exorde · la tyrannie de Firʿawn · l'enfance de Mūsā · sa maturité et le meurtre accidentel · la fuite</option>
+      <option value="/etudes/trad-s28-bloc2/">↓ Bloc II · S28:22–43 — Madyan · les deux femmes · l'appel depuis l'arbre · les deux preuves · face à Firʿawn · le Kitāb donné à Mūsā</option>
+      <option value="/etudes/trad-s28-bloc3/">↓ Bloc III · S28:44–50 — L'absence du nabī au récit de Mūsā · le défi du Kitāb meilleur guide · suivre son désir sans guidance</option>
+      <option value="/etudes/trad-s28-bloc4/">↓ Bloc IV · S28:51–57 — La Parole enchaînée · ceux qui reconnaissent déjà le ḥaqq · « tu ne guides pas qui tu as aimé » · l'excuse de la terre</option>
+      <option value="/etudes/trad-s28-bloc5/">↓ Bloc V · S28:58 — Les cités détruites par ingratitude</option>
+      <option value="/etudes/trad-s28-bloc6/">↓ Bloc VI · S28:59–88 — Nul châtiment sans rasūl envoyé · le mutaʿ d'ici-bas · Qārūn englouti · clôture sur Son wajh</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -630,6 +638,7 @@ permalink: /traduction/
     <option value="/sourate/25/">↓ Sourate 25 · Al-Furqān — S25:1–77 (complète)</option>
     <option value="/sourate/26/">↓ Sourate 26 · Ash-Shuʿarāʾ — S26:1–227 (complète)</option>
     <option value="/sourate/27/">↓ Sourate 27 · An-Naml — S27:1–93 (complète)</option>
+    <option value="/sourate/28/">↓ Sourate 28 · Al-Qaṣaṣ — S28:1–88 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
