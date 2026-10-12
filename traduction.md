@@ -585,6 +585,13 @@ permalink: /traduction/
       <option value="/etudes/trad-s26-bloc6/">↓ Bloc VI · S26:160–191 — Lūṭ et l'acte contre nature · l'expulsion menacée · les gens du Fourré et Shuʿayb · la pleine mesure · la huitième occurrence du refrain</option>
       <option value="/etudes/trad-s26-bloc7/">↓ Bloc VII · S26:192–227 — la descente par ar-Rūḥ al-Amīn · langue arabe manifeste · les shayāṭīn écartés de l'écoute · avertir les proches · les poètes et les égarés</option>
     </optgroup>
+    <optgroup label="Sourate 27 · An-Naml — S27:1–93 (complète)">
+      <option value="/etudes/trad-s27-bloc1/">↓ Bloc I · S27:1–26 — Ṭā-Sīn · le feu de Mūsā · Dāwūd et Sulaymān · la fourmi et le hudhud</option>
+      <option value="/etudes/trad-s27-bloc2/">↓ Bloc II · S27:27–44 — La lettre à Sabaʾ · l'assemblée consultée · le trône transporté · la reconnaissance finale</option>
+      <option value="/etudes/trad-s27-bloc3/">↓ Bloc III · S27:45–58 — Ṣāliḥ et Thamūd · le complot nocturne · la manœuvre en miroir · Lūṭ et la fāḥisha</option>
+      <option value="/etudes/trad-s27-bloc4/">↓ Bloc IV · S27:59–75 — La ḥamd et les cinq questions rhétoriques · le ghayb exclusif · légendes des anciens · consolation du nabī</option>
+      <option value="/etudes/trad-s27-bloc5/">↓ Bloc V · S27:76–93 — Le Qurʾān et les Banū Isrāʾīl · la dābba · le jour du Ṣūr · ḥasana/sayyiʾa · clôture de la sourate</option>
+    </optgroup>
   </select>
 
   <div class="trad-nav__row">
@@ -622,6 +629,7 @@ permalink: /traduction/
     <option value="/sourate/24/">↓ Sourate 24 · An-Nūr — S24:1–64 (complète)</option>
     <option value="/sourate/25/">↓ Sourate 25 · Al-Furqān — S25:1–77 (complète)</option>
     <option value="/sourate/26/">↓ Sourate 26 · Ash-Shuʿarāʾ — S26:1–227 (complète)</option>
+    <option value="/sourate/27/">↓ Sourate 27 · An-Naml — S27:1–93 (complète)</option>
   </select>
 
   <div class="trad-nav__row">
